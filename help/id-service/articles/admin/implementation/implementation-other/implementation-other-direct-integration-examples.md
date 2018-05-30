@@ -11,11 +11,10 @@ These examples cover 2 common use cases related to a direct integration and the 
 
 ## Use Case 1: I Have a MID but Want to Pass My Own Visitor IDs and Set an Authentication State
 
+<!-- BAD TABLE
 |Use Case Element|Description|
 |----------------|-----------|
-|  **Conditions** 
-
- | This use case assumes you:
+|  **Conditions**| This use case assumes you:
 
 + Have a MID for the site visitor. Let's call this ID 1234.
 + Know this visitor by your own unique ID. Let's call this ID 9876.
@@ -76,3 +75,4 @@ These examples cover 2 common use cases related to a direct integration and the 
   `https://dpm.demdex.net/id?d_orgid=**5555**&d_ver=2` 
 
  Note how the sample call contains your Organization ID, `d_orgid=**5555**`. It would return a Experience Cloud ID for this visitor.
+-->
