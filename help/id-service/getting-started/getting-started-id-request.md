@@ -2,9 +2,16 @@
 
 title: How the Experience Cloud ID Service requests and sets IDs
 description: An overview of the ID request and response process. These examples cover ID assignment on individual sites, across different sites, and for sites managed by different Experience Cloud customers with their own organization IDs.
-SEO title: How the Adobe Experience Cloud ID Service requests and sets IDs.
-SEO description: Overview of how the Adobe Experience Cloud ID Service requests and sets IDs.
-author: giurgiu
+seo-title: How the Adobe Experience Cloud ID Service requests and sets IDs.
+seo-description: Overview of how the Adobe Experience Cloud ID Service requests and sets IDs.
+short-title: Setting ID Service requests
+audience: all
+index: 
+translate:
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
