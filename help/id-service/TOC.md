@@ -1,8 +1,9 @@
 ---
 
-product: Core Services
-cloud: Experience Cloud
-archetype: Administrator
+product: core services
+cloud: experience cloud
+archetype: admin
+user-guide: ID Service Admin Guide
 
 ---
 
@@ -15,10 +16,10 @@ archetype: Administrator
     + [Match Rates](getting-started/getting-started-match-rates.md)
 + Implementation
     + Standard 
-        + [Standard Implementation](implementation/standard.md)
-        + [Dynamic Tag Management](implementation/dtm.md)
-        + [Dynamic Tag Management Settings](implementation/dtm-settings.md)
-        + [Test & Verify](implementation/test-verify.md)
+        + [Standard Implementation](implementation/implementation-standard/standard.md)
+        + [Dynamic Tag Management](implementation/implementation-standard/dtm.md)
+        + [Dynamic Tag Management Settings](implementation/implementation-standard/dtm-settings.md)
+        + [Test & Verify](implementation/implementation-standard/test-verify.md)
     + Solution Specific
         + 
     + Other
