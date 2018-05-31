@@ -15,7 +15,7 @@ archetype: Administrator
     + [Match Rates](getting-started/getting-started-match-rates.md)
 + Implementation
     + Standard 
-        + [Standard Implementation](implementation/standard.md)
+        + [Standard Implementation](implementation/implementation-standard/standard.md)
         + [Dynamic Tag Management](implementation/dtm.md)
         + [Dynamic Tag Management Settings](implementation/dtm-settings.md)
         + [Test & Verify](implementation/test-verify.md)
