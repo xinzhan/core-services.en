@@ -12,11 +12,7 @@ September, 2017
 
 |Feature|Description|
 |-------|-----------|
-| `getVisitorValues` 
-
- | This is an asynchronous API that returns identifiers for Analytics, the ID service, data collection opt-out, geographic location, and metadata "blob" content by default. Also, you can control which IDs you want to return with the optional `visitor.FIELDS` enum. See [getVisitorValues](mcvid-getvisitorvalues.html#).
-
- |
+| `getVisitorValues` | This is an asynchronous API that returns identifiers for Analytics, the ID service, data collection opt-out, geographic location, and metadata "blob" content by default. Also, you can control which IDs you want to return with the optional `visitor.FIELDS` enum. See [getVisitorValues](mcvid-getvisitorvalues.html#).|
 
 **Bug Fixes and Other Changes** 
 
@@ -30,11 +26,7 @@ August, 2017
 
 |Feature|Description|
 |-------|-----------|
-| `isCoopSafe` 
-
- | An optional, Boolean configuration that determines if the ID service sends \(or does not send\) data to the Adobe Experience Cloud Device Co-op. See [isCoopSafe](mcvid-coopsafe.html#).
-
- |
+| `isCoopSafe` | An optional, Boolean configuration that determines if the ID service sends \(or does not send\) data to the Adobe Experience Cloud Device Co-op. See [isCoopSafe](mcvid-coopsafe.html#).|
 
 **Revised Documentation** 
 
@@ -46,16 +38,8 @@ July, 2017
 
 |Feature|Description|
 |-------|-----------|
-| `sdidParamExpiry` 
-
- | When added to the `Visitor.getInstance` function, this configuration lets you override the default Supplemental Data ID \(SDID\) expiration interval when passing that ID from one page to another. You would use `sdidParamExpiry` with the `appendSupplimentalDataTo` helper function. See [sdidParamExpiry](mcvid-sdidparamexpiry.html#).
-
- |
-| `resetState` 
-
- | This function is designed mainly for A4T customers to help solve issues related to working with IDs on single page sites/screens or apps. See [resetState](mcvid-resetstate.html#).
-
- |
+| `sdidParamExpiry` | When added to the `Visitor.getInstance` function, this configuration lets you override the default Supplemental Data ID \(SDID\) expiration interval when passing that ID from one page to another. You would use `sdidParamExpiry` with the `appendSupplimentalDataTo` helper function. See [sdidParamExpiry](mcvid-sdidparamexpiry.html#).|
+| `resetState` | This function is designed mainly for A4T customers to help solve issues related to working with IDs on single page sites/screens or apps. See [resetState](mcvid-resetstate.html#).|
 
 **Bug Fixes and Other Changes** 
 
@@ -68,36 +52,20 @@ June, 2017
 
 |Feature|Description|
 |-------|-----------|
-| [whitelistParentDomain and whitelistIframeDomains](mcvid-whitelistdomain.html#) 
-
- | These configurations let different instances of ID service code implemented in an iFrame and on the parent page communicate with each other. They're designed to help resolve problems with 2 specific use cases where you may or may not control the parent page/domain and you have ID service code loading in the iFrame of a domain that you do control.
-
- |
+| [whitelistParentDomain and whitelistIframeDomains](mcvid-whitelistdomain.html#) | These configurations let different instances of ID service code implemented in an iFrame and on the parent page communicate with each other. They're designed to help resolve problems with 2 specific use cases where you may or may not control the parent page/domain and you have ID service code loading in the iFrame of a domain that you do control.|
 
 ## Documentation Updates for May
 
 |Topic|Description|
 |-----|-----------|
-| [ID Service FAQs](mcvid-faq.html#) 
-
- | Updated the Analytics section with information on how to find tracking server information.
-
- |
+| [ID Service FAQs](mcvid-faq.html#) | Updated the Analytics section with information on how to find tracking server information.|
 
 ## Documentation Updates for April
 
 |Topic|Description|
 |-----|-----------|
-| [mcvid-subdomain-config.html\#](mcvid-subdomain-config.html#) 
-
- | Added links to Audience Manager documentation that describes calls to the `demdex.net` domain.
-
- |
-| [Understanding ID Synchronization and Match Rates](mcvid-match-rates.html#) 
-
- | Revised Media Optimizer section to describe the call to `cm.eversttech.net`. This is the automatic ID sync that the ID service performs with Media Optimizer. This feature was released in January, 2017. See [Version 2.0](mcvid-notes-2017.html#section_0CEAC6007C1241B58AD607E2B76B2B7E) below.
-
- |
+| [mcvid-subdomain-config.html\#](mcvid-subdomain-config.html#) | Added links to Audience Manager documentation that describes calls to the `demdex.net` domain.|
+| [Understanding ID Synchronization and Match Rates](mcvid-match-rates.html#) | Revised Media Optimizer section to describe the call to `cm.eversttech.net`. This is the automatic ID sync that the ID service performs with Media Optimizer. This feature was released in January, 2017. See [Version 2.0](mcvid-notes-2017.html#section_0CEAC6007C1241B58AD607E2B76B2B7E) below.|
 
 ## Version 2.1
 
@@ -107,16 +75,8 @@ February, 2017
 
 |Feature|Description|
 |-------|-----------|
-| ID service API property, `idSyncContainerID` 
-
- | This property sets the container ID used by Audience Manager for ID syncs. See [idSyncContainerID](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-idsyncontainerid.html).
-
- |
-| ID service API method, `appendSupplementalDataIDTo(URL,SDID)` 
-
- | This public method appends the Supplemental Data ID \(SDID\) as a query string parameter to a redirect URL. See [appendSupplementalDataIDTo](mcvid-appendsupplementaldataidto.html#). \(MCID-285\)
-
- |
+| ID service API property, `idSyncContainerID` | This property sets the container ID used by Audience Manager for ID syncs. See [idSyncContainerID](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-idsyncontainerid.html).|
+| ID service API method, `appendSupplementalDataIDTo(URL,SDID)` | This public method appends the Supplemental Data ID \(SDID\) as a query string parameter to a redirect URL. See [appendSupplementalDataIDTo](mcvid-appendsupplementaldataidto.html#). \(MCID-285\)|
 
 **Fixes** 
 

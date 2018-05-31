@@ -75,11 +75,11 @@ July, 2016
 
 **Important:** Version 1.6.0 of the Experience Cloud ID service *requires* AppMeasurement for JavaScript version 1.6.2. If you upgrade to ID service version 1.6.0, please make sure you are using the right AppMeasurement code version.
 
+
+<!-- BAD TABLE
 |Feature|Description|
 |-------|-----------|
-| Cross-Origin Resource Sharing \(CORS\)
-
- | CORS allows browsers to request resources from a domain other than the current domain. The Experience Cloud ID service supports CORS standards to enable client side, cross-origin resource requests. The ID service reverts to JSONP requests on browsers that do not support CORS.
+| Cross-Origin Resource Sharing \(CORS\)| CORS allows browsers to request resources from a domain other than the current domain. The Experience Cloud ID service supports CORS standards to enable client side, cross-origin resource requests. The ID service reverts to JSONP requests on browsers that do not support CORS.
 
  See:
 
@@ -87,7 +87,7 @@ July, 2016
 -    [mcvid-use-cors-only.html\#](mcvid-use-cors-only.html#) 
 
  |
-
+-->
  **Fixes and Improvements** 
 
 -   Added a `d_fieldgroup` parameter to ID synchronization calls to `dpm.demdex.net`. This new parameter is used for internal troubleshooting and debugging purposes.
@@ -112,11 +112,11 @@ July, 2016
 
 June, 2016
 
+<!-- BAD TABLE
+
 |Feature|Description|
 |-------|-----------|
-| Changes to the `iframe.sandbox` attribute
-
- | The iFrame is now set so that `iframe.sandbox='allow-scripts allow-same-origin';`.
+| Changes to the `iframe.sandbox` attribute| The iFrame is now set so that `iframe.sandbox='allow-scripts allow-same-origin';`.
 
  Allowing only these 2 tokens helps improve security and provides the ID service with the basic functionality required for ID synchronization.
 
@@ -129,6 +129,7 @@ June, 2016
 
  |
 
+-->
  **Fixes** 
 
 The visitor API no longer forces an extra re-synchronization call with Audience Manager when there is no legacy Analytics visitor ID.
@@ -157,16 +158,8 @@ March, 2016
 
 |Feature|Description|
 |-------|-----------|
-| Opt-out support
-
- | The Experience Cloud ID service supports visitor opt-out requests.
-
- |
-| Change ID synchronization interval
-
- | The Experience Cloud ID service now makes ID synchronization calls on every call to the data collection servers. Previously, the ID service made only 1 request on the first call to get a Experience Cloud ID.
-
- |
+| Opt-out support| The Experience Cloud ID service supports visitor opt-out requests.|
+| Change ID synchronization interval| The Experience Cloud ID service now makes ID synchronization calls on every call to the data collection servers. Previously, the ID service made only 1 request on the first call to get a Experience Cloud ID.|
 
  **Documentation Updates** 
 
@@ -183,11 +176,7 @@ January, 2016
 
 |Topic|Description|
 |-----|-----------|
-|  [Customer IDs and Authentication States](mcvid-authenticated-state.html#) 
-
- | Revised text. Customer IDs must be passed in as un-encoded values only. Encoding IDs will create double-encoded identifiers.
-
- |
+|  [Customer IDs and Authentication States](mcvid-authenticated-state.html#) | Revised text. Customer IDs must be passed in as un-encoded values only. Encoding IDs will create double-encoded identifiers.|
 
 ## Older Changes
 
