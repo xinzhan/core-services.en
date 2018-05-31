@@ -16,9 +16,9 @@ archetype: Administrator
 + Implementation
     + Standard 
         + [Standard Implementation](implementation/implementation-standard/standard.md)
-        + [Dynamic Tag Management](implementation/dtm.md)
-        + [Dynamic Tag Management Settings](implementation/dtm-settings.md)
-        + [Test & Verify](implementation/test-verify.md)
+        + [Dynamic Tag Management](implementation/implementation-standard/dtm.md)
+        + [Dynamic Tag Management Settings](implementation/implementation-standard/dtm-settings.md)
+        + [Test & Verify](implementation/implementation-standard/test-verify.md)
     + Solution Specific
         + 
     + Other
