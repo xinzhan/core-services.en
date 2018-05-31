@@ -16,4 +16,3 @@
 + ID Service API
 + Reference
 + FAQs
-+ Release Notes
