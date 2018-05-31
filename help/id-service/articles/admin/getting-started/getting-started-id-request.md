@@ -5,15 +5,6 @@ description: An overview of the ID request and response process. These examples 
 SEO title: How the Adobe Experience Cloud ID Service requests and sets IDs.
 SEO description: Overview of how the Adobe Experience Cloud ID Service requests and sets IDs.
 author: giurgiu
-doc type: article
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide topic: overview
-guide subtopic 1: getting-started
-guide subtopic 2:
 
 ---
 
