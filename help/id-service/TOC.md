@@ -3,6 +3,7 @@
 product: Core Services
 cloud: Experience Cloud
 archetype: Administrator
+user-guide: ID Service Admin Guide
 
 ---
 
