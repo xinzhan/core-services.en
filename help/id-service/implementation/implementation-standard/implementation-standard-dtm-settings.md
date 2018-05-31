@@ -54,55 +54,16 @@ The following table lists and defines the General settings.
 
 |Field|Description|
 |-----|-----------|
-|  **Automatically request Visitor ID** 
+|  **Automatically request Visitor ID** | When checked, dynamic tag management to automatically calls the `getMarketingCloudVisitorID()` method before loading any of the Adobe solutions that use the Experience Cloud ID service. See [getMarketingCloudVisitorID](mcvid-getmcvid.html#).|
+|  **Analytics Tracking Server** | The name of the tracking server used for Analytics data collection. This is the domain at which the image request and cookie is written \(e.g., http://site.omtrdc.net\).  If you don't know your tracking server URLs, check your `s_code.js` or `AppMeasurement.js` files. You'll want the URL set by the `s.trackingServer` variable. See [trackingServer](https://marketing.adobe.com/resources/help/en_US/sc/implement/trackingServer.html) and [Correctly Populate the trackingServer and trackingServerSecure variable](https://helpx.adobe.com/analytics/kb/determining-data-center.html#).|
+|  **Tracking Server Secure** | The name of the secure tracking server used for Analytics data collection. This is the domain at which the image request and cookie is written \(e.g., https://site.omtrdc.net\).  If you don't know your tracking server URLs, check your `s_code.js` or `AppMeasurement.js` files. You'll want the URL set by the `s.trackingServerSecure` variable. See [trackingServer](https://marketing.adobe.com/resources/help/en_US/sc/implement/trackingServer.html) and [Correctly Populate the trackingServer and trackingServerSecure variable](https://helpx.adobe.com/analytics/kb/determining-data-center.html#).|
+|  **Experience Cloud Server** | If your company uses first-party data collection \(CNAME\) to utilize first-party cookies in a third-party context, enter the tracking server here \(e.g., http://metrics.company.com.\)|
+|  **Experience Cloud Server Secure**  | If your company uses first-party data collection \(CNAME\) to utilize first-party cookies in a third-party context, enter the tracking server here \(e.g., https://metrics.company.com.\)|
+|  **Library Version** | Sets the version of the ID service code library \(`VisitorAPI.js`\) that you want to use. You cannot edit these menu options.|
+|  **Settings** | These fields let you add [function variables](mcvid-function-vars.html#) as key-value pairs. Click **Add** to add one or more variables to your ID service implementation. ![](media/implementation-standard-dtm-settings/dtmVars.png) |
 
- | When checked, dynamic tag management to automatically calls the `getMarketingCloudVisitorID()` method before loading any of the Adobe solutions that use the Experience Cloud ID service.
-
- See [getMarketingCloudVisitorID](mcvid-getmcvid.html#).
-
- |
-|  **Analytics Tracking Server** 
-
- | The name of the tracking server used for Analytics data collection. This is the domain at which the image request and cookie is written \(e.g., http://site.omtrdc.net\).
-
- If you don't know your tracking server URLs, check your `s_code.js` or `AppMeasurement.js` files. You'll want the URL set by the `s.trackingServer` variable.
-
- See [trackingServer](https://marketing.adobe.com/resources/help/en_US/sc/implement/trackingServer.html) and [Correctly Populate the trackingServer and trackingServerSecure variable](https://helpx.adobe.com/analytics/kb/determining-data-center.html#).
-
- |
-|  **Tracking Server Secure** 
-
- | The name of the secure tracking server used for Analytics data collection. This is the domain at which the image request and cookie is written \(e.g., https://site.omtrdc.net\).
-
- If you don't know your tracking server URLs, check your `s_code.js` or `AppMeasurement.js` files. You'll want the URL set by the `s.trackingServerSecure` variable.
-
- See [trackingServer](https://marketing.adobe.com/resources/help/en_US/sc/implement/trackingServer.html) and [Correctly Populate the trackingServer and trackingServerSecure variable](https://helpx.adobe.com/analytics/kb/determining-data-center.html#).
-
- |
-|  **Experience Cloud Server** 
-
- | If your company uses first-party data collection \(CNAME\) to utilize first-party cookies in a third-party context, enter the tracking server here \(e.g., http://metrics.company.com.\)
-
- |
-|  **Experience Cloud Server Secure** 
-
- | If your company uses first-party data collection \(CNAME\) to utilize first-party cookies in a third-party context, enter the tracking server here \(e.g., https://metrics.company.com.\)
-
- |
-|  **Library Version** 
-
- | Sets the version of the ID service code library \(`VisitorAPI.js`\) that you want to use. You cannot edit these menu options.
-
- |
-|  **Settings** 
-
- | These fields let you add [function variables](mcvid-function-vars.html#) as key-value pairs. Click **Add** to add one or more variables to your ID service implementation.
-
-  ![](media/implementation-standard-dtm-settings/dtmVars.png) 
-
-[!IMPORTANT]
-Set the `cookieDomain` variable here. It is required for multi-part, top-level domains where either of last 2 parts of the URL are \> two characters. See the Configuration Variables documentation linked above.
-[!END]
+>[!IMPORTANT]
+>Set the `cookieDomain` variable here. It is required for multi-part, top-level domains where either of last 2 parts of the URL are \> >two characters. See the Configuration Variables documentation linked above.
 
 ## Customer Settings
 

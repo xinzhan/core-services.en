@@ -5,15 +5,6 @@ description: An overview of ID synchronization processes and match rates in the 
 SEO title: Understanding Adobe Experience Cloud ID Service and Match Rates
 SEO description: An overview of the synchronization processes and match rates in the Adobe Experience Cloud ID service, including Adobe Media Optimizer.
 author: giurgiu
-doc type: article
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide topic: overview
-guide subtopic 1: getting-started
-guide sub topic 2:
 
 ---
 
@@ -79,7 +70,7 @@ These client-side variables are beyond the control of the ID service or Adobe.
 >[!END]
 >[!END]
 
-# Sync Services Manages ID Synchronization
+## Sync Services Manages ID Synchronization
 
 The term Sync Services refers to internal Experience Cloud technologies responsible for ID synchronization. This service is enabled by default. To disable it, add an [optional variable](mcvid-disableidsync.html#) to the ID service `Visitor.getInstance` function. Sync Services matches different Experience Cloud IDs such as:
 
@@ -88,14 +79,12 @@ The term Sync Services refers to internal Experience Cloud technologies responsi
 + Third-party Experience Cloud cookie IDs to third-party data provider and targeting platform IDs. This includes services and platforms such as data providers, demand and/or supply-side platforms, ad networks, exchanges, etc.
 + First-party Experience Cloud cookie IDs to cross-device partner IDs.
 
-# ID Synchronization with Adobe Media Optimizer
+## ID Synchronization with Adobe Media Optimizer
 
 Adobe Media Optimizer is an exception to the iFrame-based ID synchronization process. Because Media Optimizer is a trusted domain, ID syncs take place from the parent page rather than in the Destination Publishing iFrame. 
 
 During synchronization, the ID service calls Media Optimizer at `cm.eversttech.net`, which is a legacy domain name used by Media Optimizer prior to its acquisition by Adobe. Sending data to Media Optimizer helps improve match rates and is automatic for ID service customers using version 2.0 \(or higher\). 
 
-See also, [Media Optimizer Cookies](https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_media_optimizer.html).
-
-[!MORE]
+See also,
++ [Media Optimizer Cookies](https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_media_optimizer.html).
 + [Understanding calls to the Demdex domain](https://marketing.adobe.com/resources/help/en_US/aam/demdex-calls.html)
-[!END]

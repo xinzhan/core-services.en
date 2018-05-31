@@ -6,14 +6,6 @@ author: gipaul
 doc type: article
 SEO title: Experience Cloud ID Service Introduction and Overview
 SEO description: Introduction and overview to the Adobe Experience Cloud ID Service
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide topic: overview
-guide subtopic 1: getting-started
-guide subtopic 2:
 
 ---
 
@@ -48,9 +40,6 @@ To sum up, the ID service:
 ## ID Service Requirements
 Your solution and other Adobe code libraries [must meet these requirements](../getting-started/test-page-for-links.md) before you can use the ID service.
 
----
-
->[!MORE]
 >+ [How it works - Cookies and the Experience Cloud ID Service](getting-started-cookies-id-service.md)
 >+ [Cookies and the Experience Cloud ID Service](getting-started-cookies.md)
 >+ [How the Experience Cloud ID Service Requests and Sets IDs](getting-started-id-request.md)

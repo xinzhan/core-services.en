@@ -24,7 +24,7 @@ These instructions, tools, and procedures help you determine if the ID service i
 
 ## Before You Begin
 
-| Recommendations      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Recommendations      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Browser Environments | When testing in a normal browser session, clear your browser cache before each test. Alternatively, you can test the ID service in an anonymous or incognito browser session. In an anonymous session, you don't need to clear your browser cookies or cache before each test.                                                                                                                                                                  |
 | Value                | The [Adobe debugger](https://marketing.adobe.com/resources/help/en_US/sc/implement/debugger.html) and the [Charles HTTP proxy](https://www.charlesproxy.com/) can help you determine if the ID service has been configured to work properly with Analytics. The information in this section based on the results returned by the Adobe debugger and Charles. However, you should feel free to use whatever tool or debugger works best for you. |
@@ -33,34 +33,17 @@ These instructions, tools, and procedures help you determine if the ID service i
 
 Your service integration is configured properly when you see a Experience Cloud ID \(MID\) in the Adobe debugger response. See [Cookies and the Experience Cloud ID Service](mcvid_cookies.html#) for more information about the MID.
 
-[!PROCEDURE Title="To verify the status of the ID service with the Adobe debugger"]
+### To verify the status of the ID service with the Adobe debugger
 
-[!STEP]
-
-Clear your browser cookies or open an anonymous browsing session.
-
-[!END]
-[!STEP]
-
-Load your test page that contains ID service code.
-
-[!END]
-[!STEP]
-
-Open the Adobe debugger.
-
-[!END]
-[!STEP]
-
-Check the results for a `MID`.
-
-[!END]
-[!END]
-
+* Clear your browser cookies or open an anonymous browsing session.
+* Load your test page that contains ID service code.
+* Open the Adobe debugger.
+* Check the results for a `MID`.
 ## Understanding Adobe Debugger Results
 
 The MID is stored in a key-value pair that uses this syntax: `MID=Experience Cloud ID`. The debugger displays this information as shown below.
 
+<!-- BAD TABLE
 |Implementation Status|Description|
 |---------------------|-----------|
 |  **Success** 
@@ -82,7 +65,7 @@ The MID is stored in a key-value pair that uses this syntax: `MID=Experience Clo
 -   Returns an error message that indicates your partner ID has not been provisioned.
 
  |
-
+-->
 ## Testing with the Charles HTTP Proxy
 
 To verify the status of the ID service with Charles:
