@@ -5,15 +5,6 @@ description: The role of the Experience Cloud ID service in the Adobe Experience
 SEO title: Cookies and the Adobe Experience Cloud ID Service
 SEO description: How the Adobe Experience Cloud ID Services uses and interacts with cookies.
 author: giurgiu
-doc type: article
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide topic: overview
-guide subtopic 1: getting-started
-guide subtopic 2:
 
 ---
 
@@ -72,5 +63,4 @@ The Experience Cloud ID `MID` is derived mathematically from your organization I
 
 The ID service starts to create a MID as your page loads. During this process, code provided by the `visitorAPI.js` code library sends your organization ID in an event call to the ID service. The ID service creates and returns the `MID` and a `demdex` ID in the `AMCV` and `demdex` cookies respectively.
 
->[!MORE]
->+ [How the Experience Cloud ID Service Requests and Sets IDs](getting-started-id-request.md)
++ [How the Experience Cloud ID Service Requests and Sets IDs](getting-started-id-request.md)
