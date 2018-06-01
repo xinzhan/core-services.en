@@ -27,7 +27,7 @@
 
 ## Page Level Meta Data
 
-Meta data required to describe a document is stored as part of each individual page. This includes:
++ Meta data required to describe a document is stored as part of each individual page. This includes:
     + title - title of the page
     + description - description of page
     + seo-title - seo alternative title
