@@ -7,6 +7,6 @@
 + The first page of each user guide is called `overview.md`
 + Each topic in the user guide has it's own distinct directory.
     + If there is a topic in the guide called *Implementation*, the corresponding directory is `/implementation`
-+ All image assets are stored in `/assets` at the root of the user guide
-    + All images in the `/assets` directory will be localized
++ All image assets are stored in `/assets` at the root of the user guide.
+    + All images in the `/assets` directory will be localized.
     + Any images in the `/no-localize` directory will not be localized (there's a surprise!). This can be used to ensure in loc versions that specific assets aren't reproduced unnecessarily.
