@@ -5,7 +5,7 @@
 ## TOC
 
 + `TOC.md` at the root of your user guide provides the organization of the user guides that are contained in this solution. 
-+ Each User Guide will have it's own unique `TOC.md`
++ Each user guide will have it's own unique `TOC.md`
 
 ## User Guide
 
