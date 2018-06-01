@@ -4,26 +4,30 @@
 
 ## TOC
 
-+ `TOC.md` at the root of your user guide provides the organization of the user guides that are contained in this solution. 
-+ Each user guide will have it's own unique `TOC.md`
++ `TOC.md` at the root of the user guide provides the organization of the topics that are contained in the guide for this solution. 
++ Each user guide will have it's own unique `TOC.md`, in which you can order all the pages/topics as necessary.
++ The first page of all user guides is `overview.md`.
 
 ## User Guide
 
-+ The first page of each user guide is called `overview.md`
++ The introduction to the user guide is called `overview.md`
 + Each topic in the user guide has it's own distinct directory.
     + If there is a topic in the guide called *Implementation*, the corresponding directory is `/implementation`
 + All image assets are stored in `/assets` at the root of the user guide.
     + All images in the `/assets` directory will be localized.
     + Any images in the `/no-localize` directory will not be localized (there's a surprise!). This can be used to ensure in loc versions that specific assets aren't reproduced unnecessarily.
 
-## Meta Data
+## User Guide Level Meta Data
 
 + Meta data which describes the user guide is stored in the `TOC.md`. This includes:
     + product - name of product/capability.
     + cloud - cloud to which this product belongs.
     + audience - audience or archetype at whom the guide is targeted.
     + user-guide - name of the user guide.
-+ Page level meta data is stored as part of each individual page. This includes:
+
+## Page Level Meta Data
+
+Meta data required to describe a document is stored as part of each individual page. This includes:
     + title - title of the page
     + description - description of page
     + seo-title - seo alternative title
