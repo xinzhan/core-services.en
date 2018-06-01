@@ -28,15 +28,19 @@
 ## Page Level Meta Data
 
 + Meta data required to describe a document is stored as part of each individual page. This includes:
-    + title - title of the page
-    + description - description of page
-    + seo-title - seo alternative title
-    + seo-description - alternative title for SEO purposes
-    + short-title - (optional field)
-    + index - yes / no - will the page be indexed by Adobe's search platform
-    + translate - yes / no - will this page be localized
-    + version - used primarily for AEM and Campaign, to denote the version of the product
-    + private-feature-pack - used primarily for AEM
+    + title - title of the page.
+    + description - description of page.
+    + seo-title - seo alternative title.
+    + seo-description - alternative title for SEO purposes.
+    + short-title - (optional field).
+    + index - yes / no - will the page be indexed by Adobe's search platform.
+    + translate - yes / no - will this page be localized.
+    + version - used primarily for AEM and Campaign, to denote the version of the product.
+    + private-feature-pack - used primarily for AEM.
     + beta - is this product in beta?
-    + redirect - can be used to create a ref to a new page should that be required
-    + doc-type: reference (default) / troubleshooting / developer / tutorial / kb / whitepaper
+    + redirect - can be used to create a ref to a new page should that be required.
+    + doc-type: reference (default) / troubleshooting / developer / tutorial / kb / whitepaper.
+    
+## More Information
+
+For more publishing instructions, style guides, samples and other resources, please visit the [Collaborative Documentation Repo](https://git.corp.adobe.com/AdobeDocs/collaborative-doc-instructions)
