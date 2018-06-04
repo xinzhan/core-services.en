@@ -2,10 +2,17 @@
 
 title: FAQs
 description: FAQs for ID Service and Analtyics
-SEO title: Adobe ID Service and Analtyics Frequently Asked Questions
-SEO description: Adobe ID Service and Analtyics Frequently Asked Questions
-
-
+SEO-title: Adobe ID Service and Analtyics Frequently Asked Questions
+SEO-description: Adobe ID Service and Analtyics Frequently Asked Questions
+short-title: free text
+doc-type: article
+author: name
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
