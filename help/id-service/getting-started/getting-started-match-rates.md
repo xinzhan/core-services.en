@@ -4,7 +4,16 @@ title: Understanding ID Syncronization and Match Rates
 description: An overview of ID synchronization processes and match rates in the Experience Cloud ID service, including Adobe Media Optimizer.
 seo-title: Understanding Adobe Experience Cloud ID Service and Match Rates
 seo-description: An overview of the synchronization processes and match rates in the Adobe Experience Cloud ID service, including Adobe Media Optimizer.
-doc-type: reference
+short-title: free text
+audience: all
+doc-type: article
+author: name
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
