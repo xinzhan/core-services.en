@@ -6,8 +6,9 @@ seo-title: How the Adobe Experience Cloud ID Service requests and sets IDs.
 seo-description: Overview of how the Adobe Experience Cloud ID Service requests and sets IDs.
 short-title: Setting ID Service requests
 audience: all
-index: 
-translate:
+author: name
+index: yes
+translate: yes
 version:
 private-feature-pack:
 beta:
@@ -74,4 +75,4 @@ However, because the Sports Company has its own organization ID, the ID service 
 
 The demdex ID remains the same for this visitor because it's contained in a third-party cookie and persists across different domains.
 
-![](media/getting-started-id-request/req_resp.png) 
+![](media/getting-started-id-request/req_resp.png)
