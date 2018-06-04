@@ -2,9 +2,18 @@
 
 title: Cookies and the Experience Cloud ID Service
 description: The role of the Experience Cloud ID service in the Adobe Experience Cloud.
-SEO title: Cookies and the Adobe Experience Cloud ID Service
-SEO description: How the Adobe Experience Cloud ID Services uses and interacts with cookies.
+seo-title: Cookies and the Adobe Experience Cloud ID Service
+seo-description: How the Adobe Experience Cloud ID Services uses and interacts with cookies.
 author: giurgiu
+short-title: free text
+doc-type: article
+author: name
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
