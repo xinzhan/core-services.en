@@ -1,8 +1,8 @@
 ---
 
-product: core services
-cloud: experience cloud
-archetype: admin
+product: Core Services ID Service
+cloud: Experience Cloud
+archetype: Admin
 user-guide: ID Service Admin Guide
 
 ---
