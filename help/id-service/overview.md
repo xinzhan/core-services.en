@@ -2,10 +2,17 @@
 
 title: Overview of Experience Cloud ID Service
 description: The role of the Experience Cloud ID service in the Adobe Experience Cloud.
-author: gipaul
-doc type: article
 SEO title: Experience Cloud ID Service Introduction and Overview
 SEO description: Introduction and overview to the Adobe Experience Cloud ID Service
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -21,7 +28,8 @@ When your organization implements the ID service, this ID lets you identify the 
 
 The ID service can also replace the different solution-specific IDs (e.g., Analytics AID). And, through the Customer IDs and Authentication States functionality, the ID service lets you pass in your own customer IDs to the Experience Cloud. 
 
->[!IMPORTANT] Keep in mind, however, that the ID service only works with the solutions you're already subscribed to. It won't provide access to other products if you're not signed up for them. 
+>[!IMPORTANT] 
+>Keep in mind, however, that the ID service only works with the solutions you're already subscribed to. It won't provide access to other products if you're not signed up for them. 
 
 Going forward, the ID service is an integral component of many current and future Experience Cloud features, enhancements, and services. Currently, the ID service supports Analytics, Audience Manager, and Target. And, it is required if you want to participate in the Adobe Experience Cloud Device Co-op. 
 
