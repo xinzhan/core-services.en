@@ -2,20 +2,11 @@
 
 This implementation lets customers use the ID service on devices that cannot accept or work with our JavaScript or SDK code. This includes devices such as gaming consoles, smart TVs, or other Internet-enabled appliances. Refer to this section for syntax, code samples, and definitions.
 
-Contents:
-
-  2.   [Syntax](mcvid-direct-integration.html#section_A4754AFEC5AD40B6BE00D6F1011D68BB) 
- 4.   [Sample Request](mcvid-direct-integration.html#section_26302B8851704888B6F8E6B2071BCDB0) 
- 6.   [Sample Response](mcvid-direct-integration.html#section_89BC103B3E9E4A8B98E74C32897B1200) 
- 8.   [Request and Response Parameters Defined](mcvid-direct-integration.html#section_4A9912B545364DC4ACAD4F1EA5EC641D) 
- 10.  [Use Cases](mcvid-direct-integration.html#section_16F044AA0861456EA6D19A010BF79976) 
-  
-
 ## Syntax
 
-Devices that cannot use the VisitorAPI.js or SDK code libraries can make calls directly to the data collection servers \(DCS\) used by the ID service. To do this, you would call `dpm.demdex.net` and format your request as shown below. *Italics* indicates a variable placeholder.
+Devices that cannot use the `VisitorAPI.js` or SDK code libraries can make calls directly to the data collection servers \(DCS\) used by the ID service. To do this, you would call `dpm.demdex.net` and format your request as shown below. *Italics* indicates a variable placeholder.
 
- ![](images/directSyntax.png) 
+![](../../assets/directSyntax.png) 
 
 In this syntax example, the `d_` prefix identifies the key-value pairs in the call as a system-level variable. You can pass quite a few `d_` parameters to the ID service, but stay focused on the key-value pairs as shown in the code above. For more information about other variables, see [Supported Attributes for DCS API calls](https://marketing.adobe.com/resources/help/en_US/aam/dcs-keys.html).
 
@@ -25,13 +16,13 @@ The ID service supports HTTP and HTTPS calls. Use HTTPS to pass data from a secu
 
 Your request could look similar to the sample shown below. Long variables have been shortened.
 
- ![](images/directExample.png) 
+![](../../assets/directExample.png) 
 
 ## Sample Response
 
 The ID service returns data in a JSON object as shown below. Your response may be different.
 
-```
+```javascript
 {
      "d_mid":"12345",
      "dcs_region":"6",
@@ -69,26 +60,26 @@ The ID service returns data in a JSON object as shown below. Your response may b
 
  In the `d_cid` parameter, assign each related DPID and DPUUID combination to the same `d_cid` parameter. This lets you return multiple ID sets in a single request. Also, separate the DPID, DPUUID, and optional authentication flag with the non-printing control character, `%01`. In the examples below, the provider and user IDs are highlighted in **bold** text.
 
- -   Syntax: `...d_cid=**DPID**%01**DPUUID**%01authentication state...` 
--   Example: `...d_cid=**123**%01**456**%011...` 
++ Syntax: `...d_cid=**DPID**%01**DPUUID**%01authentication state...` 
++ Example: `...d_cid=**123**%01**456**%011...` 
 
   **Authentication State** 
 
- This is an optional ID in the `d_cid` parameter. Expressed as an integer, it identifies users according to their authentication status as shown below:
+This is an optional ID in the `d_cid` parameter. Expressed as an integer, it identifies users according to their authentication status as shown below:
 
- -    `0` \(Unknown\)
--    `1` \(Authenticated\)
--    `2` \(Logged out\)
++ `0` \(Unknown\)
++ `1` \(Authenticated\)
++ `2` \(Logged out\)
 
- To specify an authentication state, you set this flag after the user ID \(UUID\) variable. Separate the UUID and authentication flag with the non-printing control character, `%01`. In the examples below, the authentication IDs are highlighted in **bold** text.
+To specify an authentication state, you set this flag after the user ID \(UUID\) variable. Separate the UUID and authentication flag with the non-printing control character, `%01`. In the examples below, the authentication IDs are highlighted in **bold** text.
 
- Syntax: `...d_cid=DPID%01DPUUID%01**authentication state**` 
+Syntax: `...d_cid=DPID%01DPUUID%01**authentication state**` 
 
- Examples:
+Examples:
 
- -   Unknown: `...d_cid=123%01456%01**0**...` 
--   Authenticated: `...d_cid=123%01456%01**1**...` 
--   Logged out: `...d_cid=123%01456%01**2**...` 
++ Unknown: `...d_cid=123%01456%01**0**...` 
++ Authenticated: `...d_cid=123%01456%01**1**...` 
++ Logged out: `...d_cid=123%01456%01**2**...` 
 
  |
 |  `dcs_region` 
@@ -116,15 +107,6 @@ The ID service returns data in a JSON object as shown below. Your response may b
 
 Some response parameters are part of the request and have been defined in the section above.
 
-|Parameter|Description|
-|---------|-----------|
-|  `id_sync_ttl` 
-
- | The re-synchronization interval, specified in seconds. The default interval is 604,800 seconds \(7-days\).
-
- |
-
-## Use Cases
-
-**Parent topic:** [Implementation Guides](mcvid-implementation-guides.html)
-
+| Parameter     | Description                                                                                              |
+| ------------- | -------------------------------------------------------------------------------------------------------- |
+| `id_sync_ttl` | The re-synchronization interval, specified in seconds. The default interval is 604,800 seconds (7-days). |
