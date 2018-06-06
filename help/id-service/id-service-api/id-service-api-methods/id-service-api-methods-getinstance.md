@@ -4,17 +4,15 @@ title: API Methods - getInstance
 description: getInstance method for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Methods - getInstance
 SEO description: getInstance method for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Methods
-guide subtopic 2:
+short-title: free text
+doc-type: article
+author: name
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -24,8 +22,7 @@ guide subtopic 2:
 
 ## Syntax 
 
-
-** JavaScript** 
+### JavaScript
 
 ```javascript
 var visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION-ID-HERE", {
@@ -39,12 +36,10 @@ var visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION-ID-HERE",
 });
 ```
 
-[!IMPORTANT]WARNING
-*Do not* instantiate the Visitor function with `var visitor = new Visitor`. You must use the proper function call noted here. Applies to VisitorAPI.js code library v3.0 or higher.
-[!END]
+>[!IMPORTANT]
+>*Do not* instantiate the Visitor function with `var visitor = new Visitor`. You must use the proper function call noted here. Applies to VisitorAPI.js code library v3.0 or higher.
 
-
-**ActionScript / Flash** 
+### ActionScript / Flash
 
 ```Javascript
 import com.adobe.mc.Visitor;
