@@ -2,12 +2,9 @@
 
 These examples cover 2 common use cases related to a direct integration and the Experience Cloud ID \(MID\). The MID is a unique, persistent ID for your site visitors.
 
-[!NOTE] 
-
-+ Review and understand the [code syntax and variables](mcvid-direct-integration.html#) before diving into the use cases.
-+ For more information about the MID, see [Cookies and the Experience Cloud ID Service](mcvid_cookies.html#).
-
-[!END]
+>[!NOTE] 
+>+ Review and understand the [code syntax and variables](implementation-other-direct-integration.md) before diving into the use cases.
+>+ For more information about the MID, see [Cookies and the Experience Cloud ID Service](../../getting-started/getting-started-cookies.md).
 
 ## Use Case 1: I Have a MID but Want to Pass My Own Visitor IDs and Set an Authentication State
 
