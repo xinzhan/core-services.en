@@ -21,7 +21,6 @@ redirect:
 This helper method lets you append the Supplemental Data ID `SDID` as a query string parameter to a redirect URL. 
 
 This is useful when using A4T and you need to persist the `SDID` from one page to another and stitch those separate visits together. To use this function, you must have implemented the ID service with the same Organization ID on the source and destination domains.
-  
 
 ## Syntax
 `appendSupplementalDataIDTo(URL,SDID)` 
@@ -44,14 +43,12 @@ As shown below, the URL redirect contains the visitor's `SDID`, your Organizatio
 
 `www.domain.com/pageB?adobe_mc_sdid=SDID=123|MCORGID=123456789@AdobeOrg|TS=1498569322` 
   
-
 ## Changing the SDID Timeout with sdidParamExpiry
 
 The [sdidParamExpiry](mcvid-sdidparamexpiry.html#) configuration lets you change the default `SDID` expiration interval when passing that ID from one page to another using the `appendSupplementalDataIDTo` helper function. 
 
-[!NOTE]
-By default, the ID service code on the receiving page has 30 seconds to get the `SDID` from the URL sent by the referring page. If the ID service code on the receiving page can't retrieve the `SDID` in less than 30 seconds it requests a new `SDID`. This functionality is mainly for A4T customers who need to pass the `SDID` from one page to another and want control over this timeout interval.
-[!END]
+>[!NOTE]
+>By default, the ID service code on the receiving page has 30 seconds to get the `SDID` from the URL sent by the referring page. If the ID service code on the receiving page can't retrieve the `SDID` in less than 30 seconds it requests a new `SDID`. This functionality is mainly for A4T customers who need to pass the `SDID` from one page to another and want control over this timeout interval.
 
 If you need to change the default 'SDID' timeout, add `sdidParamExpiry` to the `Visitor.getInstance` function with the following syntax:
 
