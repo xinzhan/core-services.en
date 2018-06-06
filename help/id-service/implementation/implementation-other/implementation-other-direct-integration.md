@@ -44,28 +44,18 @@ The ID service returns data in a JSON object as shown below. Your response may b
 + `d_cid`
     + An optional parameter that passes the Data Provider ID \(DPID\), the Unique User ID \(DPUUID\), and an [authenticated state ID](mcvid-authenticated-state.html#) to the ID service. As shown in the code sample, separate the DPID and DPUUID with the non-printing control character, `%01`.
      + DPID and DPUUID - In the `d_cid` parameter, assign each related DPID and DPUUID combination to the same `d_cid` parameter. This lets you return multiple ID sets in a single request. Also, separate the DPID, DPUUID, and optional authentication flag with the non-printing control character, `%01`. In the examples below, the provider and user IDs are highlighted in **bold** text.
-
-+ Syntax: `...d_cid=**DPID**%01**DPUUID**%01authentication state...` 
-+ Example: `...d_cid=**123**%01**456**%011...` 
-
-### Authentication State
-
-This is an optional ID in the `d_cid` parameter. Expressed as an integer, it identifies users according to their authentication status as shown below:
-
-+ `0` \(Unknown\)
-+ `1` \(Authenticated\)
-+ `2` \(Logged out\)
-
-To specify an authentication state, you set this flag after the user ID \(UUID\) variable. Separate the UUID and authentication flag with the non-printing control character, `%01`. In the examples below, the authentication IDs are highlighted in **bold** text.
-
-Syntax: `...d_cid=DPID%01DPUUID%01**authentication state**` 
-
-Examples:
-
-+ Unknown: `...d_cid=123%01456%01**0**...` 
-+ Authenticated: `...d_cid=123%01456%01**1**...` 
-+ Logged out: `...d_cid=123%01456%01**2**...` 
-
+     + Syntax: `...d_cid=**DPID**%01**DPUUID**%01authentication state...` 
+     + Example: `...d_cid=**123**%01**456**%011...` 
+     + Authentication State: This is an optional ID in the `d_cid` parameter. Expressed as an integer, it identifies users according to their authentication status as shown below:
+          + `0` \(Unknown\)
+          + `1` \(Authenticated\)
+          + `2` \(Logged out\)
+     + To specify an authentication state, you set this flag after the user ID \(UUID\) variable. Separate the UUID and authentication flag with the non-printing control character, `%01`. In the examples below, the authentication IDs are highlighted in **bold** text.
+     + Syntax: `...d_cid=DPID%01DPUUID%01**authentication state**` 
+     + Examples:
+          + Unknown: `...d_cid=123%01456%01**0**...` 
+          + Authenticated: `...d_cid=123%01456%01**1**...` 
+          + Logged out: `...d_cid=123%01456%01**2**...` 
 + `dcs_region` 
      + The ID service is a geographically distributed and load-balanced system. The ID identifies the region of the data center handling the call. See [DCS Region IDs, Locations, and Host Names](https://marketing.adobe.com/resources/help/en_US/aam/dcs-regions.html).
 + `d_cb` 
