@@ -1,7 +1,7 @@
 ---
 
-product: core services
-cloud: experience cloud
+product: Core Services
+cloud: Experience Cloud
 audience: admin
 user-guide: Core Services Admin Guide
 
