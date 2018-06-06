@@ -35,8 +35,6 @@ Nothing will change for users who have already been identified by the ID service
 
 The amount of users affected would depend on how long the ID service has been active. For example, an implementation where the ID service has been active for one week may have more legacy users than an implementation where ID service has been active for six months because users returning to the site would have been migrated.
 
----
-
 ## Implementation and Configuration - Do I have to set up a CNAME to track visitors across domains? 
 
 If you have a main entry site where customers can be identified before they visit other domains, then a `CNAME` can enable cross-domain tracking in browsers that do not accept third-party cookies \(such as Safari\).
@@ -64,8 +62,6 @@ See [The ID Service Grace Period](mcvid_grace_period.html#) and contact [Custome
 ## Implementation and Configuration - Why do I need to migrate to Real-time Data Collection \(RDC\) to use the ID service? 
 
 RDC adds global performance benefits and is required to make sure your implementation is ready for upcoming features that leverage Adobe's global network of edge notes. See [Analytics Requirements: Regional Data Collection \(RDC\)](mcvid-requirements.html#section_7D04BB013BC84A25BAE3B148BC0CA25F).
-
----
 
 ## Reporting - What are some possible causes of discrepancies when using Analytics with the ID service? 
 
