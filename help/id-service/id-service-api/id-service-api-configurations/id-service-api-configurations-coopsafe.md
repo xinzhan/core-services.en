@@ -4,17 +4,15 @@ title: API Configurations - isCoopSafe
 description: isCoopSafe configurations for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Configurations - isCoopSafe
 SEO description: isCoopSafe configurations for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -90,10 +88,5 @@ For example, you would need to call these APIs if a user authenticates to your s
 | `visitor.setAsCoopSafe();`   | Sets POST parameter `d_coop_safe=1` in all subsequent event calls.   |
 | `visitor.setAsCoopUnsafe();` | Sets POST parameter `d_coop_unsafe=1` in all subsequent event calls. |
 
- 
 
-**Parent topic:** [Configurations](mcvid-function-vars.html)
-
-[!MORE]
-[DIL isCoopSafe](https://marketing.adobe.com/resources/help/en_US/aam/dil-coopsafe.html)
-[!END]
+For more see: [DIL isCoopSafe](https://marketing.adobe.com/resources/help/en_US/aam/dil-coopsafe.html)
