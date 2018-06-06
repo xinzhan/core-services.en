@@ -23,7 +23,7 @@ Before deploying the Experience Cloud ID service, you should understand how this
 
 Answers to the questions in this section help determine any additional migration steps you should take.
 
-+ [Do you have a data collection CNAME?](mcvid-migration-decisions.md
++ [Do you have a data collection CNAME?](mcvid-migration-decisions.md)
 + [If you have a data collection CNAME, do you have multiple domains?](mcvid-migration-decisions.html#section_69EB55192F8B40A5833DA41AAFF5BFC0) 
 + [If you are keeping your data collection CNAME, is it mapped to omtrdc.net?](mcvid-migration-decisions.html#section_C9009CBF58594746A5B78BBF44ACAFBD) 
 + [If you do not have a data collection CNAME, is your data collection server \*.2o7.net or \*.sc.omtrdc.net?](mcvid-migration-decisions.html#section_34DABDE7780E4A339F134C0CA7768961) 
