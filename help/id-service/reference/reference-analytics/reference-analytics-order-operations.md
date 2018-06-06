@@ -4,17 +4,16 @@ title: Order of Operations for Analytics IDs
 description: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID ServiceI
 SEO title: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID Service
 SEO description: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID Service
-author: gipaul
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: Reference
-guide subtopic 1: Reference Analytics
-guide subtopic 2:
+short-title:
+doc-type: article
+audience:
+author:
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
