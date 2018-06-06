@@ -4,17 +4,15 @@ title: API Methods - ID Synchronization by URL or Data Source
 description: ID Synchronization by URL or Data Source for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Methods - ID Synchronization by URL or Data Source
 SEO description: ID Synchronization by URL or Data Source for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Methods
-guide subtopic 2:
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -53,7 +51,7 @@ Both functions accept the following macros:
 
 Both functions return `Successfully queued` if successful. They return an error message string if not.
 
-**visitor.idSyncByURL** 
+### visitor.idSyncByURL
 
 *Sample Code*
 
@@ -74,7 +72,7 @@ visitor.idSyncByURL({
 
 ---
 
-**visitor.idSyncByDataSource**
+### visitor.idSyncByDataSource
 
 *Sample Code*
 
@@ -93,6 +91,4 @@ visitor.idSyncByDataSource({
 `http://dpm.demdex.net/ibs:dpid=24&dpuuid=98765`
 
 
-[!MORE]
-[DIL idSync](https://marketing.adobe.com/resources/help/en_US/aam/r_dil_idsync.html)
-[!END]
+For more see [DIL idSync](https://marketing.adobe.com/resources/help/en_US/aam/r_dil_idsync.html)
