@@ -1,3 +1,21 @@
+---
+
+title: Server-side implementation of ID Service
+description: Implementing A4T with mixed server- and client-side implementations of Target, Analytics, and the ID service.
+seo-title: Server-side implementation of ID Service
+seo-description: Implementing A4T with mixed server- and client-side implementations of Target, Analytics, and the Adobe Experience Cloud ID service.
+short-title: 
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
+
+---
+
 # Server-Side Implementation of the Experience Cloud ID Service
 
 These instructions are for Analytics for Target (A4T) customers with mixed server- and client-side implementations of Target, Analytics, and the ID service. Customers who need to run the ID service in a NodeJS or Rhino environment should also review this information. 
@@ -23,11 +41,11 @@ See the [ID service NPM repository](https://www.npmjs.com/package/@adobe-mcid/vi
 
 The diagram and sections below describe what happens, and what you need to configure, in each step of the server-side implementation process.
 
- ![](media/implementation-other-setup-server-side/serverside.png) 
+![](../../assets/serverside.png) 
 
 ## Step 1: Request Page
 
-Server-side activity begins when a visitor makes an HTTP request to load a web page. During this step, your server receives this request and checks for the [AMCV cookie](mcvid_cookies.html#). The AMCV cookie contains the visitor's Experience Cloud ID `MID`.
+Server-side activity begins when a visitor makes an HTTP request to load a web page. During this step, your server receives this request and checks for the [AMCV cookie](../../getting-started/getting-started-cookies.md). The AMCV cookie contains the visitor's Experience Cloud ID `MID`.
 
 ## Step 2: Generate ID Service Payload
 
@@ -36,13 +54,10 @@ Next, you need make a server-side payload request to the ID service. A payload r
 + Passes the `AMCV` cookie to the ID service.
 + Requests data that is required by Target and Analytics in subsequent steps described below.
 
-[!NOTE]
+>[!NOTE]
+>This method requests a single mbox from Target. If you need to request multiple mboxes in a single call, see [generateBatchPayload](https://www.npmjs.com/package/@adobe-mcid/visitor-js-server#generatebatchpayload).
 
-This method requests a single mbox from Target. If you need to request multiple mboxes in a single call, see [generateBatchPayload](https://www.npmjs.com/package/@adobe-mcid/visitor-js-server#generatebatchpayload).
-
-[!END]
-
-Your payload request should look like following code sample. In the code sample, the `visitor.setCustomerIDs` function is optional. See [Customer IDs and Authentication States](mcvid-authenticated-state.html#) for more information.
+Your payload request should look like following code sample. In the code sample, the `visitor.setCustomerIDs` function is optional. See [Customer IDs and Authentication States](../../reference/reference-authenticated-state.md) for more information.
 
 ```javascript
 //Import the ID service server package
@@ -73,7 +88,7 @@ var visitorPayload = visitor.generatePayload({
 
 The ID service returns the payload in a JSON object similar to the following example. Payload data is required by Target.
 
-```
+```javascript
 {
     "marketingCloudVisitorId": "02111696918527575543455026275721941645",
     "mboxParameters": {
@@ -193,9 +208,3 @@ At this point, the web server sends page content to the visitor's browser. From 
 + The ID service receives state data from the server and passes the SDID to AppMeasurement.
 + AppMeasurement sends data about the page hit to Analytics, including the SDID.
 + Analytics and Target compare SDIDs for this visitor. With an identical SDID, Target and Analytics stitch the server-side call and the client-side call together. At this point, both solutions now recognize this visitor as the same person.
-
-[!MORE]
-
-+ [Server-Side ID Service Package from Node Package Manager](https://www.npmjs.com/package/@adobe-mcid/visitor-js-server)
-
-[!END]
