@@ -23,12 +23,12 @@ Before deploying the Experience Cloud ID service, you should understand how this
 
 Answers to the questions in this section help determine any additional migration steps you should take.
 
-+ [Do you have a data collection CNAME?](mcvid-migration-decisions.md)
-+ [If you have a data collection CNAME, do you have multiple domains?](mcvid-migration-decisions.html#section_69EB55192F8B40A5833DA41AAFF5BFC0) 
-+ [If you are keeping your data collection CNAME, is it mapped to omtrdc.net?](mcvid-migration-decisions.html#section_C9009CBF58594746A5B78BBF44ACAFBD) 
-+ [If you do not have a data collection CNAME, is your data collection server \*.2o7.net or \*.sc.omtrdc.net?](mcvid-migration-decisions.html#section_34DABDE7780E4A339F134C0CA7768961) 
-+ [Do you have multiple Analytics JavaScript files, or are you tracking Flash applications or videos?](mcvid-migration-decisions.html#section_943A04529F3D456AB608252D146658B3) 
-+ [Are you using unsupported data collection methods?](mcvid-migration-decisions.html#section_6AF5FF728C054A3F8D27BA073E5B268B) 
++ [Do you have a data collection CNAME?](reference-analytics-migration-decisions.md)
++ [If you have a data collection CNAME, do you have multiple domains?](reference-analytics-migration-decisions.md) 
++ [If you are keeping your data collection CNAME, is it mapped to omtrdc.net?](reference-analytics-migration-decisions.md) 
++ [If you do not have a data collection CNAME, is your data collection server \*.2o7.net or \*.sc.omtrdc.net?](reference-analytics-migration-decisions.md) 
++ [Do you have multiple Analytics JavaScript files, or are you tracking Flash applications or videos?](reference-analytics-migration-decisions.md) 
++ [Are you using unsupported data collection methods?](reference-analytics-migration-decisions.md) 
 
 ## Do you have a data collection CNAME?
 
