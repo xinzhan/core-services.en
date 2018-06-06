@@ -38,7 +38,7 @@ var analyticsID = visitor.getAnalyticsVisitorID(useAnalyticsVisitorID)
 ```
 
 >[!NOTE]
->If you're an Analytics customer, also check for and send the Analytics ID to your function. For example, you would want both identifiers when passing the visitor ID in a hidden form element to a server-side application that uses the data insertion API. In this case, you should collect and return the Experience Cloud and Analytics visitor IDs. See [getMarketingCloudVisitorID](../id-service-api/id-service-api-methods/id-service-api-methods-getmcvid.md).
+>If you're an Analytics customer, also check for and send the Analytics ID to your function. For example, you would want both identifiers when passing the visitor ID in a hidden form element to a server-side application that uses the data insertion API. In this case, you should collect and return the Experience Cloud and Analytics visitor IDs. See [getMarketingCloudVisitorID](id-service-api-methods-getmcvid.md).
 
 ## The "aid" Parameter is a Legacy Value
 
