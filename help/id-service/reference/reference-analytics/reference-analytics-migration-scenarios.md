@@ -39,7 +39,7 @@ Firstly, this customer should get enabled for the Experience Cloud \(see the [re
 + **Analytics JavaScript file**: Multiple JavaScript files. One file for their main site, another file for their support section that is maintained in a separate CMS.
 + **Other data collection methods**: Hard-coded image tags on one site section
 
-Firstly, this customer should find their Adobe Experience Cloud Organization ID \(see the [requirements](../reference/reference-requirements.md)\). Next, they should configure a migration grace period because they are using multiple JavaScript files. This customer will also set up visitor migration and then migrate from `*.2o7.net` to `*.sc.omtrdc.net`.
+Firstly, this customer should find their Adobe Experience Cloud Organization ID \(see the [requirements](../reference-requirements.md)\). Next, they should configure a migration grace period because they are using multiple JavaScript files. This customer will also set up visitor migration and then migrate from `*.2o7.net` to `*.sc.omtrdc.net`.
 
 When this customer updates to the latest Analytics JavaScript code in preparation for the Experience Cloud ID service rollout, they will also update all hard-coded image tags to use JavaScript instead.
 
@@ -52,6 +52,6 @@ When this customer updates to the latest Analytics JavaScript code in preparatio
 + **Analytics JavaScript file**: Multiple JavaScript files. One file for each web property.
 + **Other data collection methods**: A Flash-based video player
 
-Firstly, this customer should find their Adobe Experience Cloud Organization ID \(see the [requirements](mcvid-requirements.html#)\). Next, they should configure a migration grace period because they are using multiple JavaScript files. This customer tracks visitors between their primary domain and their sub-domains, so they will continue to use their data collection CNAME with the visitor ID service.
+Firstly, this customer should find their Adobe Experience Cloud Organization ID \(see the [requirements](../reference-requirements.md)\). Next, they should configure a migration grace period because they are using multiple JavaScript files. This customer tracks visitors between their primary domain and their sub-domains, so they will continue to use their data collection CNAME with the visitor ID service.
 
 When this customer updates to the latest Analytics JavaScript code in preparation for the Experience Cloud ID service rollout, they will also update their Flash-based video player to the latest version of AppMeasurement for Flash.
