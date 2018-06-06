@@ -4,17 +4,16 @@ title: Experience Cloud ID Service Migration Decision Points
 description:  Understanding how the Adobe Experience Cloud ID Service affects visitor tracking on multiple domains and potential issues if you are collecting data with different methods or through JavaScript files
 SEO title: Experience Cloud ID Service Migration Decision Points
 SEO description: Understanding how the Adobe Experience Cloud ID Service affects visitor tracking on multiple domains and potential issues if you are collecting data with different methods or through JavaScript files
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: Reference
-guide subtopic 1: Reference Analytics
-guide subtopic 2:
+short-title:
+doc-type: article
+audience:
+author:
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -24,7 +23,7 @@ Before deploying the Experience Cloud ID service, you should understand how this
 
 Answers to the questions in this section help determine any additional migration steps you should take.
 
-+ [Do you have a data collection CNAME?](mcvid-migration-decisions.html#section_E23785DAA3A14ABDBF007BD35E093F88) 
++ [Do you have a data collection CNAME?](mcvid-migration-decisions.md
 + [If you have a data collection CNAME, do you have multiple domains?](mcvid-migration-decisions.html#section_69EB55192F8B40A5833DA41AAFF5BFC0) 
 + [If you are keeping your data collection CNAME, is it mapped to omtrdc.net?](mcvid-migration-decisions.html#section_C9009CBF58594746A5B78BBF44ACAFBD) 
 + [If you do not have a data collection CNAME, is your data collection server \*.2o7.net or \*.sc.omtrdc.net?](mcvid-migration-decisions.html#section_34DABDE7780E4A339F134C0CA7768961) 
@@ -44,15 +43,14 @@ Many customers can migrate away from a data collection `CNAME` as part of the ID
 
 If you have multiple domains that send data to the *same report suite*, then we recommend data collection with a `CNAME`. This helps you track visitors across domains. If you are collecting data on a single domain, there is no advantage to maintaining a data collection `CNAME`.
 
-**Multiple Domains**
+### Multiple Domains
 
 + If you are tracking visitors across multiple domains, and you also have a main entry site where customers can be identified before they visit other domains, then you should continue to use your data collection `CNAME`. See [Data Collection CNAMES and Cross Domain Tracking](mcvid_cname.html#) for a detailed explanation.
 
-[!NOTE]
-Note that you need to specify two additional tracking-server parameters, `visitor.marketingCloudServer` and `visitor.marketingCloudServerSecure`, to configure a `CNAME` with the ID service.
-[!END]
+>[!NOTE]
+>Note that you need to specify two additional tracking-server parameters, `visitor.marketingCloudServer` and `visitor.marketingCloudServerSecure`, to configure a `CNAME` with the ID service.
 
-**A Single Domain**
+### A Single Domain
 
 Working with a single domain means you can migrate away from a data collection `CNAME` if you no longer wish to manage it. However, there's no requirement to change if your `CNAME` is working.
 
