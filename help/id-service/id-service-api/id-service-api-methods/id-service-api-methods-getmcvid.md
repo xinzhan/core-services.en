@@ -4,17 +4,15 @@ title: API Methods - getMarketingCloudVisitorID
 description: getMarketingCloudVisitorID helper method for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Methods - getMarketingCloudVisitorID
 SEO description: getMarketingCloudVisitorID helper method for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Methods
-guide subtopic 2:
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -37,6 +35,6 @@ var useMarketingCloudID = function(id){
 var mcID = visitor.getMarketingCloudVisitorID(useMarketingClouidID)
 ```
 
-[!NOTE]Useful Tip
-If you're an Analytics customer, also check for and send the Analytics ID to your function. For example, you would want both identifiers when passing the visitor ID in a hidden form element to a server-side application that uses the data insertion API. 
-In this case, you should collect and return the Experience Cloud and Analytics visitor IDs. See [getAnalyticsVisitorID](mcvid_getanalyticsvisitorid.html#).
+>[!NOTE]Useful Tip
+>If you're an Analytics customer, also check for and send the Analytics ID to your function. For example, you would want both identifiers when passing the visitor ID in a hidden form element to a server-side application that uses the data insertion API. 
+>In this case, you should collect and return the Experience Cloud and Analytics visitor IDs. See [getAnalyticsVisitorID](id-service-api-methods-getanalyticsvisitorid.md).
