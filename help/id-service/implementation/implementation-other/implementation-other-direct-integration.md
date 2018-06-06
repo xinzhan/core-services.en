@@ -33,11 +33,12 @@ The ID service returns data in a JSON object as shown below. Your response may b
 
 ## Request and Response Parameters Defined
 
-### Request Parameters
+**Request Parameters**
 
-+ `dpm.demdex.net` 
-    + A legacy domain controlled by Adobe. See [Understanding Calls to the Demdex Domain](https://marketing.adobe.com/resources/help/en_US/aam/demdex-calls.html).
-+ `d_mid` 
+### `dpm.demdex.net` 
+A legacy domain controlled by Adobe. See [Understanding Calls to the Demdex Domain](https://marketing.adobe.com/resources/help/en_US/aam/demdex-calls.html).
+
+### `d_mid` 
     + The Experience Cloud visitor ID. See [Cookies and the Experience Cloud ID Service](mcvid_cookies.html#).
 + `d_orgid`
     + Your Experience Cloud Organization ID. For help with finding this ID see, [Requirements for the Experience Cloud ID Service](mcvid-requirements.html#).
