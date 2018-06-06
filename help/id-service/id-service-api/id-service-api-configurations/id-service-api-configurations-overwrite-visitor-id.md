@@ -4,17 +4,15 @@ title: API Configurations - overwriteCrossDomainMCIDAndAID
 description: overwriteCrossDomainMCIDAndAID configurations for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Configurations - overwriteCrossDomainMCIDAndAID
 SEO description: overwriteCrossDomainMCIDAndAID configurations for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -22,9 +20,8 @@ guide subtopic 2:
 
 This property overwrites a visitor's Experience Cloud and Analytics IDs as they navigate from one domain to a second domain. 
 
-[!IMPORTANT]
-To overwrite an ID, you must own and have implemented the ID service on each domain. This code does not let you overwrite IDs on domains you do not control.
-[!END]
+>[!IMPORTANT]
+>To overwrite an ID, you must own and have implemented the ID service on each domain. This code does not let you overwrite IDs on domains you do not control.
 
 ## Syntax
 `Visitor.overwriteCrossDomainMCIDAndAID: true|false` \(default is `false`\)
@@ -68,4 +65,5 @@ Let's say you own Domains A and B. In this case, you can set `Visitor.overwriteC
 ### Identify visitors from mobile apps to web browsers
 
 This use case is slightly different. It involves identifying users as they move from a mobile app to your website. In this case, your visitor already has a MID set locally by a mobile app and they have a different MID set in a cookie on your website. 
+
 You can set `Visitor.overwriteCrossDomainMCIDAndAID: true` to overwrite the MID set in the browser cookie with the MID set by the mobile app.

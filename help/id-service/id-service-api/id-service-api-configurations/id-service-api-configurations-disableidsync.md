@@ -4,17 +4,15 @@ title: API Configurations - disableIdSyncs
 description: disableIdSyncs configurations for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Configurations - disableIdSyncs
 SEO description: disableIdSyncs configurations for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -22,9 +20,8 @@ guide subtopic 2:
 
 An optional, Boolean flag that disables ID synchronization.
 
-[!NOTE]
-This configuration was `idSyncDisableSyncs` and renamed to `disableIdSyncs` in the January 18, 2018 release of v3.0.
-[!END]
+>[!NOTE]
+>This configuration was `idSyncDisableSyncs` and renamed to `disableIdSyncs` in the January 18, 2018 release of v3.0.
 
 ## Syntax
 `disableIdSyncs: true|false` \(default is `false`.\)
@@ -44,5 +41,3 @@ var visitor = Visitor.getInstance ("Insert Experience Cloud organization ID here
    disableIdSyncs: true
 });
 ```
-
-**Parent topic:** [Configurations](mcvid-function-vars.html)

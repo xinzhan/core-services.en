@@ -4,17 +4,15 @@ title: API Configurations - loadTimeout
 description: loadTimeout configurations for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Configurations - loadTimeout
 SEO description: loadTimeout configurations for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -27,10 +25,9 @@ Sets a timeout interval in milliseconds. Used to tell other solutions \(e.g., An
 
 The default value is 30,000 milliseconds \(30 seconds\). We strongly recommend that you *do not* change the default value.
 
-[!NOTE]
-Calls to the ID service are asynchronous in relation to other, non-Adobe code on the page. As a result, increasing or decreasing the timeout interval does not change the rate at which your page renders content. 
+>[!NOTE]
+>Calls to the ID service are asynchronous in relation to other, non-Adobe code on the page. As a result, increasing or decreasing the timeout interval does not change the rate at which your page renders content. 
 However, long timeout intervals may affect page load times as measured by common network monitoring tools, but rendering time is unaffected.
-[!END]
 
 ## Code Sample
 
@@ -47,5 +44,3 @@ var visitor = Visitor.getInstance ("Insert Experience Cloud organization ID here
    loadTimeout:10000
 });
 ```
-
-**Parent topic:** [Configurations](mcvid-function-vars.html)

@@ -4,17 +4,15 @@ title: API Configurations - sdidParamExpiry
 description: sdidParamExpiry configurations for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Configurations - sdidParamExpiry
 SEO description: sdidParamExpiry configurations for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -22,9 +20,8 @@ guide subtopic 2:
 
 This configuration lets you override the default Supplemental Data ID \(`SDID`\) expiration interval when passing that ID from one page to another using the `appendSupplementalDataIDTo` helper function. 
 
-[!IMPORTANT]
-By default, the ID service code on the receiving page has 30 seconds to get the `SDID` from the URL sent by the referring page. If the ID service code on the receiving page can't retrieve the `SDID` in less than 30 seconds it requests a new `SDID`. This functionality is mainly for A4T customers who need to pass the `SDID` from one page to another and want control over this timeout interval.
-[!END]
+>[!IMPORTANT]
+>By default, the ID service code on the receiving page has 30 seconds to get the `SDID` from the URL sent by the referring page. If the ID service code on the receiving page can't retrieve the `SDID` in less than 30 seconds it requests a new `SDID`. This functionality is mainly for A4T customers who need to pass the `SDID` from one page to another and want control over this timeout interval.
 
 ## Override the SDID Timeout
 

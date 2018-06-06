@@ -4,17 +4,15 @@ title: API Configurations - whitelistParentDomain and whitelistIframeDomains
 description: whitelistParentDomain and whitelistIframeDomains configurations for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Configurations - whitelistParentDomain and whitelistIframeDomains
 SEO description: whitelistParentDomain and whitelistIframeDomains configurations for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: article
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -24,7 +22,6 @@ These configurations let different instances of ID service code implemented in a
 
 They are available in `VisitorAPI.js` code version 2.2, or higher.
   
-
 ## Syntax
 
 Both configuration elements are required when you use this code.
@@ -57,8 +54,8 @@ These configurations help solve the problem of setting an ID service cookie and 
 + You do or do not control the parent page/domain.
 + ID service code is not installed on the parent page, but is implemented in an iFrame.
 
-[!NOTE]
-You may also want to implement these configurations when you're serving video in an iFrame with [Video Heartbeat](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/hbvideo/). Video Heartbeat needs an ID service ID \(the 'MID'\) to work properly.
+>[!NOTE]
+>You may also want to implement these configurations when you're serving video in an iFrame with [Video Heartbeat](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/hbvideo/). Video Heartbeat needs an ID service ID \(the 'MID'\) to work properly.
 
 ### Use Case 1: The Browser Blocks Third-Party Cookies and the ID Service is Implemented on the iFrame and Parent Page
 
@@ -102,7 +99,7 @@ This use case includes the following conditions:
 
 Given these conditions, the ID service:
 
-+ Does not work in the iFrame. This is because the browser sees the iFrame as a third-party domain and prevents the ID service from setting the AMCV cookie.
++ Does not work in the iFrame. This is because the browser sees the iFrame as a third-party domain and prevents the ID service from setting the `AMCV` cookie.
 + Can't get a visitor ID from the parent page because Company A doesn't use this service.
 
 **Solution**
