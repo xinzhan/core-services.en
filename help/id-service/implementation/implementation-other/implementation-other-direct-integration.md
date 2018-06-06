@@ -52,7 +52,8 @@ The ID service returns data in a JSON object as shown below. Your response may b
           + `2` \(Logged out\)
      + To specify an authentication state, you set this flag after the user ID \(UUID\) variable. Separate the UUID and authentication flag with the non-printing control character, `%01`. In the examples below, the authentication IDs are highlighted in **bold** text.
      + Syntax: `...d_cid=DPID%01DPUUID%01**authentication state**` 
-     + Examples: | State         | Example                          |
+     + Examples: 
+     | State         | Example                          |
 | ------------- | -------------------------------- |
 | Unknown       | `...d_cid=123%01456%01**0**...`  |
 | Authenticated | `...d_cid=123%01456%01**1**...`  |
