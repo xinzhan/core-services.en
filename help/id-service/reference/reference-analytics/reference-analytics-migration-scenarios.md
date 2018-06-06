@@ -28,7 +28,7 @@ Contains server example configurations and the required migration steps.
 + **Data collection servers**: metrics.example.com, smetrics.example.com
 + **Analytics JavaScript file**: A single file for all site pages
 
-Firstly, this customer should get enabled for the Experience Cloud \(see the [requirements](../reference/reference-requirements.md)\). And, because they have a single JavaScript file, this customer does not need a grace period. This customer will also set up visitor migration and then migrate away from their data collection `CNAME`, which is not necessary.
+Firstly, this customer should get enabled for the Experience Cloud \(see the [requirements](../reference-requirements.md)\). And, because they have a single JavaScript file, this customer does not need a grace period. This customer will also set up visitor migration and then migrate away from their data collection `CNAME`, which is not necessary.
 
 ## Multiple JavaScript Files, hard-coded image tags
 
