@@ -28,7 +28,7 @@ Contains server example configurations and the required migration steps.
 + **Data collection servers**: metrics.example.com, smetrics.example.com
 + **Analytics JavaScript file**: A single file for all site pages
 
-Firstly, this customer should get enabled for the Experience Cloud \(see the [requirements](reference/reference-requirements.md)\). And, because they have a single JavaScript file, this customer does not need a grace period. This customer will also set up visitor migration and then migrate away from their data collection `CNAME`, which is not necessary.
+Firstly, this customer should get enabled for the Experience Cloud \(see the [requirements](../reference/reference-requirements.md)\). And, because they have a single JavaScript file, this customer does not need a grace period. This customer will also set up visitor migration and then migrate away from their data collection `CNAME`, which is not necessary.
 
 ## Multiple JavaScript Files, hard-coded image tags
 
@@ -39,7 +39,7 @@ Firstly, this customer should get enabled for the Experience Cloud \(see the [re
 + **Analytics JavaScript file**: Multiple JavaScript files. One file for their main site, another file for their support section that is maintained in a separate CMS.
 + **Other data collection methods**: Hard-coded image tags on one site section
 
-Firstly, this customer should find their Adobe Experience Cloud Organization ID \(see the [requirements](reference/reference-requirements.md)\). Next, they should configure a migration grace period because they are using multiple JavaScript files. This customer will also set up visitor migration and then migrate from `*.2o7.net` to `*.sc.omtrdc.net`.
+Firstly, this customer should find their Adobe Experience Cloud Organization ID \(see the [requirements](../reference/reference-requirements.md)\). Next, they should configure a migration grace period because they are using multiple JavaScript files. This customer will also set up visitor migration and then migrate from `*.2o7.net` to `*.sc.omtrdc.net`.
 
 When this customer updates to the latest Analytics JavaScript code in preparation for the Experience Cloud ID service rollout, they will also update all hard-coded image tags to use JavaScript instead.
 
