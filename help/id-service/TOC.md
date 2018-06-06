@@ -75,8 +75,8 @@ user-guide: ID Service Admin Guide
         + [Order of Operations](reference/reference-analytics/reference-analytics-order-operations.md)
         + [Server Side](reference/reference-analytics/reference-analytics-server-side.md)      
 + FAQs
-    + [FAQ Analytics](faqs/faq-analytics.md)
-    + [FAQ ID Service](faqs/faq-id-service.md)
-    + [FAQ Other Solutions](faq-other-solutions.md)
+    + [FAQ Analytics](faqs/faqs-analytics.md)
+    + [FAQ ID Service](faqs/faqs-id-service.md)
+    + [FAQ Other Solutions](faqs/faqs-other-solutions.md)
     
     
