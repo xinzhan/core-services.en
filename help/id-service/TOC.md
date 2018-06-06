@@ -76,7 +76,7 @@ user-guide: ID Service Admin Guide
         + [Server Side](reference/reference-analytics/reference-analytics-server-side.md)      
 + FAQs
     + [FAQ Analytics](faqs/faq-analytics.md)
-    + [FAQ ID Service](faqs/faqs-id-service.md)
-    + [FAQ Other Solutions](faqs-other-solutions.md)
+    + [FAQ ID Service](faqs/faq-id-service.md)
+    + [FAQ Other Solutions](faq-other-solutions.md)
     
     
