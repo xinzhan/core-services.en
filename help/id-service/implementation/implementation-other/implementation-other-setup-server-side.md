@@ -136,15 +136,12 @@ Server state data contains information about work that's been done on the server
 
 If you've set up the ID service through a non-standard process, you will need to return server state with your own code. The client-side ID service and Analytics code passes state data to Adobe when the page loads.
 
- **Get Server State via DTM** 
+### Get Server State via DTM
 
 If you have implemented the ID service with DTM, you need to add code to your page and specify a name-value pair in the DTM settings.
 
-|DTM Modifications|Description|
-|-----------------|-----------|
-|  **Page Code** 
-
- | Add this code to the `<head>` tag of your HTML page:
+**Page Code** 
+Add this code to the `<head>` tag of your HTML page:
 
  ```javascript
 //Get server state
@@ -163,25 +160,22 @@ Response.send("
 ...
 ```
 
- |
-|  **DTM Settings** 
-
- | Add these as name-value pairs to the **General \> Settings** section of your ID service instance:
+**DTM Settings** 
+Add these as name-value pairs to the **General \> Settings** section of your ID service instance:
 
 + **Name:** serverState
 + **Value:** %serverState%
 
-**Important:** The value name must match the variable name you set for `serverState` in your page code.
+>[!IMPORTANT]
+>The value name must match the variable name you set for `serverState` in your page code.
 
+Your configured settings should look like this:
 
- Your configured settings should look like this:
+![](../../assets/server_side_dtm.png) 
 
- ![](media/implementation-other-setup-server-side/server_side_dtm.png) 
+See also, [Experience Cloud](../implementation-standard/dtm-settings.md).
 
- See also, [Experience Cloud](../implementation-standard/implementation-standard-dtm-settings.md).
-
- **Get Server State Without DTM** 
-
+**Get Server State Without DTM** 
 If you have a non-standard implementation of the ID service, you must configure this code to run on your server while it assembles the requested page:
 
 ```javascript
