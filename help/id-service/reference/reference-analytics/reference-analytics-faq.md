@@ -4,17 +4,16 @@ title: Analytics and ID Service FAQs
 description: Frequently asked questions about features, functionality, and issues related to using Analytics with the Adobe Experience Cloud ID service
 SEO title: Analytics and ID Service FAQs
 SEO description: Frequently asked questions about features, functionality, and issues related to using Analytics with the Adobe Experience Cloud ID service
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: Reference
-guide subtopic 1: Reference Analtyics
-guide subtopic 2: 
+short-title:
+doc-type: article
+audience:
+author:
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -79,18 +78,17 @@ Common causes of discrepancies when using the ID service include:
 
 There are three potential scenarios where this affects Analytics data for new visitors:
 
-**An end user leaves a page before the AMCV cookies is set successfully \(within the 30 second timeout window\).**
++ An end user leaves a page before the AMCV cookies is set successfully \(within the 30 second timeout window\).
 
 If a visitor leaves a page before it is done loading, the Analytics hit is not sent. Analytics will not receive data from this scenario and would consider that data lost to an early closure of the page. Based on our testing which included outlying geographies, we found that this scenario represented less than 1% of traffic on average. It is important to note that this scenario occurs at times even without the presence of the MCID service – it is an artifact of the inclusion of the Analytics data collection code at the bottom of the page.
 
-**An end user is not assigned an ID service or an Analytics ID within the 30 second timeout window due to slow connections or browser “spinning."**
++ An end user is not assigned an ID service or an Analytics ID within the 30 second timeout window due to slow connections or browser “spinning."
 
 Both the ID service and the Analytics ID would not be set and the visitor would be assigned a client-side ID. While this allows Analytics data to be captured, the visitor’s profile will be interrupted when on a subsequent page an Analytics ID is set. The client-side ID will also not match with any existing visitor profile stored in Audience Manager or Analytics. This client-side ID will also appear as two different visitors in Analytics if two separate domains are being sent into the same report suite.
 
-**An end user is not assigned an ID service ID within the 30 second timeout window, but is assigned a standard Analytics tracking ID and the grace period is not enabled.**
++ An end user is not assigned an ID service ID within the 30 second timeout window, but is assigned a standard Analytics tracking ID and the grace period is not enabled.
 
 This third scenario has the same outcome to scenario 2 in that a client-side based ID is used.
 
-[!NOTE]TIP
-Using the latest updates to VisitorAPI.js and AppMeasurement.js with the default settings should avoid any serious or noticeable impact from the three unlikely scenarios above.
-[!END]
+>[!NOTE]
+>Using the latest updates to VisitorAPI.js and AppMeasurement.js with the default settings should avoid any serious or noticeable impact from the three unlikely scenarios above.
