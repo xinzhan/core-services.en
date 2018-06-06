@@ -4,17 +4,16 @@ title: Data Collection CNAMEs and Cross-Domain Tracking
 description: Data Collection CNAMEs and Cross-Domain Tracking when implementing Adobe Experience Cloud ID Service
 SEO title: Data Collection CNAMEs and Cross-Domain Tracking in the Adobe Experience Cloud ID Service
 SEO description: Data Collection CNAMEs and Cross-Domain Tracking when implementing Adobe Experience Cloud ID Service
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: Reference
-guide subtopic 1: Reference Analtyics
-guide subtopic 2:
+short-title:
+doc-type: article
+audience:
+author:
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
