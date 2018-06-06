@@ -109,8 +109,4 @@ Some response parameters are part of the request and have been defined in the se
 
 |Parameter|Description|
 |---------|-----------|
-|  `id_sync_ttl` 
-
- | The re-synchronization interval, specified in seconds. The default interval is 604,800 seconds \(7-days\).
-
- |
+|  `id_sync_ttl` | The re-synchronization interval, specified in seconds. The default interval is 604,800 seconds \(7-days\).|
