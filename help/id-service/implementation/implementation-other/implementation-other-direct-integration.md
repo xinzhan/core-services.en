@@ -33,37 +33,25 @@ The ID service returns data in a JSON object as shown below. Your response may b
 
 ## Request and Response Parameters Defined
 
- **Request Parameters** 
+### Request Parameters
 
-|Parameter|Description|
-|---------|-----------|
-|  `dpm.demdex.net` 
++ `dpm.demdex.net` 
+    + A legacy domain controlled by Adobe. See [Understanding Calls to the Demdex Domain](https://marketing.adobe.com/resources/help/en_US/aam/demdex-calls.html).
++ `d_mid` 
+    + The Experience Cloud visitor ID. See [Cookies and the Experience Cloud ID Service](mcvid_cookies.html#).
++ `d_orgid`
+    + Your Experience Cloud Organization ID. For help with finding this ID see, [Requirements for the Experience Cloud ID Service](mcvid-requirements.html#).
++ `d_cid`
+    + An optional parameter that passes the Data Provider ID \(DPID\), the Unique User ID \(DPUUID\), and an [authenticated state ID](mcvid-authenticated-state.html#) to the ID service. As shown in the code sample, separate the DPID and DPUUID with the non-printing control character, `%01`.
 
- | A legacy domain controlled by Adobe. See [Understanding Calls to the Demdex Domain](https://marketing.adobe.com/resources/help/en_US/aam/demdex-calls.html).
+### DPID and DPUUID
 
- |
-|  `d_mid` 
-
- | The Experience Cloud visitor ID. See [Cookies and the Experience Cloud ID Service](mcvid_cookies.html#).
-
- |
-|  `d_orgid` 
-
- | Your Experience Cloud Organization ID. For help with finding this ID see, [Requirements for the Experience Cloud ID Service](mcvid-requirements.html#).
-
- |
-|  `d_cid` 
-
- | An optional parameter that passes the Data Provider ID \(DPID\), the Unique User ID \(DPUUID\), and an [authenticated state ID](mcvid-authenticated-state.html#) to the ID service. As shown in the code sample, separate the DPID and DPUUID with the non-printing control character, `%01`.
-
-  **DPID and DPUUID** 
-
- In the `d_cid` parameter, assign each related DPID and DPUUID combination to the same `d_cid` parameter. This lets you return multiple ID sets in a single request. Also, separate the DPID, DPUUID, and optional authentication flag with the non-printing control character, `%01`. In the examples below, the provider and user IDs are highlighted in **bold** text.
+In the `d_cid` parameter, assign each related DPID and DPUUID combination to the same `d_cid` parameter. This lets you return multiple ID sets in a single request. Also, separate the DPID, DPUUID, and optional authentication flag with the non-printing control character, `%01`. In the examples below, the provider and user IDs are highlighted in **bold** text.
 
 + Syntax: `...d_cid=**DPID**%01**DPUUID**%01authentication state...` 
 + Example: `...d_cid=**123**%01**456**%011...` 
 
-  **Authentication State** 
+### Authentication State
 
 This is an optional ID in the `d_cid` parameter. Expressed as an integer, it identifies users according to their authentication status as shown below:
 
