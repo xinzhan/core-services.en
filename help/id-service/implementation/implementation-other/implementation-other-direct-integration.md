@@ -52,10 +52,11 @@ The ID service returns data in a JSON object as shown below. Your response may b
           + `2` \(Logged out\)
      + To specify an authentication state, you set this flag after the user ID \(UUID\) variable. Separate the UUID and authentication flag with the non-printing control character, `%01`. In the examples below, the authentication IDs are highlighted in **bold** text.
      + Syntax: `...d_cid=DPID%01DPUUID%01**authentication state**` 
-     + Examples:
-          + Unknown: `...d_cid=123%01456%01**0**...` 
-          + Authenticated: `...d_cid=123%01456%01**1**...` 
-          + Logged out: `...d_cid=123%01456%01**2**...` 
+     + Examples: | State         | Example                          |
+| ------------- | -------------------------------- |
+| Unknown       | `...d_cid=123%01456%01**0**...`  |
+| Authenticated | `...d_cid=123%01456%01**1**...`  |
+| Logged Out    | `...d_cid=123%01456%01**2**...`  |
 + `dcs_region` 
      + The ID service is a geographically distributed and load-balanced system. The ID identifies the region of the data center handling the call. See [DCS Region IDs, Locations, and Host Names](https://marketing.adobe.com/resources/help/en_US/aam/dcs-regions.html).
 + `d_cb` 
