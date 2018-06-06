@@ -24,7 +24,6 @@ After you deploy the visitor ID service, there are five ways a visitor can be id
 
 For example, if you are setting a custom visitor ID (included in the `vid` query parameter), that ID will be used before other IDs that might be present on that same hit. See [Setting Analytics and Experience Cloud IDs](reference-analytics-ids.md) for more information.
 
-[!PROCEDURE Title="Order of Operations"]
 1. **vid (s.visitorID)**\
 *Present when*: The `s.visitorID` is set.
 
@@ -37,10 +36,8 @@ For example, if you are setting a custom visitor ID (included in the `vid` query
 4. **fid (fallback cookie on H.25.3 or newer, or AppMeasurement for JavaScript)**\
 *Present when*: A browser doesn't accept third-party cookies and the Analytics tracking server is set up as a third-party tracking server.
 
-    [!NOTE]
-    The `fid` is a legacy identifier and is not used if you've implemented the ID service on your site. In this case, the `fid` is not needed because the first-party, `AMCV` cookie makes it obsolete. It has been retained to support legacy code and for historic reasons.
-    [!END]
+>[!NOTE]
+>The `fid` is a legacy identifier and is not used if you've implemented the ID service on your site. In this case, the `fid` is not needed because the first-party, `AMCV` cookie makes it obsolete. It has been retained to support legacy code and for historic reasons.
 
 5. **IP Address, User Agent, Gateway IP Address**\
 *Present when*: The visitor's browser does not accept cookies.
-[!END]
