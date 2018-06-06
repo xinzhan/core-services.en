@@ -4,17 +4,16 @@ title: Setting Analytics and Experience Cloud IDs
 description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
 SEO title: Setting Adobe Analytics and Experience Cloud ID Service IDs
 SEO description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+short-title:
+doc-type: article
+audience:
+author:
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -53,49 +52,39 @@ This includes, but is not limited to, shared audiences, Analytics for Target (A4
 ## Analytics Visitor ID Order
 After you deploy the visitor ID service, there are five ways a visitor can be identified in Analytics (listed in the following table in order of preference):
 
-[!PROCEDURE]
-[!STEP]
+1.
 
 | Query Parameter     | Present When         |
 | :------------------ | :------------------- |
 | `vid (s.visitorID)` | `s.visitorID` is set |
 
-[!END]
-[!STEP]
+2.
 
 | Query Parameter     | Present When                                                                                                                        |
 | :------------------ | :---------------------------------------------------------------------------------------------------------------------------------- |
 | `aid (s_vi cookie)` | The visitor had an existing s_vi cookie before you deployed the Experience Cloud ID service, or you have a grace period configured. |
 
-[!END]
-[!STEP]
+3.
 
 | Query Parameter                                                 | Present When                                      |
 | :-------------------------------------------------------------- | :------------------------------------------------ |
 | `mid` (AMCV_ cookie set by Experience Cloud visitor ID service) | The visitor's browser accepts first-party cookies |
 
-[!END]
-[!STEP]
+4.
 
 | Query Parameter                                                              | Present When                                                                                                               |
 | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
 | `fid` (fallback cookie on H.25.3 or newer, or AppMeasurement for JavaScript) | A browser doesn't accept third-party cookies and the Analytics tracking server is set up as a third-party tracking server. |
 
-[!NOTE]
-The `fid` is a legacy identifier and is not used if you've implemented the ID service on your site. In this case, the `fid` is not needed because the first-party, `AMCV` cookie makes it obsolete. It has been retained to support legacy code and for historic reasons.
-[!END]
+>[!NOTE]
+>The `fid` is a legacy identifier and is not used if you've implemented the ID service on your site. In this case, the `fid` is not needed because the first-party, `AMCV` cookie makes it obsolete. It has been retained to support legacy code and for historic reasons.
 
-[!STEP]
+5.
 
 | Query Parameter                            | Present When                                   |
 | :----------------------------------------- | :--------------------------------------------- |
 | IP Address, User Agent, Gateway IP Address | The visitor's browser does not accept cookies. |
 
-[!END]
-[!END]
-
 In many scenarios you might see two or three different IDs on a call, but Analytics will use the first ID present from that list as the official Experience Cloud ID. For example, if you are setting a custom visitor ID (included in the `vid` query parameter), that ID will be used before other IDs that might be present on that same hit.
 
-[!MORE]
-[Order of Operations for Analytics IDs](reference-analytics-order-operations.md)
-[!END]
+For more see: [Order of Operations for Analytics IDs](reference-analytics-order-operations.md)
