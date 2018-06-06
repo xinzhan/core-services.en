@@ -40,7 +40,7 @@ To sum up, the ID service:
 ## ID Service Requirements
 Your solution and other Adobe code libraries [must meet these requirements](../getting-started/test-page-for-links.md) before you can use the ID service.
 
->+ [How it works - Cookies and the Experience Cloud ID Service](getting-started-cookies-id-service.md)
->+ [Cookies and the Experience Cloud ID Service](getting-started-cookies.md)
->+ [How the Experience Cloud ID Service Requests and Sets IDs](getting-started-id-request.md)
->+ [Understanding ID Syncronization and Match Rates](getting-started-match-rates.md)
++ [How it works - Cookies and the Experience Cloud ID Service](getting-started-cookies-id-service.md)
++ [Cookies and the Experience Cloud ID Service](getting-started-cookies.md)
++ [How the Experience Cloud ID Service Requests and Sets IDs](getting-started-id-request.md)
++ [Understanding ID Syncronization and Match Rates](getting-started-match-rates.md)
