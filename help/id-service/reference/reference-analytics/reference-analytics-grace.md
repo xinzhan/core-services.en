@@ -4,17 +4,16 @@ title: ID Service Grace Period
 description: Configuring a grace period with the Adobe Experience Cloud ID Service
 SEO title: Adobe Experience Cloud ID Service Grace Period
 SEO description: Configuring a grace period with the Adobe Experience Cloud ID Service
-author: gipaul
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: Reference
-guide subtopic 1: Reference Analytics
-guide subtopic 2:
+short-title:
+doc-type: article
+audience:
+author:
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -28,9 +27,8 @@ For example, if the support section of your site is managed in a separate CMS, y
 
 Deploying the Experience Cloud ID service on sites that are using multiple JavaScript files or other technologies (such as Flash) can cause coordination issues since you need to enable the ID service on all portions of your site at the same time. By configuring a grace period, new visitors to continue to receive an Analytics visitor ID from the Experience Cloud ID service, so visitors can be consistently identified on sections of your site that have not been upgraded to use the ID service.
 
-[!IMPORTANT]
-Grace period support requires version 1.3 or later of the Experience Cloud ID service.
-[!END]
+>[!IMPORTANT]
+>Grace period support requires version 1.3 or later of the Experience Cloud ID service.
 
 ## Do I need a grace period?
 
