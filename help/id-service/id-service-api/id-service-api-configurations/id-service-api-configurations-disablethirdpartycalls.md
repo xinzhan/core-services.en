@@ -4,17 +4,15 @@ title: API Configurations - disableThirdPartyCalls
 description: disableThirdPartyCalls configurations for the Adobe Experience Cloud ID Service API
 SEO title: Adobe Experience Cloud ID Service API Configurations - disableThirdPartyCalls
 SEO description: disableThirdPartyCalls configurations for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+short-title: free text
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
 
 ---
 
@@ -32,14 +30,14 @@ When `disableThirdPartyCalls: true`, the ID service will not make calls to other
 This variable is designed for customers who need:
 
 + To prevent the ID service from making calls from their secure, authenticated pages.
-+ Site visitors to have a Experience Cloud ID \(MID\).
++ Site visitors to have a Experience Cloud ID `MID`.
 + Their other Experience Cloud solutions to work properly.
 
 ## Implementation Strategy
 
-Other Experience Cloud solutions rely on the MID, so the ID service calls Adobe to return and set this ID. If you need to stop the ID service from making calls from authenticated sections of your website, then let it make these required calls from pages that don't require authentication first. 
+Other Experience Cloud solutions rely on the `MID`, so the ID service calls Adobe to return and set this ID. If you need to stop the ID service from making calls from authenticated sections of your website, then let it make these required calls from pages that don't require authentication first. 
 
-After your site visitor has a MID, then you can set `disableThirdPartyCalls= true` in the ID service code on the authenticated sections of your site. 
+After your site visitor has a `MID`, then you can set `disableThirdPartyCalls= true` in the ID service code on the authenticated sections of your site. 
 
 The assumption here is that most, if not all, of your customers will navigate to an authentication page before they get access to the secure parts of your site.
 
@@ -59,6 +57,3 @@ var visitor = Visitor.getInstance ("Insert Experience Cloud organization ID here
 });
 
 ```
-
-**Parent topic:** [Configurations](mcvid-function-vars.html)
-
