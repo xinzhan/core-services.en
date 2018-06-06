@@ -6,7 +6,7 @@ This implementation lets customers use the ID service on devices that cannot acc
 
 Devices that cannot use the `VisitorAPI.js` or SDK code libraries can make calls directly to the data collection servers \(DCS\) used by the ID service. To do this, you would call `dpm.demdex.net` and format your request as shown below. *Italics* indicates a variable placeholder.
 
- ![](images/directSyntax.png) 
+![](../assets/directSyntax.png) 
 
 In this syntax example, the `d_` prefix identifies the key-value pairs in the call as a system-level variable. You can pass quite a few `d_` parameters to the ID service, but stay focused on the key-value pairs as shown in the code above. For more information about other variables, see [Supported Attributes for DCS API calls](https://marketing.adobe.com/resources/help/en_US/aam/dcs-keys.html).
 
@@ -16,7 +16,7 @@ The ID service supports HTTP and HTTPS calls. Use HTTPS to pass data from a secu
 
 Your request could look similar to the sample shown below. Long variables have been shortened.
 
- ![](images/directExample.png) 
+![](../assets/directExample.png) 
 
 ## Sample Response
 
