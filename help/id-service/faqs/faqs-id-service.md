@@ -23,7 +23,7 @@ Frequently asked questions about features, functionality, and issues related to 
 ## Functionality
 
 ### What sort of functionality or capabilities does the ID service provide?**
-+ For an outline of capability and functionality of the Experience Cloud ID Service, [please review the documentation overview page](../id-service/overview.md) 
++ For an outline of capability and functionality of the Experience Cloud ID Service, [please review the documentation overview page](/AdobeDocs/core-services.en/help/id-service/overview.md) 
 + This can be difficult to diagnose. One thing you can check are the content security policy headers on your site. If you have a strict security policy, those settings can block the third-party calls made by the ID service. 
 + [See Content Security Policies and the Experience Cloud ID Service](../../reference/reference-analytics/reference-analytics-cname.md) for more information.
 
