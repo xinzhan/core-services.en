@@ -1,3 +1,21 @@
+---
+
+title: Server-side implementation of ID Service
+description: Implementing A4T with mixed server- and client-side implementations of Target, Analytics, and the ID service.
+seo-title: Server-side implementation of ID Service
+seo-description: Implementing A4T with mixed server- and client-side implementations of Target, Analytics, and the Adobe Experience Cloud ID service.
+short-title: 
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
+
+---
+
 # Server-Side Implementation of the Experience Cloud ID Service
 
 These instructions are for Analytics for Target (A4T) customers with mixed server- and client-side implementations of Target, Analytics, and the ID service. Customers who need to run the ID service in a NodeJS or Rhino environment should also review this information. 
@@ -23,11 +41,11 @@ See the [ID service NPM repository](https://www.npmjs.com/package/@adobe-mcid/vi
 
 The diagram and sections below describe what happens, and what you need to configure, in each step of the server-side implementation process.
 
- ![](media/implementation-other-setup-server-side/serverside.png) 
+![](../../assets/serverside.png) 
 
 ## Step 1: Request Page
 
-Server-side activity begins when a visitor makes an HTTP request to load a web page. During this step, your server receives this request and checks for the [AMCV cookie](mcvid_cookies.html#). The AMCV cookie contains the visitor's Experience Cloud ID `MID`.
+Server-side activity begins when a visitor makes an HTTP request to load a web page. During this step, your server receives this request and checks for the [AMCV cookie](../../getting-started/getting-started-cookies.md). The AMCV cookie contains the visitor's Experience Cloud ID `MID`.
 
 ## Step 2: Generate ID Service Payload
 
@@ -36,13 +54,10 @@ Next, you need make a server-side payload request to the ID service. A payload r
 + Passes the `AMCV` cookie to the ID service.
 + Requests data that is required by Target and Analytics in subsequent steps described below.
 
-[!NOTE]
+>[!NOTE]
+>This method requests a single mbox from Target. If you need to request multiple mboxes in a single call, see [generateBatchPayload](https://www.npmjs.com/package/@adobe-mcid/visitor-js-server#generatebatchpayload).
 
-This method requests a single mbox from Target. If you need to request multiple mboxes in a single call, see [generateBatchPayload](https://www.npmjs.com/package/@adobe-mcid/visitor-js-server#generatebatchpayload).
-
-[!END]
-
-Your payload request should look like following code sample. In the code sample, the `visitor.setCustomerIDs` function is optional. See [Customer IDs and Authentication States](mcvid-authenticated-state.html#) for more information.
+Your payload request should look like following code sample. In the code sample, the `visitor.setCustomerIDs` function is optional. See [Customer IDs and Authentication States](../../reference/reference-authenticated-state.md) for more information.
 
 ```javascript
 //Import the ID service server package
@@ -73,7 +88,7 @@ var visitorPayload = visitor.generatePayload({
 
 The ID service returns the payload in a JSON object similar to the following example. Payload data is required by Target.
 
-```
+```javascript
 {
     "marketingCloudVisitorId": "02111696918527575543455026275721941645",
     "mboxParameters": {
@@ -121,15 +136,12 @@ Server state data contains information about work that's been done on the server
 
 If you've set up the ID service through a non-standard process, you will need to return server state with your own code. The client-side ID service and Analytics code passes state data to Adobe when the page loads.
 
- **Get Server State via DTM** 
+### Get Server State via DTM
 
 If you have implemented the ID service with DTM, you need to add code to your page and specify a name-value pair in the DTM settings.
 
-|DTM Modifications|Description|
-|-----------------|-----------|
-|  **Page Code** 
-
- | Add this code to the `<head>` tag of your HTML page:
+**Page Code** 
+Add this code to the `<head>` tag of your HTML page:
 
  ```javascript
 //Get server state
@@ -148,25 +160,22 @@ Response.send("
 ...
 ```
 
- |
-|  **DTM Settings** 
-
- | Add these as name-value pairs to the **General \> Settings** section of your ID service instance:
+**DTM Settings** 
+Add these as name-value pairs to the **General \> Settings** section of your ID service instance:
 
 + **Name:** serverState
 + **Value:** %serverState%
 
-**Important:** The value name must match the variable name you set for `serverState` in your page code.
+>[!IMPORTANT]
+>The value name must match the variable name you set for `serverState` in your page code.
 
+Your configured settings should look like this:
 
- Your configured settings should look like this:
+![](../../assets/server_side_dtm.png) 
 
- ![](media/implementation-other-setup-server-side/server_side_dtm.png) 
+See also, [Experience Cloud](../implementation-standard/dtm-settings.md).
 
- See also, [Experience Cloud](../implementation-standard/implementation-standard-dtm-settings.md).
-
- **Get Server State Without DTM** 
-
+**Get Server State Without DTM** 
 If you have a non-standard implementation of the ID service, you must configure this code to run on your server while it assembles the requested page:
 
 ```javascript
@@ -193,9 +202,3 @@ At this point, the web server sends page content to the visitor's browser. From 
 + The ID service receives state data from the server and passes the SDID to AppMeasurement.
 + AppMeasurement sends data about the page hit to Analytics, including the SDID.
 + Analytics and Target compare SDIDs for this visitor. With an identical SDID, Target and Analytics stitch the server-side call and the client-side call together. At this point, both solutions now recognize this visitor as the same person.
-
-[!MORE]
-
-+ [Server-Side ID Service Package from Node Package Manager](https://www.npmjs.com/package/@adobe-mcid/visitor-js-server)
-
-[!END]

@@ -31,67 +31,52 @@ The ID service returns data in a JSON object as shown below. Your response may b
 }
 ```
 
-## Request and Response Parameters Defined
+## Parameters Defined: Request
 
-### Request Parameters
+### `dpm.demdex.net` 
+A legacy domain controlled by Adobe. See [Understanding Calls to the Demdex Domain](https://marketing.adobe.com/resources/help/en_US/aam/demdex-calls.html).
 
-+ `dpm.demdex.net` 
-    + A legacy domain controlled by Adobe. See [Understanding Calls to the Demdex Domain](https://marketing.adobe.com/resources/help/en_US/aam/demdex-calls.html).
-+ `d_mid` 
-    + The Experience Cloud visitor ID. See [Cookies and the Experience Cloud ID Service](mcvid_cookies.html#).
-+ `d_orgid`
-    + Your Experience Cloud Organization ID. For help with finding this ID see, [Requirements for the Experience Cloud ID Service](mcvid-requirements.html#).
-+ `d_cid`
-    + An optional parameter that passes the Data Provider ID \(DPID\), the Unique User ID \(DPUUID\), and an [authenticated state ID](mcvid-authenticated-state.html#) to the ID service. As shown in the code sample, separate the DPID and DPUUID with the non-printing control character, `%01`.
+### `d_mid` 
+The Experience Cloud visitor ID. See [Cookies and the Experience Cloud ID Service](mcvid_cookies.html#).
 
-### DPID and DPUUID
+### `d_orgid`
+Your Experience Cloud Organization ID. For help with finding this ID see, [Requirements for the Experience Cloud ID Service](mcvid-requirements.html#).
 
-In the `d_cid` parameter, assign each related DPID and DPUUID combination to the same `d_cid` parameter. This lets you return multiple ID sets in a single request. Also, separate the DPID, DPUUID, and optional authentication flag with the non-printing control character, `%01`. In the examples below, the provider and user IDs are highlighted in **bold** text.
+### `d_cid`
+An optional parameter that passes the Data Provider ID \(DPID\), the Unique User ID \(DPUUID\), and an [authenticated state ID](mcvid-authenticated-state.html#) to the ID service. As shown in the code sample, separate the DPID and DPUUID with the non-printing control character, `%01`.
 
-+ Syntax: `...d_cid=**DPID**%01**DPUUID**%01authentication state...` 
-+ Example: `...d_cid=**123**%01**456**%011...` 
+DPID and DPUUID - In the `d_cid` parameter, assign each related DPID and DPUUID combination to the same `d_cid` parameter. This lets you return multiple ID sets in a single request. Also, separate the DPID, DPUUID, and optional authentication flag with the non-printing control character, `%01`. In the examples below, the provider and user IDs are highlighted in **bold** text.
 
-### Authentication State
-
-This is an optional ID in the `d_cid` parameter. Expressed as an integer, it identifies users according to their authentication status as shown below:
-
-+ `0` \(Unknown\)
-+ `1` \(Authenticated\)
-+ `2` \(Logged out\)
+| State                | Example                                                                                                                                                                                           |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Syntax               | `...d_cid=**DPID**%01**DPUUID**%01authentication state...`                                                                                                                                        |
+| Example              | `...d_cid=**123**%01**456**%011...`                                                                                                                                                               |
+| Authentication State | This is an optional ID in the `d_cid` parameter. Expressed as an integer, it identifies users according to their authentication status as shown:  `0` Unknown, `1` Authenticated, `2` Logged Out. |
 
 To specify an authentication state, you set this flag after the user ID \(UUID\) variable. Separate the UUID and authentication flag with the non-printing control character, `%01`. In the examples below, the authentication IDs are highlighted in **bold** text.
 
 Syntax: `...d_cid=DPID%01DPUUID%01**authentication state**` 
+Examples: 
 
-Examples:
+| State         | Parameters                       |
+| ------------- | -------------------------------- |
+| Unknown       | `...d_cid=123%01456%01**0**...`  |
+| Authenticated | `...d_cid=123%01456%01**1**...`  |
+| Logged Out    | `...d_cid=123%01456%01**2**...`  |
 
-+ Unknown: `...d_cid=123%01456%01**0**...` 
-+ Authenticated: `...d_cid=123%01456%01**1**...` 
-+ Logged out: `...d_cid=123%01456%01**2**...` 
+### `dcs_region` 
+The ID service is a geographically distributed and load-balanced system. The ID identifies the region of the data center handling the call. See [DCS Region IDs, Locations, and Host Names](https://marketing.adobe.com/resources/help/en_US/aam/dcs-regions.html).
 
- |
-|  `dcs_region` 
+### `d_cb` 
+*\(Optional\)* A callback parameter that lets you execute a JavaScript function in the request body.
 
- | The ID service is a geographically distributed and load-balanced system. The ID identifies the region of the data center handling the call. See [DCS Region IDs, Locations, and Host Names](https://marketing.adobe.com/resources/help/en_US/aam/dcs-regions.html).
+### `d_blob`
+An encrypted chunk of JavaScript metadata. Size constraints limit the blob to 512 bytes or less.
 
- |
-|  `d_cb` 
+### `d_ver`
+Required. This sets the API version number. Leave this set as `d_ver=2`.
 
- |  *\(Optional\)* A callback parameter that lets you execute a JavaScript function in the request body.
-
- |
-|  `d_blob` 
-
- | An encrypted chunk of JavaScript metadata. Size constraints limit the blob to 512 bytes or less.
-
- |
-|  `d_ver` 
-
- | Required. This sets the API version number. Leave this set as `d_ver=2`.
-
- |
-
- **Response Parameters** 
+## Parameters Defined: Response
 
 Some response parameters are part of the request and have been defined in the section above.
 
