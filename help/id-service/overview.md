@@ -11,7 +11,7 @@ index: yes
 translate: yes
 version: null
 private-feature-pack: null
-beta: null
+beta: no
 redirect: null
 
 ---
