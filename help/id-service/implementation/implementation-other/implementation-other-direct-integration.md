@@ -1,3 +1,21 @@
+---
+
+title: Direct Integration with the ID Service
+description: Implementation for customers using ID service on devices that cannot accept or work with our JavaScript or SDK code.
+seo-title: Direct Integration with the Adobe Experience Cloud ID Service
+seo-description: Implementation for customers using Adobe Experience Cloud ID service on devices that cannot accept or work with our JavaScript or SDK code.
+short-title: Direct Integration
+doc-type: article
+audience: 
+index: yes
+translate: yes
+version:
+private-feature-pack:
+beta:
+redirect:
+
+---
+
 # Direct Integration with the Experience Cloud ID Service
 
 This implementation lets customers use the ID service on devices that cannot accept or work with our JavaScript or SDK code. This includes devices such as gaming consoles, smart TVs, or other Internet-enabled appliances. Refer to this section for syntax, code samples, and definitions.
