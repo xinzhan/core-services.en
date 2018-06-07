@@ -32,6 +32,7 @@ user-guide: ID Service Admin Guide
 + ID Service API
     + API Configurations
         + [cookiedomain](id-service-api/id-service-api-configurations/id-service-api-configurations-cookiedomain.md)
+        + [cookielifetime](id-service-api/id-service-api-configurations/id-service-api-configurations-cookielifetime.md)
         + [cookies](id-service-api/id-service-api-configurations/id-service-api-configurations-cookies.md)
         + [coopsafe](id-service-api/id-service-api-configurations/id-service-api-configurations-coopsafe.md)
         + [disableidsync](id-service-api/id-service-api-configurations/id-service-api-configurations-disableidsync.md)
