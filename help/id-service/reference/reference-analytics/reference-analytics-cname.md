@@ -13,10 +13,6 @@ translate: yes
 
 # Data Collection CNAMEs and Cross-Domain Tracking
 
-[Delete Me](../../getting-started/getting-started-cookies.md)
-[Delete Me](./reference-analytics-faq.md)
-
-
 + If you have a main entry site where customers can be identified before they visit other domains, then a CNAME can enable cross-domain tracking in browsers that do not accept third-party cookies \(such as Safari\).
 + In browsers that accept third-party cookies, a cookie is set by the data collection servers during the request for a visitor ID. This cookie allows the visitor ID service to return the same Experience Cloud visitor ID on all domains that are configured using the same Experience Cloud Org ID.
 + In browsers that reject third-party cookies, a new Experience Cloud visitor ID is assigned for each domain.
