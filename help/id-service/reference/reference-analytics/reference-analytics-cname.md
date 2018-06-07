@@ -14,6 +14,7 @@ translate: yes
 # Data Collection CNAMEs and Cross-Domain Tracking
 
 [Delete Me](../../getting-started/getting-started-cookies.md)
+[Delete Me](./reference-analytics-faq.md)
 
 
 + If you have a main entry site where customers can be identified before they visit other domains, then a CNAME can enable cross-domain tracking in browsers that do not accept third-party cookies \(such as Safari\).
