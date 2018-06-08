@@ -65,7 +65,7 @@ user-guide: ID Service Admin Guide
     + [Data Workbench](reference/reference-dwb.md)
     + [Regions](reference/reference-regions.md)
     + [Requirements](reference/reference-requirements.md)
-    + [Video Heart Beat](reference/reference--video-heartbeat.md)
+    + [Video Heart Beat](reference/reference-video-heartbeat.md)
     + Analytics
         + [CNAME](reference/reference-analytics/reference-analytics-cname.md)
         + [Grace Period](reference/reference-analytics/reference-analytics-grace.md)
