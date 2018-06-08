@@ -36,6 +36,7 @@ user-guide: ID Service Admin Guide
         + [coopsafe](id-service-api/id-service-api-configurations/id-service-api-configurations-coopsafe.md)
         + [disableidsync](id-service-api/id-service-api-configurations/id-service-api-configurations-disableidsync.md)
         + [disablethirdpartycalls](id-service-api/id-service-api-configurations/id-service-api-configurations-disablethirdpartycalls.md)
+        + [disablecookies](id-service-api/id-service-api-configurations/id-service-api-configurations-disable-cookies.md)
         + [function vars](id-service-api/id-service-api-configurations/id-service-api-configurations-function-vars.md)
         + [idsyncattachiframeonwindowload](id-service-api/id-service-api-configurations/id-service-api-configurations-idsyncattachiframeonwindowload.md)
         + [idsyncontainerid](id-service-api/id-service-api-configurations/id-service-api-configurations-idsyncontainerid.md)
