@@ -60,5 +60,5 @@ Frequently asked questions about features, functionality, and issues related to 
 
 | Question                                                           | Description                                                                                                                                                                        |
 | :----------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Can I use Launch to deploy the visitor ID service? | Yes, this is the preferred and recommended deployment option. See [Standard Implementation with DTM](https://docs.adobelaunch.com/extension-reference/experience-cloud-id-service-extension) |
+| Can I use Launch to deploy the visitor ID service? | Yes, this is the preferred and recommended deployment option. See [Standard Implementation with Launch](https://docs.adobelaunch.com/extension-reference/experience-cloud-id-service-extension) |
 | Can I use Dynamic Tag Management to deploy the visitor ID service? | Yes, this is the previous deployment option that is still available. See [Standard Implementation with DTM](../implementation/implementation-standard/dtm.md) |
