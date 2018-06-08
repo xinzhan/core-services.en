@@ -89,9 +89,9 @@ Frequently asked questions about features, functionality, and issues related to 
     
 ### Security
 + **Does the ID service support CORS?**
-    + See [CORS Support in the Experience Cloud ID Service](../../reference/reference-cors.md)
+    + See [CORS Support in the Experience Cloud ID Service](../reference/reference-cors.md)
 + **What is CORS?**
     + Cross-Origin Resource Sharing or CORS, is a method that browsers use to request resources. The ID service always requests resources using CORS in browsers that support it. The ID service requests resources with JSON-P in older browsers that do not support CORS. See Experience Cloud.
 + **What if my security requirements are so strict that I never want to use JSONP?**
     + If you have strict security requirements, set the ID service API config useCORSOnly: true. You should only enable this mode if you’re confident that your site visitors use browsers that support CORS.
-    + See [Experience Cloud](../../reference/reference-cors.md) and useCORSOnly.
+    + See [Experience Cloud](../reference/reference-cors.md) and useCORSOnly.
