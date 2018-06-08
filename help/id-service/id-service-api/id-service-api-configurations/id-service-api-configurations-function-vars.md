@@ -59,7 +59,7 @@ Configure the Experience Cloud ID Service by passing these properties to the `Vi
 
 ---
 
-## [audienceManagerServer and audienceManagerServerSecure](id-service-api-configurations-subdomain-config.md) 
+## [audienceManagerServer and audienceManagerServerSecure](id-service-api-configuration-subdomain-config.md) 
 
 ## [cookieDomain](id-service-api-configurations-cookiedomain.md)  
 Required for multi-part, top-level domains where either of the last two parts of the URL are *greater than* 2 characters.
