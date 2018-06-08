@@ -2,20 +2,57 @@
 
 title: Setting Analytics and Experience Cloud IDs
 description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-SEO title: Setting Adobe Analytics and Experience Cloud ID Service IDs
-SEO description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-short-title:
-doc-type: article
-audience:
-author:
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Setting Adobe Analytics and Experience Cloud ID Service IDs
+seo-description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
+short-title: Setting IDs
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Setting Analytics and Experience Cloud IDs
 
@@ -25,10 +62,10 @@ After the ID service is implemented, this code executes before `AppMeasurement`.
 
 When `AppMeasurement` loads, the Experience Cloud and Analytics IDs values are requested from the ID service and are sent to data collection with each server call. Since the ID service determines the visitor ID and simply passes it to `AppMeasurement`, the ID service must be included and implemented on each page before your `AppMeasurement` JavaScript file.
 
-**Changes to the Analytics ID process**
+## Changes to the Analytics ID process
 The primary change when migrating to the Experience Cloud ID service is that the ID cookie is set using JavaScript, instead of in the HTTP header that is returned from the data collection web server. To understand this change, the following sections describe how cookies are set using these two methods.
 
-## HTTP Header
+### HTTP Header
 
 An HTTP response from a web server sets cookies in a browser. This is how the `s_vi` cookie is set. The `s_vi` cookie identifies Analytics visitors. After a cookie is set, it is sent with all subsequent HTTP requests to that server.
 
@@ -38,18 +75,18 @@ However, some browsers, such as Apple Safari, do not accept third-party cookies.
 
 To avoid this, many customers have implemented `CNAME` records for their data collection servers. This can be an effective part of a [first-party cookie implementation strategy](https://marketing.adobe.com/resources/help/en_US/whitepapers/first_party_cookies/). If a `CNAME` record is configured to map a hostname on the customer's domain to the data collection server \(e.g., `mapping metrics.mysite.com` to `mysite.omtrdc.net`\), the Experience Cloud ID cookie is stored because the data collection domain now matches the domain of the website. This increases the likelihood that the ID service cookie will be stored. However, this does introduce some overhead because you need to configure `CNAME` records and maintain SSL certificates for the data collection servers.
 
-## JavaScript
+### JavaScript
 
 JavaScript can read and write cookies set in the first-party domain (the domain of the current website). The Experience Cloud ID service uses this method to set the `AMCV_###@AdobeOrg cookie` that contains all of the visitor IDs, so the domain of the tracking server no longer needs to match the domain of the website in order for the visitor ID cookie to be stored. In most circumstances this is the preferred way to set the ID service cookie because it eliminates the overhead of `CNAME` records and SSL certificates.
 
 However, there are a few situations where setting the cookie in the HTTP header is beneficial for cross-domain tracking, which is described in Data Collection CNAMEs and Cross-Domain Tracking.
 
-## Custom Analytics IDs
+### Custom Analytics IDs
 Setting a customer ID using `s.visitorID` is a method of identifying users in Analytics. However, integrations in which Analytics data is exported or imported using the ID Service will not function when a visitor is identified using `s.visitorID`.
 
 This includes, but is not limited to, shared audiences, Analytics for Target (A4T), and Customer Attributes. For these integrations, setting a custom Analytics ID is not supported.
 
-## Analytics Visitor ID Order
+### Analytics Visitor ID Order
 After you deploy the visitor ID service, there are five ways a visitor can be identified in Analytics (listed in the following table in order of preference):
 
 1.

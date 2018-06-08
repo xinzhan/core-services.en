@@ -2,19 +2,57 @@
 
 title: Experience Cloud ID Service Migration Scenarios
 description: Migration scenarios for the Adobe Experience Cloud ID Service
-SEO title: Adobe Experience Cloud ID Service Migration Scenarios
-SEO description: Migration scenarios for the Adobe Experience Cloud ID Service
-short-title: free text
-doc-type: article
-author: name
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service Migration Scenarios
+seo-description: Migration scenarios for the Adobe Experience Cloud ID Service
+short-title: Migration scenarios
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Experience Cloud ID Service Migration Scenarios
 
@@ -24,8 +62,8 @@ Contains server example configurations and the required migration steps.
 
 + **Customer**: Example Company Inc.
 + **Experience Cloud enabled**: No
-+ **Web Properties**: example.com
-+ **Data collection servers**: metrics.example.com, smetrics.example.com
++ **Web Properties**: `example.com`
++ **Data collection servers**: `metrics.example.com`, `smetrics.example.com`
 + **Analytics JavaScript file**: A single file for all site pages
 
 Firstly, this customer should get enabled for the Experience Cloud \(see the [requirements](../reference-requirements.md)\). And, because they have a single JavaScript file, this customer does not need a grace period. This customer will also set up visitor migration and then migrate away from their data collection `CNAME`, which is not necessary.
@@ -34,8 +72,8 @@ Firstly, this customer should get enabled for the Experience Cloud \(see the [re
 
 + **Customer**: Another Example Company Inc.
 + **Experience Cloud enabled**: Yes
-+ **Web Properties**: anotherexample.com
-+ **Data collection servers**: anotherexampleco.112.2o7.net
++ **Web Properties**: `anotherexample.com`
++ **Data collection servers**: `anotherexampleco.112.2o7.net`
 + **Analytics JavaScript file**: Multiple JavaScript files. One file for their main site, another file for their support section that is maintained in a separate CMS.
 + **Other data collection methods**: Hard-coded image tags on one site section
 
@@ -47,8 +85,8 @@ When this customer updates to the latest Analytics JavaScript code in preparatio
 
 + **Customer**: A Good Customer LLC
 + **Experience Cloud enabled**: Yes
-+ **Web Properties**: mymainsite.com, myothersiteA.com, myothersiteB.com
-+ **Data collection servers**: metrics.mymainsite.com, smetrics.mymainsite.com
++ **Web Properties**: `mymainsite.com`, `myothersiteA.com`, `myothersiteB.com`
++ **Data collection servers**: `metrics.mymainsite.com`, `smetrics.mymainsite.com`
 + **Analytics JavaScript file**: Multiple JavaScript files. One file for each web property.
 + **Other data collection methods**: A Flash-based video player
 

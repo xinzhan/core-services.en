@@ -2,20 +2,57 @@
 
 title: Order of Operations for Analytics IDs
 description: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID ServiceI
-SEO title: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID Service
-SEO description: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID Service
-short-title:
-doc-type: article
-audience:
-author:
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID Service
+seo-description: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID Service
+short-title: order of operations
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Order of Operations for Analytics IDs
 
@@ -25,14 +62,11 @@ For example, if you are setting a custom visitor ID (included in the `vid` query
 
 1. **vid (s.visitorID)**\
 *Present when*: The `s.visitorID` is set.
-
-2. **aid (s_vi cookie)**\
+1. **aid (s_vi cookie)**\
 *Present when*: The visitor had an existing `s_vi` cookie before you deployed the Experience Cloud ID service, or you have a grace period configured.
-
-3. **Experience Cloud ID (MID)**\
+1. **Experience Cloud ID (MID)**\
 *Present when*: The visitor's browser accepts first-party cookies. This is set by the `AMCV` cookie.
-
-4. **fid (fallback cookie on H.25.3 or newer, or AppMeasurement for JavaScript)**\
+1. **fid (fallback cookie on H.25.3 or newer, or AppMeasurement for JavaScript)**\
 *Present when*: A browser doesn't accept third-party cookies and the Analytics tracking server is set up as a third-party tracking server.
 
 >[!NOTE]

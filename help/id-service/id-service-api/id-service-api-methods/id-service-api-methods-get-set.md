@@ -2,19 +2,57 @@
 
 title: Experience Cloud ID Service API Methods
 description: List of API Methods for the Adobe Experience Cloud ID Service
-SEO title: API Methods for the Adobe Experience Cloud ID Service
-SEO description: List of API Methods for the Adobe Experience Cloud ID Service
-short-title: free text
-doc-type: article
-author: name
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: API Methods for the Adobe Experience Cloud ID Service
+seo-description: List of API Methods for the Adobe Experience Cloud ID Service
+short-title: API Methods
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # List of Methods for the Experience Cloud ID Service
 
@@ -35,7 +73,7 @@ The ID service functions `idSyncByURL` and `idSyncByDataSource` let you manually
 `getInstance` returns a visitor ID object for the specified Experience Cloud organization ID. This is required to initialize the visitor ID object provided to AppMeasurement through `s.visitor`.
 
 ## [getAnalyticsVisitorID](id-service-api-methods-getanalyticsvisitorid.md)
-Returns the legacy Analytics ID \(if any\) that was stored in the `s_vi` cookie before the Experience Cloud ID service was implemented. It returns an empty string if a visitor was never assigned an Analytics ID.
+`getAnalyticsVisitorID` returns the legacy Analytics ID \(if any\) that was stored in the `s_vi` cookie before the Experience Cloud ID service was implemented. It returns an empty string if a visitor was never assigned an Analytics ID.
 
 ## [getCustomerIDs](id-service-api-methods-getcustomerids.md)
 `getCustomerIDs` returns any customer IDs set by the Experience Cloud ID service.
@@ -47,12 +85,10 @@ Returns the legacy Analytics ID \(if any\) that was stored in the `s_vi` cookie 
 `getMarketingCloudVisitorID` returns the Experience Cloud visitor ID.
 
 ## [getLocationHint](id-service-api-methods-getlocationhint.md)
-Returns the Experience Cloud ID service region ID. A region ID \(or location hint\), is a numeric identifier for the geographic location of a particular ID service data center. You need the region ID in order to make server-side API calls to Audience Manager.
+`getLocationHint` returns the Experience Cloud ID service region ID. A region ID \(or location hint\), is a numeric identifier for the geographic location of a particular ID service data center. You need the region ID in order to make server-side API calls to Audience Manager.
 
 ## [getVisitorValues](id-service-api-methods-getvisitorvalues.md)
-This is an asynchronous API that returns identifiers for Analytics, the ID service, data collection opt-out, geographic location, and metadata "blob" content by default. Also, you can control which IDs you want to return with the optional `visitor.FIELDS` enum.
-
-## [isClientSideMarketingCloudVisitorID](id-service-api-methods-client-side-id.md)
+`getVisitorValues` this is an asynchronous API that returns identifiers for Analytics, the ID service, data collection opt-out, geographic location, and metadata "blob" content by default. Also, you can control which IDs you want to return with the optional `visitor.FIELDS` enum.
 
 ## [resetState](id-service-api-methods-resetstate.md)
-This function is designed mainly for A4T customers to help solve issues related to working with IDs on single page sites/screens or apps.
+`resetState` This function is designed mainly for A4T customers to help solve issues related to working with IDs on single page sites/screens or apps.

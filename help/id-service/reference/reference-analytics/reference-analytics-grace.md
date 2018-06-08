@@ -2,20 +2,59 @@
 
 title: ID Service Grace Period
 description: Configuring a grace period with the Adobe Experience Cloud ID Service
-SEO title: Adobe Experience Cloud ID Service Grace Period
-SEO description: Configuring a grace period with the Adobe Experience Cloud ID Service
-short-title:
+seo-title: Adobe Experience Cloud ID Service Grace Period
+seo-description: Configuring a grace period with the Adobe Experience Cloud ID Service
+short-title: Grace period
 doc-type: article
-audience:
-author:
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+short-title: Test and verify
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # The ID Service Grace Period
 
@@ -30,12 +69,12 @@ Deploying the Experience Cloud ID service on sites that are using multiple JavaS
 >[!IMPORTANT]
 >Grace period support requires version 1.3 or later of the Experience Cloud ID service.
 
-## Do I need a grace period?
+## Do I need a grace period
 
 If you have a single Analytics JavaScript file and are not using any other `AppMeasurement` libraries, then you do not need a grace period. You can make the update in the single JavaScript file and new visitors will be consistently identified using the marketing cloud ID during the visit.
 
 If you have multiple JavaScript files that are sending data to the same report suite, or if you are using other technologies on your site such as Flash video measurement, we recommend configuring a grace period.
 
-## How can I enable a grace period?
+## How can I enable a grace period
 
 To enable a grace period, please contact [Adobe Customer Care](https://helpx.adobe.com/marketing-cloud/contact-support.html).

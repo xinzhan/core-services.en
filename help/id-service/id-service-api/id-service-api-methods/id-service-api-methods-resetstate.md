@@ -2,19 +2,57 @@
 
 title: API Methods - resetState
 description: resetState method for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Methods - resetState
-SEO description: resetState method for the Adobe Experience Cloud ID Service API
-short-title: free text
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service API Methods - resetState
+seo-description: resetState method for the Adobe Experience Cloud ID Service API
+short-title: resetState
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # resetState
 
@@ -38,14 +76,14 @@ See the code samples below.
 Your ID service implementation affects how you would use this function.
 
 
-## Server-Side Implementation
+### Server-Side Implementation
 
 A [server-side implementation](mcvid-setup-server-side.html) is for A4T customers with mixed server- and client-side implementations of Target, Analytics, and the ID service. 
 
 If you've set up the ID service with this method all you need to do is add `visitor.resetState()` to the page. 
 Calls to the ID service will return a new ID and server state automatically.
 
-## Non-Standard Implementation \(with ID\)
+### Non-Standard Implementation \(with ID\)
 
 If you've set up the ID service with a [non-standard implementation](mcvid-implementation-guides.html#section_2C4F2DB1F9704315A7CCCAB6D2E07113), you need to configure a variable object to hold the SDID \(or other IDs\) you want to pass with `visitor.resetState()`. 
 
@@ -74,7 +112,7 @@ var visitor = Visitor.getInstance ("Insert Experience Cloud organization ID here
 visitor.resetState(serverState);
 ```
 
-## Non-Standard Implementation \(without passing an ID\)
+### Non-Standard Implementation \(without passing an ID\)
 
 In this case, `visitor.resetState()` can be used to generate a new ID. This can be useful in a single-page app when a user navigates to a new screen without refreshing the page and you need a new ID.
 
@@ -99,6 +137,6 @@ var sdid1 = visitor.getSupplementalDataID("consumer3"); // sdid1: 5678
 var sdid2 = visitor.getSupplementalDataID("consumer4"); // sdid2: 5678
 ```
 
-## Dynamic Tag Manager \(DTM\)
+### Dynamic Tag Manager \(DTM\)
 
 Currently, there is no DTM configuration path for `visitor.resetState()`.

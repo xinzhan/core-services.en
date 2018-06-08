@@ -4,17 +4,55 @@ title: Direct integration use cases
 description: Direct integration use cases for the Adobe Experience Cloud ID Service
 seo-title: Direct integration use cases for ID Service
 seo-description: Direct integration use cases for the Adobe Experience Cloud ID Service
-short-title: 
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+short-title: Direct Integration
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Direct Integration Use Cases
 
@@ -54,7 +92,7 @@ Note how the sample call contains the:
 
 + MID: `d_mid=**1234**` 
 + MID joined to your unique ID for the visitor: `d_mid=**1234**&d_cid=**4444**%01**9876**%011` 
-+ Authentication state ID: `...d_cid=4444%019876%01**1**` \(hint: it's that last digit\).
++ Authentication state ID: `...d_cid=4444%019876%01**1**` \ (hint: it's that last digit\).
 
 ## Use Case 2: I Do Not Have a MID and Need to Generate It
 
@@ -62,7 +100,7 @@ Note how the sample call contains the:
 
 + Do not have a MID for the site visitor.
 + Need to request a MID from the ID service.
-+ Know your [organization ID](mcvid-requirements.html#section_A02F537129A64FFBB690D5738D360C26). Let's call this 5555.
++ Know your [organization ID](../../reference/reference-requirements.md). Let's call this 5555.
 
 ### Actions
 

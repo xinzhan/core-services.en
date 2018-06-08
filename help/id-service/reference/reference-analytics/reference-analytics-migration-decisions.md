@@ -2,20 +2,57 @@
 
 title: Experience Cloud ID Service Migration Decision Points
 description:  Understanding how the Adobe Experience Cloud ID Service affects visitor tracking on multiple domains and potential issues if you are collecting data with different methods or through JavaScript files
-SEO title: Experience Cloud ID Service Migration Decision Points
-SEO description: Understanding how the Adobe Experience Cloud ID Service affects visitor tracking on multiple domains and potential issues if you are collecting data with different methods or through JavaScript files
-short-title:
-doc-type: article
-audience:
-author:
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Experience Cloud ID Service Migration Decision Points
+seo-description: Understanding how the Adobe Experience Cloud ID Service affects visitor tracking on multiple domains and potential issues if you are collecting data with different methods or through JavaScript files
+short-title: Decision points
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Experience Cloud ID Service Migration Decision Points
 
@@ -27,10 +64,10 @@ Answers to the questions in this section help determine any additional migration
 + [If you have a data collection CNAME, do you have multiple domains?](reference-analytics-migration-decisions.md) 
 + [If you are keeping your data collection CNAME, is it mapped to omtrdc.net?](reference-analytics-migration-decisions.md) 
 + [If you do not have a data collection CNAME, is your data collection server \*.2o7.net or \*.sc.omtrdc.net?](reference-analytics-migration-decisions.md) 
-+ [Do you have multiple Analytics JavaScript files, or are you tracking Flash applications or videos?](reference-analytics-migration-decisions.md) 
++ [Do you have multiple Analytics JavaScript files, or are you tracking Flash applications or videos?](reference-analytics-migration-decisions.md)
 + [Are you using unsupported data collection methods?](reference-analytics-migration-decisions.md) 
 
-## Do you have a data collection CNAME?
+## Do you have a data collection CNAME
 
 Many customers can migrate away from a data collection `CNAME` as part of the ID service migration.
 
@@ -65,7 +102,7 @@ If you do remove the `CNAME`:
 
 If you decided to keep your `CNAME`, open a command prompt and ping your `CNAME`:
 
-```
+```javascript
 $: ping metrics.example.com
 PING example.com.d1.sc.omtrdc.net (66.235.139.256)
 ```
@@ -92,7 +129,8 @@ If you have multiple Analytics JavaScript files or Flash applications or videos 
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Multiple Analytics Javascript files or other data collection methods | You should configure a visitor ID service grace period so that you can roll out the visitor ID service to each JavaScript file and other data collection libraries. See ID Service Grace Period. |
 | A single Analytics JavaScript file                                   | You can update your single JavaScript file to use the visitor ID service without a grace period.                                                                                                 |
-## Are you using unsupported data collection methods?
+
+## Are you using unsupported data collection methods
 
 You might need to update the way you track links or migrate away from Sliverlight.
 

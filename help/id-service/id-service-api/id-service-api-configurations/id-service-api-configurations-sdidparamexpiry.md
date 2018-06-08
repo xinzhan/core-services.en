@@ -2,23 +2,61 @@
 
 title: API Configurations - sdidParamExpiry
 description: sdidParamExpiry configurations for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Configurations - sdidParamExpiry
-SEO description: sdidParamExpiry configurations for the Adobe Experience Cloud ID Service API
-short-title: free text
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service API Configurations - sdidParamExpiry
+seo-description: sdidParamExpiry configurations for the Adobe Experience Cloud ID Service API
+short-title: sdidParamExpiry
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
 
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
+
 # sdidParamExpiry
 
-This configuration lets you override the default Supplemental Data ID \(`SDID`\) expiration interval when passing that ID from one page to another using the `appendSupplementalDataIDTo` helper function. 
+This configuration lets you override the default Supplemental Data ID \(`SDID`\) expiration interval when passing that ID from one page to another using the `appendSupplementalDataIDTo` helper function.
 
 >[!IMPORTANT]
 >By default, the ID service code on the receiving page has 30 seconds to get the `SDID` from the URL sent by the referring page. If the ID service code on the receiving page can't retrieve the `SDID` in less than 30 seconds it requests a new `SDID`. This functionality is mainly for A4T customers who need to pass the `SDID` from one page to another and want control over this timeout interval.
@@ -28,7 +66,8 @@ This configuration lets you override the default Supplemental Data ID \(`SDID`\)
 If you need to change the default SDID timeout, add `sdidParamExpiry` to the `Visitor.getInstance` function with the following syntax:
 
 ## Syntax
-`sdidParamExpiry: time in seconds` 
+
+`sdidParamExpiry: time in seconds`
 
 ## Code Sample
 

@@ -2,26 +2,64 @@
 
 title: API Configurations - idSyncContainerID
 description: idSyncContainerID configurations for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Configurations - idSyncContainerID
-SEO description: idSyncContainerID configurations for the Adobe Experience Cloud ID Service API
-short-title: free text
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service API Configurations - idSyncContainerID
+seo-description: idSyncContainerID configurations for the Adobe Experience Cloud ID Service API
+short-title: idSyncContainerID
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
 
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
+
 # idSyncContainerID
 
-This property sets the data source container ID that you want to use for ID syncs.  
+This property sets the data source container ID that you want to use for ID syncs.
 
 ## Syntax
-`idSyncContainerID:container ID here` 
+`idSyncContainerID:container ID here`
 
 ## Code Sample
 
@@ -36,7 +74,6 @@ var visitor = Visitor.getInstance ("Insert Experience Cloud organization ID here
 ## What are Containers and When would I use them?
 
 ### Containers
-
 Containers are objects created by Audience Manager. Although they're not externally accessible, these container list all the data sources that:
 
 + Are available to you, but not used, for ID syncing.
@@ -49,14 +86,12 @@ Even if you're not an Audience Manager customer, your account will have these co
 Depending on your situation, you may or may not need to add this configuration to your ID service code.
 
 ### Not Needed
-
 You do not need to use this configuration if:
 
 + You use the ID service with any Experience Cloud solution and don't perform ID syncs with other data sources. In this case, your account has a default container with ID 0 and no action is required.
 + All your data sources are in a single container.
 
 ### Needed
-
 You need to use this configuration when all of these conditions apply:
 
 + You don't use Audience Manager.

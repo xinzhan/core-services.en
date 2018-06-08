@@ -2,40 +2,56 @@
 
 title: Overview of Experience Cloud ID Service
 description: The role of the Experience Cloud ID service in the Adobe Experience Cloud.
-SEO title: Experience Cloud ID Service Introduction and Overview
-SEO description: Introduction and overview to the Adobe Experience Cloud ID Service.
+seo-title: Experience Cloud ID Service Introduction and Overview
+seo-description: Introduction and overview to the Adobe Experience Cloud ID Service.
 short-title: Overview
-doc-type: article
+doc-type: reference
 audience: admin
-index: yes
-translate: yes
-version: null
-private-feature-pack: null
-beta: null
-redirect: null
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
 <!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
 
 audience:
 all (default), admin, developer, end-user
  
-index: yes (default), no
+index: true (default), false
  
 translate:
-yes (default), no
+true (default), false
  
+doc-type:
+reference (default), tutorials
+
 version:
-null (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
  
 private-feature-pack:
-null (default), yes?
+false (default), true
  
 beta:
-null (default), yes?
+false (default), true
  
 redirect:
-null (default), pathname
+false (default), pathname
 -->
 
 # Overview of Experience Cloud ID Service

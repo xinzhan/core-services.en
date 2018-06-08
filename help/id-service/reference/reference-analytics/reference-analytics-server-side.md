@@ -2,19 +2,57 @@
 
 title: Server-side Implementation Mixed with JavaScript
 description: Implementation of ID Service using both Server-side, mixed with JavaScript
-SEO title: Adobe Experience Cloud ID Service Server-side Implementation Mixed with JavaScript
-SEO description: Implementation of Adobe Experience Cloud ID Service using both Server-side, mixed with JavaScript
-short-title: free text
-doc-type: article
-author: name
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service Server-side Implementation Mixed with JavaScript
+seo-description: Implementation of Adobe Experience Cloud ID Service using both Server-side, mixed with JavaScript
+short-title: Test and verify
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Server-side Implementation Mixed with JavaScript
 

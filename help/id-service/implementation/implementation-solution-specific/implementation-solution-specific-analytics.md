@@ -4,23 +4,62 @@ title: Implement the ID Service for Analytics
 description: Instructions for Analytics customers who want to use the ID service and do not use Dynamic Tag Management.
 seo-title: Implement the Adobe Experience Cloud ID Service for Analytics
 seo-description: Instructions for Analytics customers who want to use the Adobe Experience Cloud ID service and do not use Dynamic Tag Management.
-short-title: 
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+short-title: Implement ID Service for AA
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Implement the ID Service for Analytics
 
 These instructions are for Analytics customers who want to use the Experience Cloud ID service and do not use Dynamic Tag Management \(DTM\). However, we strongly recommend that you use DTM to implement the ID service. DTM streamlines the implementation workflow and automatically ensures the correct code placement and sequencing.
 
 >[!IMPORTANT]
+>
 >+ [Read the requirements](../../reference/reference-requirements.md) before you begin.
 >+ Configure and test this code in a development environment before implementing it in production.
 
@@ -35,6 +74,7 @@ The ID Service requires the `VisitorAPI.js` code library. To download this code 
 ## Step 2. Add the Visitor.getInstance Function to the ID Service Code
 
 >[!IMPORTANT]
+>
 >+ Previous versions of the ID service API placed this function in a different location and required a different syntax. If you are migrating from a version prior to [version 1.4](mcvid-notes-2015.html#section_F5C596F355B14DA28F45C798DF513572), note the new placement and syntax documented here.
 >+ Code in ALL CAPS is a placeholder for actual values. Replace this text with your Organization ID, tracking server URL, or other named value.
 
@@ -51,7 +91,6 @@ var visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION-ID-HERE",
      marketingCloudServer: "INSERT-TRACKING-SERVER-HERE",
      marketingCloudServerSecure: "INSERT-SECURE-TRACKING-SERVER-HERE" // same as s.trackingServerSecure
 });
-
 ```
 
 ### Part 2: Add function code to the VisitorAPI.js file
@@ -80,14 +119,13 @@ var visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION-ID-HERE",
      marketingCloudServer: "INSERT-TRACKING-SERVER-HERE",
      marketingCloudServerSecure: "INSERT-SECURE-TRACKING-SERVER-HERE" // same as s.trackingServerSecure
 });
-
 ```
 
 ## Step 3: Add Your Experience Cloud Organization ID to Visitor.getInstance
 
 In the `Visitor.getInstance` function, replace `INSERT-MARKETING-CLOUD-ORGANIZATION ID-HERE` with your Experience Cloud organization ID. If you do not know your organization ID, you can find it on the Experience Cloud administration page. See also, [Administration - Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/admin_getting_started.html). Your edited function could look similar to the example below.
 
-`var visitor = Visitor.getInstance("1234567ABC@AdobeOrg", { ...` 
+`var visitor = Visitor.getInstance("1234567ABC@AdobeOrg", { ...`
 
 >[!IMPORTANT]
 >*Do not* change the case of the characters in your organization ID. The ID is case-sensitive and must be used exactly as provided.
@@ -100,21 +138,22 @@ Tracking servers are used for Analytics data collection.
 
 Check your `s_code.js` or `AppMeasurement.js` files to find the tracking server URLs. You'll want the URLs specified by these variables:
 
-+ `s.trackingServer` 
-+ `s.trackingServerSecure` 
++ `s.trackingServer`
++ `s.trackingServerSecure`
 
 ### Part 2: Set tracking server variables** 
 
 To determine which tracking server variables to use:
 
-1.  Answer the questions in the decision matrix below. Use the variables that correspond to your answers.
-2.  Replace the tracking server placeholders with your tracking server URLs.
-3.  Remove unused tracking server and Experience Cloud server variables from the code.
+1. Answer the questions in the decision matrix below. Use the variables that correspond to your answers.
+1. Replace the tracking server placeholders with your tracking server URLs.
+1. Remove unused tracking server and Experience Cloud server variables from the code.
 
- ![](../../assets/tracking-server-matrix.png) 
+ ![Tracking Server Matrix](../../assets/tracking-server-matrix.png) 
 
 >[!NOTE]
 >When used, match the Experience Cloud server URLs to their corresponding tracking server URLs like this:
+>
 >+ Experience Cloud server URL = tracking server URL
 >+ Experience Cloud server secure URL = tracking server secure URL
 >
@@ -124,7 +163,7 @@ To determine which tracking server variables to use:
 
 Add this function to your `AppMeasurement.js` or `s_code.js` file:
 
-`s.visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION ID-HERE");` 
+`s.visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION ID-HERE");`
 
 Place the code in the same section that contains configurations such as `linkInternalFilters`, `charSet`, `trackDownloads`, etc.
 
@@ -150,7 +189,6 @@ Move this code into production after testing and verification.
 
 If any of these use cases apply to your situation, ask [Customer Care](https://helpx.adobe.com/marketing-cloud/contact-support.html) to set up a temporary [grace period](mcvid_grace_period.html#). Grace periods can run for up to 180-days. You can renew a grace period if required.
 
-
 ### Partial Implementation Use Case
 
 You need a grace period if you have some pages that use the ID service and some pages that do not, and they all report into the same Analytics report suite. This is common if you have a global report suite that reports across domains.
@@ -159,9 +197,9 @@ Discontinue the grace period after the ID service is deployed on all your web pa
 
 ### s\_vi Cookie Requirements
 
-You need a grace period if you require new visitors to have an s\_vi cookie after migrating to the ID service. This is common if your implementation reads the s\_vi cookie and stores it in a variable.
+You need a grace period if you require new visitors to have an `s\_vi` cookie after migrating to the ID service. This is common if your implementation reads the `s\_v`i cookie and stores it in a variable.
 
-Discontinue the grace period after your implementation can capture the MID instead of reading the s\_vi cookie.
+Discontinue the grace period after your implementation can capture the MID instead of reading the `s\_vi` cookie.
 
 See, [Cookies and the Experience Cloud ID Service](../../getting-started/getting-started-cookies.md).
 
@@ -182,7 +220,7 @@ To test your ID service implementation, check for the:
 + [AMCV cookie](../../getting-started/getting-started-cookies.md) in the domain where your page is hosted.
 + MID value in the Analytics image request with the [Adobe debugger tool](https://marketing.adobe.com/resources/help/en_US/sc/implement/debugger.html).
 
-See, [Test and Verify the Experience Cloud ID Service](mcvid-test-verify.html#).
+See [Test and Verify the Experience Cloud ID Service](../../implementation/implementation-standard/test-verify.md).
 
 ### Deployment
 

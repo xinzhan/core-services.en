@@ -5,16 +5,54 @@ description: An optional Boolean flag that controls how the browser requests res
 seo-title: useCORSOnly for Adobe Experience Cloud ID Service
 seo-description: useCORSOnly is an optional Boolean flag that controls how the browser requests resources from the Experience Cloud ID service
 short-title: useCORSOnly
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # useCORSOnly
 
@@ -22,7 +60,7 @@ An optional, Boolean flag that controls how the browser requests resources from 
 
 ## Syntax: 
 
-*useCORSOnly: true|false* (default is *false*.)
+`useCORSOnly: true|false` (default is *false*.)
 
 ## Overview
 

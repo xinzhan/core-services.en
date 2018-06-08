@@ -2,25 +2,63 @@
 
 title: API Methods - getInstance
 description: getInstance method for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Methods - getInstance
-SEO description: getInstance method for the Adobe Experience Cloud ID Service API
-short-title: free text
-doc-type: article
-author: name
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service API Methods - getInstance
+seo-description: getInstance method for the Adobe Experience Cloud ID Service API
+short-title: getInstance
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # getInstance
 
 `getInstance` returns a visitor ID object for the specified Experience Cloud organization ID. This is required to initialize the visitor ID object provided to AppMeasurement through `s.visitor`.
 
-## Syntax 
+## Syntax
 
 ### JavaScript
 
@@ -59,6 +97,8 @@ If `getInstance` doesn't find an existing instance, an new instance is created a
 
 ## Common Use
 
-The Experience Cloud ID service API maintains a list of all instances created for each Adobe Experience Cloud organization ID. If the application using the ID service API isn't passing around a reference to the instance, it can find that instance by calling `getInstance` instead of creating a new one. This also provides support for multiple instances for different organizations in the same web page or application.
+The Experience Cloud ID service API maintains a list of all instances created for each Adobe Experience Cloud organization ID.
+
+If the application using the ID service API isn't passing around a reference to the instance, it can find that instance by calling `getInstance` instead of creating a new one. This also provides support for multiple instances for different organizations in the same web page or application.
 
 This is useful for applications that don't have a clear `init` phase, but need to call into the ID service API in multiple places. You can call `getInstance` in all of those places and the first to execute will create the instance. The existing instance will be returned by subsequent calls.

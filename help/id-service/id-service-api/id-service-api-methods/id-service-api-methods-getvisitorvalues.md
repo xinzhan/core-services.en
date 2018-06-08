@@ -2,19 +2,57 @@
 
 title: API Methods - getVisitorValues
 description: getVisitorValues method for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Methods - getVisitorValues
-SEO description: getVisitorValues helper method for the Adobe Experience Cloud ID Service API
-short-title: free text
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service API Methods - getVisitorValues
+seo-description: getVisitorValues helper method for the Adobe Experience Cloud ID Service API
+short-title: getVisitorValues
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # getVisitorValues
 
@@ -22,17 +60,16 @@ This is an asynchronous API that returns identifiers for Analytics, the ID servi
 
 ## Syntax
 
-This function uses the following syntax \(italics represents a placeholder for a variable\): `var values = visitor.getVisitorValues (callback, [visitor.FIELDS.ID type, visitor.FIELDS.ID type]);` 
+This function uses the following syntax \(italics represents a placeholder for a variable\): `var values = visitor.getVisitorValues (callback, [visitor.FIELDS.ID type, visitor.FIELDS.ID type]);`
 
 In the function parameters:
 
 + `callback` represents your own callback code that receives the returned IDs.
-+ *\(Optional\)* `visitor.FIELDS.ID type` is an enum that lets you specify which [ID values](mcvid-getvisitorvalues.html#section_4C4C300167694C6FBFF1D6C612F372B5) you want this function to return.
++ *\(Optional\)* `visitor.FIELDS.ID type` is an enum that lets you specify which `getvisitorvalues` you want this function to return.
 
 See the following use cases and definitions for more information.
 
-## Use Case 1: Request the Default Data Set
-
+### Use Case 1: Request the Default Data Set
 This code returns the standard data set. Your request and response could look similar to the following examples.
 
 ```javascript
@@ -56,8 +93,7 @@ In the default sample response, some values have been shortened for demonstratio
 }
 ```
 
-## Use Case 2: Request a Custom Data Set
-
+### Use Case 2: Request a Custom Data Set
 This code uses an optional array to return a specific set of IDs using the `visitor.FIELDS` enum. In this case, we only want the visitor's Experience Cloud ID \(MCID\) and Analytics ID \(MCAID\). Your request and response could look similar to the following examples.
 
 ```javascript

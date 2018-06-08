@@ -5,20 +5,60 @@ description: Call these ID service functions to determine the timeout status for
 seo-title: callTimeOut Methods
 seo-description: Call these ID service functions to determine the timeout status for an Adobe Experience Cloud ID service, Analytics, or Audience Manager ID request.
 short-title: callTimeOut Methods
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
 
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
+
 # callTimeOut Methods
 
-Call these ID service functions to determine the timeout status for a Experience Cloud ID service, Analytics, or Audience Manager ID request. Available in `VisitorAPI.js` version 1.7.0 or higher.
+Call these ID service functions to determine the timeout status for a Experience Cloud ID service, Analytics, or Audience Manager ID request. 
+
+Available in `VisitorAPI.js` version 1.7.0 or higher.
 
 ## Timeout Functions
 

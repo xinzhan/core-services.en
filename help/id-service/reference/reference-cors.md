@@ -1,22 +1,58 @@
 ---
 
-title: API Methods - appendSupplementalDataIDTo
-description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Methods - appendSupplementalDataIDTo
-SEO description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+title: CORS Support in the Experience Cloud ID Service
+description: Browsers use Cross Origin Resource Sharing (CORS) to request resources from a domain other than the current domain.
+seo-title: CORS Support in the Experience Cloud ID Service
+seo-description: Browsers use Cross Origin Resource Sharing (CORS) to request resources from a domain other than the current domain.
+short-title: CORS Support
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # CORS Support in the Experience Cloud ID Service
 
@@ -43,6 +79,6 @@ The preflight check is transparent to the app, API, or script that requests a re
 + `Origin:` A request header that identifies the source of a request.
 + `Access-Control-Allow-Origin:` A response header that indicates if a resource can be shared with the requestor.
 
-Let's take a look at how these headers work. 
+Let's take a look at how these headers work.
 
 In this example, say we have a financial services company that has implemented the Experience Cloud ID service on their site, `www.finance-website.com`. The following table defines how the CORS request and response headers check for access to a resource.

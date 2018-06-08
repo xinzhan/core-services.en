@@ -4,23 +4,61 @@ title: Server-side implementation of ID Service
 description: Implementing A4T with mixed server- and client-side implementations of Target, Analytics, and the ID service.
 seo-title: Server-side implementation of ID Service
 seo-description: Implementing A4T with mixed server- and client-side implementations of Target, Analytics, and the Adobe Experience Cloud ID service.
-short-title: 
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+short-title: Server-side implementation
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
 
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
+
 # Server-Side Implementation of the Experience Cloud ID Service
 
-These instructions are for Analytics for Target (A4T) customers with mixed server- and client-side implementations of Target, Analytics, and the ID service. Customers who need to run the ID service in a NodeJS or Rhino environment should also review this information. 
+These instructions are for Analytics for Target (A4T) customers with mixed server- and client-side implementations of Target, Analytics, and the ID service. Customers who need to run the ID service in a NodeJS or Rhino environment should also review this information.
 
-This instance of the ID service uses a shortened version the `VisitorAPI.js` code library, which you download and install from Node Package Manager \(NPM\). 
+This instance of the ID service uses a shortened version the `VisitorAPI.js` code library, which you download and install from Node Package Manager \(NPM\).
 
 Review this section for installation instructions and other configuration requirements.
 
@@ -41,7 +79,7 @@ See the [ID service NPM repository](https://www.npmjs.com/package/@adobe-mcid/vi
 
 The diagram and sections below describe what happens, and what you need to configure, in each step of the server-side implementation process.
 
-![](../../assets/serverside.png) 
+![Server-side workflow](../../assets/serverside.png)
 
 ## Step 1: Request Page
 
@@ -103,9 +141,9 @@ The ID service returns the payload in a JSON object similar to the following exa
 
 If your visitor doesn't have an AMCV cookie, the payload omits these key-value pairs:
 
-+ `marketingCloudvisitorId` 
-+ `mboxAAMB` 
-+ `mboxMCGLH` 
++ `marketingCloudvisitorId`
++ `mboxAAMB`
++ `mboxMCGLH`
 
 ## Step 3: Add Payload to the Target Call
 
@@ -127,12 +165,11 @@ After your server receives payload data from the ID service, you need to instant
      "vst.userid.authState": 0,
      }
 }
-
 ```
 
 ## Step 4: Get Server State for the ID Service
 
-Server state data contains information about work that's been done on the server. The client-side ID service code requires this information. Customers who have implemented the ID service through Dynamic Tag Manager \(DTM\) can configure DTM to pass server state data through that tool. 
+Server state data contains information about work that's been done on the server. The client-side ID service code requires this information. Customers who have implemented the ID service through Dynamic Tag Manager \(DTM\) can configure DTM to pass server state data through that tool.
 
 If you've set up the ID service through a non-standard process, you will need to return server state with your own code. The client-side ID service and Analytics code passes state data to Adobe when the page loads.
 
@@ -140,8 +177,7 @@ If you've set up the ID service through a non-standard process, you will need to
 
 If you have implemented the ID service with DTM, you need to add code to your page and specify a name-value pair in the DTM settings.
 
-**Page Code** 
-Add this code to the `<head>` tag of your HTML page:
+**Page Code** Add this code to the `<head>` tag of your HTML page:
 
  ```javascript
 //Get server state
@@ -160,7 +196,7 @@ Response.send("
 ...
 ```
 
-**DTM Settings** 
+**DTM Settings**
 Add these as name-value pairs to the **General \> Settings** section of your ID service instance:
 
 + **Name:** serverState
@@ -175,7 +211,7 @@ Your configured settings should look like this:
 
 See also, [Experience Cloud](../implementation-standard/dtm-settings.md).
 
-**Get Server State Without DTM** 
+**Get Server State Without DTM**
 If you have a non-standard implementation of the ID service, you must configure this code to run on your server while it assembles the requested page:
 
 ```javascript

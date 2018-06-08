@@ -5,26 +5,68 @@ description: Implementation for customers using ID service on devices that canno
 seo-title: Direct Integration with the Adobe Experience Cloud ID Service
 seo-description: Implementation for customers using Adobe Experience Cloud ID service on devices that cannot accept or work with our JavaScript or SDK code.
 short-title: Direct Integration
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
 
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
+
 # Direct Integration with the Experience Cloud ID Service
 
-This implementation lets customers use the ID service on devices that cannot accept or work with our JavaScript or SDK code. This includes devices such as gaming consoles, smart TVs, or other Internet-enabled appliances. Refer to this section for syntax, code samples, and definitions.
+This implementation lets customers use the ID service on devices that cannot accept or work with our JavaScript or SDK code. This includes devices such as gaming consoles, smart TVs, or other Internet-enabled appliances. 
+
+Refer to this section for syntax, code samples, and definitions.
 
 ## Syntax
 
-Devices that cannot use the `VisitorAPI.js` or SDK code libraries can make calls directly to the data collection servers \(DCS\) used by the ID service. To do this, you would call `dpm.demdex.net` and format your request as shown below. *Italics* indicates a variable placeholder.
+Devices that cannot use the `VisitorAPI.js` or SDK code libraries can make calls directly to the data collection servers \(DCS\) used by the ID service. 
 
-![](../../assets/directSyntax.png) 
+To do this, you would call `dpm.demdex.net` and format your request as shown below. *Italics* indicates a variable placeholder.
+
+![directSyntax example](../../assets/directSyntax.png) 
 
 In this syntax example, the `d_` prefix identifies the key-value pairs in the call as a system-level variable. You can pass quite a few `d_` parameters to the ID service, but stay focused on the key-value pairs as shown in the code above. For more information about other variables, see [Supported Attributes for DCS API calls](https://marketing.adobe.com/resources/help/en_US/aam/dcs-keys.html).
 
@@ -34,7 +76,7 @@ The ID service supports HTTP and HTTPS calls. Use HTTPS to pass data from a secu
 
 Your request could look similar to the sample shown below. Long variables have been shortened.
 
-![](../../assets/directExample.png) 
+![Direct example](../../assets/directExample.png)
 
 ## Sample Response
 
@@ -51,19 +93,21 @@ The ID service returns data in a JSON object as shown below. Your response may b
 
 ## Parameters Defined: Request
 
-### `dpm.demdex.net` 
+### `dpm.demdex.net`
 A legacy domain controlled by Adobe. See [Understanding Calls to the Demdex Domain](https://marketing.adobe.com/resources/help/en_US/aam/demdex-calls.html).
 
 ### `d_mid` 
-The Experience Cloud visitor ID. See [Cookies and the Experience Cloud ID Service](mcvid_cookies.html#).
+The Experience Cloud visitor ID. See [Cookies and the Experience Cloud ID Service](../../getting-started/getting-started-cookies.md).
 
 ### `d_orgid`
-Your Experience Cloud Organization ID. For help with finding this ID see, [Requirements for the Experience Cloud ID Service](mcvid-requirements.html#).
+Your Experience Cloud Organization ID. For help with finding this ID see, [Requirements for the Experience Cloud ID Service](../../reference/reference-requirements.md).
 
 ### `d_cid`
 An optional parameter that passes the Data Provider ID \(DPID\), the Unique User ID \(DPUUID\), and an [authenticated state ID](mcvid-authenticated-state.html#) to the ID service. As shown in the code sample, separate the DPID and DPUUID with the non-printing control character, `%01`.
 
-DPID and DPUUID - In the `d_cid` parameter, assign each related DPID and DPUUID combination to the same `d_cid` parameter. This lets you return multiple ID sets in a single request. Also, separate the DPID, DPUUID, and optional authentication flag with the non-printing control character, `%01`. In the examples below, the provider and user IDs are highlighted in **bold** text.
+DPID and DPUUID - In the `d_cid` parameter, assign each related DPID and DPUUID combination to the same `d_cid` parameter. This lets you return multiple ID sets in a single request. Also, separate the DPID, DPUUID, and optional authentication flag with the non-printing control character, `%01`. 
+
+In the examples below, the provider and user IDs are highlighted in **bold** text.
 
 | State                | Example                                                                                                                                                                                           |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

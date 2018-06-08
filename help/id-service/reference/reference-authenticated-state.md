@@ -2,21 +2,57 @@
 
 title: API Methods - appendSupplementalDataIDTo
 description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Methods - appendSupplementalDataIDTo
-SEO description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+seo-title: Adobe Experience Cloud ID Service API Methods - appendSupplementalDataIDTo
+seo-description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
+short-title: appendSupplementalDataIDTo
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Customer IDs and Authentication States
 
@@ -25,27 +61,21 @@ Along with the Experience Cloud visitor ID, you can associate additional custome
 ## Authentication States
 The setCustomerIDs method accepts multiple customer IDs for the same visitor. This helps you identify or target an individual user across different devices. For example, you can upload these IDs as customer attributes to the Experience Cloud and access this data across the different solutions.
 
-[!IMPORTANT]
-
-`setCustomerIDs` (customer ID synchronization) is required by customer attributes and core services functionality. Synching customer IDs is an optional identification method for Analytics. Target requires `Visitor.AuthState.AUTHENTICATED` for Customer Attributes to work. 
-
-[See Core Services - How to Enable Your Solutions]( ) for examples.
-
-[!END]
+>[!IMPORTANT]
+>
+>`setCustomerIDs` (customer ID synchronization) is required by customer attributes and core services functionality. Synching customer IDs is an optional identification method for Analytics. Target requires `Visitor.AuthState.AUTHENTICATED` for Customer Attributes to work.
 
 Beginning with Experience Cloud ID service v1.5+, `setCustomerIDs` includes the optional `AuthState` object. `AuthState` identifies visitors according to their authentication status (e.g., logged in, logged out). You set the authentication state with a status value listed in the table. Authentication status is returned as an integer.
 
 ## Set Customer IDs and Authenticated States
 Customer IDs can include combinations of IDs and authenticated states as shown in the following examples.
 
-[!IMPORTANT]
-
-+ IDs are case-sensitive.
-+ Only use un-encoded values for your IDs.
-+ Customer IDs and authentication states are not stored in the visitor ID cookie. They must be set for every page or application context.
-+ You should not include any Personally Identifiable Information (PII) in the customer IDs. If you are using PII to identify a visitor (such as an email address), we recommend storing a hashed or encrypted version of the information instead.
-
-[!END]
+>[!IMPORTANT]
+>
+>+ IDs are case-sensitive.
+>+ Only use un-encoded values for your IDs.
+>+ Customer IDs and authentication states are not stored in the visitor ID cookie. They must be set for every page or application context.
+>+ You should not include any Personally Identifiable Information (PII) in the customer IDs. If you are using PII to identify a visitor (such as an email address), we recommend storing a hashed or encrypted version of the information instead.
 
 ```javascript
 // Single ID with a single authentication state
@@ -98,7 +128,7 @@ visitor.setCustomerIDs({
 
 Use getCustomerIDs to return customer IDs and related authenticated states. This method returns a visitor's authenticated state as an integer.
 
-**Syntax**
+### Syntax
 
 `getCustomerIDs` returns data with the following syntax.
 
@@ -116,7 +146,7 @@ Use getCustomerIDs to return customer IDs and related authenticated states. This
 }
 ```
 
-## Examples
+### Examples
 
 Returned customer IDs and authentication state data should look similar to the following examples.
 

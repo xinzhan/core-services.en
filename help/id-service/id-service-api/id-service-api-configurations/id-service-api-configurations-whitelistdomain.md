@@ -2,26 +2,64 @@
 
 title: API Configurations - whitelistParentDomain and whitelistIframeDomains
 description: whitelistParentDomain and whitelistIframeDomains configurations for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Configurations - whitelistParentDomain and whitelistIframeDomains
-SEO description: whitelistParentDomain and whitelistIframeDomains configurations for the Adobe Experience Cloud ID Service API
-short-title: free text
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service API Configurations - whitelistParentDomain and whitelistIframeDomains
+seo-description: whitelistParentDomain and whitelistIframeDomains configurations for the Adobe Experience Cloud ID Service API
+short-title: whitelistParentDomain
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
 
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
+
 # whitelistParentDomain and whitelistIframeDomains
 
-These configurations let different instances of ID service code implemented in an iFrame and on the parent page communicate with each other. They're designed to help resolve problems with two specific use cases where you may or may not control the parent page/domain and you have ID service code loading in the iFrame of a domain that you do control. 
+These configurations let different instances of ID service code implemented in an iFrame and on the parent page communicate with each other. They're designed to help resolve problems with two specific use cases where you may or may not control the parent page/domain and you have ID service code loading in the iFrame of a domain that you do control.
 
 They are available in `VisitorAPI.js` code version 2.2, or higher.
-  
+
 ## Syntax
 
 Both configuration elements are required when you use this code.
@@ -76,13 +114,11 @@ Given these conditions, the ID service:
 + Does not work in the iFrame. 
     + This is because the browser sees the iFrame as a third-party domain and prevents the ID service from setting the AMCV cookie.
 
-
 **Solution**
 
 + Modify the ID service `Visitor.getInstance` function in the iFrame with these white list configurations. 
     + Specify the parent and child domains in the code. These configurations let the ID service code in the iFrame check the ID service code on the parent page for a visitor ID.
 + If the ID service code in the iFrame doesn't receive a response parent page, these configurations generate a local visitor ID.
-
 
 ### Use Case 2: Requesting an ID from an iFrame embedded in a parent page you do not control or that does not use the ID service
 

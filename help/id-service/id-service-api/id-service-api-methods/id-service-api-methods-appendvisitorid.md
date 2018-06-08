@@ -2,19 +2,57 @@
 
 title: API Methods - appendVisitorIDsTo
 description: appendVisitorIDsTo method for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Methods - appendVisitorIDsTo
-SEO description: appendVisitorIDsTo method for the Adobe Experience Cloud ID Service API
-short-title: free text
-doc-type: article
-author: name
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service API Methods - appendVisitorIDsTo
+seo-description: appendVisitorIDsTo method for the Adobe Experience Cloud ID Service API
+short-title: appendVisitorIDsTo
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # appendVisitorIDsTo \(Cross-Domain Tracking\)
 
@@ -22,16 +60,16 @@ This function lets you share a visitor's Experience Cloud ID across domains when
 
 ## Track Visitors Across Domains When Browsers Block Third-Party Cookies
 
-ID service writes a first- and third-party cookie to the browser when a person visit your site \(see [Cookies and the Experience Cloud ID Service](mcvid_cookies.html#) \). The first-party cookie contains the MID, a unique ID for that visitor. The third-party cookie contains another ID used by the ID service to generate the MID. When a browser blocks this third-party cookie, the ID service cannot:
+ID service writes a first- and third-party cookie to the browser when a person visit your site \(see [Cookies and the Experience Cloud ID Service](../../getting-started-cookies.md) \). The first-party cookie contains the `MID`, a unique ID for that visitor. The third-party cookie contains another ID used by the ID service to generate the `MID`. When a browser blocks this third-party cookie, the ID service cannot:
 
 + Regenerate the unique ID for that site visitor when they navigate to another domain.
 + Track visitors across different domains owned by your organization.
 
 To help solve this problem, implement `Visitor.appendVisitorIDsTo(url)`. This property lets the ID service track site visitors across multiple domains even when their browsers block third-party cookies. It works like this:
 
-+ As a visitor browses to your other domains, the `Visitor.appendVisitorIDsTo(url)` appends the MID as a query parameter in the URL redirect from the original domain to the destination domain.
-+ The ID service code on the destination domain extracts the MID from the URL instead of sending a request to Adobe for that visitor's ID. This request includes the third-party cookie ID, which is not available in this case.
-+ The ID service code on the destination page uses the passed-in MID to track the visitor.
++ As a visitor browses to your other domains, the `Visitor.appendVisitorIDsTo(url)` appends the `MID` as a query parameter in the URL redirect from the original domain to the destination domain.
++ The ID service code on the destination domain extracts the `MID` from the URL instead of sending a request to Adobe for that visitor's ID. This request includes the third-party cookie ID, which is not available in this case.
++ The ID service code on the destination page uses the passed-in `MID` to track the visitor.
 
 See the code sample for details.
 

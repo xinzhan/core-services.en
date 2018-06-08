@@ -1,23 +1,58 @@
 ---
 
-title: API Methods - appendSupplementalDataIDTo
-description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-short title: appendSupplementalDataIDTo
-SEO title: Adobe Experience Cloud ID Service API Methods - appendSupplementalDataIDTo
-SEO description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-author: giurgiu
-doc type: technical doc
-archetype: administrator
-machine translation: y
-business unit: digital-experience
-cloud: experience-cloud
-solution: core-services-id-service
-guide: Admin
-guide topic: ID Service API
-guide subtopic 1: ID Service API Configurations
-guide subtopic 2:
+title: Requirements for the Experience Cloud ID Service
+description: Review this section to make sure you're using the right solutions, services, and code versions required by the Experience Cloud ID service
+seo-title: Requirements for the Experience Cloud ID Service
+seo-description: Review this section to make sure you're using the right solutions, services, and code versions required by the Experience Cloud ID service
+short-title: Requirements
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Requirements for the Experience Cloud ID Service
 
@@ -37,7 +72,9 @@ A successful, supported implementation meets (or exceeds) the code requirements 
 
 To use the ID service, your company must be enabled for the Experience Cloud and have an Organization ID. Check the following list if you're unsure of your company's Experience Cloud status and need to find your Organization ID.
 
->[!IMPORTANT] The Organization ID is case sensitive and must be used exactly as provided.
+>[!IMPORTANT]
+>
+>The Organization ID is case sensitive and must be used exactly as provided.
 
 | Experience Cloud Status | Description                                                                                                                                                                                                                                                                                                                                                                 |
 | :---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -73,11 +110,14 @@ At a minimum, the ID service requires the SDK versions listed below.
 + Android: 4.11.0
 + iOS: 4.11.0
 
->[!NOTE] Tip: We recommend that you use the latest code versions rather than the required minimums.
+>[!NOTE]
+>
+>We recommend that you use the latest code versions rather than the required minimums.
 
 Your SDK code must be enabled for the ID service. Enable and download the latest SDK code for each app from your Adobe Mobile Services account. 
 
->[!MORE]
->+ [Configure SDK Visitor ID Service Options](https://marketing.adobe.com/resources/help/en_US/mobile/t_config_visitor.html)
->+ [Android SDK methods](https://marketing.adobe.com/resources/help/en_US/mobile/android/c_marketing_cloud.html)
->+ [iOS SKD methods](https://marketing.adobe.com/resources/help/en_US/mobile/ios/marketing_cloud.html)
+More information
+
++ [Configure SDK Visitor ID Service Options](https://marketing.adobe.com/resources/help/en_US/mobile/t_config_visitor.html)
++ [Android SDK methods](https://marketing.adobe.com/resources/help/en_US/mobile/android/c_marketing_cloud.html)
++ [iOS SKD methods](https://marketing.adobe.com/resources/help/en_US/mobile/ios/marketing_cloud.html)

@@ -2,19 +2,57 @@
 
 title: API Methods - ID Synchronization by URL or Data Source
 description: ID Synchronization by URL or Data Source for the Adobe Experience Cloud ID Service API
-SEO title: Adobe Experience Cloud ID Service API Methods - ID Synchronization by URL or Data Source
-SEO description: ID Synchronization by URL or Data Source for the Adobe Experience Cloud ID Service API
-short-title: free text
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+seo-title: Adobe Experience Cloud ID Service API Methods - ID Synchronization by URL or Data Source
+seo-description: ID Synchronization by URL or Data Source for the Adobe Experience Cloud ID Service API
+short-title: ID sync
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # ID Synchronization by URL or Data Source
 
@@ -53,7 +91,7 @@ Both functions return `Successfully queued` if successful. They return an error 
 
 ### visitor.idSyncByURL
 
-*Sample Code*
+**Sample Code**
 
 ```javascript
 //Instatiate Visitor
@@ -66,15 +104,14 @@ visitor.idSyncByURL({
 	minutesToLive: 20160 // optional, defaults to 20160 minutes (14 days) 
 });
 ```
-*Sample Output*
+
+**Sample Output**
 
 `http://su.addthis.com/red/usync?pid=16&puid=28777806459181003670799219185178493848&url=http%3A%2F%2Fdpm.demdex.net%2Fibs%3Adpid%3D420%26dpuuid%3D%7B%7Buid%7D%7D`
 
----
-
 ### visitor.idSyncByDataSource
 
-*Sample Code*
+**Sample Code**
 
 ```javascript
 //Instantiate Visitor
@@ -87,8 +124,8 @@ visitor.idSyncByDataSource({
 });
 ```
 
-*Sample Output*
-`http://dpm.demdex.net/ibs:dpid=24&dpuuid=98765`
+**Sample Output**
 
+`http://dpm.demdex.net/ibs:dpid=24&dpuuid=98765`
 
 For more see [DIL idSync](https://marketing.adobe.com/resources/help/en_US/aam/r_dil_idsync.html)

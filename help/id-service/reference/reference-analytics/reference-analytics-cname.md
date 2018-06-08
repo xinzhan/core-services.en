@@ -1,22 +1,64 @@
 ---
 title: Data Collection CNAMEs and Cross-Domain Tracking
 description: Data Collection CNAMEs and Cross-Domain Tracking when implementing Adobe Experience Cloud ID Service
-SEO title: Data Collection CNAMEs and Cross-Domain Tracking in the Adobe Experience Cloud ID Service
-SEO description: Data Collection CNAMEs and Cross-Domain Tracking when implementing Adobe Experience Cloud ID Service
-short-title:
-doc-type: article
-audience:
-author:
-index: yes
-translate: yes
+seo-title: Data Collection CNAMEs and Cross-Domain Tracking in the Adobe Experience Cloud ID Service
+seo-description: Data Collection CNAMEs and Cross-Domain Tracking when implementing Adobe Experience Cloud ID Service
+short-title: Data collection
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
+
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Data Collection CNAMEs and Cross-Domain Tracking
 
-+ If you have a main entry site where customers can be identified before they visit other domains, then a CNAME can enable cross-domain tracking in browsers that do not accept third-party cookies \(such as Safari\).
++ If you have a main entry site where customers can be identified before they visit other domains, then a `CNAME` can enable cross-domain tracking in browsers that do not accept third-party cookies \(such as Safari\).
 + In browsers that accept third-party cookies, a cookie is set by the data collection servers during the request for a visitor ID. This cookie allows the visitor ID service to return the same Experience Cloud visitor ID on all domains that are configured using the same Experience Cloud Org ID.
 + In browsers that reject third-party cookies, a new Experience Cloud visitor ID is assigned for each domain.
-+ The demdex.net cookie enables the visitor ID service to provide the same level of cross-domain tracking as the 's\_vi' cookie in Analytics, where the cookie is accepted in some browsers and used across domains, but rejected by other browsers.
++ The demdex.net cookie enables the visitor ID service to provide the same level of cross-domain tracking as the `s\_vi` cookie in Analytics, where the cookie is accepted in some browsers and used across domains, but rejected by other browsers.
 
 ## Data Collection CNAMEs
 
@@ -34,8 +76,8 @@ Due to the way first-party cookies can be used in a third-party context in Apple
 
 For example, you have a primary site at `mymainsite.com`. You configured the following two `CNAME` records to point to your non-secure and secure data collection servers:
 
-+ `metrics.mymainsite.com` 
-+ `smetrics.mymainsite.com` 
++ `metrics.mymainsite.com`
++ `smetrics.mymainsite.com`
 
 When a user visits `mymainsite.com`, the ID service cookie is set by the data collection server. This is allowed since the domain of the data collection server matches the domain of the website, and is what is known as using a cookie in a "first-party context", or just a "first-party cookie".
 

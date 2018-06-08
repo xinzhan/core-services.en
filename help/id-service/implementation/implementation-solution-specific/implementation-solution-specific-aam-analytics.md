@@ -4,17 +4,55 @@ title: Implement ID Service for Analytics and Audience Manager
 description: These instructions are for Analytics and Audience Manager customers who want to use the ID service and do not use Dynamic Tag Management
 seo-title: Implement the Adobe Experience Cloud ID Service for Analytics and Audience Manager
 seo-description: These instructions are for Analytics and Audience Manager customers who want to use the ID service and do not use Dynamic Tag Management
-short-title: 
-doc-type: article
-audience: 
-index: yes
-translate: yes
-version:
-private-feature-pack:
-beta:
-redirect:
+short-title: Implement ID Service for AA, AAM
+doc-type: reference
+audience: admin
+index: true
+translate: true
+version: false
+private-feature-pack: false
+beta: false
+redirect: false
 
 ---
+
+<!--Meta Data Values
+
+**Required Meta for search optimization and page data**
+
+title: free text string
+
+description: free text string
+
+seo-title: free text string
+
+seo-description: free text string
+
+**Optional Meta for extended capabilities**
+
+audience:
+all (default), admin, developer, end-user
+ 
+index: true (default), false
+ 
+translate:
+true (default), false
+ 
+doc-type:
+reference (default), tutorials
+
+version:
+false (default), Classic, Standard, 6.5, 6.4, 6.3, 6.2
+ 
+private-feature-pack:
+false (default), true
+ 
+beta:
+false (default), true
+ 
+redirect:
+false (default), pathname
+-->
 
 # Implement the Experience Cloud ID Service for Analytics and Audience Manager
 
@@ -27,7 +65,7 @@ These instructions are for Analytics and Audience Manager customers who want to 
 
 ## Step 1: Plan for Server-side Forwarding
 
-In addition to the steps described here, customers who use Analytics and Audience Manager should migrate to server-side forwarding. Server-side forwarding lets you remove DIL \(Audience Manager's data collection code\) and replace it with the [Audience Management Module](https://marketing.adobe.com/resources/help/en_US/aam/c_profiles_audiences.html). See the [server-side forwarding documentation](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/ssf.html) for more information.
+In addition to the steps described here, customers who use Analytics and Audience Manager should migrate to server-side forwarding. Server-side forwarding lets you remove `DIL` \(Audience Manager's data collection code\) and replace it with the [Audience Management Module](https://marketing.adobe.com/resources/help/en_US/aam/c_profiles_audiences.html). See the [server-side forwarding documentation](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/ssf.html) for more information.
 
 Migrating to server-side forwarding requires planning and coordination. This process involves external changes to your site code and internal steps that Adobe must take to provision your account. In fact, many of these migration procedures need to happen in parallel and get released together. Your implementation path should follow this sequence of events:
 
@@ -61,7 +99,6 @@ var visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION ID-HERE",
      marketingCloudServer: "INSERT-TRACKING-SERVER-HERE",
      marketingCloudServerSecure: "INSERT-SECURE-TRACKING-SERVER-HERE" // same as s.trackingServerSecure
 });
-
 ```
 
 ### Part 2: Add function code to the Visitor API.js file
@@ -133,12 +170,12 @@ This step requires AppMeasurement. You cannot continue if you're still using `s\
 
 Add the `Visitor.getInstance` function shown below to your `AppMeasurement.js` file. Place it in the section that contains configurations such as `linkInternalFilters`, `charSet`, `trackDownloads`, etc. :
 
-`s.visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION ID-HERE");` 
+`s.visitor = Visitor.getInstance("INSERT-MARKETING-CLOUD-ORGANIZATION ID-HERE");`
 
 >[!IMPORTANT]
 >At this point, you should remove the Audience Manager DIL code and replace it with the Audience Management Module. See [Implement Server-Side Forwarding](https://marketing.adobe.com/resources/help/en_US/aam/ssf.html) for instructions.
 
-** *\(Optional, but recommended\)* Create a custom prop** 
+***\(Optional, but recommended\)* Create a custom prop**
 
 Set a custom prop in `AppMeasurement.js` to measure coverage. Add this custom prop to the `doPlugins` function of your `AppMeasurement.js` file:
 
@@ -158,16 +195,15 @@ Place the `VisitorAPI.js` file within the `<head>` tags on each page. When you t
 
 If any of these use cases apply to your situation, ask [Customer Care](https://helpx.adobe.com/marketing-cloud/contact-support.html) to set up a temporary [grace period](../../reference/reference-analytics/reference-analytics-grace.md). Grace periods can run for up to 180-days. You can renew a grace period if required.
 
-
 ### Partial Implementation Use Case
 You need a grace period if you have some pages that use the ID service and some pages that do not, and they all report into the same Analytics report suite. This is common if you have a global report suite that reports across domains.
 
 Discontinue the grace period after the ID service is deployed on all your web pages that report into the same report suite.
 
 ### s\_vi Cookie Requirements 
-You need a grace period if you require new visitors to have an s\_vi cookie after migrating to the ID service. This is common if your implementation reads the s\_vi cookie and stores it in a variable.
+You need a grace period if you require new visitors to have an `s\_vi` cookie after migrating to the ID service. This is common if your implementation reads the `s\_vi` cookie and stores it in a variable.
 
-Discontinue the grace period after your implementation can capture the MID instead of reading the s\_vi cookie.
+Discontinue the grace period after your implementation can capture the MID instead of reading the `s\_vi` cookie.
 
 See also, [Cookies and the Experience Cloud ID Service](../../getting-started/getting-started-cookies.md).
 
@@ -189,8 +225,8 @@ To test your ID service implementation, check for the:
 
 To test server-side forwarding, see:
 
-+ [How to Determine if Your Account is Ready to Receive Forwarded Data](https://marketing.adobe.com/resources/help/en_US/aam/ssf-success.html) 
-+ [How to Determine if Your Account is not Ready to Receive Forwarded Data](https://marketing.adobe.com/resources/help/en_US/aam/ssf-fail.html) 
++ [How to Determine if Your Account is Ready to Receive Forwarded Data](https://marketing.adobe.com/resources/help/en_US/aam/ssf-success.html)
++ [How to Determine if Your Account is not Ready to Receive Forwarded Data](https://marketing.adobe.com/resources/help/en_US/aam/ssf-fail.html)
 
 ### Deployment
 Deploy your code after it passes testing.
