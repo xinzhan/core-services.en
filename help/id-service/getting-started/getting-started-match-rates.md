@@ -64,11 +64,12 @@ ID synchronization matches IDs assigned by the ID service to IDs assigned to sit
 
 Match rates measure and validate the effectiveness of the ID synchronization process. High match rates suggest that a particular service will be more effective and provide access to a larger online audience than a service with low match rates. Comparing match rates is a quantifiable way to evaluate different integrated ad tech platforms.
 
-![](../assets/idsync2.png "ID syncronization in the ID Service") 
+![ID sync in the ID Service](../assets/idsync2.png "ID syncronization in the ID Service") 
 
-## Note Ensuring High Match Rates
-
-To generate high match rates, it is important to set up the ID service properly - see the [standard implementation guide](../implementation/implementation-standard/standard.md).
+>[!IMPORTANT]
+>Ensuring High Match Rates
+>
+>To generate high match rates, it is important to set up the ID service properly - see the [standard implementation guide](../implementation/implementation-standard/standard.md).
 
 A proper implementation helps ensure high match rates because lets the ID service set the cookies it requires to function and synchronize IDs with enabled data partners. However, factors such as slow Internet connections, data collection from mobile devices or wireless networks can affect how well the ID service collects, synchronizes, and matches IDs.
 These client-side variables are beyond the control of the ID service or Adobe.
