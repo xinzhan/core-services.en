@@ -7,21 +7,12 @@ seo-description: Introduction and overview to the Adobe Experience Cloud ID Serv
 short-title: Overview
 doc-type: reference
 audience: admin
-<<<<<<< HEAD
 index: true
 translate: true
 version: false
 private-feature-pack: false
 beta: false
 redirect: false
-=======
-index: yes
-translate: yes
-version: null
-private-feature-pack: null
-beta: no
-redirect: null
->>>>>>> efcf0fd5ece67e30d4d269b0cc3c1fa6ab4a6da9
 
 ---
 
