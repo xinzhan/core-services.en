@@ -56,7 +56,7 @@ false (default), pathname
 
 # FAQs for ID Service and Analtyics
 
-Frequently asked questions about features, functionality, and issues related to using Analytics with the ID service.
+Frequently Asked Questions about features, functionality, and issues related to using Analytics with the ID service.
 
 ## Tracking Servers
 

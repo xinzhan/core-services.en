@@ -13,7 +13,10 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9332a503b1ea69659796bbeb3c705351f1c3869e
 ---
 
 <!--Meta Data Values
