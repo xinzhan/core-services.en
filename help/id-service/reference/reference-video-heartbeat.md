@@ -1,10 +1,9 @@
 ---
-
-title: Video Heartbeat and the ID Service
-description: Video heartbeat requires the Experience Cloud ID service
-seo-title: Video Heartbeat and the ID Service
-seo-description: Video heartbeat requires the Experience Cloud ID service
-short-title: Video heartbeat
+title: video heartbeat and the id service
+description: video heartbeat requires the experience cloud id service
+seo-title: video heartbeat and the id service
+seo-description: video heartbeat requires the experience cloud id service
+short-title: video heartbeat
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-video-heartbeat.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

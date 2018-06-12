@@ -1,10 +1,9 @@
 ---
-
-title: API Configurations - overwriteCrossDomainMCIDAndAID
-description: overwriteCrossDomainMCIDAndAID configurations for the Adobe Experience Cloud ID Service API
-seo-title: Adobe Experience Cloud ID Service API Configurations - overwriteCrossDomainMCIDAndAID
-seo-description: overwriteCrossDomainMCIDAndAID configurations for the Adobe Experience Cloud ID Service API
-short-title: overwriteCrossDomainMCIDAndAID
+title: api configurations - overwritecrossdomainmcidandaid
+description: overwritecrossdomainmcidandaid configurations for the adobe experience cloud id service api
+seo-title: adobe experience cloud id service api configurations - overwritecrossdomainmcidandaid
+seo-description: overwritecrossdomainmcidandaid configurations for the adobe experience cloud id service api
+short-title: overwritecrossdomainmcidandaid
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/id-service-api/id-service-api-configurations/id-service-api-configurations-overwrite-visitor-id.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

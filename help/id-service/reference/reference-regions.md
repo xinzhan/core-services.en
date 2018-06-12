@@ -1,10 +1,9 @@
 ---
-
-title:  Get region and user IDs
-description: The AMCV cookie contains the Experience Cloud ID MID and a region ID for your site visitors. 
-seo-title: Get Region and User IDs From the AMCV Cookie or the ID Service
-seo-description: The AMCV cookie contains the Experience Cloud ID MID and a region ID for your site visitors. 
-short-title: Get region and user IDs
+title: get region and user ids
+description: the amcv cookie contains the experience cloud id mid and a region id for your site visitors.
+seo-title: get region and user ids from the amcv cookie or the id service
+seo-description: the amcv cookie contains the experience cloud id mid and a region id for your site visitors.
+short-title: get region and user ids
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-regions.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

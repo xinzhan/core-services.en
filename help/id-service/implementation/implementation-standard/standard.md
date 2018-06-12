@@ -1,10 +1,9 @@
 ---
-
-title: Standard Implementation using DTM.
-description: Implementing Adobe Experience Cloud ID Service using the recommended set up.
-seo-title: Overview of standard Experience Cloud ID Service implementation.
-seo-description: Implementing Adobe Experience Cloud ID Service using the recommended set up.
-short-title: Standard implementation
+title: standard implementation using dtm.
+description: implementing adobe experience cloud id service using the recommended set up.
+seo-title: overview of standard experience cloud id service implementation.
+seo-description: implementing adobe experience cloud id service using the recommended set up.
+short-title: standard implementation
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/implementation/implementation-standard/standard.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

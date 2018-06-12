@@ -1,10 +1,9 @@
 ---
-
-title: cookieLifetime for ID Service
-description: This variable lets you override the default lifetime interval for the AMCV cookie
-seo-title: cookieLifetime for Adobe Experience Cloud ID Service
-seo-description: This variable lets you override the default lifetime interval for the AMCV cookie
-short-title: cookieLifetime
+title: cookielifetime for id service
+description: this variable lets you override the default lifetime interval for the amcv cookie
+seo-title: cookielifetime for adobe experience cloud id service
+seo-description: this variable lets you override the default lifetime interval for the amcv cookie
+short-title: cookielifetime
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/id-service-api/id-service-api-configurations/id-service-api-configurations-cookielifetime.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

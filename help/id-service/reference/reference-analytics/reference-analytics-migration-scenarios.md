@@ -1,10 +1,9 @@
 ---
-
-title: Experience Cloud ID Service Migration Scenarios
-description: Migration scenarios for the Adobe Experience Cloud ID Service
-seo-title: Adobe Experience Cloud ID Service Migration Scenarios
-seo-description: Migration scenarios for the Adobe Experience Cloud ID Service
-short-title: Migration scenarios
+title: experience cloud id service migration scenarios
+description: migration scenarios for the adobe experience cloud id service
+seo-title: adobe experience cloud id service migration scenarios
+seo-description: migration scenarios for the adobe experience cloud id service
+short-title: migration scenarios
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-analytics/reference-analytics-migration-scenarios.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

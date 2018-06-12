@@ -1,9 +1,9 @@
 ---
-title: Data Collection CNAMEs and Cross-Domain Tracking
-description: Data Collection CNAMEs and Cross-Domain Tracking when implementing Adobe Experience Cloud ID Service
-seo-title: Data Collection CNAMEs and Cross-Domain Tracking in the Adobe Experience Cloud ID Service
-seo-description: Data Collection CNAMEs and Cross-Domain Tracking when implementing Adobe Experience Cloud ID Service
-short-title: Data collection
+title: data collection cnames and cross-domain tracking
+description: data collection cnames and cross-domain tracking when implementing adobe experience cloud id service
+seo-title: data collection cnames and cross-domain tracking in the adobe experience cloud id service
+seo-description: data collection cnames and cross-domain tracking when implementing adobe experience cloud id service
+short-title: data collection
 doc-type: reference
 audience: admin
 index: true
@@ -12,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-analytics/reference-analytics-cname.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

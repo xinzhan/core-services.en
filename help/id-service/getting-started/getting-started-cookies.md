@@ -1,9 +1,8 @@
 ---
-
-title: Cookies and the Experience Cloud ID Service
-description: The role of the Experience Cloud ID service in the Adobe Experience Cloud.
-seo-title: Cookies and the Adobe Experience Cloud ID Service
-seo-description: How the Adobe Experience Cloud ID Services uses and interacts with cookies.
+title: cookies and the experience cloud id service
+description: the role of the experience cloud id service in the adobe experience cloud.
+seo-title: cookies and the adobe experience cloud id service
+seo-description: how the adobe experience cloud id services uses and interacts with cookies.
 short-title: free text
 doc-type: reference
 audience: admin
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/getting-started/getting-started-cookies.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

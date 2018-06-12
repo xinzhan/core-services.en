@@ -1,10 +1,9 @@
 ---
-
-title: Content Security Policies and the Experience Cloud ID Service
-description: A Content Security Policy (CSP) is an HTTP header and security feature that gives browsers control over what type of resources are loaded on a Web page
-seo-title: Content Security Policies and the Adobe Experience Cloud ID Service
-seo-description: A Content Security Policy (CSP) is an HTTP header and security feature that gives browsers control over what type of resources are loaded on a Web page
-short-title: audienceManagerServer, audienceManagerServerSecure
+title: content security policies and the experience cloud id service
+description: a content security policy (csp) is an http header and security feature that gives browsers control over what type of resources are loaded on a web page
+seo-title: content security policies and the adobe experience cloud id service
+seo-description: a content security policy (csp) is an http header and security feature that gives browsers control over what type of resources are loaded on a web page
+short-title: audiencemanagerserver, audiencemanagerserversecure
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-csp.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

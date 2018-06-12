@@ -1,10 +1,9 @@
 ---
-
-title: CORS Support in the Experience Cloud ID Service
-description: Browsers use Cross Origin Resource Sharing (CORS) to request resources from a domain other than the current domain.
-seo-title: CORS Support in the Experience Cloud ID Service
-seo-description: Browsers use Cross Origin Resource Sharing (CORS) to request resources from a domain other than the current domain.
-short-title: CORS Support
+title: cors support in the experience cloud id service
+description: browsers use cross origin resource sharing (cors) to request resources from a domain other than the current domain.
+seo-title: cors support in the experience cloud id service
+seo-description: browsers use cross origin resource sharing (cors) to request resources from a domain other than the current domain.
+short-title: cors support
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-cors.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

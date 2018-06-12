@@ -1,10 +1,9 @@
 ---
-
-title: Experience Cloud ID Service API Methods
-description: List of API Methods for the Adobe Experience Cloud ID Service
-seo-title: API Methods for the Adobe Experience Cloud ID Service
-seo-description: List of API Methods for the Adobe Experience Cloud ID Service
-short-title: API Methods
+title: experience cloud id service api methods
+description: list of api methods for the adobe experience cloud id service
+seo-title: api methods for the adobe experience cloud id service
+seo-description: list of api methods for the adobe experience cloud id service
+short-title: api methods
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/id-service-api/id-service-api-methods/id-service-api-methods-get-set.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

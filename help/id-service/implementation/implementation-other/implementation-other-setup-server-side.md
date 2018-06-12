@@ -1,10 +1,9 @@
 ---
-
-title: Server-side implementation of ID Service
-description: Implementing A4T with mixed server- and client-side implementations of Target, Analytics, and the ID service.
-seo-title: Server-side implementation of ID Service
-seo-description: Implementing A4T with mixed server- and client-side implementations of Target, Analytics, and the Adobe Experience Cloud ID service.
-short-title: Server-side implementation
+title: server-side implementation of id service
+description: implementing a4t with mixed server- and client-side implementations of target, analytics, and the id service.
+seo-title: server-side implementation of id service
+seo-description: implementing a4t with mixed server- and client-side implementations of target, analytics, and the adobe experience cloud id service.
+short-title: server-side implementation
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/implementation/implementation-other/implementation-other-setup-server-side.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

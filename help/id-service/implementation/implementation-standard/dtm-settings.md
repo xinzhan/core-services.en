@@ -1,10 +1,9 @@
 ---
-
-title: ID Service Settings for DTM
-description: Configuration settings for using Dynamic Tag Management to deploy the Experience Cloud ID Service
-seo-title: Experience Cloud ID Service Settings for DTM
-seo-description: Configuration settings for using Dynamic Tag Management to deploy the Adobe Experience Cloud ID Service
-short-title: Settings for DTM
+title: id service settings for dtm
+description: configuration settings for using dynamic tag management to deploy the experience cloud id service
+seo-title: experience cloud id service settings for dtm
+seo-description: configuration settings for using dynamic tag management to deploy the adobe experience cloud id service
+short-title: settings for dtm
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/implementation/implementation-standard/dtm-settings.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

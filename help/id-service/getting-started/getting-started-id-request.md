@@ -1,10 +1,9 @@
 ---
-
-title: How the Experience Cloud ID Service requests and sets IDs
-description: An overview of the ID request and response process. These examples cover ID assignment on individual sites, across different sites, and for sites managed by different Experience Cloud customers with their own organization IDs.
-seo-title: How the Adobe Experience Cloud ID Service requests and sets IDs.
-seo-description: Overview of how the Adobe Experience Cloud ID Service requests and sets IDs.
-short-title: Setting ID Service requests
+title: how the experience cloud id service requests and sets ids
+description: an overview of the id request and response process. these examples cover id assignment on individual sites, across different sites, and for sites managed by different experience cloud customers with their own organization ids.
+seo-title: how the adobe experience cloud id service requests and sets ids.
+seo-description: overview of how the adobe experience cloud id service requests and sets ids.
+short-title: setting id service requests
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/getting-started/getting-started-id-request.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

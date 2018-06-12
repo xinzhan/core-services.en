@@ -1,10 +1,9 @@
 ---
-
-title: Requirements for the Experience Cloud ID Service
-description: Review this section to make sure you're using the right solutions, services, and code versions required by the Experience Cloud ID service
-seo-title: Requirements for the Experience Cloud ID Service
-seo-description: Review this section to make sure you're using the right solutions, services, and code versions required by the Experience Cloud ID service
-short-title: Requirements
+title: requirements for the experience cloud id service
+description: review this section to make sure you're using the right solutions, services, and code versions required by the experience cloud id service
+seo-title: requirements for the experience cloud id service
+seo-description: review this section to make sure you're using the right solutions, services, and code versions required by the experience cloud id service
+short-title: requirements
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-requirements.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

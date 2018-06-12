@@ -1,10 +1,9 @@
 ---
-
-title: Implement the ID Service with DTM
-description: Steps to implement the Experience Cloud ID service with Adobe Dynamic Tag Management
-seo-title: Implement the Adobe Experience Cloud ID Service with Dynamic Tag Management
-seo-description: Steps to implement the Experience Cloud ID service with Adobe Dynamic Tag Management
-short-title: Implement with DTM
+title: implement the id service with dtm
+description: steps to implement the experience cloud id service with adobe dynamic tag management
+seo-title: implement the adobe experience cloud id service with dynamic tag management
+seo-description: steps to implement the experience cloud id service with adobe dynamic tag management
+short-title: implement with dtm
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/implementation/implementation-standard/dtm.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

@@ -1,10 +1,9 @@
 ---
-
-title: Setting Analytics and Experience Cloud IDs
-description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-seo-title: Setting Adobe Analytics and Experience Cloud ID Service IDs
-seo-description: appendSupplementalDataIDTo helper method for the Adobe Experience Cloud ID Service API
-short-title: Setting IDs
+title: setting analytics and experience cloud ids
+description: appendsupplementaldataidto helper method for the adobe experience cloud id service api
+seo-title: setting adobe analytics and experience cloud id service ids
+seo-description: appendsupplementaldataidto helper method for the adobe experience cloud id service api
+short-title: setting ids
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-analytics/reference-analytics-ids.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

@@ -1,10 +1,9 @@
 ---
-
-title: Server-side Implementation Mixed with JavaScript
-description: Implementation of ID Service using both Server-side, mixed with JavaScript
-seo-title: Adobe Experience Cloud ID Service Server-side Implementation Mixed with JavaScript
-seo-description: Implementation of Adobe Experience Cloud ID Service using both Server-side, mixed with JavaScript
-short-title: Test and verify
+title: server-side implementation mixed with javascript
+description: implementation of id service using both server-side, mixed with javascript
+seo-title: adobe experience cloud id service server-side implementation mixed with javascript
+seo-description: implementation of adobe experience cloud id service using both server-side, mixed with javascript
+short-title: test and verify
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-analytics/reference-analytics-server-side.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

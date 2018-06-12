@@ -1,9 +1,9 @@
 ---
-title: ID Service FAQs
-description: Frequently asked questions and answers around the Experience Cloud ID Service
-seo-title: Adobe Experience Cloud ID Service FAQs
-seo-description: Frequently asked questions and answers around the Adobe Experience Cloud ID Service
-short-title: ID Service FAQs
+title: id service faqs
+description: frequently asked questions and answers around the experience cloud id service
+seo-title: adobe experience cloud id service faqs
+seo-description: frequently asked questions and answers around the adobe experience cloud id service
+short-title: id service faqs
 doc-type: reference
 audience: admin
 index: true
@@ -12,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/faqs/faqs-id-service.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

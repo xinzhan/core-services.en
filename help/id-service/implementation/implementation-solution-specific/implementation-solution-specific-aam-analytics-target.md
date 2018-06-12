@@ -1,10 +1,9 @@
 ---
-
-title: Implement ID Service for Analytics, Audience Manager and Target
-description: Instructions for Analytics, Audience Manager, and Target customers who want to use the Experience Cloud ID service and do not use DTM.
-seo-title: Implement the Adobe Experience Cloud ID Service for Analytics, Audience Manager and Target
-seo-description: Instructions are for Analytics, Audience Manager, and Target customers who want to use the Adobe Experience Cloud ID service and do not use Dynamic Tag Management.
-short-title: Implement ID Service AA, AAM, AT
+title: implement id service for analytics, audience manager and target
+description: instructions for analytics, audience manager, and target customers who want to use the experience cloud id service and do not use dtm.
+seo-title: implement the adobe experience cloud id service for analytics, audience manager and target
+seo-description: instructions are for analytics, audience manager, and target customers who want to use the adobe experience cloud id service and do not use dynamic tag management.
+short-title: implement id service aa, aam, at
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/implementation/implementation-solution-specific/implementation-solution-specific-aam-analytics-target.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

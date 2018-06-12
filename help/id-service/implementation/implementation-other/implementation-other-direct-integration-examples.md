@@ -1,10 +1,9 @@
 ---
-
-title: Direct integration use cases
-description: Direct integration use cases for the Adobe Experience Cloud ID Service
-seo-title: Direct integration use cases for ID Service
-seo-description: Direct integration use cases for the Adobe Experience Cloud ID Service
-short-title: Direct Integration
+title: direct integration use cases
+description: direct integration use cases for the adobe experience cloud id service
+seo-title: direct integration use cases for id service
+seo-description: direct integration use cases for the adobe experience cloud id service
+short-title: direct integration
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/implementation/implementation-other/implementation-other-direct-integration-examples.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

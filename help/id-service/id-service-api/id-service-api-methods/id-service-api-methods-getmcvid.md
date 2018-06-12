@@ -1,10 +1,9 @@
 ---
-
-title: API Methods - getMarketingCloudVisitorID
-description: getMarketingCloudVisitorID helper method for the Adobe Experience Cloud ID Service API
-seo-title: Adobe Experience Cloud ID Service API Methods - getMarketingCloudVisitorID
-seo-description: getMarketingCloudVisitorID helper method for the Adobe Experience Cloud ID Service API
-short-title: getMarketingCloudVistorID
+title: api methods - getmarketingcloudvisitorid
+description: getmarketingcloudvisitorid helper method for the adobe experience cloud id service api
+seo-title: adobe experience cloud id service api methods - getmarketingcloudvisitorid
+seo-description: getmarketingcloudvisitorid helper method for the adobe experience cloud id service api
+short-title: getmarketingcloudvistorid
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/id-service-api/id-service-api-methods/id-service-api-methods-getmcvid.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

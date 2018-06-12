@@ -1,10 +1,9 @@
 ---
-
-title: ID Service and Analtyics FAQs
-description: FAQs for ID Service and Analtyics
-seo-title: Adobe ID Service and Analtyics Frequently Asked Questions
-seo-description: Adobe ID Service and Analtyics Frequently Asked Questions
-short-title: FAQs
+title: id service and analtyics faqs
+description: faqs for id service and analtyics
+seo-title: adobe id service and analtyics frequently asked questions
+seo-description: adobe id service and analtyics frequently asked questions
+short-title: faqs
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/faqs/faqs-analytics.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

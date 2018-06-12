@@ -1,10 +1,9 @@
 ---
-
-title: Overview of Experience Cloud ID Service
-description: The role of the Experience Cloud ID service in the Adobe Experience Cloud.
-seo-title: Experience Cloud ID Service Introduction and Overview
-seo-description: Introduction and overview to the Adobe Experience Cloud ID Service.
-short-title: Overview
+title: overview of experience cloud id service
+description: the role of the experience cloud id service in the adobe experience cloud.
+seo-title: experience cloud id service introduction and overview
+seo-description: introduction and overview to the adobe experience cloud id service.
+short-title: overview
 doc-type: reference
 audience: admin
 index: true
@@ -13,12 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-<<<<<<< HEAD
-
-=======
->>>>>>> 9332a503b1ea69659796bbeb3c705351f1c3869e
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/overview.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

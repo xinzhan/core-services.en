@@ -1,10 +1,9 @@
 ---
-
-title: Full list of API Configurations
-description: Full list of API Configurations with samples and instructions for Adobe Experience Cloud ID Service
-seo-title: Full list of API Configurations for Adobe Experience Cloud ID Service
-seo-description: API Configurations with samples and instructions for Adobe Experience Cloud ID Service
-short-title: API Configs
+title: full list of api configurations
+description: full list of api configurations with samples and instructions for adobe experience cloud id service
+seo-title: full list of api configurations for adobe experience cloud id service
+seo-description: api configurations with samples and instructions for adobe experience cloud id service
+short-title: api configs
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/id-service-api/id-service-api-configurations/id-service-api-configurations-function-vars.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

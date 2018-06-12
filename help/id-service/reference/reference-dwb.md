@@ -1,10 +1,9 @@
 ---
-
-title: Data Workbench and the ID Service
-description: Follow these instructions to integrate the Experience Cloud ID field into Data Workbench.
-seo-title: Data Workbench and the Adobe Experience Cloud ID Service
-seo-description: Follow these instructions to integrate the Experience Cloud ID field into Data Workbench.
-short-title: ID service and DWB
+title: data workbench and the id service
+description: follow these instructions to integrate the experience cloud id field into data workbench.
+seo-title: data workbench and the adobe experience cloud id service
+seo-description: follow these instructions to integrate the experience cloud id field into data workbench.
+short-title: id service and dwb
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-dwb.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

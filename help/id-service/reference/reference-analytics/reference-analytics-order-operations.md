@@ -1,9 +1,8 @@
 ---
-
-title: Order of Operations for Analytics IDs
-description: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID ServiceI
-seo-title: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID Service
-seo-description: Order of Operations for Analytics IDs when using Adobe Experience Cloud ID Service
+title: order of operations for analytics ids
+description: order of operations for analytics ids when using adobe experience cloud id servicei
+seo-title: order of operations for analytics ids when using adobe experience cloud id service
+seo-description: order of operations for analytics ids when using adobe experience cloud id service
 short-title: order of operations
 doc-type: reference
 audience: admin
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-analytics/reference-analytics-order-operations.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

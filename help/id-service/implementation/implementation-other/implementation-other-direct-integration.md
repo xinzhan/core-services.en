@@ -1,10 +1,9 @@
 ---
-
-title: Direct Integration with the ID Service
-description: Implementation for customers using ID service on devices that cannot accept or work with our JavaScript or SDK code.
-seo-title: Direct Integration with the Adobe Experience Cloud ID Service
-seo-description: Implementation for customers using Adobe Experience Cloud ID service on devices that cannot accept or work with our JavaScript or SDK code.
-short-title: Direct Integration
+title: direct integration with the id service
+description: implementation for customers using id service on devices that cannot accept or work with our javascript or sdk code.
+seo-title: direct integration with the adobe experience cloud id service
+seo-description: implementation for customers using adobe experience cloud id service on devices that cannot accept or work with our javascript or sdk code.
+short-title: direct integration
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/implementation/implementation-other/implementation-other-direct-integration.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

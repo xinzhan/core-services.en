@@ -1,10 +1,9 @@
 ---
-
-title: Implement the ID Service for Analytics
-description: Instructions for Analytics customers who want to use the ID service and do not use Dynamic Tag Management.
-seo-title: Implement the Adobe Experience Cloud ID Service for Analytics
-seo-description: Instructions for Analytics customers who want to use the Adobe Experience Cloud ID service and do not use Dynamic Tag Management.
-short-title: Implement ID Service for AA
+title: implement the id service for analytics
+description: instructions for analytics customers who want to use the id service and do not use dynamic tag management.
+seo-title: implement the adobe experience cloud id service for analytics
+seo-description: instructions for analytics customers who want to use the adobe experience cloud id service and do not use dynamic tag management.
+short-title: implement id service for aa
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/implementation/implementation-solution-specific/implementation-solution-specific-analytics.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

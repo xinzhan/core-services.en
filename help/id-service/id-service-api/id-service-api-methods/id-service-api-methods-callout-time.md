@@ -1,10 +1,9 @@
 ---
-
-title: callTimeOut Methods
-description: Call these ID service functions to determine the timeout status for a Experience Cloud ID service, Analytics, or Audience Manager ID request.
-seo-title: callTimeOut Methods
-seo-description: Call these ID service functions to determine the timeout status for an Adobe Experience Cloud ID service, Analytics, or Audience Manager ID request.
-short-title: callTimeOut Methods
+title: calltimeout methods
+description: call these id service functions to determine the timeout status for a experience cloud id service, analytics, or audience manager id request.
+seo-title: calltimeout methods
+seo-description: call these id service functions to determine the timeout status for an adobe experience cloud id service, analytics, or audience manager id request.
+short-title: calltimeout methods
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/id-service-api/id-service-api-methods/id-service-api-methods-callout-time.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

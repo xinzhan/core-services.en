@@ -1,10 +1,9 @@
 ---
-
-title: Analytics and Experience Cloud ID Service Requests
-description: An overview of how the Experience Cloud ID Service works with the legacy Analytics ID
-seo-title: Adobe Analytics and Adobe Experience Cloud ID Service Requests
-seo-description: An overview of how the Adobe Experience Cloud ID Service works with the legacy Adobe Analytics ID
-short-title: ID service requests
+title: analytics and experience cloud id service requests
+description: an overview of how the experience cloud id service works with the legacy analytics id
+seo-title: adobe analytics and adobe experience cloud id service requests
+seo-description: an overview of how the adobe experience cloud id service works with the legacy adobe analytics id
+short-title: id service requests
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/reference/reference-analytics/reference-analytics-legacy-analytics.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**

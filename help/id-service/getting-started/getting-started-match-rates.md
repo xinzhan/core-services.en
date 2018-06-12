@@ -1,10 +1,9 @@
 ---
-
-title: Understanding ID Syncronization and Match Rates
-description: An overview of ID synchronization processes and match rates in the Experience Cloud ID service, including Adobe Media Optimizer.
-seo-title: Understanding Adobe Experience Cloud ID Service and Match Rates
-seo-description: An overview of the synchronization processes and match rates in the Adobe Experience Cloud ID service, including Adobe Media Optimizer.
-short-title: Understanding Match Rates
+title: understanding id syncronization and match rates
+description: an overview of id synchronization processes and match rates in the experience cloud id service, including adobe media optimizer.
+seo-title: understanding adobe experience cloud id service and match rates
+seo-description: an overview of the synchronization processes and match rates in the adobe experience cloud id service, including adobe media optimizer.
+short-title: understanding match rates
 doc-type: reference
 audience: admin
 index: true
@@ -13,9 +12,14 @@ version: false
 private-feature-pack: false
 beta: false
 redirect: false
-
+product: core services id service
+cloud: experience cloud
+archetype: admin
+user-guide: id service admin guide
+git-edit: https://git.corp.adobe.com/AdobeDocs/core-services.en/tree/master/help/id-service/getting-started/getting-started-match-rates.md
+git-issue: https://git.corp.adobe.com/AdobeDocs/core-services.en/issues/new
+git-repo: https://git.corp.adobe.com/adobedocs/core-services.en
 ---
-
 <!--Meta Data Values
 
 **Required Meta for search optimization and page data**
