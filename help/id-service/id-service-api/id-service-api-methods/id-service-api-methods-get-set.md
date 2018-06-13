@@ -57,7 +57,6 @@ false (default), true
 redirect:
 false (default), pathname
 -->
-
 # List of Methods for the Experience Cloud ID Service
 
 Public methods that let you interact with the ID service.
