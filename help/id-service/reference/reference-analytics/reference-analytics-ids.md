@@ -67,6 +67,7 @@ After the ID service is implemented, this code executes before `AppMeasurement`.
 When `AppMeasurement` loads, the Experience Cloud and Analytics IDs values are requested from the ID service and are sent to data collection with each server call. Since the ID service determines the visitor ID and simply passes it to `AppMeasurement`, the ID service must be included and implemented on each page before your `AppMeasurement` JavaScript file.
 
 ## Changes to the Analytics ID process
+
 The primary change when migrating to the Experience Cloud ID service is that the ID cookie is set using JavaScript, instead of in the HTTP header that is returned from the data collection web server. To understand this change, the following sections describe how cookies are set using these two methods.
 
 ### HTTP Header
