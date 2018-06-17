@@ -58,7 +58,7 @@ redirect:
 false (default), pathname
 -->
 
-# Setting Analytics and Experience Cloud IDs REMOVE THIS
+# Setting Analytics and Experience Cloud IDs done
 
 The Experience Cloud ID service replaces the legacy Analytics visitor ID methods.
 
