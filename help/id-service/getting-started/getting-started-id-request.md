@@ -58,7 +58,8 @@ false (default), pathname
 -->
 # How the Experience Cloud ID Service Requests and Sets IDs
 
-An overview of the ID request and response process. These examples cover ID assignment on individual sites, across different sites, and for sites managed by different Experience Cloud customers with their own organization IDs.
+This is an 
+overview of the ID request and response process. These examples cover ID assignment on individual sites, across different sites, and for sites managed by different Experience Cloud customers with their own organization IDs.
 
 >[!IMPORTANT] If you're not familiar with how the Experience Cloud ID service creates the visitor ID, take a moment to review [Cookies and the Experience Cloud ID Service](getting-started-cookies.md).
 
