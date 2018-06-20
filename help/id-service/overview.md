@@ -1,6 +1,6 @@
 ---
-title: overview of experience cloud id service
-description: the role of the experience cloud id service in the adobe experience cloud.
+title: Overview of Experience Cloud ID Service
+description: The role of the experience cloud id service in the adobe experience cloud.
 seo-title: experience cloud id service introduction and overview
 seo-description: introduction and overview to the adobe experience cloud id service.
 short-title: overview
