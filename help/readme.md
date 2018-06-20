@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Update
-=======
 # Instructions
 
 **Note: This page (or any readme.md page) will not publish to the customer facing documentation**
@@ -47,4 +44,3 @@ Update
 ## More Information
 
 For more publishing instructions, style guides, samples and other resources, please visit the [Collaborative Documentation Repo](https://git.corp.adobe.com/AdobeDocs/collaborative-doc-instructions)
->>>>>>> 958de11501ea3fa76c037ce38892ebeff1a743ff
