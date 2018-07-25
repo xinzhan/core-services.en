@@ -1,8 +1,7 @@
 ---
-
-product: Core Services ID Service
-cloud: Experience Cloud
-archetype: Admin
+product: core-services
+cloud: experience-cloud
+archetype: admin
 user-guide: ID Service Admin Guide
 git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.en
 ---
