@@ -5,7 +5,7 @@ seo-description: Learn about organizations and linking solution accounts to Expe
 seo-title: Organizations and account linking
 solution: Marketing Cloud
 title: Organizations and account linking
-uuid: 02c5a810-7df9-4c7a-bbde-6f78473534ff
+uuid: 54243a85-159e-44e5-9568-406cd5e12565
 index: y
 internal: n
 snippet: y

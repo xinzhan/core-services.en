@@ -5,7 +5,7 @@ seo-description: You can embed content from a web page into the Experience Cloud
 seo-title: Embedding content
 solution: Experience Cloud
 title: Embedding content
-uuid: 71efa897-1662-4939-9a5a-05e95e031bbd
+uuid: 716ecab1-34b4-4519-982f-d89631aa5f0b
 index: y
 internal: n
 snippet: y

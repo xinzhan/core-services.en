@@ -5,7 +5,7 @@ seo-description: Learn how to sign in to the Experience Cloud, manage passwords 
 seo-title: Sign in and manage your profile settings
 solution: Marketing Cloud
 title: Sign in and manage your profile settings
-uuid: ed4342c4-04f1-417f-97cb-70ef9091bd8a
+uuid: a2d78751-85a6-4b7e-9738-fde602831f5c
 index: y
 internal: n
 snippet: y

@@ -5,7 +5,7 @@ seo-description: Learn about signing in to the Admin Console and managing Experi
 seo-title: Manage Experience Cloud users and products
 solution: Marketing Cloud
 title: Manage Experience Cloud users and products
-uuid: 8223c11d-b683-4f1d-8dfb-8c66965b0d02
+uuid: 8a9b25f4-a980-4258-ab70-133e01f646ca
 index: y
 internal: n
 snippet: y

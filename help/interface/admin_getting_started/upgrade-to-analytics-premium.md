@@ -6,7 +6,7 @@ seo-title: Upgrading to Analytics Premium and the Experience Cloud
 solution: Experience Cloud
 title: Upgrading to Analytics Premium and the Experience Cloud
 topic: Premium
-uuid: 16f4176a-db78-4944-8303-8a2b88c44004
+uuid: 9c7375e6-6b44-4aa2-a0bb-b281a3b13983
 index: y
 internal: n
 snippet: y

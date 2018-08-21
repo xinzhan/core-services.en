@@ -5,7 +5,7 @@ seo-description: An overview of new features and updates in the Experience Cloud
 seo-title: What's new in the Experience Cloud
 solution: Experience Cloud
 title: What's new in the Experience Cloud
-uuid: 2500598e-a797-40c9-a448-9e76d68cb577
+uuid: 201ecbd2-8495-4067-a9db-3eb9f2419ce8
 index: y
 internal: n
 snippet: y

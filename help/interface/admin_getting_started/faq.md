@@ -5,7 +5,7 @@ seo-description: Common questions and answers for administrators in the Experien
 seo-title: Frequently asked questions
 solution: Experience Cloud
 title: Frequently asked questions
-uuid: e9b205de-58d0-4ed6-8183-180902c0e05c
+uuid: 7e95207d-b074-4aa3-aa2e-830126ddadb1
 index: y
 internal: n
 snippet: y

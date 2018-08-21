@@ -5,7 +5,7 @@ seo-description: Considerations and best practices regarding personally identifi
 seo-title: Privacy considerations - customer attributes
 solution: Experience Cloud
 title: Privacy considerations - customer attributes
-uuid: 19a2613f-1c6c-400e-9621-4912a7f7d6d4
+uuid: c4279cc9-9b9c-45be-8e2f-c5ea174511eb
 index: y
 internal: n
 snippet: y

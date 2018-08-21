@@ -5,7 +5,7 @@ seo-description: Upload an asset to a shared folder from the Creative Cloud desk
 seo-title: Upload an asset to a shared folder from the Creative Cloud desktop
 solution: Experience Cloud
 title: Upload an asset to a shared folder from the Creative Cloud desktop
-uuid: b5590ee3-89d8-473e-a822-f7f919c505d4
+uuid: 3b36ef88-3258-44d3-a807-735678c8da0e
 index: y
 internal: n
 snippet: y

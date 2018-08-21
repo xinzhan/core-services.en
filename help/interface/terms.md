@@ -5,7 +5,7 @@ seo-description: null
 seo-title: Terminology
 solution: Experience Cloud
 title: Terminology
-uuid: 46955014-6e8a-4f3e-8541-4691323dc3e8
+uuid: 0ccebba2-db24-41cf-abd1-a14f9154af83
 index: y
 internal: n
 snippet: y

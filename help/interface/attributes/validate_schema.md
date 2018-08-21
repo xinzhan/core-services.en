@@ -5,7 +5,7 @@ seo-description: The validation process lets you map display names and descripti
 seo-title: Validate the schema
 solution: Experience Cloud
 title: Validate the schema
-uuid: 584ea69c-e76d-438d-8951-44ab933d5b4c
+uuid: 337db8d1-b80f-4f32-85b7-57973991e3f5
 index: y
 internal: n
 snippet: y

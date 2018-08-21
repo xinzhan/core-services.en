@@ -5,7 +5,7 @@ seo-description: Implement the Experience Cloud and become an administrator. Thi
 seo-title: Enable your solutions for core services
 solution: Experience Cloud
 title: Enable your solutions for core services
-uuid: e6948250-20b0-4638-a778-a3fe520cdf32
+uuid: 8960a275-7ce5-4553-98e4-359bda6241bb
 index: y
 internal: n
 snippet: y

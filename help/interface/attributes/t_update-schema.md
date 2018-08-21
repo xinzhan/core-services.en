@@ -3,7 +3,7 @@ description: How to delete and replace attributes in the schema.
 seo-description: How to delete and replace attributes in the schema.
 seo-title: Update the schema
 title: Update the schema
-uuid: 8b58a4bb-114d-4b07-ab3d-7f78892d69a3
+uuid: ab3a175c-c5b4-43b9-a1c1-01284aeca261
 index: y
 internal: n
 snippet: y

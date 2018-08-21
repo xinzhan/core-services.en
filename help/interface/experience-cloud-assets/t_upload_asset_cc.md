@@ -5,7 +5,7 @@ seo-description: Upload an asset to a shared folder from the Creative Cloud brow
 seo-title: Upload an asset to a shared folder from the Creative Cloud browser
 solution: Experience Cloud
 title: Upload an asset to a shared folder from the Creative Cloud browser
-uuid: 6291f4f4-5601-4ae8-ba49-e36e70615186
+uuid: 11d19130-1809-45cb-ae48-d9a2f84db192
 index: y
 internal: n
 snippet: y
@@ -21,4 +21,6 @@ translate: y
 >1. Open the shared folder.
 >1. Click **[!UICONTROL  Actions]** > **[!UICONTROL  Upload]**.
 >1. Use your operating system's file browsing to select or move assets.
->[!MORE_LIKE_THIS]* [  ](http://helpx.adobe.com/creative-cloud/help/sync-files.html)
+>[!MORE_LIKE_THIS]
+>
+>* [  ](http://helpx.adobe.com/creative-cloud/help/sync-files.html)

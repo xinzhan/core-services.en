@@ -5,7 +5,7 @@ seo-description: Learn about solution data sources and configuring subscriptions
 seo-title: Configure subscriptions
 solution: Experience Cloud
 title: Configure subscriptions
-uuid: 241435d8-5c0c-4c22-ae67-259be6cd3cf1
+uuid: 4c62cfb1-15a3-4f79-92ad-f0965232af37
 index: y
 internal: n
 snippet: y

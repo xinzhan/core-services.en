@@ -5,7 +5,7 @@ seo-description: Features, release notes, and known issues for the Experience Cl
 seo-title: Cumulative release notes
 solution: Experience Cloud
 title: Cumulative release notes
-uuid: 375cea0b-8c50-4598-96d2-c7e96c5d0215
+uuid: 71becf38-7d32-4757-b38a-898f0e8d226d
 index: y
 internal: n
 snippet: y

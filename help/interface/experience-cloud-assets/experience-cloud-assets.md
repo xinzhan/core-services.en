@@ -4,7 +4,7 @@ seo-description: Experience Cloud Assets provide a single, centralized repositor
 seo-title: Assets
 solution: Experience Cloud
 title: Assets
-uuid: 96805ba5-6467-448d-a8e2-7e4e1018db1c
+uuid: e7c944ed-41c8-465f-9ae7-571349eacf8a
 index: y
 internal: n
 snippet: y

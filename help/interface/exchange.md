@@ -5,7 +5,7 @@ seo-description: The Exchange Marketplace is a single destination where you can 
 seo-title: Exchange Marketplace
 solution: Experience Cloud
 title: Exchange Marketplace
-uuid: 841d4a15-b41c-4fc8-8dba-16e8157497f4
+uuid: 7d249574-06aa-4a31-897a-1bc2eb9c14f9
 index: y
 internal: n
 snippet: y

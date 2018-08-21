@@ -5,7 +5,7 @@ seo-description: Share folders and assets between the Experience Cloud and the C
 seo-title: Share Experience Cloud folders and assets with Creative Cloud
 solution: Experience Cloud
 title: Share Experience Cloud folders and assets with Creative Cloud
-uuid: 489ac970-1c47-4bd8-979a-97321985db95
+uuid: 2fc7621e-6f8f-4bd7-a83b-36499f95ab77
 index: y
 internal: n
 snippet: y
@@ -48,4 +48,6 @@ In [!DNL  Adobe Social], you can insert a shared image asset using the [!UICONTR
 See [ Publisher Page](https://marketing.adobe.com/resources/help/en_US/social/?f=c_pub_publisher) in [!DNL  Social] Help. 
 
 Shared folders and assets are synchronized automatically between the clouds. 
->[!MORE_LIKE_THIS]* [  ](https://helpx.adobe.com/creative-cloud/topics/getting-started.html?promoid=JZEFO)
+>[!MORE_LIKE_THIS]
+>
+>* [  ](https://helpx.adobe.com/creative-cloud/topics/getting-started.html?promoid=JZEFO)

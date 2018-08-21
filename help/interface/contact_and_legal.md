@@ -5,7 +5,7 @@ seo-description: Information to help you contact Adobe and to understand the leg
 seo-title: Contact and Legal Information
 solution: Experience Cloud
 title: Contact and Legal Information
-uuid: 15e9ac55-17b7-49bf-9ff4-9f030a071761
+uuid: 250fe932-1693-4cfb-a2ca-c8c760273174
 index: y
 internal: n
 snippet: y

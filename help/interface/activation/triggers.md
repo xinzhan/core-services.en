@@ -5,7 +5,7 @@ seo-description: null
 seo-title: Triggers
 solution: Marketing Cloud
 title: Triggers
-uuid: f013a399-ceb3-4fcd-840d-0c9366841208
+uuid: c2f2e8aa-14f9-449c-828c-fd45f5704547
 index: y
 internal: n
 snippet: y

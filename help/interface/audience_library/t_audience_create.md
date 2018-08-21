@@ -5,7 +5,7 @@ seo-description: Learn how to use attribute rules to create an audience and defi
 seo-title: Create an audience
 solution: Experience Cloud
 title: Create an audience
-uuid: 8d8d0bbd-ed9c-4928-9061-fd21c3a51446
+uuid: dff888ae-a3ff-483d-a46c-3e445920c4cf
 index: y
 internal: n
 snippet: y

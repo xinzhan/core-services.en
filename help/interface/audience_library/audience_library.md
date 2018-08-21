@@ -4,7 +4,7 @@ seo-description: Manage the translation of visitor data into audience segmentati
 seo-title: Audiences
 solution: Experience Cloud
 title: Audiences
-uuid: 035873be-0ac2-4fa9-aade-47af7ea43064
+uuid: 3617c0bd-29d2-48fe-9197-76b1dcb0e259
 index: y
 internal: n
 snippet: y

@@ -5,7 +5,7 @@ seo-description: If you do not upload using drag-and-drop, you can upload custom
 seo-title: Optional - Upload the data file via FTP
 solution: Experience Cloud
 title: Optional - Upload the data file via FTP
-uuid: cafa924b-0928-4483-af2f-51724a521b4c
+uuid: ec245969-a8e8-447e-8a9b-e2ff5e46f482
 index: y
 internal: n
 snippet: y

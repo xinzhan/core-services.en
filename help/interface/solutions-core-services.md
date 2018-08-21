@@ -4,7 +4,7 @@ seo-description: Learn about latest branding updates for the clouds, how to navi
 seo-title: About the new cloud names in Experience Cloud
 solution: Experience Cloud
 title: About the new cloud names in Experience Cloud
-uuid: 6a54c2fd-b545-43e0-86ab-b5b566703c7d
+uuid: 6abba282-cdd3-4003-a77c-c5e760e5281f
 index: y
 internal: n
 snippet: y

@@ -5,7 +5,7 @@ seo-description: Share an Experience Cloud asset folder with Creative Cloud user
 seo-title: Share an Experience Cloud asset folder
 solution: Experience Cloud
 title: Share an Experience Cloud asset folder
-uuid: 0fa90571-73e2-4896-9191-c03bb25181a3
+uuid: 73c85544-f7db-4d76-866e-cc1023fef266
 index: y
 internal: n
 snippet: y
@@ -53,4 +53,8 @@ translate: y
 >       ![](assets/asset_remove_user.png) 
 
 >       Once you have removed all Creative Cloud Users, the folder is un-shared and the Creative Cloud users no longer has access. 
->[!MORE_LIKE_THIS]* [  ](http://helpx.adobe.com/creative-cloud/help/sync-files.html)* [  ](http://helpx.stage.adobe.com/creative-cloud/help/collaboration.html)* [  ](http://helpx.stage.adobe.com/creative-cloud/help/collaboration-faq.html)
+>[!MORE_LIKE_THIS]
+>
+>* [  ](http://helpx.adobe.com/creative-cloud/help/sync-files.html)
+>* [  ](http://helpx.stage.adobe.com/creative-cloud/help/collaboration.html)
+>* [  ](http://helpx.stage.adobe.com/creative-cloud/help/collaboration-faq.html)

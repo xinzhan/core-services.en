@@ -4,7 +4,7 @@ seo-description: Implement DNS prefetch to help reduce page load times with diff
 seo-title: Using DNS prefetch with different solutions and services
 solution: Experience Cloud
 title: Using DNS prefetch with different solutions and services
-uuid: 2bfad9fa-8e9b-4638-b0fc-f3a169b49500
+uuid: dd0a086e-5d17-4e40-926f-28a80ceffa2a
 index: y
 internal: n
 snippet: y
@@ -62,4 +62,6 @@ The following examples show you how to make DNS prefetch calls to different [!DN
 * **Target:** ` <link rel="dns-prefetch" href="// insert customer code here.tt.omtrdc.net">` 
 
 
->[!MORE_LIKE_THIS]* [  ](https://www.chromium.org/developers/design-documents/dns-prefetching)
+>[!MORE_LIKE_THIS]
+>
+>* [  ](https://www.chromium.org/developers/design-documents/dns-prefetching)

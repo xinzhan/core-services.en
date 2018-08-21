@@ -5,7 +5,7 @@ seo-description: Create the customer attribute source and upload the data. You a
 seo-title: Create a customer attribute source and upload the data file
 solution: Experience Cloud
 title: Create a customer attribute source and upload the data file
-uuid: 31fa12d0-5f35-4dc4-aeca-87e5bf18f649
+uuid: 67331738-1162-477b-9a19-5618f9893fc8
 index: y
 internal: n
 snippet: y
