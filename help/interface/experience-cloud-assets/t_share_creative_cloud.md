@@ -15,16 +15,16 @@ translate: y
 # Share an Experience Cloud asset folder
 
 
->1. On an Asset folder, click **[!UICONTROL  Share to Creative Cloud]**.
+1. On an Asset folder, click **[!UICONTROL  Share to Creative Cloud]**.
 
->       ![Step Result](assets/asset-share-cc.png) 
->1. On the Share to Creative Cloud page, search for the user, then click **[!UICONTROL  Add]**.
->   ![](assets/asset-share-cc-page.png) 
->
->1. Click **[!UICONTROL  Share]**.
->1. Launch the [!DNL  Creative Cloud] desktop (or navigate to the [!UICONTROL  Creative Cloud Files] page in a browser) and look for the request notification.
+       ![Step Result](assets/asset-share-cc.png) 
+1. On the Share to Creative Cloud page, search for the user, then click **[!UICONTROL  Add]**.
+   ![](assets/asset-share-cc-page.png) 
 
->       ![](assets/cc_share_request.png) 
+1. Click **[!UICONTROL  Share]**.
+1. Launch the [!DNL  Creative Cloud] desktop (or navigate to the [!UICONTROL  Creative Cloud Files] page in a browser) and look for the request notification.
+
+       ![](assets/cc_share_request.png) 
 >1. Open the request, then click **[!UICONTROL  Accept]**.
 
 >       ![Step Result](assets/cc_share_accept.png) 
