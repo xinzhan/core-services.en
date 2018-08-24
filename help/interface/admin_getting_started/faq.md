@@ -35,7 +35,7 @@ For more assistance, [ Contact Adobe Support](https://helpx.adobe.com/marketing-
 
 No. The Experience Cloud is included at no additional charge. However, certain core services might have additional costs. 
 
-** Why does my company need to log in through the Experience Cloud interface?** 
+**Why does my company need to log in through the Experience Cloud interface?** 
 
 The functionality provided by the Experience Cloud interface adds new value to your business. It also will be the standard path for accessing solutions going forward, eventually replacing other individual solution login flows. Logging in through the Experience Cloud will facilitate a smoother transition later. 
 
