@@ -31,7 +31,7 @@ Replaces *`Marketing Cloud`* as the parent cloud name for all Adobe's digital ex
 >
 >You might continue to see references to *`Marketing Cloud`* in its previous, broader context until all the solution interfaces are re-branded to *`Enterprise Cloud`*. 
 
-## ![](assets/marketingcloud_32.png) [Marketing Cloud](http://www.adobe.com/marketing-cloud.html)
+![](assets/marketingcloud_32.png) **[Marketing Cloud](http://www.adobe.com/marketing-cloud.html)**
 
 Includes the following solutions: 
 
@@ -47,7 +47,8 @@ Includes the following solutions:
 
 * Adobe Analytics
 * Adobe Audience Manager
-![](assets/advertisingcloud_appicon_32.png) [ Advertising Cloud](http://www.adobe.com/advertising-cloud.html) 
+
+![](assets/advertisingcloud_appicon_32.png) **[Advertising Cloud](http://www.adobe.com/advertising-cloud.html)**
 
 Includes Media Optimizer and TubeMogul.
 
@@ -55,19 +56,20 @@ Includes Media Optimizer and TubeMogul.
 
 Short DescriptionThe following information briefly describes the solutions and provides links to help. [ Use case recipes](https://helpx.adobe.com/marketing-cloud/how-to/use-cases.html) are also available to help you with digital marketing workflows. 
 
-![](assets/mc_analytics_32.png) [ Adobe Analytics](https://marketing.adobe.com/resources/help/en_US/reference/) 
+![](assets/mc_analytics_32.png) **[Adobe Analytics](https://marketing.adobe.com/resources/help/en_US/reference/)**
 
 To get started in Analytics: 
 
 1. Create your first Analytics report suite (data repository) using the steps described in [ Getting Started with Adobe Analytics](https://marketing.adobe.com/resources/help/en_US/analytics/getting-started/).
-1. Then, deploy Analytics code using [ Launch, by Adobe](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/).
+1. Then, deploy Analytics code using [Launch, by Adobe](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/).
 Launch, by Adobe, is the next-generation of tag management and gives you a simple way to deploy and manage all the analytics, marketing, and advertising tags. 
 
 See also: 
 
 * [ Which Analytics products should I use?](https://marketing.adobe.com/resources/help/en_US/reference/which_analytics_tool.html)
 * [ Analytics product comparison and requirements](https://marketing.adobe.com/resources/help/en_US/reference/analytics-product-comparison.html)
-![](assets/mc_target_32.png) [ Adobe Target](https://marketing.adobe.com/resources/help/en_US/target/) 
+
+![](assets/mc_target_32.png) **[Adobe Target](https://marketing.adobe.com/resources/help/en_US/target/)**
 
 Adobe Target integrates with Analytics and other Experience Cloud core services. Useful getting started topics: 
 
