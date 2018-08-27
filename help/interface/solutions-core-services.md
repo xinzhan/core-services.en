@@ -19,10 +19,6 @@ Learn about latest branding updates for the clouds, how to navigate the interfac
 
 ![](assets/cloud-pulldown.png) 
 
-* [ New cloud names ](solutions-core-services.md#concept_3D567681C3C94989AD1A30A1C5C41609)
-* [ What are the solutions? ](solutions-core-services.md#concept_4F52341A45DC49B2B216824B14D54FDA)
-* [ What are core services? ](solutions-core-services.md#concept_38AC4888C3F84694AE4F60311C21B9C2)
-
 ## New cloud names {#concept_3D567681C3C94989AD1A30A1C5C41609}
 
 The latest cloud names and the solutions in each cloud: 
@@ -31,12 +27,11 @@ The latest cloud names and the solutions in each cloud:
 
 Replaces *`Marketing Cloud`* as the parent cloud name for all Adobe's digital experience solutions and services. 
 
-
 >[!NOTE]
 >
 >You might continue to see references to *`Marketing Cloud`* in its previous, broader context until all the solution interfaces are re-branded to *`Enterprise Cloud`*. 
 
-![](assets/marketingcloud_32.png) **[Marketing Cloud](http://www.adobe.com/marketing-cloud.html)** 
+## ![](assets/marketingcloud_32.png) [Marketing Cloud](http://www.adobe.com/marketing-cloud.html)
 
 Includes the following solutions: 
 
