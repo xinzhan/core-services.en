@@ -17,7 +17,7 @@ translate: y
 
 <a id="section_AFFBC9EDDE5B4E4493A7C2896121A773"></a>
 
-**Administration &amp;amp; Enablement ** 
+**Administration &amp; Enablement** 
 
 * [ User and product management ](admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909) (Admin Console)
 * [ Enable your solutions for core services ](core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
@@ -29,6 +29,7 @@ translate: y
 * [ Experience Cloud privacy and security Overview ](https://marketing.adobe.com/resources/help/en_US/xref/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [ Profile Management in Adobe Experience Cloud ](http://blogs.adobe.com/digitalmarketing/digital-marketing/profile-management-adobe-marketing-cloud-comes-together/) (Blog)
 * [ DNS prefetch ](admin_getting_started/admin_getting_started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
+
 **Core Services Product Documentation** 
 
 * [ Activation ](https://marketing.adobe.com/resources/help/en_US/dtm/) 
@@ -44,11 +45,13 @@ translate: y
 * [ Feed ](feed.md#concept_9256B8768A294009A777282DD8719213)
 * [ Mobile Services ](https://marketing.adobe.com/resources/help/en_US/mobile/)
 * [ Triggers ](activation/triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB)
+
 **Release Notes** 
 
 * [ What's New in the Experience Cloud ](marketing-cloud-interface/marketing-cloud-interface.md#concept_9A4370BD59744928BDC9F87E978798B3)
 * [ Release Notes - Cumulative Fixes ](marketing-cloud-interface/release_notes.md#concept_F5C9FF69A5B44395BB5FA0552F4E9175)
-**Community Resources &amp;amp; Blogs ** 
+
+**Community Resources &amp; Blogs** 
 
 * [ Experience Cloud Learn &amp;amp; Support ](https://helpx.adobe.com/support/experience-cloud.html)
 * [ Contact Support ](https://helpx.adobe.com/marketing-cloud/contact-support.html)
