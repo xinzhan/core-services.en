@@ -15,7 +15,9 @@ translate: y
 
 ## About the new cloud names in Experience Cloud {#topic_BD726D3A649E4FC49063029E86B70C62}
 
-Learn about latest branding updates for the clouds, how to navigate the interface, and where to find help for solutions and core services.![](assets/cloud-pulldown.png) 
+Learn about latest branding updates for the clouds, how to navigate the interface, and where to find help for solutions and core services.
+
+![](assets/cloud-pulldown.png) 
 
 * [ New cloud names ](solutions-core-services.md#concept_3D567681C3C94989AD1A30A1C5C41609)
 * [ What are the solutions? ](solutions-core-services.md#concept_4F52341A45DC49B2B216824B14D54FDA)
@@ -27,7 +29,7 @@ The latest cloud names and the solutions in each cloud:
 
 ![](assets/experience_cloud_appicon_32.png) **[Experience Cloud](http://www.adobe.com/experience-cloud.html?promoid=FZPQZ2HS&mv=other)** 
 
-Replaces *` Marketing Cloud`* as the parent cloud name for all Adobe's digital experience solutions and services. 
+Replaces *`Marketing Cloud`* as the parent cloud name for all Adobe's digital experience solutions and services. 
 
 
 >[!NOTE]
