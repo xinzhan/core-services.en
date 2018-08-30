@@ -14,6 +14,7 @@ translate: y
 
 # Enable your solutions for core services
 
+<<<<<<< HEAD
 Implement the Experience Cloud and become an administrator. This process modernizes your solutions for core service features like customer attributes and audiences.
 
 On this page: 
@@ -34,6 +35,8 @@ On this page:
 1. [ Manage users and products ](../core_services/core_services.md#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
 1. [ Start using core services ](../core_services/core_services.md#section_960C06093623462E8EA247B3E97274A1)
 
+=======
+>>>>>>> 344fe87aa4c04b86528dbc108084121a795dbf64
 ## 1. Join the Experience Cloud and become an administrator {#section_2423F0BD3DF642658103310EE5EA6154}
 
 What you need to do to join the Experience Cloud: 
@@ -46,7 +49,6 @@ What you need to do to join the Experience Cloud:
 >[!NOTE]
 >
 >For Target,[ migrate to at.js from mbox.js ](https://marketing.adobe.com/resources/help/en_US/target/ov2/t_target-migrate-atjs.html). 
-
 
 
 ![](assets/step2_icon.png) Modernize your implementation and get provisioned an administrator. 

@@ -10,13 +10,18 @@ internal: n
 snippet: y
 translate: y
 ---
-
 # Audiences
 
+<<<<<<< HEAD
 Manage the translation of visitor data into audience segmentation.
 
 ## Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 >Manage the translation of visitor data into audience segmentation.Audiences are collections of visitors (a list of visitor IDs). Adobe's audience services manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to the [!DNL  Experience Cloud]. 
+=======
+## Manage translation of visitor data into audience segmentation
+
+Audiences are collections of visitors (a list of visitor IDs). Adobe's audience services manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to the [!DNL Experience Cloud]. 
+>>>>>>> 344fe87aa4c04b86528dbc108084121a795dbf64
 
 ![](assets/audiences.png) 
 
@@ -25,14 +30,17 @@ Audiences can be created or derived from various sources, such as:
 * New ones created in the [!DNL  Experience Cloud]
 * From [!DNL  Analytics] segments published to the [!DNL  Experience Cloud]
 * From [!DNL  Audience Manager]
-** Real-Time vs. Historical Audiences** 
+
+### Real-Time vs. Historical Audiences
 
 All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. The system evaluates audiences in two ways: 
 
-* Historical audiences are sourced from analytics are evaluated every 12 hours. Historical audiences always include return visitors.
-* Real-time audiences are sourced in the Experience Cloud Audiences are evaluated real time.
->## How solutions use audiences {#concept_01EB9345C5344597BC94A864EDD38EE1}
->Short DescriptionThe following table describes how audiences are used in Experience Cloud solutions: 
++ Historical audiences are sourced from analytics are evaluated every 12 hours. Historical audiences always include return visitors.
++ Real-time audiences are sourced in the Experience Cloud Audiences are evaluated real time.
+
+## How solutions use audiences {#concept_01EB9345C5344597BC94A864EDD38EE1}
+
+The following table describes how audiences are used in Experience Cloud solutions: 
 
 <table id="table_CC035305FD70485EBBB96EC10F924A78"> 
  <thead> 
