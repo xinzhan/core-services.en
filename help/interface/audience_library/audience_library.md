@@ -12,16 +12,14 @@ translate: y
 ---
 # Audiences
 
-<<<<<<< HEAD
 Manage the translation of visitor data into audience segmentation.
 
 ## Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
->Manage the translation of visitor data into audience segmentation.Audiences are collections of visitors (a list of visitor IDs). Adobe's audience services manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to the [!DNL  Experience Cloud]. 
-=======
+Audiences are collections of visitors (a list of visitor IDs). Adobe's audience services manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to the [!DNL  Experience Cloud].
+
 ## Manage translation of visitor data into audience segmentation
 
 Audiences are collections of visitors (a list of visitor IDs). Adobe's audience services manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to the [!DNL Experience Cloud]. 
->>>>>>> 344fe87aa4c04b86528dbc108084121a795dbf64
 
 ![](assets/audiences.png) 
 
