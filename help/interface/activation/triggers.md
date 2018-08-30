@@ -1,7 +1,7 @@
 ---
-description: null
+description: Learn how to configure Experience Cloud Triggers.
 keywords: integrations;Triggers
-seo-description: null
+seo-description: Learn how to configure Experience Cloud Triggers.
 seo-title: Triggers
 solution: Marketing Cloud
 title: Triggers
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Triggers
+
+Learn how to configure Experience Cloud Triggers.
 
 ## Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
 
@@ -43,10 +45,10 @@ Create an abandonment trigger and configure the conditions for the trigger and p
 1. In the Experience Cloud, click  ![](assets/menu-icon.png), then click **[!UICONTROL  Activation]**.
 1. Locate the [!UICONTROL  Triggers] card, then click **[!UICONTROL  Launch]**.
 
-       ![Step Result](assets/activation-triggers.png) 
+       ![](assets/activation-triggers.png) 
 1. Click **[!UICONTROL  New Trigger]**, then specify the type of trigger:
 
-       ![Step Result](assets/add-trigger.png) 
+       ![](assets/add-trigger.png) 
 1. Configure the trigger by completing the following fields and dragging metrics and dimension items to the rule's containers:
 
 
