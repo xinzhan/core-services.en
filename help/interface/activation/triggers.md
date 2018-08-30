@@ -15,7 +15,8 @@ translate: y
 # Triggers
 
 ## Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
->Short Description*` Triggers`* enables you to identify, define, and monitor key consumer behaviors, and then generate cross-solution communication to re-engage visitors. You can use triggers in real-time decisions and personalization. 
+
+*`Triggers`* enables you to identify, define, and monitor key consumer behaviors, and then generate cross-solution communication to re-engage visitors. You can use triggers in real-time decisions and personalization. 
 
 * Configure fast re-marketing for cart abandons or cart abandons with products removed
 * Incomplete forms and applications
