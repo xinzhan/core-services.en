@@ -5,7 +5,7 @@ seo-description: Considerations and best practices regarding personally identifi
 seo-title: Privacy considerations - customer attributes
 solution: Experience Cloud
 title: Privacy considerations - customer attributes
-uuid: c4279cc9-9b9c-45be-8e2f-c5ea174511eb
+uuid: 58b0deb0-9de4-4265-a112-5e923672d4e3
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Privacy considerations - customer attributes
+
+Considerations and best practices regarding personally identifiable information (PII) uploaded and used in the Adobe Experience Cloud.
 
 
 <!-- <p>https://wiki.corp.adobe.com/display/omtrplatform/Visitor+Enrichment+and+privacy#VisitorEnrichmentandprivacy-INFORMATIONASSOCIATIONOPTIONS </p> -->

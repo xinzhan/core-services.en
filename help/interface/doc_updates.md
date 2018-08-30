@@ -5,7 +5,7 @@ seo-description: Information about updates to the Experience Cloud help.
 seo-title: Documentation updates - Experience Cloud
 solution: Experience Cloud
 title: Documentation updates - Experience Cloud
-uuid: da91ced3-cbe2-40d9-bba4-40dc9ff0e809
+uuid: ec668617-80e6-4b53-bf69-a82801811569
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Documentation updates - Experience Cloud
+
+Information about updates to the Experience Cloud help.
 
 
 <table id="table_A8AED523DACD4C3FA6FA60DF0F408D51"> 

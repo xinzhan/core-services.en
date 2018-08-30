@@ -5,7 +5,7 @@ seo-description: Learn about signing in to the Admin Console and managing Experi
 seo-title: Manage Experience Cloud users and products
 solution: Marketing Cloud
 title: Manage Experience Cloud users and products
-uuid: 8a9b25f4-a980-4258-ab70-133e01f646ca
+uuid: 44abbea4-d662-495d-95c3-aa14fb91e70a
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Manage Experience Cloud users and products
+
+Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.
 
 ## Manage Experience Cloud users and products {#topic_3FCB4099640647E3B2411ADBFCE81909}
 >Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.
@@ -123,27 +125,27 @@ See [ Administration ](https://marketing.adobe.com/resources/help/en_US/aam/c_ad
 >## Manage Experience Cloud products {#task_16335111C52D40E9BAC73D0699584DBF}
 >Create a product profile and assign it to a permission group.When you invite a user to an organization, you can give the user access to products and product profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a product profile to enable access. 
 
->1. In the [ Admin Console ](http://adminconsole.adobe.com/enterprise/), click **[!UICONTROL  Products]**.
->1. Click **[!UICONTROL  New Profile]**.
->1. Configure the profile details, then click **[!UICONTROL  Next]**.
->   Step Info 
->
->1. Click **[!UICONTROL  Done]**.
+1. In the [ Admin Console ](http://adminconsole.adobe.com/enterprise/), click **[!UICONTROL  Products]**.
+1. Click **[!UICONTROL  New Profile]**.
+1. Configure the profile details, then click **[!UICONTROL  Next]**.
+   Step Info 
 
->       More help is available at: 
->    
->    * [ Manage products and profiles ](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
->    * [ Enterprise User Permissions ](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html) in Target help for more information.
->    * Video: [ How to Configure Target Workspaces in Adobe Admin Console ](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
+1. Click **[!UICONTROL  Done]**.
+
+       More help is available at: 
+    
+    * [ Manage products and profiles ](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
+    * [ Enterprise User Permissions ](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html) in Target help for more information.
+    * Video: [ How to Configure Target Workspaces in Adobe Admin Console ](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 >## Assign Analytics access permissions to a product profile {#task_040673FE3E3E429B9531FBCB8B6A4391}
 >Assign Analytics report access permissions (report suites, metrics, dimensions, and so on) to a product profile.For example, you can create a product profile that contains multiple Analytics tools ( [!UICONTROL  Analysis Workspace], [!UICONTROL  Reports & Analytics], and [!UICONTROL  Report Builder]), with permission to specific metrics and dimensions (including eVars), and capabilities like segment or calculated metrics creation. 
 
->1. Sign in to the [ Admin Console ](https://adminconsole.adobe.com/enterprise), then click **[!UICONTROL  Products]** (or click your product name).
->1. In the product profile, then click **[!UICONTROL  Permissions]** (available only to administrators).
->1. Configure the profile's permissions:
+1. Sign in to the [ Admin Console ](https://adminconsole.adobe.com/enterprise), then click **[!UICONTROL  Products]** (or click your product name).
+1. In the product profile, then click **[!UICONTROL  Permissions]** (available only to administrators).
+1. Configure the profile's permissions:
 
 
-><table id="table_9B36D534FED444ACA2D765B672E2B303"> 
+<table id="table_9B36D534FED444ACA2D765B672E2B303"> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Element </th> 
@@ -174,7 +176,7 @@ See [ Administration ](https://marketing.adobe.com/resources/help/en_US/aam/c_ad
  </tbody> 
 </table>
 
->
+
 >## Delegate administrative roles to users {#task_3A072C4AA9734BC59FFA7E015271BC7E}
 
 <!-- t_admin-roles.xml -->
@@ -187,10 +189,10 @@ For example, you can:
 * Keep these two roles separate so they cannot overstep each other's roles.
 By using these roles, you can simultaneously delegate management to others without providing more capability than they need. 
 
->1. In the Admin Console, click **[!UICONTROL  Users]**, then click the user's name.
->1. Click **[!UICONTROL  Edit admin rights]**.
->1. Configure the user's admin rights.
->1. Click **[!UICONTROL  Next]** to review the settings, then click **[!UICONTROL  Save]**.
+1. In the Admin Console, click **[!UICONTROL  Users]**, then click the user's name.
+1. Click **[!UICONTROL  Edit admin rights]**.
+1. Configure the user's admin rights.
+1. Click **[!UICONTROL  Next]** to review the settings, then click **[!UICONTROL  Save]**.
 >## Supported browsers and system requirements {#concept_CDC4371EB9BF433E9534F8716DC8A088}
 >Supported browsers in the Experience Cloud.
 <!-- browsers.xml -->

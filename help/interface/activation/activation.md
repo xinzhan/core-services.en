@@ -5,7 +5,7 @@ seo-description: Activation includes the latest tag management product called La
 seo-title: Activation
 solution: Experience Cloud
 title: Activation
-uuid: e2119fb7-456a-4aae-a73c-993082daf7f9
+uuid: d652a9b3-19ab-43b3-893c-574882d1a56c
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Activation
+
+Activation includes the latest tag management product called Launch, by Adobe. Dynamic Tag Management (DTM);and Triggers.
 
 
 ## Launch, by Adobe {#section_05DF74E9EAC94518A155095C65F54568}

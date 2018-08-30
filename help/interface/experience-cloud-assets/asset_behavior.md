@@ -5,7 +5,7 @@ seo-description: Rules for how shared folders behave when moved, deleted, and re
 seo-title: Behavior of shared folders
 solution: Experience Cloud
 title: Behavior of shared folders
-uuid: 2f8ec1fb-07e8-4a28-8a93-85342359f9e4
+uuid: 86d0cb7c-79f6-4b2c-bae7-e11ae153d6ae
 index: y
 internal: n
 snippet: y
@@ -14,9 +14,23 @@ translate: y
 
 # Behavior of shared folders
 
+Rules for how shared folders behave when moved, deleted, and restored.
+
+
+* [ Unshared folder into shared folder](../experience-cloud-assets/asset_behavior.md#section_A9BAC1A244A246A984AC62660E61E0C0)
+* [ Shared folder into unshared folder](../experience-cloud-assets/asset_behavior.md#section_8BA83001DCEC4CF084B980C4A660F59A)
+* [ Content from unshared folder into shared folder](../experience-cloud-assets/asset_behavior.md#section_2941ED0DC52E4573AC1AB4C22313DD8E)
+* [ Archived and deleted shared content](../experience-cloud-assets/asset_behavior.md#section_5210D5F4943A44D0BA675D8EB4EAE20F)
+* [ Owned shared content to an unshared folder](../experience-cloud-assets/asset_behavior.md#section_3810A364B67E4B8C9CA244BC52BF91BB)
+* [ Unowned content to an unshared folder](../experience-cloud-assets/asset_behavior.md#section_310766EBF0DC4C0BB4AB3E8A4DAEBE07)
+* [ Archived or deleted owned folder](../experience-cloud-assets/asset_behavior.md#section_B314B13512A5409C87C49DFDB7602E14)
+* [ Shared folder into another shared folder](../experience-cloud-assets/asset_behavior.md#section_0A3F203D048D4D1586E9850DC92C51E9)
+* [ Shared content to another shared folder](../experience-cloud-assets/asset_behavior.md#section_69F6C312792A4CD2831BD14A340F850E)
+* [ Restored content from archive](../experience-cloud-assets/asset_behavior.md#section_DEA990B3581741F89FBB81D18C2AB449)
+
 >[!NOTE]
->Shared Experience Cloud folders and assets are mirrored to the Creative Cloud desktop in a 1:1 relationship. If an Experience Cloud user changes a folder (deletes, adds, or removes sharing), the action is mirrored in the Creative Cloud desktop and web. >
-> As such, if a folder is unshared, the folder and assets are deleted from your local machine. After sharing is removed, the folder and its contents are moved to the trash can on your local computer, where you can manually restore them to your machine.
+>
+>Shared Experience Cloud folders and assets are mirrored to the Creative Cloud desktop in a 1:1 relationship. If an Experience Cloud user changes a folder (deletes, adds, or removes sharing), the action is mirrored in the Creative Cloud desktop and web. As such, if a folder is unshared, the folder and assets are deleted from your local machine. After sharing is removed, the folder and its contents are moved to the trash can on your local computer, where you can manually restore them to your machine.
 
 
 ## Unshared folder into shared folder {#section_A9BAC1A244A246A984AC62660E61E0C0}

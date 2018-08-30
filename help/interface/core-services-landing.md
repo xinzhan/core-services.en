@@ -4,7 +4,7 @@ seo-description: null
 seo-title: About core services
 solution: Experience Cloud
 title: About core services
-uuid: 116680ae-0657-40dc-a0db-a4807944cabc
+uuid: f9bc25a4-b542-4afb-a021-2bd4ad7a6943
 index: y
 internal: n
 snippet: y

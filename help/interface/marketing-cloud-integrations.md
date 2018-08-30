@@ -5,7 +5,7 @@ seo-description: Learn about available solution and core service integrations in
 seo-title: Experience Cloud Integrations
 solution: Experience Cloud
 title: Experience Cloud Integrations
-uuid: 0ed86276-dd8e-4057-979e-67df53fd5dc5
+uuid: 1ca9113d-8a49-449b-8635-fc6d71d8efa9
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Experience Cloud Integrations
+
+Learn about available solution and core service integrations in the Adobe Experience Cloud.
 
 Adobe Experience Cloud is a comprehensive set of best-in-class, integrated solutions built on a common data platform with a common set of powerful core services. The following table provides access to available Experience Cloud integration documentation. 
 
@@ -128,7 +130,8 @@ Work with data from Experience Cloud solutions or other external systems in Audi
 
 **Applicable solutions or services** 
 
-* [ Analytics Data Integration](https://marketing.adobe.com/resources/help/en_US/aam/dil-overview.html)
+* [ Analytics Server-Side Forwarding](https://marketing.adobe.com/resources/help/en_US/reference/ssf.html)
+* [ Send Audience Manager Segments to Analytics](https://marketing.adobe.com/resources/help/en_US/aam/create-analytics-destination.html)
 * [ Target Data Integration](https://marketing.adobe.com/resources/help/en_US/aam/aam-target-integration.html)
 
 ## Activation {#section_A23510A2D57842F6BAD043650C06DE42}

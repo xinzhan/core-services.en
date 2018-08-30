@@ -6,7 +6,7 @@ seo-title: Upgrading to Analytics Premium and the Experience Cloud
 solution: Experience Cloud
 title: Upgrading to Analytics Premium and the Experience Cloud
 topic: Premium
-uuid: 9c7375e6-6b44-4aa2-a0bb-b281a3b13983
+uuid: 2f9a1767-8271-4d32-a605-3a7af6e2ccc6
 index: y
 internal: n
 snippet: y
@@ -14,6 +14,8 @@ translate: y
 ---
 
 # Upgrading to Analytics Premium and the Experience Cloud
+
+Administrators can learn about the requirements and what to expect when upgrading to Analytics Premium, and where to find help as an Experience Cloud administrator.
 
 
 ## Analytics Premium {#section_7F50AD7906544F899B844BE31D3BB507}

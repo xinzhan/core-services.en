@@ -5,7 +5,7 @@ seo-description: Share folders and assets between the Experience Cloud and the C
 seo-title: Share Experience Cloud folders and assets with Creative Cloud
 solution: Experience Cloud
 title: Share Experience Cloud folders and assets with Creative Cloud
-uuid: 2fc7621e-6f8f-4bd7-a83b-36499f95ab77
+uuid: 3e15a879-9fce-4698-8172-231db5a23d73
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Share Experience Cloud folders and assets with Creative Cloud
+
+Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like Social and Target. The shared folder must originate from the Experience Cloud.
 
 
 <!-- <p>BETA URL: https://marketing-beta.adobe.com/resources/help/assets/creative_cloud.html </p> 

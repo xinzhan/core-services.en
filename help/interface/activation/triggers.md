@@ -5,7 +5,7 @@ seo-description: null
 seo-title: Triggers
 solution: Marketing Cloud
 title: Triggers
-uuid: c2f2e8aa-14f9-449c-828c-fd45f5704547
+uuid: ac552a02-9940-4d49-8255-b06d8288013b
 index: y
 internal: n
 snippet: y
@@ -36,17 +36,17 @@ translate: y
 >A technical limit of 100 triggers currently exists.
 
 
->1. In the Experience Cloud, click  ![](assets/menu-icon.png), then click **[!UICONTROL  Activation]**.
->1. Locate the [!UICONTROL  Triggers] card, then click **[!UICONTROL  Launch]**.
+1. In the Experience Cloud, click  ![](assets/menu-icon.png), then click **[!UICONTROL  Activation]**.
+1. Locate the [!UICONTROL  Triggers] card, then click **[!UICONTROL  Launch]**.
 
->       ![Step Result](assets/activation-triggers.png) 
->1. Click **[!UICONTROL  New Trigger]**, then specify the type of trigger:
+       ![Step Result](assets/activation-triggers.png) 
+1. Click **[!UICONTROL  New Trigger]**, then specify the type of trigger:
 
->       ![Step Result](assets/add-trigger.png) 
->1. Configure the trigger by completing the following fields and dragging metrics and dimension items to the rule's containers:
+       ![Step Result](assets/add-trigger.png) 
+1. Configure the trigger by completing the following fields and dragging metrics and dimension items to the rule's containers:
 
 
->    <table id="table_25DE808C07334AC4B9290A1B843C8258"> 
+    <table id="table_25DE808C07334AC4B9290A1B843C8258"> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Element </th> 
@@ -87,26 +87,26 @@ translate: y
  </tbody> 
 </table>
 
->    
->1. (Optional) In Abandonment triggers, you can apply [ Propensity Scoring](../activation/triggers.md#concept_A506150674AD45DB98D3CC07E560D334).
+    
+1. (Optional) In Abandonment triggers, you can apply [ Propensity Scoring](../activation/triggers.md#concept_A506150674AD45DB98D3CC07E560D334).
 
->       ![Step Result](assets/propensity-scoring.png) 
->1. Click **[!UICONTROL  Save]**.
->1. Use triggers for [ real-time remarketing](http://docs.campaign.adobe.com/doc/standard/en/EMA_Transactional_messaging_Marketing_Cloud_Triggers.html) in [!DNL  Adobe Campaign].
->   Example triggers: 
+       ![Step Result](assets/propensity-scoring.png) 
+1. Click **[!UICONTROL  Save]**.
+1. Use triggers for [ real-time remarketing](http://docs.campaign.adobe.com/doc/standard/en/EMA_Transactional_messaging_Marketing_Cloud_Triggers.html) in [!DNL  Adobe Campaign].
+   Example triggers: 
 
->   **Cart Abandonment Trigger** 
+   **Cart Abandonment Trigger** 
 
->   For example, the following page shows rules you might use for a Cart Abandonment trigger, based on products viewed during a visit. 
+   For example, the following page shows rules you might use for a Cart Abandonment trigger, based on products viewed during a visit. 
 
->   ![](assets/abandonment-trigger.png) 
+   ![](assets/abandonment-trigger.png) 
 
->   **Referrer Trigger** 
+   **Referrer Trigger** 
 
->   The following trigger fires when a hit comes in with the product of Men's Boots and referrer of Facebook. For the two criteria ( *` products`* and *` referrer`*) to be evaluated in the same hit, they should be added to the same container. 
+   The following trigger fires when a hit comes in with the product of Men's Boots and referrer of Facebook. For the two criteria ( *` products`* and *` referrer`*) to be evaluated in the same hit, they should be added to the same container. 
 
->   ![](assets/fb-boots-promo.png) 
->
+   ![](assets/fb-boots-promo.png) 
+
 >## Propensity Scoring {#concept_A506150674AD45DB98D3CC07E560D334}
 >Understand customers' tendency to return after abandoning a shopping cart.
 <!-- propensity-scoring.xml -->

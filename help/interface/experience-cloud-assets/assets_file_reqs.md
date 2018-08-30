@@ -5,7 +5,7 @@ seo-description: Allowed file types and size limitations for sharing assets betw
 seo-title: Asset file requirements for sharing
 solution: Experience Cloud
 title: Asset file requirements for sharing
-uuid: 3b5a5411-cbae-4c40-8175-89c472b66ad9
+uuid: b722b9a2-2e63-4ae9-ba33-3402820e8f33
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Asset file requirements for sharing
+
+Allowed file types and size limitations for sharing assets between the Experience Cloud and Creative Cloud.
 
 
 ## File types allowed for upload {#section_52B6A40BB00B45BC944C01C49B4BB590}

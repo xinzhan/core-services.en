@@ -5,7 +5,7 @@ seo-description: Learn how to share or post assets and Analytics reports directl
 seo-title: Feed
 solution: Experience Cloud
 title: Feed
-uuid: 9fb5b2c5-69b3-4d10-99b9-c9941ecc901c
+uuid: 4836d70c-773f-463b-9219-a5996453558a
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Feed
+
+Learn how to share or post assets and Analytics reports directly with others using your Experience Cloud Feed.
 
 
 <!-- <p>Next Pulse release info: work with Stephanie AU </p> -->

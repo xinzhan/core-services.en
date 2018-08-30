@@ -5,7 +5,7 @@ seo-description: The Exchange Marketplace is a single destination where you can 
 seo-title: Exchange Marketplace
 solution: Experience Cloud
 title: Exchange Marketplace
-uuid: 7d249574-06aa-4a31-897a-1bc2eb9c14f9
+uuid: 899821f5-77e1-4c8d-a85f-9d1df83a25a5
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Exchange Marketplace
+
+The Exchange Marketplace is a single destination where you can search, browse, select, pay, and download Digital Marketing extensions via apps. Apps include data connectors, custom configurations to Adobe's core product, 3rd party applications, and reports.
 
 **[!UICONTROL  Experience Cloud]** > **[!UICONTROL  Help]** > **[!UICONTROL  Exchange]** 
 

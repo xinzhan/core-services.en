@@ -4,7 +4,7 @@ seo-description: Experience Cloud Assets provide a single, centralized repositor
 seo-title: Assets
 solution: Experience Cloud
 title: Assets
-uuid: e7c944ed-41c8-465f-9ae7-571349eacf8a
+uuid: e9d20bf7-3fc5-466e-ab6f-4fd18268b548
 index: y
 internal: n
 snippet: y
@@ -12,6 +12,8 @@ translate: y
 ---
 
 # Assets
+
+Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a Photoshop file, slides in a PowerPoint file, pages in a PDF, files in a ZIP).
 
 
 <!-- asset.xml -->

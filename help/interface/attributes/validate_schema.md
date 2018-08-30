@@ -5,7 +5,7 @@ seo-description: The validation process lets you map display names and descripti
 seo-title: Validate the schema
 solution: Experience Cloud
 title: Validate the schema
-uuid: 337db8d1-b80f-4f32-85b7-57973991e3f5
+uuid: 353391fa-adf3-4048-8d81-4ab298b608ac
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Validate the schema
+
+The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). A schema is created based on these settings. The schema is used to validate all future data uploaded to this data source. This mapping process does not alter the original data.
 
 
 

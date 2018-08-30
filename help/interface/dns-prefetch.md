@@ -4,7 +4,7 @@ seo-description: Implement DNS prefetch to help reduce page load times with diff
 seo-title: Using DNS prefetch with different solutions and services
 solution: Experience Cloud
 title: Using DNS prefetch with different solutions and services
-uuid: dd0a086e-5d17-4e40-926f-28a80ceffa2a
+uuid: 531603ae-c8e8-4f6a-acd1-aeebbd6bc8a8
 index: y
 internal: n
 snippet: y
@@ -12,6 +12,8 @@ translate: y
 ---
 
 # Using DNS prefetch with different solutions and services
+
+Implement DNS prefetch to help reduce page load times with different solutions and services.
 
 Contents: 
 

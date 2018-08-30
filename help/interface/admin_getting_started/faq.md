@@ -5,7 +5,7 @@ seo-description: Common questions and answers for administrators in the Experien
 seo-title: Frequently asked questions
 solution: Experience Cloud
 title: Frequently asked questions
-uuid: 7e95207d-b074-4aa3-aa2e-830126ddadb1
+uuid: a345fdb8-5eb8-4a1c-9abc-334ee28fd095
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Frequently asked questions
+
+Common questions and answers for administrators in the Experience Cloud.
 
 **How do I know if my solutions are enabled for core services?** 
 

@@ -5,7 +5,7 @@ seo-description: The Experience Cloud is Adobe's integrated family of digital ma
 seo-title: Experience Cloud and core services help
 solution: Experience Cloud
 title: Experience Cloud and core services help
-uuid: 4b363051-3056-4d99-a446-811b6ca516a8
+uuid: 92940deb-72ac-467d-bd6c-3d504d877b93
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Experience Cloud and core services help
+
+The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
 
 
 <a id="section_AFFBC9EDDE5B4E4493A7C2896121A773"></a>

@@ -5,7 +5,7 @@ seo-description: Create the customer attribute source and upload the data. You a
 seo-title: Create a customer attribute source and upload the data file
 solution: Experience Cloud
 title: Create a customer attribute source and upload the data file
-uuid: 67331738-1162-477b-9a19-5618f9893fc8
+uuid: 618d2efc-b935-444a-87e6-eea0dca52741
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Create a customer attribute source and upload the data file
+
+Create the customer attribute source and upload the data. You also activate the data source when you are ready. After the data source is active, share the attribute data to Analytics and Target.
 
 **Customer Attributes Workflow** 
 
@@ -38,20 +40,20 @@ To use the Customer Attributes feature, users must belong to the Adobe Customer 
 
 See [ Users and Groups ](../admin_getting_started/admin_getting_started.md#task_3295A85536BF48899A1AB40D207E77E9). 
 
->1. Create a [!DNL  .csv].
+1. Create a [!DNL  .csv].
 
->   >[!NOTE]
->   >
->   >Later in this process, you will drag-and-drop the [!DNL  .csv] to upload the file. However, if you [ upload via FTP ](../attributes/t_upload_attributes_ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a [!DNL  .fin] file with the same name as the [!DNL  .csv]. 
+   >[!NOTE]
+   >
+   >Later in this process, you will drag-and-drop the [!DNL  .csv] to upload the file. However, if you [ upload via FTP ](../attributes/t_upload_attributes_ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a [!DNL  .fin] file with the same name as the [!DNL  .csv]. 
 
 
 
->   Sample enterprise customer data file: 
+   Sample enterprise customer data file: 
 
->   ![](assets/01_crs_usecase.png) 
->
->1. Before continuing, review the important information in [ Data File Requirements ](../attributes/crs_data_file.md#concept_DE908F362DF24172BFEF48E1797DAF19), before you upload the file.
->1. [ Create a customer attribute source and upload the data ](../attributes/t_crs_usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78), described below.
+   ![](assets/01_crs_usecase.png) 
+
+1. Before continuing, review the important information in [ Data File Requirements ](../attributes/crs_data_file.md#concept_DE908F362DF24172BFEF48E1797DAF19), before you upload the file.
+1. [ Create a customer attribute source and upload the data ](../attributes/t_crs_usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78), described below.
 
 >[!NOTE]
 >
@@ -59,92 +61,92 @@ See [ Users and Groups ](../admin_getting_started/admin_getting_started.md#task_
 
 
 
->1. In the [!DNL  Experience Cloud], click the Menu  ![](assets/menu-icon.png) icon.
->1. Click **[!UICONTROL  People]**, then click **[!UICONTROL  Customer Attributes]**.
+1. In the [!DNL  Experience Cloud], click the Menu  ![](assets/menu-icon.png) icon.
+1. Click **[!UICONTROL  People]**, then click **[!UICONTROL  Customer Attributes]**.
 
->       The [!UICONTROL  Customer Attributes] page is where you can manage and edit existing attribute data sources. 
+       The [!UICONTROL  Customer Attributes] page is where you can manage and edit existing attribute data sources. 
 
->       ![Step Result](assets/03_crs_usecase.png) 
->1. Click **[!UICONTROL  New]**.
+       ![Step Result](assets/03_crs_usecase.png) 
+1. Click **[!UICONTROL  New]**.
 
->       ![Step Result](assets/04_crs_usecase.png) 
->1. On the [!UICONTROL  Edit Customer Attribute Source] page, configure the following fields:
->    
->    * **[!UICONTROL  Name:]** A friendly name for the data attribute source. For [!DNL  Adobe Target], attribute names cannot include spaces. If an attribute with a space is passed, [!DNL  Target] ignores it. Other characters not supported include: ` < , >, ', "`. 
+       ![Step Result](assets/04_crs_usecase.png) 
+1. On the [!UICONTROL  Edit Customer Attribute Source] page, configure the following fields:
+    
+    * **[!UICONTROL  Name:]** A friendly name for the data attribute source. For [!DNL  Adobe Target], attribute names cannot include spaces. If an attribute with a space is passed, [!DNL  Target] ignores it. Other characters not supported include: ` < , >, ', "`. 
 
->    * **[!UICONTROL  Description:]** (Optional) A description of the data attribute source. 
+    * **[!UICONTROL  Description:]** (Optional) A description of the data attribute source. 
 
->    * **[!UICONTROL  Alias ID:]** Represents a source of customer attribute data, such as a specific CRM system. A unique ID that is used in your Customer Attribute Source code. The ID should be unique, lowercase, with no spaces. The value that is entered in the Alias ID field for a customer attribute source in the Experience Cloud UI should match the values that are being passed in from the implementation (whether via dynamic tag management or JavaScript of the Mobile SDK.) 
+    * **[!UICONTROL  Alias ID:]** Represents a source of customer attribute data, such as a specific CRM system. A unique ID that is used in your Customer Attribute Source code. The ID should be unique, lowercase, with no spaces. The value that is entered in the Alias ID field for a customer attribute source in the Experience Cloud UI should match the values that are being passed in from the implementation (whether via dynamic tag management or JavaScript of the Mobile SDK.) 
 
->      The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
->    
->        * **Dynamic tag management: **The Alias ID corresponds to the *` Integration Code`* value under [!UICONTROL  Customer Settings], in the [ Experience Cloud ID Service ](https://marketing.adobe.com/resources/help/en_US/dtm/?f=macid) tool. 
+      The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
+    
+        * **Dynamic tag management: **The Alias ID corresponds to the *` Integration Code`* value under [!UICONTROL  Customer Settings], in the [ Experience Cloud ID Service ](https://marketing.adobe.com/resources/help/en_US/dtm/?f=macid) tool. 
 
->        * **Visitor API: **The Alias ID corresponds to the additional [ Customer IDs ](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) that you can associate with each visitor. 
+        * **Visitor API: **The Alias ID corresponds to the additional [ Customer IDs ](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) that you can associate with each visitor. 
 
->          For example, *` "crm_id"`* in: 
+          For example, *` "crm_id"`* in: 
 
->        
->          ```
->          "crm_id":"67312378756723456"
->          ```
+        
+          ```
+          "crm_id":"67312378756723456"
+          ```
 
 
->        * **iOS:** The Alias ID corresponds to *` "idType"`* in [ visitorSyncIdentifiers:identifiers ](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods). 
+        * **iOS:** The Alias ID corresponds to *` "idType"`* in [ visitorSyncIdentifiers:identifiers ](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods). 
 
->          For example: 
+          For example: 
 
->        
->          ```
->          [ADBMobile visitorSyncIdentifiers:@{@ 
+        
+          ```
+          [ADBMobile visitorSyncIdentifiers:@{@ 
 <b>"idType"</b>:@"idValue"}]; 
->          
->          ```
+          
+          ```
 
 
->        * **Android:** The Alias ID corresponds to *` "idType"`* in [ syncIdentifiers ](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods). 
+        * **Android:** The Alias ID corresponds to *` "idType"`* in [ syncIdentifiers ](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods). 
 
->          For example: 
+          For example: 
 
->        
->          ```
->          identifiers.put( 
+        
+          ```
+          identifiers.put( 
 <b>"idType"</b>, "idValue");
->          ```
+          ```
 
 
->          See [ Leveraging multiple data sources ](../attributes/crs_data_file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) for additional information about data processing regarding the Alias ID field and Customer IDs. 
+          See [ Leveraging multiple data sources ](../attributes/crs_data_file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) for additional information about data processing regarding the Alias ID field and Customer IDs. 
 
 
->    * **[!UICONTROL  File Upload:]** You can drag-and-drop the [!DNL  .csv] data file, or upload the data via FTP. (Using FTP also requires a [!DNL  .fin] file.) See [ Upload the Data via FTP ](../attributes/t_upload_attributes_ftp.md#task_591C3B6733424718A62453D2F8ADF73B). 
+    * **[!UICONTROL  File Upload:]** You can drag-and-drop the [!DNL  .csv] data file, or upload the data via FTP. (Using FTP also requires a [!DNL  .fin] file.) See [ Upload the Data via FTP ](../attributes/t_upload_attributes_ftp.md#task_591C3B6733424718A62453D2F8ADF73B). 
 
 
->      >[!IMPORTANT]
->      >
->      >Specific data file requirements exist. See[ Data File Requirements ](../attributes/crs_data_file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for more information. 
+      >[!IMPORTANT]
+      >
+      >Specific data file requirements exist. See[ Data File Requirements ](../attributes/crs_data_file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for more information. 
 
 
->      After uploading the file, table data is displayed under the [!UICONTROL  File Upload] heading on this page. You can validate the schema, configure subscriptions, or set up the FTP. 
+      After uploading the file, table data is displayed under the [!UICONTROL  File Upload] heading on this page. You can validate the schema, configure subscriptions, or set up the FTP. 
 
->       **File upload graphic** 
+       **File upload graphic** 
 
->       ![](assets/file_upload_attributes.png) 
->    
->    * **[!UICONTROL  Unique Customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
+       ![](assets/file_upload_attributes.png) 
+    
+    * **[!UICONTROL  Unique Customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
 
->    * **[!UICONTROL  Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
+    * **[!UICONTROL  Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
 
->    * **[!UICONTROL  Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. At that time, the system invalidates the customer-provided ID and no longer distributes associated attributes. 
+    * **[!UICONTROL  Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. At that time, the system invalidates the customer-provided ID and no longer distributes associated attributes. 
 
->    
+    
 See [ Validate the schema ](../attributes/validate_schema.md#concept_B3A01A15D04E4F998118E09B3A9B5043). 
 See [ Configure subscriptions ](../attributes/subscription.md#concept_ECA3C44FA6D540C89CC04BA3C49E63BF). 
 
 **To activate an attribute source** 
 
->1. On the [!UICONTROL  Create New [or Edit] Customer Attribute Source] page, locate the [!UICONTROL  Activate] heading, then click **[!UICONTROL  Active]**.
+1. On the [!UICONTROL  Create New [or Edit] Customer Attribute Source] page, locate the [!UICONTROL  Activate] heading, then click **[!UICONTROL  Active]**.
 
->       ![Step Result](assets/activate_attribute_source.png) 
+       ![Step Result](assets/activate_attribute_source.png) 
 The following example shows an [!DNL  Analytics] segment based on the uploaded attributes. This segment shows Photoshop Lightroom subscribers whose most-launched product is Photoshop. 
 
 ![](assets/08_crs_usecase.png) 

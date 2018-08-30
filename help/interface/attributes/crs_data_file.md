@@ -5,7 +5,7 @@ seo-description: Data file requirements and multiple data sources for uploading 
 seo-title: About data file and data sources for customer attributes
 solution: Experience Cloud
 title: About data file and data sources for customer attributes
-uuid: b7c6e408-5614-4ba8-84bc-635e9fe3f877
+uuid: 1c07de06-55ac-4f2c-a7aa-fe9172196f07
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # About data file and data sources for customer attributes
+
+Data file requirements and multiple data sources for uploading customer attributes to the Experience Cloud.
 
 You will need access to CRM or similar data from your enterprise. The data you upload to the Experience Cloud must be a [!DNL  .csv] file. If you upload via FTP or sFTP, you also upload a [!DNL  .fin] file. 
 

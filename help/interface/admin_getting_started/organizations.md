@@ -5,7 +5,7 @@ seo-description: Learn about organizations and linking solution accounts to Expe
 seo-title: Organizations and account linking
 solution: Marketing Cloud
 title: Organizations and account linking
-uuid: 54243a85-159e-44e5-9568-406cd5e12565
+uuid: 1940f164-e617-4638-b213-aee8b71b4c44
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Organizations and account linking
+
+Learn about organizations and linking solution accounts to Experience Cloud.
 
 ## Organizations and account linking {#topic_C31CB834F109465A82ED57FF0563B3F1}
 >Learn about organizations and linking solution accounts to Experience Cloud.
@@ -38,19 +40,19 @@ The **organization ID** is found on the bottom of the Administration page. This 
 >## Link a solution account to an Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
 Typically, Experience Cloud administrators grant access to solutions and services. In rare circumstances, you may need to link solution credentials to an Adobe ID. 
 
->1. Follow the steps in your email invitation to the Experience Cloud.
->1. Log in using your Adobe ID or Enterprise ID.
->1. Click the solution selector. (  ![](assets/menu-icon.png)).
+1. Follow the steps in your email invitation to the Experience Cloud.
+1. Log in using your Adobe ID or Enterprise ID.
+1. Click the solution selector. (  ![](assets/menu-icon.png)).
 
->       ![](assets/solutions-active.png) 
+       ![](assets/solutions-active.png) 
 
->       The solutions to which you have access are colored. 
->1. Click the desired solution.
+       The solutions to which you have access are colored. 
+1. Click the desired solution.
 
->       ![](assets/analytics-link-accounts.png) 
+       ![](assets/analytics-link-accounts.png) 
 
->       This type of message displays if you are part of the appropriate group (and have permission to the solution) but have not yet linked your account credentials to your Adobe ID. 
->1. Click **[!UICONTROL  Link Account]**, then provide your credentials.
+       This type of message displays if you are part of the appropriate group (and have permission to the solution) but have not yet linked your account credentials to your Adobe ID. 
+1. Click **[!UICONTROL  Link Account]**, then provide your credentials.
 >## Specify a default organization and landing page {#concept_6A191B42A9874A9780882903BA18F071}
 You can specify a default organization and landing page to use when you log in. 
 

@@ -4,7 +4,7 @@ seo-description: Manage the translation of visitor data into audience segmentati
 seo-title: Audiences
 solution: Experience Cloud
 title: Audiences
-uuid: 3617c0bd-29d2-48fe-9197-76b1dcb0e259
+uuid: 06653dec-a186-434d-a318-99011ebca9e8
 index: y
 internal: n
 snippet: y
@@ -12,6 +12,8 @@ translate: y
 ---
 
 # Audiences
+
+Manage the translation of visitor data into audience segmentation.
 
 ## Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 >Manage the translation of visitor data into audience segmentation.Audiences are collections of visitors (a list of visitor IDs). Adobe's audience services manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to the [!DNL  Experience Cloud]. 

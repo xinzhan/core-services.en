@@ -5,7 +5,7 @@ seo-description: Features, release notes, and known issues for the Experience Cl
 seo-title: Cumulative release notes
 solution: Experience Cloud
 title: Cumulative release notes
-uuid: 71becf38-7d32-4757-b38a-898f0e8d226d
+uuid: 7227af17-3221-4fd1-8e01-6ac6556dad26
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Cumulative release notes
+
+Features, release notes, and known issues for the Experience Cloud interface.
 
 
 <!-- <p>Next release May 26 https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=marketingcloud&amp;amp;title=MC16.5.1+Release+Checklist </p> -->

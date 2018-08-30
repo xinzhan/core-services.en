@@ -5,7 +5,7 @@ seo-description: Learn how to use attribute rules to create an audience and defi
 seo-title: Create an audience
 solution: Experience Cloud
 title: Create an audience
-uuid: dff888ae-a3ff-483d-a46c-3e445920c4cf
+uuid: 20f9141c-3918-4cbd-b289-acf94099ac00
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Create an audience
+
+Learn how to use attribute rules to create an audience and define a composite audience in the Experience Cloud.
 
 This article helps you understand how to: 
 
@@ -35,56 +37,56 @@ The following example shows how to create the rules for a composite audience. Th
 * Chrome and Safari users derived from an [!DNL  Adobe Analytics] segment [ published ](../audience_library/audience_library.md#task_32FEEFE0B32E4E388CD4D892D727282A) to the [!DNL  Experience Cloud].
 ![](assets/audience_create.png) 
 
->1. In the [!DNL  Experience Cloud], click **[!UICONTROL  People]** > **[!UICONTROL  Audience Library]**.
->1. On the [!UICONTROL  Audiences] page, click **[!UICONTROL  New]**.  ![](assets/add_icon_small.png)
+1. In the [!DNL  Experience Cloud], click **[!UICONTROL  People]** > **[!UICONTROL  Audience Library]**.
+1. On the [!UICONTROL  Audiences] page, click **[!UICONTROL  New]**.  ![](assets/add_icon_small.png)
 
->       ![Step Result](assets/audience_create_new.png) 
->1. On the [!UICONTROL  Create New Audience] page, specify a title and description.
->1. Under [!UICONTROL  Rules], select an attribute source:
->    * **[!UICONTROL  Real-Time Analytics Data:]** (or Raw data) This is attribute data derived from real-time Analytics image requests, and includes data such as eVars and events. You must select a report suite when using this attribute source, and define the dimension or event to include. This report suite selection provides the variable structure used by the report suite. 
-
-
->      >[!NOTE]
->      >
->      >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in the Experience Cloud.
+       ![Step Result](assets/audience_create_new.png) 
+1. On the [!UICONTROL  Create New Audience] page, specify a title and description.
+1. Under [!UICONTROL  Rules], select an attribute source:
+    * **[!UICONTROL  Real-Time Analytics Data:]** (or Raw data) This is attribute data derived from real-time Analytics image requests, and includes data such as eVars and events. You must select a report suite when using this attribute source, and define the dimension or event to include. This report suite selection provides the variable structure used by the report suite. 
 
 
->    * **[!UICONTROL  Experience Cloud:]** Attribute data derived from the [!DNL  Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL  Analytics], or data from [!DNL  Audience Manager].
->1. Define audience rules.
-
->       >[!NOTE]
->       >
->       >You should have an understanding of your implementation variables when defining audience rules.
+      >[!NOTE]
+      >
+      >Due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in the Experience Cloud.
 
 
->       Under [!UICONTROL  Rules], define the *` Home &amp; Garden`* attribute selections: 
->    
->    * **[!UICONTROL  Attribute Source:]** Raw Analytics Data
->    * **[!UICONTROL  Report Suite:]** Report Suite 31
->    * Dimension =  **[!UICONTROL  Store (Merch) (v6)]** > **[!UICONTROL  Equals]** > **[!UICONTROL  Home &amp; Garden]**
->       ![](assets/home_garden.png) 
+    * **[!UICONTROL  Experience Cloud:]** Attribute data derived from the [!DNL  Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL  Analytics], or data from [!DNL  Audience Manager].
+1. Define audience rules.
 
->       The *` Chrome &amp; Safari Visitors`* is an audience segment shared from Analytics: 
->    
->    * **[!UICONTROL  Attribute Source:]** Experience Cloud
->    * **[!UICONTROL  Dimension:]** Chrome &amp; Safari Visitors
->       ![](assets/chrome_safari.png) 
+       >[!NOTE]
+       >
+       >You should have an understanding of your implementation variables when defining audience rules.
 
->       For comparison, you might add an *` OR`* rule to see all visitors to a site section, such as Patio &amp; Furniture. 
 
->       ![](assets/audiences_rule_patio.png) 
->    
->1. View the results.
+       Under [!UICONTROL  Rules], define the *` Home &amp; Garden`* attribute selections: 
+    
+    * **[!UICONTROL  Attribute Source:]** Raw Analytics Data
+    * **[!UICONTROL  Report Suite:]** Report Suite 31
+    * Dimension =  **[!UICONTROL  Store (Merch) (v6)]** > **[!UICONTROL  Equals]** > **[!UICONTROL  Home &amp; Garden]**
+       ![](assets/home_garden.png) 
 
->       The resulting rule is a defined audience comprising Chrome &amp;amp; Safari users who visited Home &amp;amp; Garden. The Patio &amp;amp; Furniture segment provides additional insight into all visitors visiting that site section. 
+       The *` Chrome &amp; Safari Visitors`* is an audience segment shared from Analytics: 
+    
+    * **[!UICONTROL  Attribute Source:]** Experience Cloud
+    * **[!UICONTROL  Dimension:]** Chrome &amp; Safari Visitors
+       ![](assets/chrome_safari.png) 
 
->       ![](assets/defined_audience.png) 
+       For comparison, you might add an *` OR`* rule to see all visitors to a site section, such as Patio &amp; Furniture. 
 
->       **Historical Estimate:** (Dotted circle) Represents rules created based on [!DNL  Analytics] data. 
+       ![](assets/audiences_rule_patio.png) 
+    
+1. View the results.
 
->       **Actual Audience:** (Solid circle) Any rule created that has 30 days of data from Audience Manager. When the Audience Manager data reaches 30 days, the line becomes solid and represents actual numbers. 
+       The resulting rule is a defined audience comprising Chrome &amp;amp; Safari users who visited Home &amp;amp; Garden. The Patio &amp;amp; Furniture segment provides additional insight into all visitors visiting that site section. 
 
->       After the data collection completes for the specified period, the circles combine to show a defined audience. 
->1. After defining the rules, click **[!UICONTROL  Save]**.
->   After the audience is saved, it is available for other solutions. For example, you can include a shared audience in a Target activity. 
->
+       ![](assets/defined_audience.png) 
+
+       **Historical Estimate:** (Dotted circle) Represents rules created based on [!DNL  Analytics] data. 
+
+       **Actual Audience:** (Solid circle) Any rule created that has 30 days of data from Audience Manager. When the Audience Manager data reaches 30 days, the line becomes solid and represents actual numbers. 
+
+       After the data collection completes for the specified period, the circles combine to show a defined audience. 
+1. After defining the rules, click **[!UICONTROL  Save]**.
+   After the audience is saved, it is available for other solutions. For example, you can include a shared audience in a Target activity. 
+

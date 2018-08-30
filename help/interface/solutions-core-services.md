@@ -4,7 +4,7 @@ seo-description: Learn about latest branding updates for the clouds, how to navi
 seo-title: About the new cloud names in Experience Cloud
 solution: Experience Cloud
 title: About the new cloud names in Experience Cloud
-uuid: 6abba282-cdd3-4003-a77c-c5e760e5281f
+uuid: d8369e82-8acc-4922-94cd-720bd3d56f1a
 index: y
 internal: n
 snippet: y
@@ -12,6 +12,8 @@ translate: y
 ---
 
 # About the new cloud names in Experience Cloud
+
+Learn about latest branding updates for the clouds, how to navigate the interface, and where to find help for solutions and core services.
 
 ## About the new cloud names in Experience Cloud {#topic_BD726D3A649E4FC49063029E86B70C62}
 >Learn about latest branding updates for the clouds, how to navigate the interface, and where to find help for solutions and core services.![](assets/cloud-pulldown.png) 

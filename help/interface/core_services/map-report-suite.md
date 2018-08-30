@@ -3,7 +3,7 @@ description: Learn how to map one or multiple report suites to an organization.
 seo-description: Learn how to map one or multiple report suites to an organization.
 seo-title: Map report suites to an organization
 title: Map report suites to an organization
-uuid: a30908e8-7e03-4abe-84c8-4d6fa36e1e49
+uuid: 63967835-3304-4df9-b0a1-6bd942bbaaa8
 index: y
 internal: n
 snippet: y
@@ -11,6 +11,8 @@ translate: y
 ---
 
 # Map report suites to an organization
+
+Learn how to map one or multiple report suites to an organization.
 
 ## Map report suites to an organization {#topic_7C4740559EAC4E0FA5F8DEF886B580DA}
 >Learn how to map one or multiple report suites to an organization.Experience Cloud services (such as Experience Cloud ID service and the People core service) are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. The mapping process: 
@@ -24,26 +26,26 @@ You must be an Analytics administrator of a login company that has access to the
 Organizations are grayed out if you do not have Analytics administrator permissions for a login company under that organization that has access to the given report suite. 
 >## Map a report suite to an organization {#task_23993FE78DF6455FA8D7BE60686EA16C}
 >Short Description
->1. Click **[!UICONTROL  Experience Cloud]** > **[!UICONTROL  Administration]** > **[!UICONTROL  Report Suite Mapping]**
->   You can also use a [ Direct URL](https://audience.marketing.adobe.com/rsmapping/ui.html). 
->
->1. To see the login companies that have access to each report suite, click **[!UICONTROL  Visible to Login Companies]**.
->   This view is intended to help you make an informed decision on the mapping. 
->
->1. Click the drop-down in the **[!UICONTROL  Mapped Organization]** column next to a report suite and select the organization to which you want to map. See [ Tips for Selecting an Experience Cloud Organization](report-suite-mapping.md#concept_vq4_3wf_ww).
+1. Click **[!UICONTROL  Experience Cloud]** > **[!UICONTROL  Administration]** > **[!UICONTROL  Report Suite Mapping]**
+   You can also use a [ Direct URL](https://audience.marketing.adobe.com/rsmapping/ui.html). 
+
+1. To see the login companies that have access to each report suite, click **[!UICONTROL  Visible to Login Companies]**.
+   This view is intended to help you make an informed decision on the mapping. 
+
+1. Click the drop-down in the **[!UICONTROL  Mapped Organization]** column next to a report suite and select the organization to which you want to map. See [ Tips for Selecting an Experience Cloud Organization](report-suite-mapping.md#concept_vq4_3wf_ww).
 >## Map multiple report suites to an organization {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 >Short DescriptionTask Context 
 
->1. Click **[!UICONTROL  Experience Cloud]** > **[!UICONTROL  Administration]** > **[!UICONTROL  Report Suite Mapping]**.
->   You can also use a [ Direct URL](https://audience.marketing.adobe.com/rsmapping/ui.html). 
->
->1. Select the report suites that you want to map.
->   ![](assets/rs-mapping-multiple.png) 
->
->1. Select the organization (Outdoors Inc, in this example), then click **[!UICONTROL  Select]**.
->   See [ Tips for Selecting an Experience Cloud Organization](report-suite-mapping.md#concept_vq4_3wf_ww). 
->
->1. Click **[!UICONTROL  Save Mapping]**.
+1. Click **[!UICONTROL  Experience Cloud]** > **[!UICONTROL  Administration]** > **[!UICONTROL  Report Suite Mapping]**.
+   You can also use a [ Direct URL](https://audience.marketing.adobe.com/rsmapping/ui.html). 
+
+1. Select the report suites that you want to map.
+   ![](assets/rs-mapping-multiple.png) 
+
+1. Select the organization (Outdoors Inc, in this example), then click **[!UICONTROL  Select]**.
+   See [ Tips for Selecting an Experience Cloud Organization](report-suite-mapping.md#concept_vq4_3wf_ww). 
+
+1. Click **[!UICONTROL  Save Mapping]**.
 
 >## Tips for Selecting an Experience Cloud Organization {#concept_vq4_3wf_ww}
 

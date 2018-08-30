@@ -5,7 +5,7 @@ seo-description: You can embed content from a web page into the Experience Cloud
 seo-title: Embedding content
 solution: Experience Cloud
 title: Embedding content
-uuid: 716ecab1-34b4-4519-982f-d89631aa5f0b
+uuid: c07594fe-58aa-41c5-ae07-f63e0191a3aa
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Embedding content
+
+You can embed content from a web page into the Experience Cloud.
 
 In [!UICONTROL  Administration], drag the **[!UICONTROL  Share to Adobe Experience Cloud]** button to your browser's bookmark toolbar. 
 

@@ -5,7 +5,7 @@ seo-description: Overview and prerequisites about uploading customer attributes 
 seo-title: Customer attributes
 solution: Experience Cloud
 title: Customer attributes
-uuid: 7b8fd61c-c667-4150-8bd2-0057bcfc560a
+uuid: 20e268e0-754d-4710-9953-15e2658f8e9f
 index: y
 internal: n
 snippet: y
@@ -13,6 +13,8 @@ translate: y
 ---
 
 # Customer attributes
+
+Overview and prerequisites about uploading customer attributes to the Experience Cloud.
 
 **[!UICONTROL  People]** > **[!UICONTROL  Customer Attributes]** 
 
