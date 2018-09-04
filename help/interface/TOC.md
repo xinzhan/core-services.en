@@ -9,8 +9,9 @@ user-guide: null
 
 + [Experience Cloud and core services help](experience-cloud.md)
 + [About the new cloud names in Experience Cloud](solutions-core-services.md)
-+ [About core services](core-services-landing.md)
-+ [Enable your solutions for core services](core_services/core_services.md)
++ About core services
+    + [Core services overview](core-services-landing.md)
+    + [Enable your solutions for core services](core_services/core_services.md)
     + [Map report suites to an organization](core_services/map-report-suite.md)
 + [Experience Cloud Integrations](marketing-cloud-integrations.md)
 + [Manage Experience Cloud users and products](admin_getting_started/admin_getting_started.md)
