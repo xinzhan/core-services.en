@@ -21,7 +21,7 @@ Activation includes the latest tag management product called Launch, by Adobe. D
 
 Deploy and manage the analytics, marketing, and advertising tags necessary to power relevant customer experiences. 
 
-See [ Launch, by Adobe ](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/). 
+See [Launch, by Adobe](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/). 
 
 ## Dynamic Tag Management {#section_C7E000EEF3E6459FB4B6D4A8960DD8F0}
 
@@ -54,7 +54,7 @@ If you want help implementing dynamic tag management we encourage you to contact
 
 ## Experience Cloud Triggers {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
-*` Triggers`* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization. 
+*`Triggers`* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization. 
 
 <table id="table_AF6842470172429EA97C9B02163BD0C3"> 
  <thead> 
