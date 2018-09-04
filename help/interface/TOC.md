@@ -37,11 +37,11 @@ user-guide: null
     + [Asset file requirements for sharing](experience-cloud-assets/assets_file_reqs.md)
     + [Behavior of shared folders](experience-cloud-assets/asset_behavior.md)
 + Audiences
-+ [Audiences overview](audience_library/audience_library.md)
+    + [Audiences overview](audience_library/audience_library.md)
     + [Create an audience](audience_library/t_audience_create.md)
     + [Publish an Analytics audience segment](audience_library/t_publish_audience_segment.md)
 + Customer attributes
-+ [Customer attributes overview](attributes/attributes.md)
+    + [Customer attributes overview](attributes/attributes.md)
     + [Frequently asked questions, limitations, and best practices](attributes/faq-crs.md)
     + [About data file and data sources for customer attributes](attributes/crs_data_file.md)
     + [Create a customer attribute source and upload the data file](attributes/t_crs_usecase.md)
