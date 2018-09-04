@@ -33,8 +33,8 @@ Audiences can be created or derived from various sources, such as:
 
 All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. The system evaluates audiences in two ways: 
 
-+ Historical audiences are sourced from analytics are evaluated every 12 hours. Historical audiences always include return visitors.
-+ Real-time audiences are sourced in the Experience Cloud Audiences are evaluated real time.
+* Historical audiences are sourced from analytics are evaluated every 12 hours. Historical audiences always include return visitors.
+* Real-time audiences are sourced in the Experience Cloud Audiences are evaluated real time.
 
 ## How solutions use audiences {#concept_01EB9345C5344597BC94A864EDD38EE1}
 
