@@ -131,11 +131,11 @@ Create a product profile and assign it to a permission group.When you invite a u
 1. Configure the profile details, then click **[!UICONTROL  Next]**.
 1. Click **[!UICONTROL  Done]**.
 
-       More help is available at: 
+More help is available at: 
     
-    * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
-    * [Enterprise User Permissions](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html) in Target help for more information.
-    * Video: [How to Configure Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
+* [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
+* [Enterprise User Permissions](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html) in Target help for more information.
+* Video: [How to Configure Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
 ## Assign Analytics access permissions to a product profile {#task_040673FE3E3E429B9531FBCB8B6A4391}
 
@@ -146,36 +146,13 @@ Assign Analytics report access permissions (report suites, metrics, dimensions, 
 1. Configure the profile's permissions:
 
 
-<table id="table_9B36D534FED444ACA2D765B672E2B303"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Element </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Report Suites </p> </td> 
-   <td colname="col2"> <p>Enable permissions to specific report suites. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Metrics </p> </td> 
-   <td colname="col2"> <p>Enable permissions for traffic, conversion, custom events, solution events, content aware, and so on. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Dimensions </p> </td> 
-   <td colname="col2"> <p>Customize user access at a granular level, including eVars, traffic reports, solution reports, and pathing reports. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Report Suite Tools </p> </td> 
-   <td colname="col2"> <p> Enable user permissions for Web Services, Report Suite Management, Tools and Reports, and Dashboard Items. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Analytics Tools </p> </td> 
-   <td colname="col2"> <p> Enable user permissions for General items (billing, logs, etc.), Company Management, Tools, Web Service Access, Report Builder, and Data Connectors integration. </p> <p> Company settings from the Customize Admin Console category have been moved to Analytics Tools. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Element | Description |
+|--- |--- |
+|Report Suites|Enable permissions to specific report suites.|
+|Metrics|Enable permissions for traffic, conversion, custom events, solution events, content aware, and so on.|
+|Dimensions|Customize user access at a granular level, including eVars, traffic reports, solution reports, and pathing reports.|
+|Report Suite Tools|Enable user permissions for Web Services, Report Suite Management, Tools and Reports, and Dashboard Items.|
+|Analytics Tools|Enable user permissions for General items (billing, logs, etc.), Company Management, Tools, Web Service Access, Report Builder, and Data Connectors integration. Company settings from the Customize Admin Console category have been moved to Analytics Tools.|
 
 
 ## Delegate administrative roles to users {#task_3A072C4AA9734BC59FFA7E015271BC7E}
