@@ -14,29 +14,8 @@ translate: y
 
 # Enable your solutions for core services
 
-<<<<<<< HEAD
 Implement the Experience Cloud and become an administrator. This process modernizes your solutions for core service features like customer attributes and audiences.
 
-On this page: 
-
-<!-- <p>https://marketing-beta.adobe.com/resources/help/core/core_services.html </p> 
-<p>https://adobe.sharepoint.com/sites/AGSConsulting/CoreServices/PA/_layouts/15/start.aspx#/ </p> -->
-
-<!-- Core services architecture and data flow wiki: https://wiki.corp.adobe.com/pages/viewpage.action?pageId=1004285689 -->
-
-<!-- BF - Hid report suite mapping concept on this page, restored report-suite-mapping.xml due to broken link from consolidation. The UI links to report-suite-mapping.html. 01232018. -->
-
-1. [ Join the Experience Cloud and become an administrator ](../core_services/core_services.md#section_2423F0BD3DF642658103310EE5EA6154)
-1. [ Implement the Experience Cloud ID service using DTM ](../core_services/core_services.md#section_3C9F6DF37C654D939625BB4D485E4354)
-1. [ Map Report Suites to an Experience Cloud Organization ](report-suite-mapping.md#concept_apg_zq2_rw)
-1. [ (Analytics only) Modernize Your Analytics AppMeasurement Code ](../core_services/core_services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
-1. [ (Target only) Modernize Your Adobe Target Implementation ](../core_services/core_services.md#section_C2F4493C7A36406DAE2266B429A4BD24)
-1. [ Verify the Core Services Implementation ](../core_services/core_services.md#section_E641782A0F4F44AF8C9C91216BE330D5)
-1. [ Manage users and products ](../core_services/core_services.md#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
-1. [ Start using core services ](../core_services/core_services.md#section_960C06093623462E8EA247B3E97274A1)
-
-=======
->>>>>>> 344fe87aa4c04b86528dbc108084121a795dbf64
 ## 1. Join the Experience Cloud and become an administrator {#section_2423F0BD3DF642658103310EE5EA6154}
 
 What you need to do to join the Experience Cloud: 
@@ -155,15 +134,14 @@ Verify that you are on regional data collection (RDC). If your data collection d
 
 It is recommended that you modernize your Analytics implementation by updating your JavaScript libraries, including the Visitor API. The simple way to accomplish this is to add an [!DNL  Adobe Analytics] tool in Dynamic Tag Management, specifying *` Automatic`* as the configuration method. 
 
-In Dynamic Tag Management, click  **[!UICONTROL  <Web Property Name>]** > **[!UICONTROL  Overview]** > **[!UICONTROL  Add a Tool]** > **[!UICONTROL  Adobe Analytics]** . See [ Adobe Analytics Settings ](https://marketing.adobe.com/resources/help/en_US/dtm/?f=analytics_dtm) in Dynamic Tag Management for deployment information. 
+In Dynamic Tag Management, click  **[!UICONTROL  <Web Property Name>]** > **[!UICONTROL  Overview]** > **[!UICONTROL  Add a Tool]** > **[!UICONTROL  Adobe Analytics]** . See [ Adobe Analytics Settings ](https://marketing.adobe.com/resources/help/en_US/dtm/?f=analytics_dtm) in Dynamic Tag Management for deployment information.
 
 ## 5. (Adobe Target) Modernize your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
 
-
-* It is recommended that you add an [ Adobe Target tool ](https://marketing.adobe.com/resources/help/en_US/dtm/target.html) in Dynamic Tag Management, so that your library retrieval is automatic. In Dynamic Tag Management, click  **[!UICONTROL  <Web Property Name>]** > **[!UICONTROL  Overview]** > **[!UICONTROL  Add a Tool]** > **[!UICONTROL  Adobe Target]** . **Note:** You can also use Dynamic Tag Management to deploy the Experience Cloud ID service for Target (and other solutions). The Experience Cloud ID service update **is required** for Target to use core services.
+* It is recommended that you add an [Adobe Target tool](https://marketing.adobe.com/resources/help/en_US/dtm/target.html) in Dynamic Tag Management, so that your library retrieval is automatic. In Dynamic Tag Management, click  **[!UICONTROL  <Web Property Name>]** > **[!UICONTROL  Overview]** > **[!UICONTROL  Add a Tool]** > **[!UICONTROL  Adobe Target]** . **Note:** You can also use Dynamic Tag Management to deploy the Experience Cloud ID service for Target (and other solutions). The Experience Cloud ID service update **is required** for Target to use core services.
 * If you are not using Dynamic Tag Management, [ update your mbox library ](https://marketing.adobe.com/resources/help/en_US/target/ov/?f=t_mbox_download) manually.
 * Request access to use Adobe Analytics as the reporting source for Adobe Target. Target and Analytics data are combined on the same server call during processing so that visitors are connected between the two solutions. See [ Analytics for Target Implementation ](https://marketing.adobe.com/resources/help/en_US/target/a4t/?f=a4t).
-* 
+ 
   >[!IMPORTANT]
   >
   >All analytics customers are already provisioned for core services like customer attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
@@ -251,6 +229,6 @@ Use of real-time audience profiling leverages the Audience Manager cookie, in ad
 
 If you want to provide the proper opt-out ability, visitors to your site must add the Audience Manager opt-out to your existing opt-out process. 
 
-See [ Adobe Experience Cloud - Implementing Adobe Opt-Outs ](https://marketing.adobe.com/resources/help/en_US/sc/implement/opt_out.html) for instructions. 
+See [Adobe Experience Cloud - Implementing Adobe Opt-Outs](https://marketing.adobe.com/resources/help/en_US/sc/implement/opt_out.html) for instructions. 
 
-See [ Data Collection CNAMEs and Cross-Domain Tracking ](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_cname) for enabling cross-domain tracking. 
+See [Data Collection CNAMEs and Cross-Domain Tracking](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_cname) for enabling cross-domain tracking. 
