@@ -14,15 +14,13 @@ translate: y
 
 # Upload an asset to a shared folder from the Creative Cloud browser
 
-Upload an asset to a shared folder from the Creative Cloud browser.
-
-
 <!-- <p>http://helpx.adobe.com/creative-cloud/help/sync-files.html </p> -->
 
 1. Launch the [!DNL  Creative Cloud] browser and navigate to [!UICONTROL  Creative Cloud Files].
 1. Open the shared folder.
 1. Click **[!UICONTROL  Actions]** > **[!UICONTROL  Upload]**.
 1. Use your operating system's file browsing to select or move assets.
+
 >[!MORE_LIKE_THIS]
 >
->* [  ](http://helpx.adobe.com/creative-cloud/help/sync-files.html)
+>* [Browse, sync, and manage assets](http://helpx.adobe.com/creative-cloud/help/sync-files.html)
