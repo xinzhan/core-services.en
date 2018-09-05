@@ -50,6 +50,3 @@ In [!DNL  Adobe Social], you can insert a shared image asset using the [!UICONTR
 See [ Publisher Page](https://marketing.adobe.com/resources/help/en_US/social/?f=c_pub_publisher) in [!DNL  Social] Help. 
 
 Shared folders and assets are synchronized automatically between the clouds. 
->[!MORE_LIKE_THIS]
->
->* [  ](https://helpx.adobe.com/creative-cloud/topics/getting-started.html?promoid=JZEFO)
