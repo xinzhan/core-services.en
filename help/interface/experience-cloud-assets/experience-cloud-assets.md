@@ -15,18 +15,19 @@ translate: y
 
 Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a Photoshop file, slides in a PowerPoint file, pages in a PDF, files in a ZIP).
 
-
 <!-- asset.xml -->
+
 Asset services include: 
 
 * Asset storage, management interface, embedded selection interface (accessed through solutions).
 * Integrations with Creative Cloud, Experience Cloud collaboration, and Experience Cloud solutions.
 Using assets improves consistency and brand compliance, and speeds time to market. You can streamline workflows in solutions: 
 
-* ** [!DNL  Social] **: Publish to social properties, Facebook, Twitter, LinkedIn, Google+
-* ** [!DNL  Target] **: Create experiences for A/B and multivariate tests.
-* ** [!DNL  Media Optimizer] **: Develop ad units across different channels and campaigns
-* ** [!DNL  Campaign] **: Place assets into email newsletters and campaigns.
+* **[!DNL  Social]**: Publish to social properties, Facebook, Twitter, LinkedIn, Google+
+* **[!DNL  Target]**: Create experiences for A/B and multivariate tests.
+* **[!DNL  Media Optimizer]**: Develop ad units across different channels and campaigns
+* **[!DNL  Campaign]**: Place assets into email newsletters and campaigns.
+
 In [!UICONTROL  Experience Cloud Assets], you can: 
 
 * [ Navigate to Experience Cloud Assets ](../experience-cloud-assets/experience-cloud-assets.md#section_3657039DD3524F2AA88753BFF4781125)
@@ -106,6 +107,7 @@ Editing an asset enables features, including:
 * Crop
 * Rotate
 * Flip
+
 ![](assets/asset-edit.png) 
 
 ## Search for Assets {#section_50FE049010B446FC9640AA6A30E5A730}
@@ -154,4 +156,4 @@ Click **[!UICONTROL  Tools]** > **[!UICONTROL  Reports]** > **[!UICONTROL  Usage
 
 You can share assets within Adobe Experience Manager (AEM) Assets with the [!DNL  Experience Cloud] and [!DNL  Adobe Creative Cloud]. Any changes to these assets are reflected in the shared copies of the assets in Experience Cloud and [!DNL  Creative Cloud]. Similarly, any changes you make to the shared copies of the assets from within [!DNL  Experience Cloud] and [!DNL  Creative Cloud] are reflected in the original assets in AEM Assets. 
 
-See [ Configuring AEM Assets Integration](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html) for more information. 
+See [Configuring AEM Assets Integration](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html) for more information. 
