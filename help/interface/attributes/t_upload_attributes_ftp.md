@@ -32,6 +32,7 @@ File uploads to the customer attributes FTP site can be done via FTP or SFTP.
 **To upload the data file via FTP** 
 
 1. [Create a customer attribute source and upload the data file...](../attributes/t_crs_usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78).
+
    Ensure that you are logged in to your FTP site at [!DNL  ftp.adobe.com/<sftpname>]. 
 
 1. Click **[!UICONTROL  Actions]** > **[!UICONTROL  File Upload]**.
