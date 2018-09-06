@@ -24,6 +24,7 @@ Create the customer attribute source and upload the data. You also activate the 
 1. [ Create the attribute source and upload the data file ](../attributes/t_crs_usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
 1. [ Validate the schema ](../attributes/t_crs_usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
 1. [ Configure subscriptions and activate the attribute source ](../attributes/t_crs_usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
+
 After the data source is active, you can: 
 
 * [ Use customer attributes in Adobe Analytics ](../attributes/t_crs_usecase.md#task_7EB0680540CE4B65911B2C779210915D)
