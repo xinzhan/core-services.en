@@ -43,7 +43,7 @@ Short Description
 
    This view is intended to help you make an informed decision on the mapping. 
 
-1. Click the drop-down in the **[!UICONTROL Mapped Organization]** column next to a report suite and select the organization to which you want to map. See [Tips for Selecting an Experience Cloud Organization](report-suite-mapping.md#concept_vq4_3wf_ww).
+1. Click the drop-down in the **[!UICONTROL Mapped Organization]** column next to a report suite and select the organization to which you want to map. See [Tips for Selecting an Experience Cloud Organization](#concept_vq4_3wf_ww).
 
 ## Map multiple report suites to an organization {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 
@@ -61,7 +61,7 @@ Task Context
 
 1. Select the organization (Outdoors Inc, in this example), then click **[!UICONTROL Select]**.
 
-   See [Tips for Selecting an Experience Cloud Organization](report-suite-mapping.md#concept_vq4_3wf_ww). 
+   See [Tips for Selecting an Experience Cloud Organization](#concept_vq4_3wf_ww). 
 
 1. Click **[!UICONTROL Save Mapping]**.
 
