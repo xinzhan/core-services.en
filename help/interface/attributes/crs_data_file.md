@@ -159,6 +159,7 @@ Visitor.setCustomerIDs({
      "ds_id2":"123456" 
 });
 ```
+
 (See [Customer IDs and Authentication States](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) for more information.) 
 
 In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**: 
