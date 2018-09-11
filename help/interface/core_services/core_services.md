@@ -16,8 +16,6 @@ translate: y
 
 Implement the Experience Cloud and become an administrator. This process modernizes your solutions for core service features like customer attributes and audiences.
 
-On this page: 
-
 <!-- <p>https://marketing-beta.adobe.com/resources/help/core/core_services.html </p> 
 <p>https://adobe.sharepoint.com/sites/AGSConsulting/CoreServices/PA/_layouts/15/start.aspx#/ </p> -->
 
