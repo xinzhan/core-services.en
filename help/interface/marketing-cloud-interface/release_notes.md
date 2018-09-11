@@ -16,34 +16,6 @@ translate: y
 
 Features, release notes, and known issues for the Experience Cloud interface.
 
-
-<!-- <p>Next release May 26 https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=marketingcloud&title=MC16.5.1+Release+Checklist </p> -->
-
-* [Release 16.5.1 - May 26 2016](../marketing-cloud-interface/release_notes.md#section_3785F182BC13493F84903CA69EB6D0A8)
-* [Release 16.2 February 18 2016](../marketing-cloud-interface/release_notes.md#section_D9610373116C4D77A38F67815C725EA3)
-* [Release 16.1 - January 2016](../marketing-cloud-interface/release_notes.md#section_33B3F7DF6CA347E3AA93801BAC6232CE)
-* [Release 15.10 - October 14 2015](../marketing-cloud-interface/release_notes.md#section_68123833D3634BD3A473C12862BF9606)
-* [Release 15.9 - September 10 2015](../marketing-cloud-interface/release_notes.md#section_BCCE3E7DF62A4FF5A57B9C8FE2A5F37B)
-* [Release 15.7 - July 22 2015](../marketing-cloud-interface/release_notes.md#section_2683A152176944E48EF6C943892975B7)
-* [Release 15.6.1 - June 10 2015](../marketing-cloud-interface/release_notes.md#section_AD2019F8D2F84C9EB2B0533FAACF7043)
-* [Release 15.5.1 - May 13 2015](../marketing-cloud-interface/release_notes.md#section_EF197410964E40D294D0D8024738CFBA)
-* [Release 15.4.1 - April 8 2015](../marketing-cloud-interface/release_notes.md#section_75634120CC934B3381EDEA7F6F976F0A)
-* [Release 15.3.2 - March 19 2015](../marketing-cloud-interface/release_notes.md#section_07760FD9CA43497FA8BDCCA990A24BFD)
-* [Release 15.3.1 - March 4 2015](../marketing-cloud-interface/release_notes.md#section_57CB69C044DD47BDBC1A1BEC38957551)
-* [Release 15.2.1 - February 19 2015](../marketing-cloud-interface/release_notes.md#section_BC694D5AE16A4E16B44B353ED67947F3)
-* [Release 15.1.1 - January 15 2015](../marketing-cloud-interface/release_notes.md#section_F1A352E928AF432E94CC0A289C345184)
-* [Release 14.11.1 - November 13 2014](../marketing-cloud-interface/release_notes.md#section_A6CF1D4F27B9496892A89C983EB39102)
-* [Release 14.10.1 - October 16 2014](../marketing-cloud-interface/release_notes.md#section_E3A0F4423B814707AA3745E083500835)
-* [Release 14.9.1 - September 18 2014](../marketing-cloud-interface/release_notes.md#section_20F156A9CC2F4FC59C4970075C181D3A)
-* [Release 14.8.1 - August 21 2014](../marketing-cloud-interface/release_notes.md#section_03BF00F6A95A490C91BCC0A1988FA7AA)
-* [Release 14.7.1 - July 24 2014](../marketing-cloud-interface/release_notes.md#section_B22D4F830756463DB27BB4D508D9ADD5)
-* [Release 14.6.1 - June 19 2014](../marketing-cloud-interface/release_notes.md#marketing_cloud_interface)
-* [Release 14.5.1 - May 22 2014](../marketing-cloud-interface/release_notes.md#section_7E22B2CB3ABA4D6EAED8CA8EFDE5433E)
-* [Release 14.4.1 - April 22 2014](../marketing-cloud-interface/release_notes.md#section_E2A699764E744D2E8D418E9A3D40AF6B)
-* [Release 14.3.1 - March 13, 2014](../marketing-cloud-interface/release_notes.md#section_5D142E3225E3477A84DC01B8197D39BC)
-* [Release 14.2.1 - February 24, 2014](../marketing-cloud-interface/release_notes.md#section_5AD81B0737C843AFB4BE9C4420D70EB3)
-
-
 For a list of documentation updates, see [Experience Cloud](../doc_updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/). 
@@ -107,7 +79,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 **Known Issue** 
 
-If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to [!DNL https://dtm.adobe.com] in a new browser tab. 
+If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to [!DNL `https://dtm.adobe.com`] in a new browser tab. 
 
 ## Release 16.1 - January 21 2016 {#section_33B3F7DF6CA347E3AA93801BAC6232CE}
 
