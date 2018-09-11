@@ -79,7 +79,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 **Known Issue** 
 
-If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to [!DNL `https://dtm.adobe.com`] in a new browser tab. 
+If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to [!DNL dtm.adobe.com] in a new browser tab. 
 
 ## Release 16.1 - January 21 2016 {#section_33B3F7DF6CA347E3AA93801BAC6232CE}
 
@@ -139,18 +139,7 @@ A known issue is causing duplicate auto-generated accounts to be created in Audi
 
 ## Release 15.6.1 - June 11 2015 {#section_AD2019F8D2F84C9EB2B0533FAACF7043}
 
-
-|  Improvement  | Description  |
-|---|---|
-|  Solution access page.  |  |
-
-**Fixes** 
-
-
-
-**Known Issue** 
-
-
+No information available
 
 ## Release 15.5.1 - May 13 2015 {#section_EF197410964E40D294D0D8024738CFBA}
 
