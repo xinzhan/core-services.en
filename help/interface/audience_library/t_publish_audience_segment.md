@@ -5,7 +5,7 @@ seo-description: Publish an Analytics audience segment to the Experience Cloud a
 seo-title: Publish an Analytics audience segment
 solution: Experience Cloud
 title: Publish an Analytics audience segment
-uuid: 5d2c2351-6d46-4abb-a4d1-a3d54c1fc324
+uuid: 4201dc22-4b79-457c-a614-949bba087617
 index: y
 internal: n
 snippet: y
@@ -48,4 +48,4 @@ Publish an Analytics audience segment to the Experience Cloud and to Adobe Targe
 1. Access [!DNL Adobe Target], then navigate to the [!UICONTROL Segment] list.
 1. On the [!UICONTROL Segment] page, click **[!UICONTROL Import Experience Cloud Audiences]**
 
-       This option displays the [!DNL Analytics] segment for use in activities. 
+   This option displays the [!DNL Analytics] segment for use in activities. 

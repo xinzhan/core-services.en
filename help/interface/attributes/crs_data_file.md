@@ -5,7 +5,7 @@ seo-description: Data file requirements and multiple data sources for uploading 
 seo-title: About data file and data sources for customer attributes
 solution: Experience Cloud
 title: About data file and data sources for customer attributes
-uuid: f53a223c-60bb-466a-b9e2-8fb2b6174d8c
+uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 index: y
 internal: n
 snippet: y

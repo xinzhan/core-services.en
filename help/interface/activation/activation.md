@@ -5,7 +5,7 @@ seo-description: Activation includes the latest tag management product called La
 seo-title: Activation
 solution: Experience Cloud
 title: Activation
-uuid: aa1da161-dbd6-4033-8974-8c69cc3048d1
+uuid: 54ada638-3592-49ee-930a-9f44bcc5e5d3
 index: y
 internal: n
 snippet: y

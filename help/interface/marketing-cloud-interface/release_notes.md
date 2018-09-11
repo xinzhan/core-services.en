@@ -5,7 +5,7 @@ seo-description: Features, release notes, and known issues for the Experience Cl
 seo-title: Cumulative release notes
 solution: Experience Cloud
 title: Cumulative release notes
-uuid: f036c271-cd11-4dab-b07f-110f2f5e2845
+uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 index: y
 internal: n
 snippet: y
@@ -104,6 +104,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 * Fixed an issue preventing linking and SSO for Analytics. This issue displayed the "Notice: The error message: ERROR IMS SSO Failed: Unable to find linked company."
 
+
 **Known Issue** 
 
 If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to [!DNL https://dtm.adobe.com] in a new browser tab. 
@@ -135,19 +136,30 @@ If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** >
 
 **Known Issues** 
 
-* Customers are not able to log into Report Builder if they SSO into Analytics via the Experience Cloud. This issue does not impact customers using legacy Analytics credentials.* Known issue with the "Link to Report" function in Analytics. Customers logging into Analytics via the Experience Cloud are directed to a non-SSO login page for Analytics when trying to share a report.
+* Customers are not able to log into Report Builder if they SSO into Analytics via the Experience Cloud. This issue does not impact customers using legacy Analytics credentials.
+* Known issue with the "Link to Report" function in Analytics. Customers logging into Analytics via the Experience Cloud are directed to a non-SSO login page for Analytics when trying to share a report.
+
 
 
 ## Release 15.9 - September 10 2015 {#section_BCCE3E7DF62A4FF5A57B9C8FE2A5F37B}
 
 
-* Fixed an Audience Manager API performance issue causing intermittent timeouts when uploading customer attributes data. (MAC-26305)* Fixed an issue that prevented users from adding up to 200 customer attributes to a subscription. (MAC-26188)* Fixed an Audience Library issue that prevented audience sharing from Analytics segmentation. This issue caused "Collecting Data" (0 audiences) to display. To prevent this issue, Adobe recommends keeping the segment sizes under 50k audience members per segment. (MAC-25788)* Fixed a previous known issue on the Customer attributes - Edit Schema page that was causing a Content Aware error that was issued when changing a display name. (MAC-25589, AN-103834)
+* Fixed an Audience Manager API performance issue causing intermittent timeouts when uploading customer attributes data. (MAC-26305)
+* Fixed an issue that prevented users from adding up to 200 customer attributes to a subscription. (MAC-26188)
+* Fixed an Audience Library issue that prevented audience sharing from Analytics segmentation. This issue caused "Collecting Data" (0 audiences) to display. To prevent this issue, Adobe recommends keeping the segment sizes under 50k audience members per segment. (MAC-25788)
+* Fixed a previous known issue on the Customer attributes - Edit Schema page that was causing a Content Aware error that was issued when changing a display name. (MAC-25589, AN-103834)
+
 
 
 ## Release 15.7 - July 22 2015 {#section_2683A152176944E48EF6C943892975B7}
 
 
-* Fixed an issue that prevented attribute descriptions specified on the View/Edit Schema page (in customer attributes) from being updated in Analytics reports. (MAC-25985)* Fixed an issue preventing the thumbnails from rendering for uploaded assets. (MAC-25863)* Fixed an issue that prevented new segments created in reports & analytics from being available in Experience Cloud Audiences. (MAC-25817)* Fixed an issue that prevented audience sharing from Analytics, when using the visitor ID service. (MAC-25788, MAC-25747)* Added support for multibyte characters in customer attributes. (MAC-25552)
+* Fixed an issue that prevented attribute descriptions specified on the View/Edit Schema page (in customer attributes) from being updated in Analytics reports. (MAC-25985)
+* Fixed an issue preventing the thumbnails from rendering for uploaded assets. (MAC-25863)
+* Fixed an issue that prevented new segments created in reports & analytics from being available in Experience Cloud Audiences. (MAC-25817)
+* Fixed an issue that prevented audience sharing from Analytics, when using the visitor ID service. (MAC-25788, MAC-25747)
+* Added support for multibyte characters in customer attributes. (MAC-25552)
+
 
 **Known Issue** 
 
@@ -192,7 +204,8 @@ A known issue is causing duplicate auto-generated accounts to be created in Audi
 </table>
 
 
-* Fixed an issue preventing customer attributes from syncing for some customers.* Fixed an issue preventing [Adobe Target Product Documentation](https://marketing.adobe.com/resources/help/ja_JP/target/a4t/) page from displaying in Japanese.
+* Fixed an issue preventing customer attributes from syncing for some customers.
+* Fixed an issue preventing [Adobe Target Product Documentation](https://marketing.adobe.com/resources/help/ja_JP/target/a4t/) page from displaying in Japanese.
 * Fixed an issue preventing the use of Japanese text in comments between the [!DNL Creative Cloud] and the [!DNL Experience Cloud].
 
 
@@ -228,6 +241,7 @@ A known issue is causing duplicate auto-generated accounts to be created in Audi
 
 * Linking and unlinking your dynamic tag management organization with the Experience Cloud is not working for newly created Experience Cloud organizations. We are working to fix this and restore normal functionality with the May release. If you experience problems when trying to single-sign on into dynamic tag management via the Experience Cloud, use the legacy login at [!DNL dtm.adobe.com].
 * A known issue is preventing audience sharing from report suites which are not owned by the linked Analytics account. Remedial efforts are underway
+
 
 
 ## Release 15.3.2 - March 19 2015 {#section_07760FD9CA43497FA8BDCCA990A24BFD}
@@ -284,10 +298,12 @@ A known issue is causing duplicate auto-generated accounts to be created in Audi
 
 Fixes: 
 
-** Fixed an asset folder issue preventing [!DNL Experience Cloud] and [!DNL Adobe Campaign] assets from displaying identical folder hierarchies.
+*
+* Fixed an asset folder issue preventing [!DNL Experience Cloud] and [!DNL Adobe Campaign] assets from displaying identical folder hierarchies.
 * Fixed an issue preventing the deletion of audiences that were part of deactivated [!DNL Target] activities.
 * Fixed an issue preventing the Add (plus) icon from displaying under [!UICONTROL Rules] on the [!UICONTROL Create New Audience] page.
 *
+
 
 
 ## Release 15.1.1 - January 15 2015 {#section_F1A352E928AF432E94CC0A289C345184}
@@ -311,27 +327,41 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 **Fixes** 
 
-**
+*
+*
+
 
 **Known Issues** 
 
-*** Some users might have issues uploading large file-types to [!DNL Experience Cloud] Assets.
+*
+*
+* Some users might have issues uploading large file-types to [!DNL Experience Cloud] Assets.
 * Users might be missing links on their [!DNL Experience Cloud] cards from [!DNL Media Optimizer].
 * Some administrative users might experience issues linking their accounts after accepting an invitation to join the [!DNL Experience Cloud].
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by multiple users.
-*** Some users might be unable to re-add a [!DNL Creative Cloud] user to a shared folder after the [!DNL Creative Cloud] user has been deleted.
+*
+*
+* Some users might be unable to re-add a [!DNL Creative Cloud] user to a shared folder after the [!DNL Creative Cloud] user has been deleted.
 * Some users might experience a delay in the notification that occurs when a folder is shared from the [!DNL Experience Cloud] to Creative Cloud.
 * Some users might experience an issue sharing a folder between the [!DNL Experience Cloud] and [!DNL Creative Cloud].
-**
+*
+*
+
 
 
 ## Release 14.11.1 - November 13 2014 {#section_A6CF1D4F27B9496892A89C983EB39102}
 
 Known issues: 
 
-** Some [!DNL .png] files cannot be rendered on a card.
-***** [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 *
+* Some [!DNL .png] files cannot be rendered on a card.
+*
+*
+*
+*
+* [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
+*
+
 
 
 ## Release 14.10.1 - October 16 2014 {#section_E3A0F4423B814707AA3745E083500835}
@@ -361,10 +391,16 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 *
 
+
 **Known Issues** 
 
-** Some [!DNL .png] files cannot be rendered on a card.
-***** [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
+*
+* Some [!DNL .png] files cannot be rendered on a card.
+*
+*
+*
+*
+* [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 
 
@@ -376,9 +412,15 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * When you navigate to [!DNL marketing.adobe.com], the login experience is now consistent with Adobe's Creative Cloud login.
 *
 
+
 **Known Issues** 
 
-****** Some [!DNL .png] files cannot be rendered on a card.
+*
+*
+*
+*
+*
+* Some [!DNL .png] files cannot be rendered on a card.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 * Some users may experience their [!DNL Creative Cloud] contents being removed from their folder, if the content is unshared in the [!DNL Experience Cloud].
@@ -406,10 +448,15 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 **Known Issues** 
 
-**** Some users may not be able to log in from [!DNL Target] to [!DNL Experience Cloud].
+*
+*
+*
+* Some users may not be able to log in from [!DNL Target] to [!DNL Experience Cloud].
 * Some Audience Manager users cannot log into the [!DNL Experience Cloud].
-** Files deleted from [!DNL Experience Cloud] are not being deleted from [!DNL Digital Asset Management].
-** Some [!DNL .png] files cannot be rendered on a card.
+*
+* Files deleted from [!DNL Experience Cloud] are not being deleted from [!DNL Digital Asset Management].
+*
+* Some [!DNL .png] files cannot be rendered on a card.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 * Some users may experience their [!DNL Creative Cloud] contents being removed from their folder, if the content is unshared in the [!DNL Experience Cloud].
@@ -464,14 +511,18 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Known Issues** 
 
 * Files deleted from [!DNL Experience Cloud] are not being deleted from [!DNL Digital Asset Management].
-* Uploading files allows more file types than the drag-and-drop method. For best results, upload using Assets.* The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
+* Uploading files allows more file types than the drag-and-drop method. For best results, upload using Assets.
+* The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in the [!DNL Experience Cloud].
 * Some users are not able to link their audience management account with their [!DNL Experience Cloud] account.
-**
+*
+*
+
 
 **Fixes** 
 
 * Fixed an issue preventing video upload to apps.
+
 
 
 ## Release 14.5.1 - May 22 2014 {#section_7E22B2CB3ABA4D6EAED8CA8EFDE5433E}
@@ -513,12 +564,19 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * [!DNL Experience Cloud] was not linking to [!DNL Adobe Target]. This issue occurred if the [!DNL Adobe Target] login can be used on multiple [!DNL Target] servers.
 * [!DNL Adobe Media Optimizer] was not creating users automatically when the user has been created in [!DNL Experience Cloud].
 * Data shared from [!DNL Media Optimizer] was misrepresented in the [!DNL Experience Cloud].
-**** Slow [!UICONTROL Experience Cloud] interface performance when in parallel use by many users.
+*
+*
+*
+* Slow [!UICONTROL Experience Cloud] interface performance when in parallel use by many users.
 * Deleting an image in [!UICONTROL Experience Cloud Assets] was not issuing a warning if the image was used in [!DNL Adobe Target Essentials].
 * When **[!UICONTROL remember me]** was not selected during login, the user was logged out after 15 minutes.
-** Logging in to the [!DNL Experience Cloud] was taking longer than a second.
+*
+* Logging in to the [!DNL Experience Cloud] was taking longer than a second.
 * For certain users, deleting files from the [!DNL Experience Cloud] did not synchronizing with [!DNL Digital Asset Management].
-***
+*
+*
+*
+
 
 
 ## Release 14.4.1 - April 22 2014 {#section_E2A699764E744D2E8D418E9A3D40AF6B}
@@ -547,10 +605,15 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Fixes** 
 
 
-*** When **[!UICONTROL Remember me]** is not selected during login, the user is logged out after 15 minutes
+*
+*
+* When **[!UICONTROL Remember me]** is not selected during login, the user is logged out after 15 minutes
 * [!DNL Analytics] solution landing page shows formatting errors.
-** Deleting an image, [!UICONTROL Assets] does not warn if the image is used in [!DNL Adobe Target Essentials].
-*** Logging in to the [!DNL Experience Cloud] takes longer than a second.
+*
+* Deleting an image, [!UICONTROL Assets] does not warn if the image is used in [!DNL Adobe Target Essentials].
+*
+*
+* Logging in to the [!DNL Experience Cloud] takes longer than a second.
 * Data shared from [!DNL Media Optimizer] is misrepresented in the [!DNL Experience Cloud].
 * Adobe [!DNL Media Optimizer] does not create users automatically when user has been created in the [!DNL Experience Cloud].
 * The [!DNL Experience Cloud] cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple [!DNL Target] servers.
@@ -558,7 +621,9 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 * [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in [!DNL Experience Cloud].
-*** Some users may not be able to link their audience management account with their [!DNL Experience Cloud].
+*
+*
+* Some users may not be able to link their audience management account with their [!DNL Experience Cloud].
 * Some users may experience error when sharing [!DNL Analytics] segments in the [!DNL Experience Cloud].
 * Some users may not be able to drill down to subfolders in [!UICONTROL Asset Selector].
 * Some users are not able to share AdLens gadgets in the [!DNL Experience Cloud].
@@ -572,21 +637,35 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability and sec
 
 **Fixes** 
 
-** Fixed an issue preventing you from unlinking your [!DNL Adobe Media Optimizer] accounts.
+*
+* Fixed an issue preventing you from unlinking your [!DNL Adobe Media Optimizer] accounts.
 
 
 **Known Issues** 
 
-** Refreshing a card from [!DNL Analytics] can sometimes lead to an empty chart in the expanded card.
-** When *`Remember me`* is not selected during login, the user will be logged out after 15 minutes.
+*
+* Refreshing a card from [!DNL Analytics] can sometimes lead to an empty chart in the expanded card.
+*
+* When *`Remember me`* is not selected during login, the user will be logged out after 15 minutes.
 * [!DNL Analytics] solution landing page shows formatting errors.
-*** Experience Cloud cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple Target servers.
-*** [!DNL Adobe Media Optimizer] does not create users automatically when user has been created in Experience Cloud.
-** Data shared from [!DNL Media Optimizer] is mis-represented in Experience Cloud.
-** Filters applied to trended reports from [!DNL Analytics] are not applied to cards in Experience Cloud.
-** [!DNL Search&Promote] linking is not available from [!UICONTROL Organizations & Product Access].
-*** [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
-**
+*
+*
+* Experience Cloud cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple Target servers.
+*
+*
+* [!DNL Adobe Media Optimizer] does not create users automatically when user has been created in Experience Cloud.
+*
+* Data shared from [!DNL Media Optimizer] is mis-represented in Experience Cloud.
+*
+* Filters applied to trended reports from [!DNL Analytics] are not applied to cards in Experience Cloud.
+*
+* [!DNL Search&Promote] linking is not available from [!UICONTROL Organizations & Product Access].
+*
+*
+* [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
+*
+*
+
 
 
 ## Release 14.2.1 - February 24 2014 {#section_5AD81B0737C843AFB4BE9C4420D70EB3}
@@ -618,4 +697,5 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability and sec
 * Fixed an issue causing solutions to display on the [!UICONTROL Experience Cloud Solutions] page as linked, even if the solutions accounts were not linked.
 * Fixed an issue that prevented [!DNL Adobe Target] customers in Asia from being able to click the **[!UICONTROL Continue to Experience Cloud]** button on the linking page.
 *
+
 

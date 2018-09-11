@@ -5,7 +5,7 @@ seo-description: How to disable the synchronization of shared Experience Cloud f
 seo-title: Disable synchronization of shared folders
 solution: Experience Cloud
 title: Disable synchronization of shared folders
-uuid: 87b2b95f-9702-4110-a24d-0bcf9659e8da
+uuid: 17c42b39-614c-45e4-bfb1-c6cb2fd66150
 index: y
 internal: n
 snippet: y

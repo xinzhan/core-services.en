@@ -5,7 +5,7 @@ seo-description: The Experience Cloud provides administrative tools for managing
 seo-title: Manage Creative Cloud users
 solution: Experience Cloud
 title: Manage Creative Cloud users
-uuid: 328574d9-131d-461b-8ea5-443bd9edc221
+uuid: 11c4de67-40c5-4438-92fc-e23761be3f18
 index: y
 internal: n
 snippet: y

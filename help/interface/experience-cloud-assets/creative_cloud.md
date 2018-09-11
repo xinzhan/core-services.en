@@ -5,7 +5,7 @@ seo-description: Share folders and assets between the Experience Cloud and the C
 seo-title: Share Experience Cloud folders and assets with Creative Cloud
 solution: Experience Cloud
 title: Share Experience Cloud folders and assets with Creative Cloud
-uuid: 7fc461ae-9585-431f-8581-628e100c80e7
+uuid: 2bb002a6-e08e-402b-8df0-ecb21ab74490
 index: y
 internal: n
 snippet: y
@@ -20,7 +20,12 @@ Share folders and assets between the Experience Cloud and the Creative Cloud. Co
 ## Benefits of sharing {#section_4AA9939F38064280BB181D5F9E1FDEEE}
 
 
-* Streamline creative production workflows in the review, approve, and publish phase* Spend less time managing in-process files and versions in multiple locations* Track and manage creative assets more effectively* Enjoy increase enterprise security* Easily share, save, and send files between creatives and marketers
+* Streamline creative production workflows in the review, approve, and publish phase
+* Spend less time managing in-process files and versions in multiple locations
+* Track and manage creative assets more effectively
+* Enjoy increase enterprise security
+* Easily share, save, and send files between creatives and marketers
+
 
 
 

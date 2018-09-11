@@ -5,7 +5,7 @@ seo-description: Learn about organizations and linking solution accounts to Expe
 seo-title: Organizations and account linking
 solution: Marketing Cloud
 title: Organizations and account linking
-uuid: e8e6ba98-e6c8-4938-a579-0a1365577e16
+uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
 index: y
 internal: n
 snippet: y
@@ -58,14 +58,14 @@ Typically, Experience Cloud administrators grant access to solutions and service
 1. Log in using your Adobe ID or Enterprise ID.
 1. Click the solution selector. ( ![](assets/menu-icon.png)).
 
-       ![](assets/solutions-active.png) 
-    
-       The solutions to which you have access are colored. 
+   ![](assets/solutions-active.png) 
+
+   The solutions to which you have access are colored. 
 1. Click the desired solution.
 
-       ![](assets/analytics-link-accounts.png) 
-    
-       This type of message displays if you are part of the appropriate group (and have permission to the solution) but have not yet linked your account credentials to your Adobe ID. 
+   ![](assets/analytics-link-accounts.png) 
+
+   This type of message displays if you are part of the appropriate group (and have permission to the solution) but have not yet linked your account credentials to your Adobe ID. 
 1. Click **[!UICONTROL Link Account]**, then provide your credentials.
 
 ## Specify a default organization and landing page {#concept_6A191B42A9874A9780882903BA18F071}
@@ -88,4 +88,5 @@ Typically, account linking fails because the Adobe ID is linked to a previous us
 
 * [Contact Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html).
 * Access your solution using the standard login while the issue is being solved.
+
 

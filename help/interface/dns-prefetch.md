@@ -4,7 +4,7 @@ seo-description: Implement DNS prefetch to help reduce page load times with diff
 seo-title: Using DNS prefetch with different solutions and services
 solution: Experience Cloud
 title: Using DNS prefetch with different solutions and services
-uuid: 57bd8b67-ab1d-4cf3-b680-74d5a761769b
+uuid: 4220e223-e00e-46b1-8bde-52248913bea1
 index: y
 internal: n
 snippet: y
@@ -35,7 +35,9 @@ Browsers use DNS prefetch to automatically resolve domain names linked on a Web 
 DNS prefetch works automatically with static, embedded links on a page. This also means automatic DNS prefetch doesn’t work with different [!UICONTROL Experience Cloud] solutions and services because: 
 
 
-* Each Experience Cloud solution or service generates DNS calls dynamically as the page loads.* The browser can't resolve domain names to IP address before these calls are made.
+* Each Experience Cloud solution or service generates DNS calls dynamically as the page loads.
+* The browser can't resolve domain names to IP address before these calls are made.
+
 
 
 

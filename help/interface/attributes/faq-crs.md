@@ -5,7 +5,7 @@ seo-description: FAQ and best practices for customer attributes in Analytics and
 seo-title: Frequently asked questions, limitations, and best practices
 solution: Experience Cloud
 title: Frequently asked questions, limitations, and best practices
-uuid: c3c32363-b4c3-4342-913b-95919dec5a48
+uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 index: y
 internal: n
 snippet: y

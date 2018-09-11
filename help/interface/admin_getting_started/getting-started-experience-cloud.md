@@ -5,7 +5,7 @@ seo-description: Learn how to sign in to the Experience Cloud, manage passwords 
 seo-title: Sign in and manage your profile settings
 solution: Marketing Cloud
 title: Sign in and manage your profile settings
-uuid: 182563da-be39-476d-bf29-5963c0cda79d
+uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 index: y
 internal: n
 snippet: y
@@ -48,16 +48,16 @@ Sign in and verify that you are in the right [organization](../admin_getting_sta
 
 1. Click the Experience Cloud pull-down menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
 
-       ![](assets/admin-link.png) 
-    
-       If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) (Adobe Corp, in this example). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company. 
+   ![](assets/admin-link.png) 
+
+   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) (Adobe Corp, in this example). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company. 
 1. Click **[!UICONTROL Administration]**.
 
-       ![](assets/admin-landing.png) 
+   ![](assets/admin-landing.png) 
 1. Continue by clicking one of the following links:
 
 
-    <table id="table_044200C93F17463399811EAABA410938"> 
+<table id="table_044200C93F17463399811EAABA410938"> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Element </th> 
@@ -111,9 +111,9 @@ Help for non-administrative users signing in to the Experience Cloud.
 
 1. On the Feed page (or your default landing page), click the selector icon  ![](assets/menu-icon.png) to access the pull-down menu.
 
-       ![](assets/experience-cloud-core-services.png) 
-    
-       The solutions and services that display in this menu depend on your application privileges defined by your [administrator](../admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
+   ![](assets/experience-cloud-core-services.png) 
+
+   The solutions and services that display in this menu depend on your application privileges defined by your [administrator](../admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 
 ## Configure default personal account settings {#task_73CBCAE6C91749D19C95421E5AC311BA}
 
@@ -123,10 +123,10 @@ You can edit personal details and specify a default [organization](../admin_gett
 
 1. Sign in to the Experience Cloud, then click your profile icon.
 
-       ![](assets/edit-profile.png) 
+   ![](assets/edit-profile.png) 
 1. Click **[!UICONTROL Edit Profile]**.
 
-       ![](assets/default-organization.png) 
+   ![](assets/default-organization.png) 
 1. Continue configuring and editing personal information, then click **[!UICONTROL Save Changes]**.
 
 ## Enable notifications {#concept_0105453AD71847B8BFCAF4A40915F157}
@@ -137,7 +137,9 @@ To navigate to Notifications, click the **[!UICONTROL Notifications]** icon  ![]
 
 You can sort the Notifications display based on the message types that are important to you, and search for notifications. You can also: 
 
-* Sort by the message types that are important to you.* Search for notifications.
+* Sort by the message types that are important to you.
+* Search for notifications.
+
 
 **To enable notifications** 
 
@@ -171,7 +173,7 @@ You can edit your Experience Cloud profile, specify a default organization and l
 
 1. From the Experience Cloud menu, click your profile picture.
 
-       ![](assets/edit-profile.png) 
+   ![](assets/edit-profile.png) 
 1. Click **[!UICONTROL Edit Profile]**.
 
    On the Profile & Passwords page, complete the fields and options under Personal Details. 
@@ -184,9 +186,9 @@ Short Description
 1. Navigate to your solution login page.
 1. Click **[!UICONTROL Forgot Password]**.
 
-       Resetting a solution password should resolve password linking issues for Experience Cloud. 
-    
-       For Adobe Analytics users, navigate to [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html). 
+   Resetting a solution password should resolve password linking issues for Experience Cloud. 
+
+   For Adobe Analytics users, navigate to [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html). 
 
 ## Configure solution sign-in using a direct link {#concept_8BE493A08786469B88B210E13F78FF2F}
 

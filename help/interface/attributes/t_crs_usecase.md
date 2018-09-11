@@ -5,7 +5,7 @@ seo-description: Create the customer attribute source and upload the data.
 seo-title: Create a customer attribute source and upload the data file
 solution: Experience Cloud
 title: Create a customer attribute source and upload the data file
-uuid: 6d7975a9-6c7a-44d9-b495-b9a5a1c70db0
+uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 index: y
 internal: n
 snippet: y
@@ -85,12 +85,12 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
 1. In the [!DNL Experience Cloud], click the Menu  ![](assets/menu-icon.png) icon.
 1. Click **[!UICONTROL People]**, then click **[!UICONTROL Customer Attributes]**.
 
-       The [!UICONTROL Customer Attributes] page is where you can manage and edit existing attribute data sources. 
-    
-       ![Step Result](assets/03_crs_usecase.png) 
+   The [!UICONTROL Customer Attributes] page is where you can manage and edit existing attribute data sources. 
+
+   ![Step Result](assets/03_crs_usecase.png) 
 1. Click **[!UICONTROL New]**.
 
-       ![Step Result](assets/04_crs_usecase.png) 
+   ![Step Result](assets/04_crs_usecase.png) 
 1. On the [!UICONTROL Edit Customer Attribute Source] page, configure the following fields:
 
     
@@ -194,7 +194,7 @@ See [Configure subscriptions](../attributes/subscription.md#concept_ECA3C44FA6D5
 
 1. On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate the [!UICONTROL Activate] heading, then click **[!UICONTROL Active]**.
 
-       ![Step Result](assets/activate_attribute_source.png) 
+   ![Step Result](assets/activate_attribute_source.png) 
 
 ## Use customer attributes in Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
 

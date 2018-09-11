@@ -5,7 +5,7 @@ seo-description: Considerations and best practices regarding personally identifi
 seo-title: Privacy considerations - customer attributes
 solution: Experience Cloud
 title: Privacy considerations - customer attributes
-uuid: c6f48c4e-71c7-4260-bdad-b09f7d3a5baa
+uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247
 index: y
 internal: n
 snippet: y
@@ -20,7 +20,13 @@ Considerations and best practices regarding personally identifiable information 
 <!-- <p>https://wiki.corp.adobe.com/display/omtrplatform/Visitor+Enrichment+and+privacy#VisitorEnrichmentandprivacy-INFORMATIONASSOCIATIONOPTIONS </p> -->
 
 
-* First and last name* Home or other physical address* Email address* Telephone number* Social Security Number* Other identifier that permits physical or online contacting of an individual. (Varies by location. Please verify and comply with local laws and regulations related to privacy and PII for all the places where you do business.)
+* First and last name
+* Home or other physical address
+* Email address
+* Telephone number
+* Social Security Number
+* Other identifier that permits physical or online contacting of an individual. (Varies by location. Please verify and comply with local laws and regulations related to privacy and PII for all the places where you do business.)
+
 
 Adobe provides tools that allow advertisers to collect behavioral information about consumers that visit their sites or use their applications. Adobe also provides tools allow advertisers to enhance this information with offline or external customer records that the advertiser may have within other information management systems. 
 

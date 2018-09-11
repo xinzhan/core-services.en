@@ -4,7 +4,7 @@ seo-description: Experience Cloud Assets provide a single, centralized repositor
 seo-title: Assets
 solution: Experience Cloud
 title: Assets
-uuid: 5305cecd-b2ae-4211-b3b1-06557faf3691
+uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 index: y
 internal: n
 snippet: y
@@ -19,7 +19,9 @@ Experience Cloud Assets provide a single, centralized repository of marketing-re
 <!-- asset.xml -->
 Asset services include: 
 
-* Asset storage, management interface, embedded selection interface (accessed through solutions).* Integrations with Creative Cloud, Experience Cloud collaboration, and Experience Cloud solutions.
+* Asset storage, management interface, embedded selection interface (accessed through solutions).
+* Integrations with Creative Cloud, Experience Cloud collaboration, and Experience Cloud solutions.
+
 
 Using assets improves consistency and brand compliance, and speeds time to market. You can streamline workflows in solutions: 
 
@@ -60,7 +62,10 @@ The toolbar provides quick access to features, including Search, Timeline, Rendi
 
 Editing an asset enables features, including: 
 
-* Crop* Rotate* Flip
+* Crop
+* Rotate
+* Flip
+
 
 ![](assets/asset-edit.png) 
 

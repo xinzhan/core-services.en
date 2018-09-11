@@ -4,7 +4,7 @@ seo-description: Manage the translation of visitor data into audience segmentati
 seo-title: Audiences
 solution: Experience Cloud
 title: Audiences
-uuid: 9aa86887-e9c0-49e9-a30b-48f0255c4b05
+uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 index: y
 internal: n
 snippet: y
@@ -34,7 +34,9 @@ Audiences can be created or derived from various sources, such as:
 
 All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. The system evaluates audiences in two ways: 
 
-* Historical audiences are sourced from analytics are evaluated every 12 hours. Historical audiences always include return visitors.* Real-time audiences are sourced in the Experience Cloud Audiences are evaluated real time.
+* Historical audiences are sourced from analytics are evaluated every 12 hours. Historical audiences always include return visitors.
+* Real-time audiences are sourced in the Experience Cloud Audiences are evaluated real time.
+
 
 ## How solutions use audiences {#concept_01EB9345C5344597BC94A864EDD38EE1}
 
@@ -131,7 +133,7 @@ The following table describes how audiences are used in Experience Cloud solutio
 
 The [!DNL Experience Cloud] provides a library for creating and managing audiences, with native, real-time audience identification. 
 
-` **[!UICONTROL Experience Cloud]** > **[!UICONTROL Audience Library]**` 
+**[!UICONTROL Experience Cloud]** > **[!UICONTROL Audience Library]** 
 
 ![](assets/audience_library.png) 
 

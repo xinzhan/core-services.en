@@ -5,7 +5,7 @@ seo-description: Overview and prerequisites about uploading customer attributes 
 seo-title: Customer attributes
 solution: Experience Cloud
 title: Customer attributes
-uuid: 40ac0326-7b6f-4e2b-9ba4-181c51de873c
+uuid: 1621402d-990f-46f9-981a-473280559069
 index: y
 internal: n
 snippet: y

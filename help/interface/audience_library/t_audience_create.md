@@ -5,7 +5,7 @@ seo-description: Learn how to use attribute rules to create an audience and defi
 seo-title: Create an audience
 solution: Experience Cloud
 title: Create an audience
-uuid: 00dfc9dc-788f-40ef-862f-4ff1d8cbe2d5
+uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
 index: y
 internal: n
 snippet: y
@@ -18,7 +18,10 @@ Learn how to use attribute rules to create an audience and define a composite au
 
 This article helps you understand how to: 
 
-* Create an audience* Create a rule* Use rules to define a composite audience
+* Create an audience
+* Create a rule
+* Use rules to define a composite audience
+
 
 The following graphic represents two rules in a composite audience. 
 
@@ -31,7 +34,8 @@ Each circle represents a rule that defines audience membership. Visitors that qu
 >The audience is fully defined after data collection for the specified period completes.
 The following example shows how to create the rules for a composite audience. This audience is comprised of: 
 
-* Home & Garden section derived from page data, or raw analytics data.* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](../audience_library/audience_library.md#task_32FEEFE0B32E4E388CD4D892D727282A) to the [!DNL Experience Cloud].
+* Home & Garden section derived from page data, or raw analytics data.
+* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](../audience_library/audience_library.md#task_32FEEFE0B32E4E388CD4D892D727282A) to the [!DNL Experience Cloud].
 
 
 ![](assets/audience_create.png) 
@@ -39,7 +43,7 @@ The following example shows how to create the rules for a composite audience. Th
 1. In the [!DNL Experience Cloud], click **[!UICONTROL People]** > **[!UICONTROL Audience Library]**.
 1. On the [!UICONTROL Audiences] page, click **[!UICONTROL New]**. ![](assets/add_icon_small.png)
 
-       ![Step Result](assets/audience_create_new.png) 
+   ![Step Result](assets/audience_create_new.png) 
 1. On the [!UICONTROL Create New Audience] page, specify a title and description.
 1. Under [!UICONTROL Rules], select an attribute source:
 
@@ -66,7 +70,7 @@ The following example shows how to create the rules for a composite audience. Th
     
     * **[!UICONTROL Attribute Source:]** Raw Analytics Data    
     * **[!UICONTROL Report Suite:]** Report Suite 31    
-    * Dimension = ` **[!UICONTROL Store (Merch) (v6)]** > **[!UICONTROL Equals]** > **[!UICONTROL Home & Garden]**`    
+    * Dimension = **[!UICONTROL Store (Merch) (v6)]** > **[!UICONTROL Equals]** > **[!UICONTROL Home & Garden]** 
     
     
        ![](assets/home_garden.png) 
@@ -85,15 +89,15 @@ The following example shows how to create the rules for a composite audience. Th
     
 1. View the results.
 
-       The resulting rule is a defined audience comprising Chrome & Safari users who visited Home & Garden. The Patio & Furniture segment provides additional insight into all visitors visiting that site section. 
-    
-       ![](assets/defined_audience.png) 
-    
-       **Historical Estimate:** (Dotted circle) Represents rules created based on [!DNL Analytics] data. 
-    
-       **Actual Audience:** (Solid circle) Any rule created that has 30 days of data from Audience Manager. When the Audience Manager data reaches 30 days, the line becomes solid and represents actual numbers. 
-    
-       After the data collection completes for the specified period, the circles combine to show a defined audience. 
+   The resulting rule is a defined audience comprising Chrome & Safari users who visited Home & Garden. The Patio & Furniture segment provides additional insight into all visitors visiting that site section. 
+
+   ![](assets/defined_audience.png) 
+
+   **Historical Estimate:** (Dotted circle) Represents rules created based on [!DNL Analytics] data. 
+
+   **Actual Audience:** (Solid circle) Any rule created that has 30 days of data from Audience Manager. When the Audience Manager data reaches 30 days, the line becomes solid and represents actual numbers. 
+
+   After the data collection completes for the specified period, the circles combine to show a defined audience. 
 1. After defining the rules, click **[!UICONTROL Save]**.
 
    After the audience is saved, it is available for other solutions. For example, you can include a shared audience in a Target activity. 

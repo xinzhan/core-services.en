@@ -5,7 +5,7 @@ seo-description: An overview of new features and updates in the Experience Cloud
 seo-title: What's new in the Experience Cloud
 solution: Experience Cloud
 title: What's new in the Experience Cloud
-uuid: 17348086-6289-4699-bb37-4042ece88b89
+uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
 index: y
 internal: n
 snippet: y
@@ -28,15 +28,22 @@ An overview of new features and updates in the Experience Cloud.
 
 Fixes and improvements for August, 2018. 
 
-* Made improvements on assets comment sync across Creative Cloud and Experience Cloud. (CORE-15971)* Added feature flag to control Experience Cloud-Creative Cloud asset sync. (CORE-15938)* Made improvements to Audience segments creation, including better search and listing experience. (CORE-5833, CORE-14278)* Fixed a high priority issue that blocked folder sharing from MAC to Creative Cloud. (CORE-16677)
+* Made improvements on assets comment sync across Creative Cloud and Experience Cloud. (CORE-15971)
+* Added feature flag to control Experience Cloud-Creative Cloud asset sync. (CORE-15938)
+* Made improvements to Audience segments creation, including better search and listing experience. (CORE-5833, CORE-14278)
+* Fixed a high priority issue that blocked folder sharing from MAC to Creative Cloud. (CORE-16677)
+
 
 
 ## July 19, 2018 {#section_EBB549EBABB7480884A180237ADCCD02}
 
 Fixes and improvements for July, 2018. 
 
-* Deployed a back-end capability to control asset sharing between Marketing Cloud-to-AEM and Marketing Cloud-to-Creative Cloud. (CORE-14386)* Fixed an issue that blocked provisioning of new tenants on some environments. (CORE-15509)* Fixed an issue that redirected users to [!DNL marketing.adobe.com] while accessing [!DNL experiencecloud.adobe.com] via [!DNL http] instead of [!DNL https] (secured). (CORE-15587)
+* Deployed a back-end capability to control asset sharing between Marketing Cloud-to-AEM and Marketing Cloud-to-Creative Cloud. (CORE-14386)
+* Fixed an issue that blocked provisioning of new tenants on some environments. (CORE-15509)
+* Fixed an issue that redirected users to [!DNL marketing.adobe.com] while accessing [!DNL experiencecloud.adobe.com] via [!DNL http] instead of [!DNL https] (secured). (CORE-15587)
 * Fixed an issue that blocked notifications for some new tenants. (CORE-15240)
+
 
 
 ## June 14, 2018 {#section_7ABC327992CB46B0B8E4A631B8B68899}
@@ -44,7 +51,11 @@ Fixes and improvements for July, 2018.
 Fixes and improvements for June, 2018. 
 
 
-* Enabled a link to GDPR access for Administrators. (CORE-11731)* Updated Beta Feedback feature to restrict file types that can be attached to feedback. (CORE-10474)* Fixed an issue with deleting audiences from Audience Library. (CORE-12792)* Fixed an issue that resulted in a blank screen while accessing Workspace links using Federated IDs. (CORE-11620)
+* Enabled a link to GDPR access for Administrators. (CORE-11731)
+* Updated Beta Feedback feature to restrict file types that can be attached to feedback. (CORE-10474)
+* Fixed an issue with deleting audiences from Audience Library. (CORE-12792)
+* Fixed an issue that resulted in a blank screen while accessing Workspace links using Federated IDs. (CORE-11620)
+
 
 
 
@@ -69,7 +80,9 @@ New features and fixes in the [!DNL Adobe Experience Cloud] interface.
 
 **Fixes** 
 
-* Fixed an issue where the image upload failed due to a Scene7 update. (CORE-12746)* Made updates to drop support for TLS 1.0 protocol, as mandated by PCI to eliminate security vulnerability. (CORE-7695)
+* Fixed an issue where the image upload failed due to a Scene7 update. (CORE-12746)
+* Made updates to drop support for TLS 1.0 protocol, as mandated by PCI to eliminate security vulnerability. (CORE-7695)
+
 
 
 ## October 26, 2017 {#section_11195859B4094177A939C0561428B525}
@@ -150,5 +163,7 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 
 **Fixes** 
 
-* Fixed an issue with technical passwords that caused an error in folder sharing between Creative Cloud and Experience Cloud. (MAC-31067, MAC-32014)* Fixed an issue with the upload of certain file types, including PDF, that was found after the October release in Assets Core Service. (MAC-32517)
+* Fixed an issue with technical passwords that caused an error in folder sharing between Creative Cloud and Experience Cloud. (MAC-31067, MAC-32014)
+* Fixed an issue with the upload of certain file types, including PDF, that was found after the October release in Assets Core Service. (MAC-32517)
+
 

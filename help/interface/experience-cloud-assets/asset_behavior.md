@@ -5,7 +5,7 @@ seo-description: Rules for how shared folders behave when moved, deleted, and re
 seo-title: Behavior of shared folders
 solution: Experience Cloud
 title: Behavior of shared folders
-uuid: 3e2db40c-f3ec-4f5c-89c1-a633c75a5bb0
+uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf
 index: y
 internal: n
 snippet: y

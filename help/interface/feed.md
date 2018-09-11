@@ -5,7 +5,7 @@ seo-description: Learn how to share or post assets and Analytics reports directl
 seo-title: Feed
 solution: Experience Cloud
 title: Feed
-uuid: 39c037d8-80f7-40ea-89e6-272f3595022f
+uuid: 7ff327d1-5a74-49fb-8c3c-729034818ebc
 index: y
 internal: n
 snippet: y

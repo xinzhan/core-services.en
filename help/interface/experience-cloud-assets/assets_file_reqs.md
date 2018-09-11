@@ -5,7 +5,7 @@ seo-description: Allowed file types and size limitations for sharing assets betw
 seo-title: Asset file requirements for sharing
 solution: Experience Cloud
 title: Asset file requirements for sharing
-uuid: 6db61d58-933b-4e61-9b51-1c29f1276d6e
+uuid: 1621accf-c407-437b-ae12-61f13cc338d0
 index: y
 internal: n
 snippet: y

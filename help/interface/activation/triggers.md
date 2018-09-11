@@ -5,7 +5,7 @@ seo-description: How to configure Experience Cloud Triggers.
 seo-title: Triggers
 solution: Marketing Cloud
 title: Triggers
-uuid: ac8991de-d6db-44cd-874c-3cdef2ff1959
+uuid: dab536e3-1969-4661-919e-5b15f423fecd
 index: y
 internal: n
 snippet: y
@@ -22,7 +22,10 @@ How to configure Experience Cloud Triggers.
 
 *`Triggers`* enables you to identify, define, and monitor key consumer behaviors, and then generate cross-solution communication to re-engage visitors. You can use triggers in real-time decisions and personalization. 
 
-* Configure fast re-marketing for cart abandons or cart abandons with products removed* Incomplete forms and applications* Any actions or sequence of actions on site
+* Configure fast re-marketing for cart abandons or cart abandons with products removed
+* Incomplete forms and applications
+* Any actions or sequence of actions on site
+
 
 ![](assets/trigger-abandonment-2.png) 
 
@@ -47,10 +50,10 @@ Create an abandonment trigger and configure the conditions for the trigger and p
 1. In the Experience Cloud, click  ![](assets/menu-icon.png), then click **[!UICONTROL Activation]**.
 1. Locate the [!UICONTROL Triggers] card, then click **[!UICONTROL Launch]**.
 
-       ![Step Result](assets/activation-triggers.png) 
+   ![Step Result](assets/activation-triggers.png) 
 1. Click **[!UICONTROL New Trigger]**, then specify the type of trigger:
 
-       ![Step Result](assets/add-trigger.png) 
+   ![Step Result](assets/add-trigger.png) 
 1. Configure the trigger by completing the following fields and dragging metrics and dimension items to the rule's containers:
 
 
@@ -99,7 +102,7 @@ Create an abandonment trigger and configure the conditions for the trigger and p
     
 1. (Optional) In Abandonment triggers, you can apply [Propensity Scoring](../activation/triggers.md#concept_A506150674AD45DB98D3CC07E560D334).
 
-       ![Step Result](assets/propensity-scoring.png) 
+   ![Step Result](assets/propensity-scoring.png) 
 1. Click **[!UICONTROL Save]**.
 1. Use triggers for [real-time remarketing](http://docs.campaign.adobe.com/doc/standard/en/EMA_Transactional_messaging_Marketing_Cloud_Triggers.html) in [!DNL Adobe Campaign].
 
@@ -131,7 +134,10 @@ For example, some customers abandon shopping carts to take advantage of email in
 
 You can: 
 
-* Avoid over-exposing your customers to re-marketing.* Identify the right cart-abandon customers and map their activity to the right message.* Increase revenue by knowing which customers will and will not return.
+* Avoid over-exposing your customers to re-marketing.
+* Identify the right cart-abandon customers and map their activity to the right message.
+* Increase revenue by knowing which customers will and will not return.
+
 
 
 ## The Value of Propensity Scoring {#section_CA99874A25434CC0BF01D0DA61608889}
@@ -142,6 +148,9 @@ Once you have identified the high-value audience, you can then engage them for t
 
 Propensity scoring provides the ability to identify those factors that are most predictive of a particular score or to increase the likelihood of an event taking place, but it can also be applied to answer specific questions: 
 
-* Will the customer convert?* Will the customer respond to an email?* Will the customer repurchase?
+* Will the customer convert?
+* Will the customer respond to an email?
+* Will the customer repurchase?
+
 
 Propensity scoring lets you answer these questions and identify visitors with an inclination for action that can then be set up and scored. 

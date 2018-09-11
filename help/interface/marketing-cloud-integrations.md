@@ -5,7 +5,7 @@ seo-description: Learn about available solution and core service integrations in
 seo-title: Experience Cloud Integrations
 solution: Experience Cloud
 title: Experience Cloud Integrations
-uuid: 7a470188-5cb3-409f-8b38-e2e8eb72e123
+uuid: a9893c6b-bccc-4fb5-b724-724644c7def5
 index: y
 internal: n
 snippet: y
@@ -39,15 +39,22 @@ Help: [Enable your Solutions for Core Services](core_services/core_services.md#c
 Describes how to: 
 
 
-* Provision your company in the Experience Cloud.* Enable you to become an administrator.* [Implement the Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
-* Modernize your Analytics and Target implementations via DTM.* Start using core services.
+* Provision your company in the Experience Cloud.
+* Enable you to become an administrator.
+* [Implement the Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+* Modernize your Analytics and Target implementations via DTM.
+* Start using core services.
+
 
 
 
 Solutions or services: 
 
 
-* Activation - Dynamic Tag Management* Analytics* Target* [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/)
+* Activation - Dynamic Tag Management
+* Analytics
+* Target
+* [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/)
 
 
 
@@ -112,7 +119,11 @@ Share folders and assets between the Experience Cloud and the Creative Cloud. Co
 **Applicable solutions or services** 
 
 
-* Experience Cloud* Creative Cloud* Target* Social
+* Experience Cloud
+* Creative Cloud
+* Target
+* Social
+
 
 
 
@@ -124,7 +135,9 @@ Enables Analytics to collect impressions and clicks on Assets served up from AEM
 
 **Applicable solutions or services** 
 
-* Analytics* Experience Manager
+* Analytics
+* Experience Manager
+
 
 
 ## Audience Manager integrations {#section_8FEFE1746E26416EB7E73095BBAD5345}
@@ -213,7 +226,9 @@ Synchronize your assets within Adobe Experience Manager (AEM) Assets with Adobe 
 
 **Applicable solutions or services** 
 
-* AEM* Creative Cloud* [Experience Cloud](https://docs.adobe.com/docs/en/aem/6-2/administer/integration/marketing-cloud.html)
+* AEM
+* Creative Cloud
+* [Experience Cloud](https://docs.adobe.com/docs/en/aem/6-2/administer/integration/marketing-cloud.html)
 
 
 

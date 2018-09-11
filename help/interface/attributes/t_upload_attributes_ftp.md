@@ -5,7 +5,7 @@ seo-description: If you do not upload using drag-and-drop, you can upload custom
 seo-title: Optional - Upload the data file via FTP
 solution: Experience Cloud
 title: Optional - Upload the data file via FTP
-uuid: 07ca9bdf-effa-4e29-881b-42ffd79e23b2
+uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
 index: y
 internal: n
 snippet: y
@@ -25,7 +25,8 @@ You can upload the data after you create a customer attribute source and an FTP 
 
 File uploads to the customer attributes FTP site can be done via FTP or SFTP. 
 
-* You need a client that supports SFTP connections.* You can connect with SFTP using either username/password or using no password, as described [here](https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/?f=ftp_sftp_cert_auth).
+* You need a client that supports SFTP connections.
+* You can connect with SFTP using either username/password or using no password, as described [here](https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/?f=ftp_sftp_cert_auth).
 
 
 
@@ -51,4 +52,4 @@ File uploads to the customer attributes FTP site can be done via FTP or SFTP.
    If the upload is successful, both files are moved to a folder called **processed**. 
 
 
-       See [Data file requirements for uploading customer attributes](../attributes/crs_data_file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for important information about file names and structure. 
+   See [Data file requirements for uploading customer attributes](../attributes/crs_data_file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for important information about file names and structure. 

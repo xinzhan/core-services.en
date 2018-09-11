@@ -5,7 +5,7 @@ seo-description: Learn about signing in to the Admin Console and managing Experi
 seo-title: Manage Experience Cloud users and products
 solution: Marketing Cloud
 title: Manage Experience Cloud users and products
-uuid: 7f9880e2-5c52-40f9-9d9a-aa5c427bacb5
+uuid: aea4e4c3-f543-4e8d-b553-d838418477d6
 index: y
 internal: n
 snippet: y
@@ -148,13 +148,12 @@ When you invite a user to an organization, you can give the user access to produ
 
 1. Click **[!UICONTROL Done]**.
 
-       More help is available at: 
-    
-    * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)    
-    * [Enterprise User Permissions](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html) in Target help for more information.    
-    * Video: [How to Configure Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)    
-    
-    
+   More help is available at: 
+
+* [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
+* [Enterprise User Permissions](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html) in Target help for more information.
+* Video: [How to Configure Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
+
 
 ## Assign Analytics access permissions to a product profile {#task_040673FE3E3E429B9531FBCB8B6A4391}
 
@@ -208,7 +207,10 @@ In the Admin Console, you can delegate limited administrative rights to others i
 
 For example, you can: 
 
-* Allow your creative director to grant access to Creative Cloud.* Allow your marketing director to grant access to the Experience Cloud.* Keep these two roles separate so they cannot overstep each other's roles.
+* Allow your creative director to grant access to Creative Cloud.
+* Allow your marketing director to grant access to the Experience Cloud.
+* Keep these two roles separate so they cannot overstep each other's roles.
+
 
 By using these roles, you can simultaneously delegate management to others without providing more capability than they need. 
 
@@ -226,7 +228,10 @@ Supported browsers in the Experience Cloud.
 **Experience Cloud Core Services** 
 
 * Microsoft's latest Internet Explorer. (Microsoft has [ended support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, Adobe will not fix issues reported against these specific versions of Internet Explorer.)
-* Google Chrome* Mozilla Firefox* Apple Safari
+* Google Chrome
+* Mozilla Firefox
+* Apple Safari
+
 
 **Solution and Product Requirements** 
 

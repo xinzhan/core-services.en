@@ -5,7 +5,7 @@ seo-description: Learn about solution data sources and configuring subscriptions
 seo-title: Configure subscriptions
 solution: Experience Cloud
 title: Configure subscriptions
-uuid: 017036fe-9f63-4137-a628-5488e62581e6
+uuid: f74a8155-0a21-46b3-9b1e-4c838f72f24f
 index: y
 internal: n
 snippet: y
@@ -18,7 +18,7 @@ Learn about solution data sources and configuring subscriptions. Subscriptions e
 
 For example, an Adobe Analytics subscription enables attribute data in reports. If you use Adobe Target, you can upload customer attributes for targeting and segmentation. 
 
-` **[!UICONTROL Customer Attribute Source]** > **[!UICONTROL Create New Customer Attribute Source]** > **[!UICONTROL New]**` 
+**[!UICONTROL Customer Attribute Source]** > **[!UICONTROL Create New Customer Attribute Source]** > **[!UICONTROL New]** 
 
 ![](assets/configure_subscription_page.png) 
 

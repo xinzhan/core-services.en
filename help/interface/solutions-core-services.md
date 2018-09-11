@@ -4,7 +4,7 @@ seo-description: Learn about latest branding updates for the clouds, how to navi
 seo-title: About the new cloud names in Experience Cloud
 solution: Experience Cloud
 title: About the new cloud names in Experience Cloud
-uuid: 16260036-4775-4756-9b1e-4dbbd6d28561
+uuid: 27d022ad-50fa-485e-8f94-0959112cf3d0
 index: y
 internal: n
 snippet: y
@@ -46,13 +46,20 @@ Replaces *`Marketing Cloud`* as the parent cloud name for all Adobe's digital ex
 
 Includes the following solutions: 
 
-* Adobe Experience Manager* Adobe Campaign* Adobe Target* Adobe Primetime* Adobe Social
+* Adobe Experience Manager
+* Adobe Campaign
+* Adobe Target
+* Adobe Primetime
+* Adobe Social
+
 
 ![](assets/analyticscloud_appicon_32.png) [Analytics Cloud](http://www.adobe.com/data-analytics-cloud.html) 
 
 Includes the following solutions: 
 
-* Adobe Analytics* Adobe Audience Manager
+* Adobe Analytics
+* Adobe Audience Manager
+
 
 ![](assets/advertisingcloud_appicon_32.png) [Advertising Cloud](http://www.adobe.com/advertising-cloud.html) 
 

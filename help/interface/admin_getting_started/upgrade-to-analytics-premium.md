@@ -6,7 +6,7 @@ seo-title: Upgrading to Analytics Premium and the Experience Cloud
 solution: Experience Cloud
 title: Upgrading to Analytics Premium and the Experience Cloud
 topic: Premium
-uuid: 03ec5fd3-f550-4c4a-951a-6349989d4f82
+uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
 index: y
 internal: n
 snippet: y
@@ -24,15 +24,19 @@ Upgrading to Adobe Analytics Premium gives you all the capabilities or products 
 
 Analytics Premium gives you: 
 
-* Access to 250 conversion variables (eVars)* [Mobile App Analytics](https://marketing.adobe.com/resources/help/en_US/mobile/)
+* Access to 250 conversion variables (eVars)
+* [Mobile App Analytics](https://marketing.adobe.com/resources/help/en_US/mobile/)
 * Data Workbench (Visual data query; rules-based attribution; cross-channel analysis)
+
 
 
 >[!NOTE]
 >
 >No migration is necessary when upgrading, but there are a few considerations to be aware of: 
 >
->* eVars 76-250 (SiteCatalyst) and 100-250 (Standard) will be visible in Admin Tools, but will not be enabled already.* Contribution Analysis is turned on by Adobe. It will not change location (it is still available on the Anomaly Detection page), but it will now automatically start analyzing all data points.>
+>* eVars 76-250 (SiteCatalyst) and 100-250 (Standard) will be visible in Admin Tools, but will not be enabled already.>
+>* Contribution Analysis is turned on by Adobe. It will not change location (it is still available on the Anomaly Detection page), but it will now automatically start analyzing all data points.>
+>
 >
 
 The following sections describe where to find help, depending on the features that you purchased: 

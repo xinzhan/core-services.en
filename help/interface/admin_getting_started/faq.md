@@ -5,7 +5,7 @@ seo-description: Common questions and answers for administrators in the Experien
 seo-title: Frequently asked questions
 solution: Experience Cloud
 title: Frequently asked questions
-uuid: 66297bfb-838c-4927-bd7a-43a9a382192e
+uuid: 3ed0b4eb-690f-4c14-a31c-0cc1118fb3b4
 index: y
 internal: n
 snippet: y
@@ -52,7 +52,10 @@ The functionality provided by the Experience Cloud interface adds new value to y
 Provisioning in the Experience Cloud means: 
 
 * Your users can begin logging in to the [!DNL Experience Cloud] and linking solutions.
-* They can begin to use the features available through the Experience Cloud, such as People.* You can become prepared to retire your solution-specific login process.* You can retain access control to solutions.
+* They can begin to use the features available through the Experience Cloud, such as People.
+* You can become prepared to retire your solution-specific login process.
+* You can retain access control to solutions.
+
 
 **How do I manage users and product profiles?** 
 

@@ -5,7 +5,7 @@ seo-description: The validation process lets you map display names and descripti
 seo-title: Validate the schema
 solution: Experience Cloud
 title: Validate the schema
-uuid: 61458502-edf7-4bf9-a464-208d182a2810
+uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 index: y
 internal: n
 snippet: y
@@ -22,7 +22,7 @@ The validation process lets you map display names and descriptions to uploaded a
 >Updating the schema after validation deletes customer attributes. See [Update the schema (also deletes attributes)](../attributes/t_crs_usecase.md#task_6568898BB7C44A42ABFB86532B89063C). 
 
 
-` **[!UICONTROL Customer Attribute Source]** > **[!UICONTROL Create New Customer Attribute Source]** > **[!UICONTROL View/Edit Schema]**` 
+**[!UICONTROL Customer Attribute Source]** > **[!UICONTROL Create New Customer Attribute Source]** > **[!UICONTROL View/Edit Schema]** 
 
 ![](assets/view_edit_schema.png) 
 
