@@ -29,14 +29,14 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 * [Integrations](marketing-cloud-integrations.md#concept_9E6D3E37D1E3452E8CCCFA92AF034F90)
 * [Integrating Adobe Target with the Experience Cloud](https://marketing.adobe.com/resources/help/en_US/target/a4t/c_integrating_target_with_mac.html)
 * [Experience Cloud privacy and security Overview](https://marketing.adobe.com/resources/help/en_US/xref/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
-* [Profile Management in Adobe Experience Cloud](http://blogs.adobe.com/digitalmarketing/digital-marketing/profile-management-adobe-marketing-cloud-comes-together/) (Blog)
+* [Profile Management in Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (Blog)
 * [DNS prefetch](admin_getting_started/admin_getting_started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
 **Core Services Product Documentation** 
 
 * [Activation](https://marketing.adobe.com/resources/help/en_US/dtm/) 
 
-  * [Launch, by Adobe](http://docs.adobelaunch.com/)    
+  * [Launch, by Adobe](https://docs.adobelaunch.com/)    
   * [Dynamic Tag Manager](https://marketing.adobe.com/resources/help/en_US/dtm/)    
   * [Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/)    
   * [Experience Cloud Debugger](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/)    
@@ -73,6 +73,6 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
     * [Target](https://marketing.adobe.com/resources/help/en_US/target/)    
 
 * [Experience Cloud Overview](http://blogs.adobe.com/digitalmarketing/web-experience/part-1-adobes-art-science-todays-new-marketer/) (blog)
-* [Core Services Overview](http://blogs.adobe.com/digitalmarketing/digital-marketing/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
+* [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
 * [Experience Cloud Forum](http://help-forums.adobe.com/content/adobeforums/en/marketing-cloud-forum/adobe-marketing-cloud.html)
 * [Adobe Experience Cloud Community](http://helpx.adobe.com/marketing-cloud.html?promoid=KAWSE) (adobe.com)
