@@ -5,7 +5,7 @@ seo-description: Overview and prerequisites about uploading customer attributes 
 seo-title: Customer attributes
 solution: Experience Cloud
 title: Customer attributes
-uuid: 20e268e0-754d-4710-9953-15e2658f8e9f
+uuid: 40ac0326-7b6f-4e2b-9ba4-181c51de873c
 index: y
 internal: n
 snippet: y
@@ -16,34 +16,38 @@ translate: y
 
 Overview and prerequisites about uploading customer attributes to the Experience Cloud.
 
-**[!UICONTROL  People]** > **[!UICONTROL  Customer Attributes]** 
+**[!UICONTROL People]** > **[!UICONTROL Customer Attributes]** 
 
-If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, leverage the data in [!DNL  Adobe Analytics] and [!DNL  Adobe Target]. 
+If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, leverage the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 
 ![](assets/custom_reports.png) 
 
 Topics covered on this page: 
 
-* [ Prerequisites for uploading Customer Attributes](../attributes/attributes.md#section_BD38693AFBF34926BA28E964963B4EA0)
-* [ What Is enterprise customer data?](../attributes/attributes.md#section_6F34C29F11414842AA57D2B1248FA3C6)
-* [ Solution use cases](../attributes/attributes.md#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9)
+* [Prerequisites for uploading Customer Attributes](../attributes/attributes.md#section_BD38693AFBF34926BA28E964963B4EA0)
+* [What Is enterprise customer data?](../attributes/attributes.md#section_6F34C29F11414842AA57D2B1248FA3C6)
+* [Solution use cases](../attributes/attributes.md#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9)
+
+
 
 ## Prerequisites for uploading Customer Attributes {#section_BD38693AFBF34926BA28E964963B4EA0}
 
 
-* **Solution enablement:** [ Enable your solutions for core services](../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). 
+* **Solution enablement:** [Enable your solutions for core services](../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). 
 
-* **Group membership:** To upload customer attribute data, users must be members of the [ Customer Attributes group](../admin_getting_started/admin_getting_started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group. 
+* **Group membership:** To upload customer attribute data, users must be members of the [Customer Attributes group](../admin_getting_started/admin_getting_started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group. 
 
-  To know whether your company has access to customer attributes, your [!DNL  Experience Cloud] administrator should log into the [!DNL  Experience Cloud]. Navigate to **[!UICONTROL  Administration]** > **[!UICONTROL  Launch Admin Console]** > **[!UICONTROL  Groups]**. If *` Customer Attributes`* displays as one of the groups, you are ready to begin. 
+  To know whether your company has access to customer attributes, your [!DNL Experience Cloud] administrator should log into the [!DNL Experience Cloud]. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Launch Admin Console]** > **[!UICONTROL Groups]**. If *`Customer Attributes`* displays as one of the groups, you are ready to begin. 
 
-  Users that are added to the Customer Attributes group will see the [!UICONTROL  Customer Attributes] menu item on the left side of the Experience Cloud interface. 
+  Users that are added to the Customer Attributes group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface. 
 
 * **Target mbox:** mbox.js version 58 or higher is required for customer attributes. 
 
-  See [ Mbox.js Implementation](https://marketing.adobe.com/resources/help/en_US/target/ov/t_mbox_download.html). 
+  See [Mbox.js Implementation](https://marketing.adobe.com/resources/help/en_US/target/ov/t_mbox_download.html). 
 
 * ** at.js:** Any version.
+
+
 
 
 ## What Is enterprise customer data? {#section_6F34C29F11414842AA57D2B1248FA3C6}
@@ -54,9 +58,9 @@ The following image is an example of a data file showing subscriber data for pro
 
 ![](assets/01_crs_usecase.png) 
 
-After you create the data file, you can upload it to the customer attribute source that you create in **[!UICONTROL  Experience Cloud]** > **[!UICONTROL  Customer Attributes]**. 
+After you create the data file, you can upload it to the customer attribute source that you create in **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**. 
 
-See [ Upload Customer Attribute Data](../attributes/t_crs_usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) to learn this workflow. 
+See [Upload Customer Attribute Data](../attributes/t_crs_usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) to learn this workflow. 
 
 ## Solution use cases {#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9}
 

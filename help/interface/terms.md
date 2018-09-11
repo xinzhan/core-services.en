@@ -5,7 +5,7 @@ seo-description: null
 seo-title: Terminology
 solution: Experience Cloud
 title: Terminology
-uuid: eb5f8861-0c5f-49b0-acb0-2e0be53c12f0
+uuid: 7539baee-6efd-46c9-96da-2d761c1857f9
 index: y
 internal: n
 snippet: y
@@ -15,9 +15,15 @@ translate: y
 # Terminology
 
 ## Terminology {#topic_C60FA5D9D6B048B9961AEABCF6686C0A}
->Short Description
->## <!--Shared terms in Creative Cloud and Experience Cloud--> {#concept_5DAAABDF459E4AF3B06FEE132242DD80}
->A terminology reference for Experience Cloud users, and how those terms are used in Creative Cloud.
+
+Short Description
+
+
+## <!--Shared terms in Creative Cloud and Experience Cloud--> {#concept_5DAAABDF459E4AF3B06FEE132242DD80}
+
+A terminology reference for Experience Cloud users, and how those terms are used in Creative Cloud.
+
+
 <table id="table_47265C717FFA44389DBFC03C602808EB"> 
  <thead> 
   <tr> 

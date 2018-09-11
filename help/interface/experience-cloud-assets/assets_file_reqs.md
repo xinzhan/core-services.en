@@ -5,7 +5,7 @@ seo-description: Allowed file types and size limitations for sharing assets betw
 seo-title: Asset file requirements for sharing
 solution: Experience Cloud
 title: Asset file requirements for sharing
-uuid: b722b9a2-2e63-4ae9-ba33-3402820e8f33
+uuid: 6db61d58-933b-4e61-9b51-1c29f1276d6e
 index: y
 internal: n
 snippet: y
@@ -19,7 +19,7 @@ Allowed file types and size limitations for sharing assets between the Experienc
 
 ## File types allowed for upload {#section_52B6A40BB00B45BC944C01C49B4BB590}
 
-File types you can upload include most images, documents, and multimedia. See [ Supported Formats](https://helpx.adobe.com/experience-manager/brand-portal/using/brand-portal-supported-formats.html) for information about file formats in [!DNL  Experience Cloud] Assets. 
+File types you can upload include most images, documents, and multimedia. See [Supported Formats](https://helpx.adobe.com/experience-manager/brand-portal/using/brand-portal-supported-formats.html) for information about file formats in [!DNL Experience Cloud] Assets. 
 
 ## File size limitations {#section_410ED8E24DBD4136830AE679C6B10D88}
 

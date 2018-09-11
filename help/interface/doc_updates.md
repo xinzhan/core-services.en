@@ -5,7 +5,7 @@ seo-description: Information about updates to the Experience Cloud help.
 seo-title: Documentation updates - Experience Cloud
 solution: Experience Cloud
 title: Documentation updates - Experience Cloud
-uuid: ec668617-80e6-4b53-bf69-a82801811569
+uuid: 644e42c5-e995-455a-b5ac-df01150734f5
 index: y
 internal: n
 snippet: y
@@ -25,6 +25,10 @@ Information about updates to the Experience Cloud help.
   </tr> 
  </thead>
  <tbody> 
+  <tr> 
+   <td colname="col1"> <p>9/5/2018 </p> </td> 
+   <td colname="col2"> <p>Added how to delete a customer attribute. See <a href="attributes/t_crs_usecase.md#task_6568898BB7C44A42ABFB86532B89063C" format="dita" scope="local"> (Optional) Update the schema (delete attributes)</a>. </p> </td> 
+  </tr> 
   <tr> 
    <td colname="col1"> <p>6/8/20118 </p> </td> 
    <td colname="col2"> <p>Updated <a href="attributes/crs_data_file.md#concept_DE908F362DF24172BFEF48E1797DAF19" format="dita" scope="local"> About data file and data sources for customer attributes</a> with information about uploading multiple files. </p> </td> 

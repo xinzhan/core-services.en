@@ -5,7 +5,7 @@ seo-description: Activation includes the latest tag management product called La
 seo-title: Activation
 solution: Experience Cloud
 title: Activation
-uuid: d652a9b3-19ab-43b3-893c-574882d1a56c
+uuid: aa1da161-dbd6-4033-8974-8c69cc3048d1
 index: y
 internal: n
 snippet: y
@@ -21,11 +21,11 @@ Activation includes the latest tag management product called Launch, by Adobe. D
 
 Deploy and manage the analytics, marketing, and advertising tags necessary to power relevant customer experiences. 
 
-See [ Launch, by Adobe ](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/). 
+See [Launch, by Adobe](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/). 
 
 ## Dynamic Tag Management {#section_C7E000EEF3E6459FB4B6D4A8960DD8F0}
 
-To launch Dynamic Tag Management, click **[!UICONTROL  Activation]** and send a request to the Adobe provisioning team. You should receive your login credentials within one to two business days. 
+To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a request to the Adobe provisioning team. You should receive your login credentials within one to two business days. 
 
 <table id="table_3241FF7CA0B242BFAFC68362A62AA0C7"> 
  <thead> 
@@ -50,11 +50,11 @@ To launch Dynamic Tag Management, click **[!UICONTROL  Activation]** and send a 
  </tbody> 
 </table>
 
-If you want help implementing dynamic tag management we encourage you to contact your Account Manager for information on Adobe Global Services offerings, or implementation partner offerings. Please also feel free to contact us at [ @AdobeExpCare ](http://twitter.com/AdobeExpCare) with hashtag #DTM. 
+If you want help implementing dynamic tag management we encourage you to contact your Account Manager for information on Adobe Global Services offerings, or implementation partner offerings. Please also feel free to contact us at [@AdobeExpCare](http://twitter.com/AdobeExpCare) with hashtag #DTM. 
 
 ## Experience Cloud Triggers {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
-*` Triggers`* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization. 
+*`Triggers`* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization. 
 
 <table id="table_AF6842470172429EA97C9B02163BD0C3"> 
  <thead> 
@@ -80,4 +80,4 @@ If you want help implementing dynamic tag management we encourage you to contact
 
 The Adobe Experience Cloud Debugger extension for Chrome examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented. 
 
-See [ Experience Cloud Debugger ](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/) for help. 
+See [Experience Cloud Debugger](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/) for help. 

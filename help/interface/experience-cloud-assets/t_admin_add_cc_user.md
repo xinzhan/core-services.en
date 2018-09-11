@@ -5,7 +5,7 @@ seo-description: The Experience Cloud provides administrative tools for managing
 seo-title: Manage Creative Cloud users
 solution: Experience Cloud
 title: Manage Creative Cloud users
-uuid: 924e5dcf-97f4-436f-ac84-f6766f0b1066
+uuid: 328574d9-131d-461b-8ea5-443bd9edc221
 index: y
 internal: n
 snippet: y
@@ -22,9 +22,8 @@ The Experience Cloud provides administrative tools for managing approved Creativ
 >
 >You must be an administrator to perform this procedure.
 
-
-1. In the Experience Cloud, click **[!UICONTROL  Administration]** > **[!UICONTROL  Manage Creative Cloud Collaborators]**.
-1. Click **[!UICONTROL  Creative Cloud Asset Sharing]**.
-1. Click **[!UICONTROL  Add New User]**.  ![](assets/mac_add_icon.png)
+1. In the Experience Cloud, click **[!UICONTROL Administration]** > **[!UICONTROL Manage Creative Cloud Collaborators]**.
+1. Click **[!UICONTROL Creative Cloud Asset Sharing]**.
+1. Click **[!UICONTROL Add New User]**.  ![](assets/mac_add_icon.png)
 1. Type an email, display name, title, and optionally add an Avatar.
-1. Click **[!UICONTROL  Create]**.
+1. Click **[!UICONTROL Create]**.

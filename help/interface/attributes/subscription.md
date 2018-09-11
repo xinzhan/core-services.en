@@ -5,7 +5,7 @@ seo-description: Learn about solution data sources and configuring subscriptions
 seo-title: Configure subscriptions
 solution: Experience Cloud
 title: Configure subscriptions
-uuid: 52578416-6242-4db3-834a-14946a6aae77
+uuid: 017036fe-9f63-4137-a628-5488e62581e6
 index: y
 internal: n
 snippet: y
@@ -18,7 +18,7 @@ Learn about solution data sources and configuring subscriptions. Subscriptions e
 
 For example, an Adobe Analytics subscription enables attribute data in reports. If you use Adobe Target, you can upload customer attributes for targeting and segmentation. 
 
-**[!UICONTROL  Customer Attribute Source]** > **[!UICONTROL  Create New Customer Attribute Source]** > **[!UICONTROL  New]** 
+` **[!UICONTROL Customer Attribute Source]** > **[!UICONTROL Create New Customer Attribute Source]** > **[!UICONTROL New]**` 
 
 ![](assets/configure_subscription_page.png) 
 
@@ -34,15 +34,14 @@ For example, an Adobe Analytics subscription enables attribute data in reports. 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Solution </p> </td> 
-   <td colname="col2"> <p> <b>Adobe Analytics</b> </p> <p>Select <span class="uicontrol"> Analytics</span>, specify the report suites to that you want to receive attribute data, and the attributes to include. </p> <p> <b>Adobe Target</b> </p> <p>You can upload customer attributes for targeting and segmentation. This feature is useful if want to target a test based on attribute data, or make the data available for segmentation in Analytics. </p> <p>Uploaded customer attribute data for a visitor is available at login, in <span class="uicontrol"> Target</span> &gt; <span class="uicontrol"> Audiences</span>. </p> <p>Multiple data sources are supported. When you <a href="../core_services/core_services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> set customer IDs</a> on your website, verify that at least one of the aliases is subscribed to Target. </p> 
-    <!--<p>Only one data source can send data to Target. Multiple alias_ids (<filepath>mbox3rdPartyIds</filepath>) are <term>not</term> supported. </p>--> </td> 
+   <td colname="col2"> <p> <b>Adobe Analytics</b> </p> <p>Select <span class="uicontrol"> Analytics</span>, specify the report suites to that you want to receive attribute data, and the attributes to include. </p> <p> <b>Adobe Target</b> </p> <p>You can upload customer attributes for targeting and segmentation. This feature is useful if want to target a test based on attribute data, or make the data available for segmentation in Analytics. </p> <p>Uploaded customer attribute data for a visitor is available at login, in <span class="uicontrol"> Target</span> &gt; <span class="uicontrol"> Audiences</span>. </p> <p>Multiple data sources are supported. When you <a href="../core_services/core_services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> set customer IDs</a> on your website, verify that at least one of the aliases is subscribed to Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Report Suite (Analytics) </p> </td> 
    <td colname="col2"> <p>The report suites from Analytics. </p> <p> You cannot add more than a total of 10 report suites to the Analytics subscriptions within a single attribute source. When choosing which report suites to include, consider the following suggestions: </p> <p> 
      <ul id="ul_25033FAF5A0E465592F3AA699157F99D"> 
-      <li id="li_003F485C0A1840558946A8CE05DC36B3"> <p>Choose report suites that have a common set of authenticated customers. If the authenticated customers in one report suite do not overlap with the authenticated customers in another report suite, separate these report suites into different attribute sources. </p> </li> 
-      <li id="li_4230462B586D48E18E2BD6DDB74AAB5C"> <p>If possible, the report suites included in an attribute source should have similar traffic volume. </p> </li> 
+      <li id="li_003F485C0A1840558946A8CE05DC36B3">Choose report suites that have a common set of authenticated customers. If the authenticated customers in one report suite do not overlap with the authenticated customers in another report suite, separate these report suites into different attribute sources. </li> 
+      <li id="li_4230462B586D48E18E2BD6DDB74AAB5C"> If possible, the report suites included in an attribute source should have similar traffic volume. </li> 
      </ul> </p> <p> If you have more than 10 report suites that have a common set of authenticated customers, you can configure additional customer attribute sources, each with up to 10 report suites. </p> </td> 
   </tr> 
   <tr> 
