@@ -74,5 +74,5 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 
 * [Experience Cloud Overview](http://blogs.adobe.com/digitalmarketing/web-experience/part-1-adobes-art-science-todays-new-marketer/) (blog)
 * [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
-* [Experience Cloud Forum](http://help-forums.adobe.com/content/adobeforums/en/marketing-cloud-forum/adobe-marketing-cloud.html)
+* [Experience Cloud Forum](https://forums.adobe.com/community/experience-cloud)
 * [Adobe Experience Cloud Community](http://helpx.adobe.com/marketing-cloud.html?promoid=KAWSE) (adobe.com)
