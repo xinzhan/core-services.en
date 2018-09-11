@@ -91,7 +91,7 @@ Create and manage audiences in the Experience Cloud Audience Library. Audiences 
 
 
 * [Activities](https://marketing.adobe.com/resources/help/en_US/target/target/c_activities.html) in Adobe Target
-* [Segmentation](https://marketing.adobe.com/resources/help/en_US/aam/c_segments_purpose.html) in Audience Manager
+* [Segmentation](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/aam-analytics-segments.html) in Audience Manager
 * [Media Optimizer](https://enterprise.efrontier.com/CMDashboard/help/internal/concepts_and_features/media_optimizer_integration_with_adobe_marketing_cloud.htm) (login required)
 
 
@@ -190,7 +190,7 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud solutions
 * Experience Cloud Audiences: [Experience Cloud Audience Library](https://marketing.adobe.com/resources/help/en_US/mcloud/audience_library.html)
 * Analytics: [Adobe Analytics as the Reporting Source for Adobe Target](https://marketing.adobe.com/resources/help/en_US/target/a4t/a4t.html)
 * Dynamic Tag Management: [Best Practices for Implementing Adobe Target using DTM](https://marketing.adobe.com/resources/help/en_US/dtm/target/)
-* Audience Manager: [Target Data Integration with Adobe Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/c_am_tt_int_intro.html)
+* Audience Manager: [Target Data Integration with Adobe Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/aam-target-integration.html)
 * Campaign: [Integrating Target with Campaign](https://marketing.adobe.com/resources/help/en_US/target/a4t/c_campaign_and_target.html)
 
 
