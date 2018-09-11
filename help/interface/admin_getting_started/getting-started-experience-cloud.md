@@ -104,7 +104,7 @@ Help for non-administrative users signing in to the Experience Cloud.
 1. Verify with your administrator that your [organization](../admin_getting_started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) has been provisioned in the Experience Cloud.
 
 
-1. Navigate to the [Adobe Experience Cloud](marketing.adobe.com) ( [!DNL marketing.adobe.com]).
+1. Navigate to the [Adobe Experience Cloud](https://marketing.adobe.com) ( [!DNL marketing.adobe.com]).
 1. Click **[!UICONTROL Sign In With Adobe ID]**.
 
    Your Experience Cloud administrator can help you determine the type of account (Adobe ID or Enterprise ID). 
