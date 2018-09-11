@@ -86,11 +86,11 @@ Manage Analytics user and product permissions in the Admin Console.
 
 **User Account Migration** 
 
-An Analytics user ID migration tool is available to help Analytics administrators migrate user accounts from Analytics User Management to the [Adobe Admin Console](http://adminconsole.adobe.com/enterprise/). 
+An Analytics user ID migration tool is available to help Analytics administrators migrate user accounts from Analytics User Management to the [Adobe Admin Console](https://adminconsole.adobe.com/enterprise/). 
 
 The account migration is being rolled out to customers in phases. Adobe will notify and assist you when it is your time to migrate existing user accounts from **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** to the Admin Console. 
 
-After the migration, users sign in using their Adobe ID (or Enterprise ID) and authenticate to their Experience Cloud solutions and services at [marketing.adobe.com](marketing.adobe.com). If users attempt to sign in via legacy logins ( [!DNL my.omniture.com] and [!DNL sc.omniture.com]) they are redirected to [!DNL marketing.adobe.com]. 
+After the migration, users sign in using their Adobe ID (or Enterprise ID) and authenticate to their Experience Cloud solutions and services at [marketing.adobe.com](https://marketing.adobe.com). If users attempt to sign in via legacy logins ([!DNL my.omniture.com] and [!DNL sc.omniture.com]) they are redirected to [!DNL marketing.adobe.com]. 
 
 **Related help** 
 
@@ -241,5 +241,3 @@ Supported browsers in the Experience Cloud.
 * [Data Workbench](https://marketing.adobe.com/resources/help/en_US/insight/install/?f=c_Data_Workbench_Client_install)
 * [Adobe Target](https://marketing.adobe.com/resources/help/en_US/target/ov/?f=r_supported_browsers)
 * [Adobe Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/?f=c_supported_browsers)
-
-
