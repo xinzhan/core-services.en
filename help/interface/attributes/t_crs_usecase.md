@@ -28,11 +28,18 @@ Short Description
 
 ![](assets/crs.png) 
 
+<<<<<<< HEAD
 1. [Create a data file](../attributes/t_crs_usecase.md#task_B5FB8C0649374C7A94C45DCF2878EA1A)
 1. [Create the attribute source and upload the data file](../attributes/t_crs_usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
 1. [Validate the schema](../attributes/t_crs_usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
 1. [Configure subscriptions and activate the attribute source](../attributes/t_crs_usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
 
+=======
+1. [ Create a data file ](../attributes/t_crs_usecase.md#task_B5FB8C0649374C7A94C45DCF2878EA1A)
+1. [ Create the attribute source and upload the data file ](../attributes/t_crs_usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
+1. [ Validate the schema ](../attributes/t_crs_usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
+1. [ Configure subscriptions and activate the attribute source ](../attributes/t_crs_usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 After the data source is active, you can: 
 

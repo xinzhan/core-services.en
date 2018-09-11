@@ -1,1 +1,1 @@
-KB placeholder
+# KB placeholder

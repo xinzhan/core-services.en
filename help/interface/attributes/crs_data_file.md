@@ -153,12 +153,16 @@ The Alias ID for each customer attribute source must be unique. If you have mult
 
 Set two customer IDs that will correspond to the appropriate data sources: 
 
-```
+```javascript
 Visitor.setCustomerIDs({ 
      "ds_id1”:"123456", 
      "ds_id2":"123456" 
 });
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 (See [Customer IDs and Authentication States](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) for more information.) 
 
 In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**: 

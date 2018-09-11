@@ -24,7 +24,12 @@ Upgrading to Adobe Analytics Premium gives you all the capabilities or products 
 
 Analytics Premium gives you: 
 
+<<<<<<< HEAD
 * Access to 250 conversion variables (eVars)* [Mobile App Analytics](https://marketing.adobe.com/resources/help/en_US/mobile/)
+=======
+* Access to 250 conversion variables (eVars)
+* [Mobile App Analytics](https://marketing.adobe.com/resources/help/en_US/mobile/)
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 * Data Workbench (Visual data query; rules-based attribution; cross-channel analysis)
 
 
@@ -43,8 +48,11 @@ The following sections describe where to find help, depending on the features th
 * [Advanced Attribution](../admin_getting_started/upgrade-to-analytics-premium.md#section_9E4986A8389946CCAA7D003268343296)
 * [Data Workbench Requirements](../admin_getting_started/upgrade-to-analytics-premium.md#section_D959CA68D6DB42C38707F8E0CA3654CC)
 * [Experience Cloud](../admin_getting_started/upgrade-to-analytics-premium.md#section_6471C54454024301B2E0B687F79F6738)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 ## Analytics Premium Complete {#section_BFAD815EDF364845A52B340B2FD5B64C}
 
@@ -88,7 +96,11 @@ Upgrading to Predictive Intelligence enables [Analytics Premium](../admin_gettin
 
 |  Product  | Upgrades  |
 |---|---|
+<<<<<<< HEAD
 |  Reports & Analytics  | [Contribution Analysis](https://marketing.adobe.com/resources/help/en_US/analytics/contribution/)  |
+=======
+|  Reports &amp; Analytics  | [Contribution Analysis](https://marketing.adobe.com/resources/help/en_US/analytics/contribution/)  |
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 |  Data Workbench  | Pre-built workspaces for audience qualifications and predictive marketing.  |
 |  Analytics Platform  | Live Stream (dashboards and triggers)  |
 
@@ -151,7 +163,10 @@ Predictive intelligence in Data Workbench includes the following visualizations:
 * [Visitor Clustering](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_visitor_cluster)
 * [Correlation Analysis](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_correlation_analysis)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 **Customer 360** and **Advanced Attribution**
 
 See Analytics rules-based attribution in pre-built templates at [Rule-based Attribution](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_rules_attrib). 
@@ -166,7 +181,11 @@ After you join the Experience Cloud, you can log in via the Experience Cloud at 
 
 **Administrate Users and Groups** 
 
+<<<<<<< HEAD
 User management is performed in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/help/aedash.html) (product link). 
+=======
+User management is performed in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/help/aedash.html). 
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 You can set up a 1:1 map between a group created in the Adobe Admin Console and a solution group (such as Adobe Analytics). Thereafter, a new user added to the mapped Admin Console group will have an Analytics solution account automatically created and linked to the user's Adobe ID. (Existing users must manually link their solution account credentials to access solutions via the Experience Cloud login.) 
 

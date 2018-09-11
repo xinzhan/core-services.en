@@ -25,35 +25,9 @@ File types you can upload include most images, documents, and multimedia. See [S
 
 File size limitations come from the browser and can vary from browser to browser: 
 
-<table id="table_E532A5B4BE9F49D0BFAE0AE027999FC4"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Browser </th> 
-   <th colname="col02" class="entry"> Upload (Total Size) </th> 
-   <th colname="col2" class="entry"> Download (Per File) </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Internet Explorer 6 </p> </td> 
-   <td colname="col02"> <p>2 GB </p> </td> 
-   <td colname="col2"> <p>2 GB </p> <p>4 GB for chunked or connection-close transfers. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Internet Explorer 7 </p> </td> 
-   <td colname="col02"> <p>2 GB </p> </td> 
-   <td colname="col2"> <p>4 GB </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Internet Explorer 8 </p> </td> 
-   <td colname="col02"> <p>2 GB </p> </td> 
-   <td colname="col2"> <p>17,592 GB </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Internet Explorer 9 to 11 </p> </td> 
-   <td colname="col02"> <p>4 GB </p> </td> 
-   <td colname="col2"> <p>17,592 GB </p> </td> 
-  </tr> 
- </tbody> 
-</table>
-
+| Browser | Upload (Total Size) | Download (Per File) |
+|--- |--- |--- |
+|Internet Explorer 6|2 GB|2 GB  4 GB for chunked or connection-close transfers.|
+|Internet Explorer 7|2 GB|4 GB|
+|Internet Explorer 8|2 GB|17,592 GB|
+|Internet Explorer 9 to 11|4 GB|17,592 GB|

@@ -18,9 +18,13 @@ Learn how to sign in to the Experience Cloud, manage passwords and notifications
 
 ## Sign in and manage your profile settings {#topic_AC564B6795334DE39359ADD87F52F2E0}
 
+<<<<<<< HEAD
 Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
 
 Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and core services that you own. 
+=======
+Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and core services that you own. 
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 <!-- t_sign_in.xml -->
 
@@ -35,25 +39,43 @@ Signing in to the Experience Cloud (rather than signing into a single solution) 
 * [Manage profiles and passwords](../admin_getting_started/getting-started-experience-cloud.md#task_7B89F4F38E5A4C4EB0FF842953856382)
 * [Recover your password](../admin_getting_started/getting-started-experience-cloud.md#task_46541A2806164CB1A4AE8239604E4EB1)
 * [Sign in to a solution via a direct link](../admin_getting_started/getting-started-experience-cloud.md#concept_8BE493A08786469B88B210E13F78FF2F)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 >[!IMPORTANT]
 >
 >Administrators, see [Administration](../admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about updates to user and product management. 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 ## Sign in to the Experience Cloud (administrators) {#task_034FC955031347F3B02B686A09801A08}
 
 Sign in and verify that you are in the right [organization](../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). 
 
+<<<<<<< HEAD
 1. Click the Experience Cloud pull-down menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
 
        ![](assets/admin-link.png) 
     
        If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) (Adobe Corp, in this example). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company. 
 1. Click **[!UICONTROL Administration]**.
+=======
+1. Click the Experience Cloud pull-down menu (![](assets/menu-icon.png)), then click **[!UICONTROL  Administration]**.
+
+       ![](assets/admin-link.png) 
+
+       If the **[!UICONTROL  Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) (Adobe Corp, in this example). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company. 
+       
+1. Click **[!UICONTROL  Administration]**.
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
        ![](assets/admin-landing.png) 
+       
 1. Continue by clicking one of the following links:
 
 
@@ -97,6 +119,7 @@ Sign in and verify that you are in the right [organization](../admin_getting_sta
 </table>
 
 ## Sign in to the Experience Cloud (users) {#task_1BFE87E20DCB44078CAC82F3CD44B985}
+<<<<<<< HEAD
 
 Help for non-administrative users signing in to the Experience Cloud.
 
@@ -107,10 +130,18 @@ Help for non-administrative users signing in to the Experience Cloud.
 1. Navigate to the [Adobe Experience Cloud](marketing.adobe.com) ( [!DNL marketing.adobe.com]).
 1. Click **[!UICONTROL Sign In With Adobe ID]**.
 
-   Your Experience Cloud administrator can help you determine the type of account (Adobe ID or Enterprise ID). 
+=======
 
+Help for non-administrative users signing in to the Experience Cloud.
+
+1. Verify with your administrator that your [organization](../admin_getting_started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) has been provisioned in the Experience Cloud.
+1. Navigate to the [Adobe Experience Cloud](https://marketing.adobe.com).
+1. Click **[!UICONTROL  Sign In With Adobe ID]**.
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
+   Your Experience Cloud administrator can help you determine the type of account (Adobe ID or Enterprise ID). 
 1. On the Feed page (or your default landing page), click the selector icon  ![](assets/menu-icon.png) to access the pull-down menu.
 
+<<<<<<< HEAD
        ![](assets/experience-cloud-core-services.png) 
     
        The solutions and services that display in this menu depend on your application privileges defined by your [administrator](../admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
@@ -118,6 +149,13 @@ Help for non-administrative users signing in to the Experience Cloud.
 ## Configure default personal account settings {#task_73CBCAE6C91749D19C95421E5AC311BA}
 
 Short Description
+=======
+    ![](assets/experience-cloud-core-services.png) 
+
+    The solutions and services that display in this menu depend on your application privileges defined by your [administrator](../admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
+
+## Configure default personal account settings {#task_73CBCAE6C91749D19C95421E5AC311BA}
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 You can edit personal details and specify a default [organization](../admin_getting_started/admin_getting_started.md#concept_705C626560A54CA2A4215F1C870C42B2) and landing page to display after signing in to the Experience Cloud. 
 
@@ -131,6 +169,7 @@ You can edit personal details and specify a default [organization](../admin_gett
 
 ## Enable notifications {#concept_0105453AD71847B8BFCAF4A40915F157}
 
+<<<<<<< HEAD
 Get notified (via email or in-product) about system updates, maintenance notices, posts, mentions, and assets shared. You can also specify the products and solutions for which you want notifications, including the upload status for customer attributes.
 
 To navigate to Notifications, click the **[!UICONTROL Notifications]** icon  ![](assets/notifications-icon.png), then click the **[!UICONTROL Settings]** icon  ![](assets/icon_edit_board.png). 
@@ -138,6 +177,16 @@ To navigate to Notifications, click the **[!UICONTROL Notifications]** icon  ![]
 You can sort the Notifications display based on the message types that are important to you, and search for notifications. You can also: 
 
 * Sort by the message types that are important to you.* Search for notifications.
+=======
+## Enable notifications {#concept_0105453AD71847B8BFCAF4A40915F157}
+
+Get notified (via email or in-product) about system updates, maintenance notices, posts, mentions, and assets shared. You can also specify the products and solutions for which you want notifications, including the upload status for customer attributes.To navigate to Notifications, click the **[!UICONTROL  Notifications]** icon  ![](assets/notifications-icon.png), then click the **[!UICONTROL  Settings]** icon  ![](assets/icon_edit_board.png). 
+
+You can sort the Notifications display based on the message types that are important to you, and search for notifications. You can also: 
+
+* Sort by the message types that are important to you.
+* Search for notifications.
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 **To enable notifications** 
 
@@ -162,16 +211,22 @@ You can sort the Notifications display based on the message types that are impor
 </ul> -->
 
 ## Manage profiles and passwords {#task_7B89F4F38E5A4C4EB0FF842953856382}
+<<<<<<< HEAD
 
 Short Description
 
 You can edit your Experience Cloud profile, specify a default organization and landing page, and more. 
 
 1. [Sign in to the Experience Cloud](../admin_getting_started/getting-started-experience-cloud.md#task_1BFE87E20DCB44078CAC82F3CD44B985).
+=======
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
+You can edit your Experience Cloud profile, specify a default organization and landing page, and more. 
+
+1. [Sign in to the Experience Cloud](../admin_getting_started/getting-started-experience-cloud.md#task_1BFE87E20DCB44078CAC82F3CD44B985).
 1. From the Experience Cloud menu, click your profile picture.
-
        ![](assets/edit-profile.png) 
+<<<<<<< HEAD
 1. Click **[!UICONTROL Edit Profile]**.
 
    On the Profile & Passwords page, complete the fields and options under Personal Details. 
@@ -180,10 +235,18 @@ You can edit your Experience Cloud profile, specify a default organization and l
 
 Short Description
 
+=======
+
+1. Click **[!UICONTROL  Edit Profile]**.
+   On the Profile &amp; Passwords page, complete the fields and options under Personal Details. 
+
+## Recover your password {#task_46541A2806164CB1A4AE8239604E4EB1}
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 1. Navigate to your solution login page.
 1. Click **[!UICONTROL Forgot Password]**.
 
+<<<<<<< HEAD
        Resetting a solution password should resolve password linking issues for Experience Cloud. 
     
        For Adobe Analytics users, navigate to [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html). 
@@ -193,7 +256,17 @@ Short Description
 Optionally, you can sign in to a specific page in a solution, using authentication provided by the Experience Cloud Interface.
 
 
+=======
+    Resetting a solution password should resolve password linking issues for Experience Cloud. 
+
+    For Adobe Analytics users, navigate to [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html). 
+
+## Configure solution sign-in using a direct link {#concept_8BE493A08786469B88B210E13F78FF2F}
+
+Optionally, you can sign in to a specific page in a solution, using authentication provided by the Experience Cloud Interface.
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 <!-- mac-deep-linking.xml -->
+
 **URL Template** 
 
 [!DNL https://<tenantId>.marketing.adobe.com/<solutionname>?destURL=<fullURL>] 
@@ -204,7 +277,12 @@ Sample URL:
 
 >[!NOTE]
 >
+<<<<<<< HEAD
 >You must encode any URL before passing it to the `destURL` parameter. (Encoder sites like [URL Decoder / Encoder](http://meyerweb.com/eric/tools/dencoder/) are available.) 
+=======
+>You must encode any URL before passing it to the ` destURL` parameter. (Encoder sites like [URL Decoder / Encoder](http://meyerweb.com/eric/tools/dencoder/) are available.) 
+
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 <table id="table_B8D36AB5157B47A49CEF73A2E405F87A"> 
  <thead> 

@@ -8,7 +8,6 @@ title: Contact and Legal Information
 uuid: 3246eb2c-ca75-4567-81a0-093c78e0dc55
 index: y
 internal: n
-snippet: y
 translate: y
 ---
 
@@ -19,13 +18,17 @@ Information to help you contact Adobe and to understand the legal issues concern
 
 ## Help & Technical Support {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-The Adobe Experience Cloud Customer Care team is here to assist you and provides a number of mechanisms by which they can be engaged: 
+The Adobe Marketing Cloud Customer Care team is here to assist you and provides a number of mechanisms by which they can be engaged: 
 
+<<<<<<< HEAD
 * [Check the Experience Cloud help pages for advice, tips, and FAQs](http://helpx.adobe.com/marketing-cloud.html)
 * [Ask us a quick question on Twitter @AdobeExpCare](https://twitter.com/AdobeExpCare)
 * [Log an incident in our customer portal](https://customers.omniture.com/login.php)
 * [Contact the Customer Care team directly](http://helpx.adobe.com/marketing-cloud/contact-support.html)
 * [Check availability and status of Experience Cloud Solutions](http://status.adobe.com/)
+=======
+See [Contact Adobe Enterprise Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 
 

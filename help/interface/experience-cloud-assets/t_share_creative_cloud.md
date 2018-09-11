@@ -16,26 +16,45 @@ translate: y
 
 Share an Experience Cloud asset folder with Creative Cloud users.
 
+<<<<<<< HEAD
 
 1. On an Asset folder, click **[!UICONTROL Share to Creative Cloud]**.
 
        ![Step Result](assets/asset-share-cc.png) 
 1. On the Share to Creative Cloud page, search for the user, then click **[!UICONTROL Add]**.
+=======
+1. On an Asset folder, click **[!UICONTROL  Share to Creative Cloud]**.
+
+   ![Step Result](assets/asset-share-cc.png) 
+
+1. On the Share to Creative Cloud page, search for the user, then click **[!UICONTROL  Add]**.
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
    ![](assets/asset-share-cc-page.png) 
 
 1. Click **[!UICONTROL Share]**.
 1. Launch the [!DNL Creative Cloud] desktop (or navigate to the [!UICONTROL Creative Cloud Files] page in a browser) and look for the request notification.
 
+<<<<<<< HEAD
        ![](assets/cc_share_request.png) 
 1. Open the request, then click **[!UICONTROL Accept]**.
 
        ![Step Result](assets/cc_share_accept.png) 
 1. To access folder contents, click **[!UICONTROL Open Folder]** (or **[!UICONTROL View on Web]**).
+=======
+   ![](assets/cc_share_request.png) 
 
-       ![Step Result](assets/creative_cloud_open_folder.png) 
+1. Open the request, then click **[!UICONTROL  Accept]**.
+
+   ![Step Result](assets/cc_share_accept.png) 
+
+1. To access folder contents, click **[!UICONTROL  Open Folder]** (or **[!UICONTROL  View on Web]**).
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
+
+   ![Step Result](assets/creative_cloud_open_folder.png) 
 1. Continue by adding comments on the shared asset:
 
+<<<<<<< HEAD
        In Creative Cloud, you can click into an image, then click **[!UICONTROL Activity]** to add a comment on the image. Comments are synced on the assets in the [!DNL Creative Cloud] and [!DNL Experience Cloud]. 
     
        ![](assets/asset_comment_cc.png) 
@@ -43,11 +62,17 @@ Share an Experience Cloud asset folder with Creative Cloud users.
        In the Experience Cloud, click into an image, then click the time-line icon to add a comment on the image. Comments are synced on the assets in the Creative Cloud and Experience Cloud. 
     
        ![](assets/asset_comment_mac.png) 
+=======
+   In Creative Cloud, you can click into an image, then click **[!UICONTROL  Activity]** to add a comment on the image. Comments are synced on the assets in the [!DNL  Creative Cloud] and [!DNL  Experience Cloud]. 
 
-       <!-- <p></p> 
-<p>You can unshare a folder. On Share to Creative Cloud, click Remove, then click Update. The blue creative cloud icon disappears. Tasks: Accept invitations, share, unshare, add comments. </p> 
-<p>Turn assets into cards for annotation (tie into that MAC feature). </p> -->
+   ![](assets/asset_comment_cc.png) 
 
+   In the Experience Cloud, click into an image, then click the time-line icon to add a comment on the image. Comments are synced on the assets in the Creative Cloud and Experience Cloud. 
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
+
+   ![](assets/asset_comment_mac.png) 
+
+<<<<<<< HEAD
        <!-- <p>Integrations: </p> 
 <p>In <b>Social</b>, (Asset Selector) and publish a social post to FB or twitter, go to Publisher, the Import from Assets brings a page overlay of MAC assets. You can search for a particular folder, browse to it, and attach the asset to a post. </p> 
 <p> <b>Target integration</b>: Launch Target (bullseye), Create Activity, name it, click Continue, specify activity URL, then Swap Image, Target has a similar asset selector and replace an image in a Target Activity/experience. (Or Insert Element to load a shared/MAC asset to Target.) When creating activities in <span class="keyword"> Adobe Target</span>, you can load or swap shared assets from the <a href="https://marketing.adobe.com/resources/help/en_US/target/target/c_manage_content.html" format="https" scope="external"> Content Library</a>. </p> -->
@@ -61,12 +86,30 @@ Additional ways to use a shared asset include:
 * Use assets in the [!UICONTROL Asset Selector] in [!DNL Adobe Social] for social posts. See [Publisher Page](https://marketing.adobe.com/resources/help/en_US/social/?f=c_pub_publisher).
 * Load or swap assets in the [Content Library](https://marketing.adobe.com/resources/help/en_US/target/target/?f=c_manage_content) in [!DNL Adobe Target] for images in activities.
 
+=======
+1. To un-share a folder, click **[!UICONTROL  Share Using Creative Cloud]** (similar to [ Step 3](../experience-cloud-assets/t_share_creative_cloud.md#step_BA17CFA185284641A9B878BA29551996)), then remove users by clicking X, then click **[!UICONTROL  Share]**.
+
+   ![](assets/asset_remove_user.png) 
+
+   Once you have removed all Creative Cloud Users, the folder is un-shared and the Creative Cloud users no longer has access. 
+Additional ways to use a shared asset include: 
+
+* Use assets in the [!UICONTROL  Asset Selector] in [!DNL  Adobe Social] for social posts. See [Publisher Page](https://marketing.adobe.com/resources/help/en_US/social/?f=c_pub_publisher).
+* Load or swap assets in the [ Content Library](https://marketing.adobe.com/resources/help/en_US/target/target/?f=c_manage_content) in [!DNL  Adobe Target] for images in activities.
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 After you share a folder to the Creative Cloud, you will see the Creative Cloud logo on the folder. 
 
 ![](assets/asset-cc-logo.png) 
+
 >[!MORE_LIKE_THIS]
 >
+<<<<<<< HEAD
 >* [Creative Cloud Help - Manage and sync files](http://helpx.adobe.com/creative-cloud/help/sync-files.html)
 >* [Creative Cloud Help - Collaborate with others](http://helpx.stage.adobe.com/creative-cloud/help/collaboration.html)
 >* [Creative Cloud Help - Collaboration FAQ](http://helpx.stage.adobe.com/creative-cloud/help/collaboration-faq.html)
+=======
+>* [Browse, sync, and manage assets](http://helpx.adobe.com/creative-cloud/help/sync-files.html)
+>* [Collaborate on Creative Cloud Libraries and folders](http://helpx.stage.adobe.com/creative-cloud/help/collaboration.html)
+>* [Collaboration FAQ](http://helpx.stage.adobe.com/creative-cloud/help/collaboration-faq.html)
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a

@@ -1,7 +1,13 @@
 ---
+<<<<<<< HEAD
 description: How to configure Experience Cloud Triggers.
 keywords: integrations;Triggers
 seo-description: How to configure Experience Cloud Triggers.
+=======
+description: Learn how to configure Experience Cloud Triggers.
+keywords: integrations;Triggers
+seo-description: Learn how to configure Experience Cloud Triggers.
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 seo-title: Triggers
 solution: Marketing Cloud
 title: Triggers
@@ -14,9 +20,17 @@ translate: y
 
 # Triggers
 
+<<<<<<< HEAD
 How to configure Experience Cloud Triggers.
 
 ## Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
+=======
+Learn how to configure Experience Cloud Triggers.
+
+## Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
+
+*`Triggers`* enables you to identify, define, and monitor key consumer behaviors, and then generate cross-solution communication to re-engage visitors. You can use triggers in real-time decisions and personalization. 
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 How to configure Experience Cloud Triggers.
 
@@ -26,18 +40,24 @@ How to configure Experience Cloud Triggers.
 
 ![](assets/trigger-abandonment-2.png) 
 
-**Types of Triggers ** 
+**Types of Triggers** 
 
 * **Abandonment:** You can create a trigger to fire when a visitor views a product but does not add anything to the cart. Configure [Propensity Scoring](../activation/triggers.md#concept_A506150674AD45DB98D3CC07E560D334) to understand customers' tendency to not after abandoning a shopping cart.
 * **Action:** You can create triggers, for example, to fire after newsletter sign-ups, email subscriptions, or applications for credit cards (confirmations). If you are a retailer, you can create a trigger for a visitor who signs up for a loyalty program. In media and entertainment, create triggers for visitors who watch a certain show, and perhaps you want to respond with a survey.
 * **Session Start and Session End:** Create a trigger for session start and session end events.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 ## Create a Experience Cloud trigger {#task_821F37183AC045E5AC8EED20317598FE}
 
 Create an abandonment trigger and configure the conditions for the trigger and propensity scoring. For example, you can specify the criteria for a trigger's rules during a visit, such as metrics like Cart Abandon, or dimensions like the product name. When the rules are met, the trigger runs.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 <!-- t_create-trigger.xml -->
 
 >[!NOTE]
@@ -47,10 +67,15 @@ Create an abandonment trigger and configure the conditions for the trigger and p
 1. In the Experience Cloud, click  ![](assets/menu-icon.png), then click **[!UICONTROL Activation]**.
 1. Locate the [!UICONTROL Triggers] card, then click **[!UICONTROL Launch]**.
 
+<<<<<<< HEAD
        ![Step Result](assets/activation-triggers.png) 
 1. Click **[!UICONTROL New Trigger]**, then specify the type of trigger:
+=======
+       ![](assets/activation-triggers.png) 
+1. Click **[!UICONTROL  New Trigger]**, then specify the type of trigger:
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
-       ![Step Result](assets/add-trigger.png) 
+       ![](assets/add-trigger.png) 
 1. Configure the trigger by completing the following fields and dragging metrics and dimension items to the rule's containers:
 
 

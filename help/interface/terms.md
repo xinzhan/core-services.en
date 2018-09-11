@@ -14,6 +14,7 @@ translate: y
 
 # Terminology
 
+<<<<<<< HEAD
 ## Terminology {#topic_C60FA5D9D6B048B9961AEABCF6686C0A}
 
 Short Description
@@ -24,6 +25,10 @@ Short Description
 A terminology reference for Experience Cloud users, and how those terms are used in Creative Cloud.
 
 
+=======
+A terminology reference for Experience Cloud users, and how those terms are used in Creative Cloud.
+
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 <table id="table_47265C717FFA44389DBFC03C602808EB"> 
  <thead> 
   <tr> 

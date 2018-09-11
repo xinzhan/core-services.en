@@ -17,7 +17,13 @@ Manage the translation of visitor data into audience segmentation.
 
 ## Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
+<<<<<<< HEAD
 Manage the translation of visitor data into audience segmentation.
+=======
+Audiences are collections of visitors (a list of visitor IDs). Adobe's audience services manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to the [!DNL  Experience Cloud].
+
+## Manage translation of visitor data into audience segmentation
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 Audiences are collections of visitors (a list of visitor IDs). Adobe's audience services manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to the [!DNL Experience Cloud]. 
 
@@ -34,7 +40,12 @@ Audiences can be created or derived from various sources, such as:
 
 All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. The system evaluates audiences in two ways: 
 
+<<<<<<< HEAD
 * Historical audiences are sourced from analytics are evaluated every 12 hours. Historical audiences always include return visitors.* Real-time audiences are sourced in the Experience Cloud Audiences are evaluated real time.
+=======
+* Historical audiences are sourced from analytics are evaluated every 12 hours. Historical audiences always include return visitors.
+* Real-time audiences are sourced in the Experience Cloud Audiences are evaluated real time.
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 ## How solutions use audiences {#concept_01EB9345C5344597BC94A864EDD38EE1}
 

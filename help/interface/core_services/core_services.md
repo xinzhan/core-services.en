@@ -16,6 +16,7 @@ translate: y
 
 Implement the Experience Cloud and become an administrator. This process modernizes your solutions for core service features like customer attributes and audiences.
 
+<<<<<<< HEAD
 On this page: 
 
 <!-- <p>https://marketing-beta.adobe.com/resources/help/core/core_services.html </p> 
@@ -36,6 +37,8 @@ On this page:
 
 
 
+=======
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 ## 1. Join the Experience Cloud and become an administrator {#section_2423F0BD3DF642658103310EE5EA6154}
 
 What you need to do to join the Experience Cloud: 
@@ -160,6 +163,7 @@ Verify that you are on regional data collection (RDC). If your data collection d
 
 It is recommended that you modernize your Analytics implementation by updating your JavaScript libraries, including the Visitor API. The simple way to accomplish this is to add an [!DNL Adobe Analytics] tool in Dynamic Tag Management, specifying *`Automatic`* as the configuration method. 
 
+<<<<<<< HEAD
 In Dynamic Tag Management, click ` **[!UICONTROL <Web Property Name>]** > **[!UICONTROL Overview]** > **[!UICONTROL Add a Tool]** > **[!UICONTROL Adobe Analytics]**`. See [Adobe Analytics Settings](https://marketing.adobe.com/resources/help/en_US/dtm/?f=analytics_dtm) in Dynamic Tag Management for deployment information. 
 
 ## 5. (Adobe Target) Modernize your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
@@ -169,6 +173,16 @@ In Dynamic Tag Management, click ` **[!UICONTROL <Web Property Name>]** > **[!UI
 * If you are not using Dynamic Tag Management, [update your mbox library](https://marketing.adobe.com/resources/help/en_US/target/ov/?f=t_mbox_download) manually.
 * Request access to use Adobe Analytics as the reporting source for Adobe Target. Target and Analytics data are combined on the same server call during processing so that visitors are connected between the two solutions. See [Analytics for Target Implementation](https://marketing.adobe.com/resources/help/en_US/target/a4t/?f=a4t).
 * 
+=======
+In Dynamic Tag Management, click  **[!UICONTROL  <Web Property Name>]** > **[!UICONTROL  Overview]** > **[!UICONTROL  Add a Tool]** > **[!UICONTROL  Adobe Analytics]** . See [ Adobe Analytics Settings ](https://marketing.adobe.com/resources/help/en_US/dtm/?f=analytics_dtm) in Dynamic Tag Management for deployment information.
+
+## 5. (Adobe Target) Modernize your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
+
+* It is recommended that you add an [Adobe Target tool](https://marketing.adobe.com/resources/help/en_US/dtm/target.html) in Dynamic Tag Management, so that your library retrieval is automatic. In Dynamic Tag Management, click  **[!UICONTROL  <Web Property Name>]** > **[!UICONTROL  Overview]** > **[!UICONTROL  Add a Tool]** > **[!UICONTROL  Adobe Target]** . **Note:** You can also use Dynamic Tag Management to deploy the Experience Cloud ID service for Target (and other solutions). The Experience Cloud ID service update **is required** for Target to use core services.
+* If you are not using Dynamic Tag Management, [ update your mbox library ](https://marketing.adobe.com/resources/help/en_US/target/ov/?f=t_mbox_download) manually.
+* Request access to use Adobe Analytics as the reporting source for Adobe Target. Target and Analytics data are combined on the same server call during processing so that visitors are connected between the two solutions. See [ Analytics for Target Implementation ](https://marketing.adobe.com/resources/help/en_US/target/a4t/?f=a4t).
+ 
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
   >[!IMPORTANT]
   >
   >All analytics customers are already provisioned for core services like customer attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.

@@ -27,6 +27,7 @@ See [Launch, by Adobe](https://marketing.adobe.com/resources/help/en_US/experien
 
 To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a request to the Adobe provisioning team. You should receive your login credentials within one to two business days. 
 
+<<<<<<< HEAD
 <table id="table_3241FF7CA0B242BFAFC68362A62AA0C7"> 
  <thead> 
   <tr> 
@@ -74,7 +75,22 @@ If you want help implementing dynamic tag management we encourage you to contact
   </tr> 
  </tbody> 
 </table>
+=======
+| Task | Description |
+|---|---|
+| [Deploy Adobe Analytics](https://marketing.adobe.com/resources/help/en_US/analytics/getting-started/add-adobe-analytics-dtm-tool.html) | The Experience Cloud ID service enables core functionality across Experience Cloud solutions (including customer attributes, audience sharing, and triggers). Adobe strongly recommends implementing the ID service and take advantage of these features. |
+| [Dynamic Tag Management Product Documentation](https://marketing.adobe.com/resources/help/en_US/dtm/) | If you want help implementing dynamic tag management we encourage you to contact your Account Manager for information on Adobe Global Services offerings, or implementation partner offerings. Please also feel free to contact us at [@AdobeExpCare](http://twitter.com/AdobeExpCare) with hashtag #DTM. |
+ 
 
+## Experience Cloud Triggers {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
+
+*Triggers* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization. 
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
+
+| Task | Description |
+|---|---|
+| [Create Experience Cloud Triggers](../activation/triggers.md) | Step-by-step instructions to create Experience Cloud Triggers using Adobe Analytics data. Experience Cloud Triggers are available for use in Adobe Campaign. |
+| Using Triggers in Adobe Campaign | Adobe Campaign Standard 16.7 introduces an integration with the new Trigger core service. This core service enables business users to easily define triggers based on online behavioral data captured in Adobe Analytics. Once the trigger is defined, it will be available in Adobe Campaign to support remarketing messages that drive engagement and conversions. This new out-of-the-box feature will allow marketers to trigger remarketing messages at the right time, based on online events like cart abandonment, pages views, videos watched, and so on. |
 
 ## Experience Cloud Debugger {#section_682FCF8A22ED47D0ACF94204AB94B444}
 

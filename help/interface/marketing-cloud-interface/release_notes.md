@@ -17,7 +17,11 @@ translate: y
 Features, release notes, and known issues for the Experience Cloud interface.
 
 
+<<<<<<< HEAD
 <!-- <p>Next release May 26 https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=marketingcloud&title=MC16.5.1+Release+Checklist </p> -->
+=======
+<!-- <p>Next release May 26 https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=marketingcloud&amp;amp;title=MC16.5.1+Release+Checklist </p> -->
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 * [Release 16.5.1 - May 26 2016](../marketing-cloud-interface/release_notes.md#section_3785F182BC13493F84903CA69EB6D0A8)
 * [Release 16.2 February 18 2016](../marketing-cloud-interface/release_notes.md#section_D9610373116C4D77A38F67815C725EA3)
@@ -42,8 +46,11 @@ Features, release notes, and known issues for the Experience Cloud interface.
 * [Release 14.4.1 - April 22 2014](../marketing-cloud-interface/release_notes.md#section_E2A699764E744D2E8D418E9A3D40AF6B)
 * [Release 14.3.1 - March 13, 2014](../marketing-cloud-interface/release_notes.md#section_5D142E3225E3477A84DC01B8197D39BC)
 * [Release 14.2.1 - February 24, 2014](../marketing-cloud-interface/release_notes.md#section_5AD81B0737C843AFB4BE9C4420D70EB3)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 For a list of documentation updates, see [Experience Cloud](../doc_updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/). 
@@ -106,7 +113,11 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 **Known Issue** 
 
+<<<<<<< HEAD
 If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to [!DNL https://dtm.adobe.com] in a new browser tab. 
+=======
+If you access Dynamic Tag Management via the **[!UICONTROL  Experience Cloud]** > **[!UICONTROL  Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to [!DNL  dtm.adobe.com] in a new browser tab. 
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 ## Release 16.1 - January 21 2016 {#section_33B3F7DF6CA347E3AA93801BAC6232CE}
 
@@ -129,7 +140,12 @@ If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** >
 
 >[!NOTE]
 >
+<<<<<<< HEAD
 >Microsoft is [ending support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, we will not fix issues reported against these specific versions of Internet Explorer. 
+=======
+>Microsoft is[ending support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, we will not fix issues reported against these specific versions of Internet Explorer. 
+
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 ## Release 15.10 - October 14 2015 {#section_68123833D3634BD3A473C12862BF9606}
 
@@ -192,10 +208,16 @@ A known issue is causing duplicate auto-generated accounts to be created in Audi
 </table>
 
 
+<<<<<<< HEAD
 * Fixed an issue preventing customer attributes from syncing for some customers.* Fixed an issue preventing [Adobe Target Product Documentation](https://marketing.adobe.com/resources/help/ja_JP/target/a4t/) page from displaying in Japanese.
 * Fixed an issue preventing the use of Japanese text in comments between the [!DNL Creative Cloud] and the [!DNL Experience Cloud].
 
 
+=======
+* Fixed an issue preventing customer attributes from syncing for some customers.
+* Fixed an issue preventing [Adobe Target Product Documentation](https://marketing.adobe.com/resources/help/ja_JP/target/a4t/) page from displaying in Japanese.
+* Fixed an issue preventing the use of Japanese text in comments between the [!DNL  Creative Cloud] and the [!DNL  Experience Cloud].
+>>>>>>> f4f15dbf132bb389d09b8cd384328a2c98097f4a
 
 ## Release 15.4.1 - April 8 2015 {#section_75634120CC934B3381EDEA7F6F976F0A}
 
