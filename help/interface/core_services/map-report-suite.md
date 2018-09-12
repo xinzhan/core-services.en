@@ -10,11 +10,7 @@ snippet: y
 translate: y
 ---
 
-# Map report suites to an organization
-
-Learn how to map one or multiple report suites to an organization.
-
-## Map report suites to an organization {#topic_7C4740559EAC4E0FA5F8DEF886B580DA}
+# Map report suites to an organization {#topic_7C4740559EAC4E0FA5F8DEF886B580DA}
 
 Learn how to map one or multiple report suites to an organization.
 
@@ -32,9 +28,6 @@ Organizations are grayed out if you do not have Analytics administrator permissi
 
 ## Map a report suite to an organization {#task_23993FE78DF6455FA8D7BE60686EA16C}
 
-Short Description
-
-
 1. Click **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administration]** > **[!UICONTROL Report Suite Mapping]**
 
    You can also use a [Direct URL](https://audience.marketing.adobe.com/rsmapping/ui.html). 
@@ -43,7 +36,9 @@ Short Description
 
    This view is intended to help you make an informed decision on the mapping. 
 
-1. Click the drop-down in the **[!UICONTROL Mapped Organization]** column next to a report suite and select the organization to which you want to map. See [Tips for Selecting an Experience Cloud Organization](#mapping-tips).
+1. Click the drop-down in the **[!UICONTROL Mapped Organization]** column next to a report suite and select the organization to which you want to map.
+
+   See the next section for tips on selecting an Experience Cloud organization.
 
 ## Map multiple report suites to an organization {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 
@@ -57,7 +52,7 @@ Short Description
 
 1. Select the organization (Outdoors Inc, in this example), then click **[!UICONTROL Select]**.
 
-   See [Tips for Selecting an Experience Cloud Organization](#mapping-tips). 
+   See the next section for tips on selecting an Experience Cloud organization. 
 
 1. Click **[!UICONTROL Save Mapping]**.
 
@@ -82,14 +77,11 @@ This user has access to two Experience Cloud organizations. He has performed the
 * Linked his non-admin account in the doohan Analytics login company to his Chapek Corp Experience Cloud org account.
 * Linked his non-admin account in the nigel Analytics login company to his Nigel Inc Experience Cloud org account.
 
-
 The following points list the mapping actions this user can and cannot perform regarding these report suites: 
 
 * Chapek-prod report suite can be mapped to Chapek Corp org since this user is an admin of a linked Analytics login company (chapek) and his account is linked to this org.
 * Nigel-prod report suite cannot be linked by this user since he is not an admin in any login company to which this report suite is visible.
 * Doohan-prod report suite can be mapped to Chapek Corp since this user is an admin of a login company (chapek) that is linked to the Experience Cloud org (note that he is not an admin of the doohan Analytics login company). It is important to be aware that the doohan-prod report suite is also eligible to be mapped to the Nigel Inc Experience Cloud org, even though this user cannot perform that mapping. In this case, both Experience Cloud orgs are displayed in the list, but Nigel Inc is grayed out. Before mapping, this user should consult with an admin of the nigel login company to determine which org is the best candidate for mapping. The UI displays a Possible Conflict warning if you select an organization this is different than the organization under which the report suite was originally created.
-
-
 
 ## Frequently Asked Questions {#section_099E485805994C929FF9C9F75219BEE1}
 
