@@ -28,7 +28,7 @@ Replaces *Marketing Cloud* as the parent cloud name for all Adobe's digital expe
 
 >[!NOTE]
 >
->You might continue to see references to *Marketing Cloud* in its previous, broader context until all the solution interfaces are re-branded to *Enterprise Cloud*. 
+>You might continue to see references to *Marketing Cloud* in its previous, broader context until all the solution interfaces are re-branded to *Enterprise Cloud.* 
 
 ![](assets/marketingcloud_32.png) [Marketing Cloud](http://www.adobe.com/marketing-cloud.html) 
 
