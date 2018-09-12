@@ -26,13 +26,11 @@ Settings in the Feed include:
 
 * **Topics: All \<organization name\>:** Shows all the posts that have been shared with you, and all the posts to which you have access.
 * **Manage Topics: **Lets you follow, unfollow, or suggest topics. Additionally, administrators can approve, reject, deactivate, and create topics.
-* **New Post: **Create posts that members of groups can see.
-* **All Posts: **View all posts in your feed.
-* **My Posts: **View only your posts.
-* **Mentions: **View posts in which you or your group is mentioned.
-* **Favorites: **View posts that you marked as favorites.
-
-
+* **New Post:** Create posts that members of groups can see.
+* **All Posts:** View all posts in your feed.
+* **My Posts:** View only your posts.
+* **Mentions:** View posts in which you or your group is mentioned.
+* **Favorites:** View posts that you marked as favorites.
 
 ## Share an Analytics project to the Feed {#section_F2BDF9FEF4394686BAC5051CBE913EE5}
 
