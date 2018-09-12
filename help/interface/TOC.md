@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-product: adobe
+product: core-services
 archtype: end-user
 user-guide: null
 hub: https://helpx.adobe.com/support/experience-cloud/core-services.html
