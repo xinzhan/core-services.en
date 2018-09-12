@@ -11,13 +11,7 @@ snippet: y
 translate: y
 ---
 
-# Audiences
-
-Manage the translation of visitor data into audience segmentation.
-
-## Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
-
-Manage the translation of visitor data into audience segmentation.
+# Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
 Audiences are collections of visitors (a list of visitor IDs). Adobe's audience services manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to the [!DNL Experience Cloud]. 
 
@@ -29,8 +23,7 @@ Audiences can be created or derived from various sources, such as:
 * From [!DNL Analytics] segments published to the [!DNL Experience Cloud]
 * From [!DNL Audience Manager]
 
-
-** Real-Time vs. Historical Audiences** 
+**Real-Time vs. Historical Audiences**
 
 All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. The system evaluates audiences in two ways: 
 
