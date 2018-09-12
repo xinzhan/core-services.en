@@ -12,11 +12,7 @@ snippet: y
 translate: y
 ---
 
-# Manage Experience Cloud users and products
-
-Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.
-
-## Manage Experience Cloud users and products {#topic_3FCB4099640647E3B2411ADBFCE81909}
+# Manage Experience Cloud users and products {#topic_3FCB4099640647E3B2411ADBFCE81909}
 
 Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.
 
@@ -166,37 +162,14 @@ For example, you can create a product profile that contains multiple Analytics t
 1. Configure the profile's permissions:
 
 
+| Element | Description |
+|--- |--- |
+|Report Suites|Enable permissions to specific report suites.|
+|Metrics|Enable permissions for traffic, conversion, custom events, solution events, content aware, and so on.|
+|Dimensions|Customize user access at a granular level, including eVars, traffic reports, solution reports, and pathing reports.|
+|Report Suite Tools|Enable user permissions for Web Services, Report Suite Management, Tools and Reports, and Dashboard Items.|
+|Analytics Tools|Enable user permissions for General items (billing, logs, etc.), Company Management, Tools, Web Service Access, Report Builder, and Data Connectors integration. Company settings from the Customize Admin Console category have been moved to Analytics Tools.|
 
-<table id="table_9B36D534FED444ACA2D765B672E2B303"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Element </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Report Suites </p> </td> 
-   <td colname="col2"> <p>Enable permissions to specific report suites. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Metrics </p> </td> 
-   <td colname="col2"> <p>Enable permissions for traffic, conversion, custom events, solution events, content aware, and so on. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Dimensions </p> </td> 
-   <td colname="col2"> <p>Customize user access at a granular level, including eVars, traffic reports, solution reports, and pathing reports. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Report Suite Tools </p> </td> 
-   <td colname="col2"> <p> Enable user permissions for Web Services, Report Suite Management, Tools and Reports, and Dashboard Items. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Analytics Tools </p> </td> 
-   <td colname="col2"> <p> Enable user permissions for General items (billing, logs, etc.), Company Management, Tools, Web Service Access, Report Builder, and Data Connectors integration. </p> <p> Company settings from the Customize Admin Console category have been moved to Analytics Tools. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
 
 
 ## Delegate administrative roles to users {#task_3A072C4AA9734BC59FFA7E015271BC7E}
