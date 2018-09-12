@@ -43,8 +43,6 @@ What you need to do to join the Experience Cloud:
 1. Follow the steps below in [Deploy the Experience Cloud ID Service](../core_services/core_services.md#section_3C9F6DF37C654D939625BB4D485E4354).
 1. Contact your Account Manager and start the provisioning process for the Experience Cloud.
 
-
-
 ![](assets/step3_icon.png) Manage users and products in the Admin Console. 
 
 **Administrator Access** 
@@ -60,10 +58,10 @@ See [Experience Cloud user and product administration](../admin_getting_started/
 To log in to the Experience Cloud, your users must: 
 
 
-1. Have an Adobe ID.1. Sign in at [!DNL marketing.adobe.com].
-1. Belong to a solution group that is mapped to an enterprise group.1. If necessary, link their solution accounts to their Adobe ID (described below).
-
-
+1. Have an Adobe ID.
+1. Sign in at [!DNL marketing.adobe.com].
+1. Belong to a solution group that is mapped to an enterprise group.
+1. If necessary, link their solution accounts to their Adobe ID (described below).
 
 ![](assets/step4_icon.png) Optional: Link existing user accounts. 
 
@@ -73,7 +71,9 @@ When you map these groups to Experience Cloud enterprise groups, those users mus
 
 See [Link accounts in the Experience Cloud](../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) 
 
-**Note:** After enterprise and solution groups are mapped, new users are automatically linked. (Solution credentials are automatically created and linked to their Adobe ID.) 
+> [!NOTE]
+> 
+> After enterprise and solution groups are mapped, new users are automatically linked. (Solution credentials are automatically created and linked to their Adobe ID.) 
 
 The following sections describe how to modernize your implementation. Modernizing your implementation enables core services in the Experience Cloud. 
 
@@ -103,9 +103,6 @@ If you are not using Dynamic Tag Management, manually implement the ID service v
 
 1. Synchronize the customer ID for Analytics. See [Analytics - synching the customer ID](../core_services/core_services.md#section_AD473A6A21C1446498E700363F9A8437) (below). 
 
-
-
-
 ## Analytics & Target - synching the customer ID {#section_AD473A6A21C1446498E700363F9A8437}
 
 As a part of setting up the Experience Cloud ID service, Adobe recommends for Analytics and Target that you synchronize your [customer IDs](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-authenticated-state.html) with the Experience Cloud. 
@@ -117,7 +114,6 @@ When a visitor authenticates on your website, or otherwise identifies himself, y
 For example, assume that Bob has Customer ID `52mc210tr42` in your CRM system. When Bob authenticates on your site, you must expose this ID on the page, and use the ID to synchronize it by one of two means: 
 
 * Call `visitor.setCustomerIDs({"crm_id":"52mc210tr42"})` using the Visitor ID service. Or, 
-
 * Populate the *`Customer ID (52mc210tr42)`* in a prop or eVar.
 
 
@@ -125,7 +121,7 @@ The Customer ID must be set on each [!DNL Analytics] server call where the Custo
 
 **Mobile SDKs** 
 
-See the *`Experience Cloud ID service`* section for syntax examples about how to set additional customer IDs in [Android](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods) and [iOS](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods) Mobile applications. 
+See the *Experience Cloud ID service* section for syntax examples about how to set additional customer IDs in [Android](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods) and [iOS](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods) Mobile applications. 
 
 **Enabling Attributes for Historical Data** 
 
@@ -137,7 +133,7 @@ Contact Customer Care to enable historical data.
 
 Experience Cloud services (such as Experience Cloud ID service and People) are associated with an Experience Cloud organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an Experience Cloud organization. 
 
-See [Steps to map report suites](../core_services/core_services.md#concept_apg_zq2_rw). 
+See [Map report suites to an organization](map-report-suite.md). 
 
 ## 4. (Adobe Analytics) Modernize your Analytics AppMeasurement code {#section_1798D9D0F05C47E29816AC4EEB9A0913}
 
@@ -149,7 +145,6 @@ In Dynamic Tag Management, click **[!UICONTROL <Web Property Name>]** > **[!UICO
 
 ## 5. (Adobe Target) Modernize your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
 
-
 * It is recommended that you add an [Adobe Target tool](https://marketing.adobe.com/resources/help/en_US/dtm/target.html) in Dynamic Tag Management, so that your library retrieval is automatic. In Dynamic Tag Management, click **[!UICONTROL <Web Property Name>]** > **[!UICONTROL Overview]** > **[!UICONTROL Add a Tool]** > **[!UICONTROL Adobe Target]**. **Note:** You can also use Dynamic Tag Management to deploy the Experience Cloud ID service for Target (and other solutions). The Experience Cloud ID service update **is required** for Target to use core services.
 * If you are not using Dynamic Tag Management, [update your mbox library](https://marketing.adobe.com/resources/help/en_US/target/ov/?f=t_mbox_download) manually.
 * Request access to use Adobe Analytics as the reporting source for Adobe Target. Target and Analytics data are combined on the same server call during processing so that visitors are connected between the two solutions. See [Analytics for Target Implementation](https://marketing.adobe.com/resources/help/en_US/target/a4t/?f=a4t).
@@ -157,9 +152,6 @@ In Dynamic Tag Management, click **[!UICONTROL <Web Property Name>]** > **[!UICO
   >[!IMPORTANT]
   >
   >All analytics customers are already provisioned for core services like customer attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
-
-
-
 
 ## 6. Verify the core services implementation {#section_E641782A0F4F44AF8C9C91216BE330D5}
 
@@ -203,7 +195,9 @@ See [Experience Cloud user and product management](../admin_getting_started/admi
  <note type="important">
   To use the Customer Attributes feature, users must belong to the 
   <span class="term"> Adobe Customer Attributes</span> group, and to solution-level groups (Analytics or Target). 
- </note> </p> -->
+ </note> </p> 
+ -->
+ 
 Users that are added to the Customer Attributes group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface 
 
 ## 8. Start using core services {#section_960C06093623462E8EA247B3E97274A1}
@@ -212,7 +206,7 @@ Take advantage of the following core service features.
 
 ![](assets/menu-audiences-shell.png) 
 
-** People > Customer Attributes** 
+**People > Customer Attributes** 
 
 If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, leverage the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 
@@ -232,7 +226,6 @@ When leveraging core services made available via the People core service, the ty
 * [!DNL Analytics] key/value pairs (props, eVars, list vars, and so on). By default, the log lines include IP address, including the last octet of the IP (assuming that the IP address was not modified by IP obfuscation settings within Adobe [!DNL Analytics]).
 * Traits and segments that visitors qualify for based on rules set up in Audience Manager.
 * (Optional) One or more of your IDs. Depending on your implementation of the ID service, you might also be sending in one or more of your IDs, such as CRM IDs or hashed email addresses. If this data is sent into Adobe [!DNL Analytics], it is transferred to Adobe audience management. Adobe recommends against providing personal data to Adobe [!DNL Analytics]. Rather, use a one-way hash to pseudonymize the data before it is sent to Adobe. 
-
 * Segments originating in [!DNL Analytics] via the back-end segment sharing capability.
 * The demdex.net cookie is set if third-party cookies are not blocked. The `AMCV_###@AdobeOrg` first-party cookie is always set with the Experience Cloud ID (formerly, Visitor ID service).
 
