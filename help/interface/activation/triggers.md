@@ -14,9 +14,7 @@ translate: y
 
 # Triggers
 
-How to configure Experience Cloud Triggers.
-
-## Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
+## Triggers Overview {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
 
 *Triggers* enables you to identify, define, and monitor key consumer behaviors, and then generate cross-solution communication to re-engage visitors. You can use triggers in real-time decisions and personalization. 
 
@@ -31,7 +29,6 @@ How to configure Experience Cloud Triggers.
 * **Abandonment:** You can create a trigger to fire when a visitor views a product but does not add anything to the cart. Configure [Propensity Scoring](../activation/triggers.md#concept_A506150674AD45DB98D3CC07E560D334) to understand customers' tendency to not after abandoning a shopping cart.
 * **Action:** You can create triggers, for example, to fire after newsletter sign-ups, email subscriptions, or applications for credit cards (confirmations). If you are a retailer, you can create a trigger for a visitor who signs up for a loyalty program. In media and entertainment, create triggers for visitors who watch a certain show, and perhaps you want to respond with a survey.
 * **Session Start and Session End:** Create a trigger for session start and session end events.
-
 
 ## Create a Experience Cloud trigger {#task_821F37183AC045E5AC8EED20317598FE}
 
