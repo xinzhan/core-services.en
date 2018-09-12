@@ -12,12 +12,9 @@ snippet: y
 translate: y
 ---
 
-# Experience Cloud and core services help
+# Experience Cloud and core services help {#section_AFFBC9EDDE5B4E4493A7C2896121A773}
 
 The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
-
-
-<a id="section_AFFBC9EDDE5B4E4493A7C2896121A773"></a>
 
 **Administration & Enablement** 
 
@@ -29,7 +26,7 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 * [Integrations](marketing-cloud-integrations.md#concept_9E6D3E37D1E3452E8CCCFA92AF034F90)
 * [Integrating Adobe Target with the Experience Cloud](https://marketing.adobe.com/resources/help/en_US/target/a4t/c_integrating_target_with_mac.html)
 * [Experience Cloud privacy and security Overview](https://marketing.adobe.com/resources/help/en_US/xref/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
-* [Profile Management in Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/)
+* [Profile Management in Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
 * [DNS prefetch](admin_getting_started/admin_getting_started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
 **Core Services Product Documentation** 
@@ -72,7 +69,7 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
     * [Social](https://marketing.adobe.com/resources/help/en_US/social/)    
     * [Target](https://marketing.adobe.com/resources/help/en_US/target/)    
 
-* [Experience Cloud Overview](http://blogs.adobe.com/digitalmarketing/web-experience/part-1-adobes-art-science-todays-new-marketer/)
-* [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/)
+* [Experience Cloud Overview](http://blogs.adobe.com/digitalmarketing/web-experience/part-1-adobes-art-science-todays-new-marketer/) (blog)
+* [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
 * [Experience Cloud Forum](https://forums.adobe.com/community/experience-cloud)
 * [Adobe Experience Cloud Community](http://helpx.adobe.com/marketing-cloud.html?promoid=KAWSE) (adobe.com)
