@@ -28,14 +28,6 @@ Learn about signing in to the Admin Console and managing Experience Cloud user p
  <li id="li_AB89A6D00A274EB7863D0243757322DE"> Public Beta - Drive solution teams and customers to switch references from old domain to new domain (Aug - Oct, 2018) </li> 
  <li id="li_6FED48B1F361493082102E823EA335F4"> General Availability - Redirect all old domain requests to new domain (Oct, 2018) </li> 
 </ul> -->
-On this page: 
-
-* [What's new in Experience Cloud user management](../admin_getting_started/admin_getting_started.md#concept_06A0A13362F644FB90F947238407637A)
-* [Create a product profile](../admin_getting_started/admin_getting_started.md#task_16335111C52D40E9BAC73D0699584DBF)
-* [Assign Analytics access permissions to a product profile](../admin_getting_started/admin_getting_started.md#task_040673FE3E3E429B9531FBCB8B6A4391)
-* [Delegate administrative roles to users](../admin_getting_started/admin_getting_started.md#task_3A072C4AA9734BC59FFA7E015271BC7E)
-
-
 
 >[!IMPORTANT]
 >
