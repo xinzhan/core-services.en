@@ -25,7 +25,7 @@ The Feed might be empty the first time you log in to the Experience Cloud. As yo
 Settings in the Feed include: 
 
 * **Topics: All \<organization name\>:** Shows all the posts that have been shared with you, and all the posts to which you have access.
-* **Manage Topics: **Lets you follow, unfollow, or suggest topics. Additionally, administrators can approve, reject, deactivate, and create topics.
+* **Manage Topics:** Lets you follow, unfollow, or suggest topics. Additionally, administrators can approve, reject, deactivate, and create topics.
 * **New Post:** Create posts that members of groups can see.
 * **All Posts:** View all posts in your feed.
 * **My Posts:** View only your posts.
