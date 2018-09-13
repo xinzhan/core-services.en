@@ -14,29 +14,13 @@ translate: y
 
 # Sign in and manage your profile settings
 
-Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
-
-## Sign in and manage your profile settings {#topic_AC564B6795334DE39359ADD87F52F2E0}
-
-Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
-
-Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and core services that you own. 
+Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and core services that you own. Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
 
 <!-- t_sign_in.xml -->
 
 <!-- notifications.xml -->
 
 <!-- t_get_access.xml -->
-
-* [Sign in to the Experience Cloud (administrators)](../admin_getting_started/getting-started-experience-cloud.md#task_034FC955031347F3B02B686A09801A08)
-* [Sign in to the Experience Cloud (user)](../admin_getting_started/getting-started-experience-cloud.md#task_1BFE87E20DCB44078CAC82F3CD44B985)
-* [Configure default personal account settings](../admin_getting_started/getting-started-experience-cloud.md#task_73CBCAE6C91749D19C95421E5AC311BA)
-* [Enable notifications](../admin_getting_started/getting-started-experience-cloud.md#concept_0105453AD71847B8BFCAF4A40915F157)
-* [Manage profiles and passwords](../admin_getting_started/getting-started-experience-cloud.md#task_7B89F4F38E5A4C4EB0FF842953856382)
-* [Recover your password](../admin_getting_started/getting-started-experience-cloud.md#task_46541A2806164CB1A4AE8239604E4EB1)
-* [Sign in to a solution via a direct link](../admin_getting_started/getting-started-experience-cloud.md#concept_8BE493A08786469B88B210E13F78FF2F)
-
-
 
 >[!IMPORTANT]
 >
