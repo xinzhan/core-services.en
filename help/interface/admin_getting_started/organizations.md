@@ -20,8 +20,6 @@ Learn about organizations and linking solution accounts to Experience Cloud.
 
 ## Identify your organization {#concept_384D169B0B724B799D573B8ECB5C39BF}
 
-Short Description
-
 An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and solutions. Most often, an organization is your company name. However, a company can have many organizations. 
 
 Also, you might need to locate your organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu. 
@@ -29,8 +27,6 @@ Also, you might need to locate your organization ID for support purposes. You ca
 ![Step Result](assets/organization-switch.png) 
 
 ## Find your Organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
-
-Short Description
 
 To view your Organization ID, click ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**. 
 
@@ -76,5 +72,3 @@ Typically, account linking fails because the Adobe ID is linked to a previous us
 
 * [Contact Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html).
 * Access your solution using the standard login while the issue is being solved.
-
-
