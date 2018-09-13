@@ -14,15 +14,7 @@ translate: y
 
 # Terminology
 
-## Terminology {#topic_C60FA5D9D6B048B9961AEABCF6686C0A}
-
-Short Description
-
-
-## <!--Shared terms in Creative Cloud and Experience Cloud--> {#concept_5DAAABDF459E4AF3B06FEE132242DD80}
-
 A terminology reference for Experience Cloud users, and how those terms are used in Creative Cloud.
-
 
 <table id="table_47265C717FFA44389DBFC03C602808EB"> 
  <thead> 
