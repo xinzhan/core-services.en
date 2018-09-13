@@ -66,7 +66,7 @@ The names you apply to strings, integers, and numbers are used to create [!DNL A
     
     
 
-* **[!UICONTROL Display Name:]** A friendly name for the attribute. For example, you might change an attribute *`customer age`* to *`Customer Since`*. 
+* **[!UICONTROL Display Name:]** A friendly name for the attribute. For example, you might change an attribute *customer age* to *Customer Since*. 
 
 * **[!UICONTROL Description:]** A friendly description of the attribute. 
 
