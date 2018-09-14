@@ -1,7 +1,7 @@
 ---
 description: Learn how to share or post assets and Analytics reports directly with others using your Experience Cloud Feed.
 keywords: core services
-seo-description: Learn how to share or post assets and Analytics reports directly with others using your Experience Cloud Feed.
+seo-description: Learn how to share or post assets and Adobe Analytics reports directly with others using your Experience Cloud Feed.
 seo-title: Feed
 solution: Experience Cloud
 title: Feed
