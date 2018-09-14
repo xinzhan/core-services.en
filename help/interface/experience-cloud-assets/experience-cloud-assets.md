@@ -25,10 +25,10 @@ Asset services include:
 
 Using assets improves consistency and brand compliance, and speeds time to market. You can streamline workflows in solutions: 
 
-* ** [!DNL Social] **: Publish to social properties, Facebook, Twitter, LinkedIn, Google+
-* ** [!DNL Target] **: Create experiences for A/B and multivariate tests.
-* ** [!DNL Media Optimizer] **: Develop ad units across different channels and campaigns
-* ** [!DNL Campaign] **: Place assets into email newsletters and campaigns.
+* **[!DNL Social]**: Publish to social properties, Facebook, Twitter, LinkedIn, Google+
+* **[!DNL Target]**: Create experiences for A/B and multivariate tests.
+* **[!DNL Media Optimizer]**: Develop ad units across different channels and campaigns
+* **[!DNL Campaign]**: Place assets into email newsletters and campaigns.
 
 
 In [!UICONTROL Experience Cloud Assets], you can: 
