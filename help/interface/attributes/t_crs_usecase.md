@@ -14,13 +14,7 @@ translate: y
 
 # Create a customer attribute source and upload the data file
 
-Create the customer attribute source and upload the data.
-
-## Create a customer attribute source and upload the data file {#topic_9D7D3A939F6E458DAB84E583BB539638}
-
-Create the customer attribute source and upload the data.
-
-You can activate the data source when you are ready. After the data source is active, share the attribute data to Analytics and Target. 
+Create the customer attribute source and upload the data. You can activate the data source when you are ready. After the data source is active, share the attribute data to Analytics and Target. 
 
 ## Customer attributes workflow {#concept_BF0AF88E9EF841219ED4D10754CD7154}
 
@@ -47,7 +41,7 @@ After the data source is active, you can:
 >
 >Solution group membership is also required. 
 
-To use the Customer Attributes feature, users must belong to the Adobe Customer Attributes group in user management , and to solution-level groups (Analytics or Target). 
+To use the Customer Attributes feature, users must belong to the Adobe Customer Attributes group in user management, and to solution-level groups (Analytics or Target). 
 
 See [Users and Groups](../admin_getting_started/admin_getting_started.md#task_3295A85536BF48899A1AB40D207E77E9). 
 
@@ -102,11 +96,11 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
       The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
     
-        * **Dynamic tag management: **The Alias ID corresponds to the *`Integration Code`* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/dtm/?f=macid) tool. 
+        * **Dynamic tag management:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/dtm/?f=macid) tool. 
         
-        * **Visitor API: **The Alias ID corresponds to the additional [Customer IDs](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) that you can associate with each visitor. 
+        * **Visitor API:** The Alias ID corresponds to the additional [Customer IDs](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) that you can associate with each visitor. 
         
-          For example, *`"crm_id"`* in: 
+          For example, *"crm_id"* in: 
         
         
           ```
@@ -114,14 +108,14 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
           ```
 
         
-        * **iOS:** The Alias ID corresponds to *`"idType"`* in [visitorSyncIdentifiers:identifiers](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods). 
+        * **iOS:** The Alias ID corresponds to *"idType"* in [visitorSyncIdentifiers:identifiers](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods). 
         
           For example: 
         
         
           ```
-          [ADBMobile visitorSyncIdentifiers:@{@ 
-<b>"idType"</b>:@"idValue"}]; 
+          [ADBMobile visitorSyncIdentifiers:@{@<**"idType"**:@"idValue"}]; 
+ 
           
           ```
 
@@ -132,8 +126,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
         
         
           ```
-          identifiers.put( 
-<b>"idType"</b>, "idValue");
+          identifiers.put(**"idType"**, "idValue");
           ```
 
         
@@ -192,7 +185,7 @@ See [Configure subscriptions](../attributes/subscription.md#concept_ECA3C44FA6D5
 
 **To activate an attribute source** 
 
-1. On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate the [!UICONTROL Activate] heading, then click **[!UICONTROL Active]**.
+On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate the [!UICONTROL Activate] heading, then click **[!UICONTROL Active]**.
 
    ![Step Result](assets/activate_attribute_source.png) 
 
