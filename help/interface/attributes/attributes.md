@@ -22,14 +22,6 @@ If you capture enterprise customer data in a customer relationship management (C
 
 ![](assets/custom_reports.png) 
 
-Topics covered on this page: 
-
-* [Prerequisites for uploading Customer Attributes](../attributes/attributes.md#section_BD38693AFBF34926BA28E964963B4EA0)
-* [What Is enterprise customer data?](../attributes/attributes.md#section_6F34C29F11414842AA57D2B1248FA3C6)
-* [Solution use cases](../attributes/attributes.md#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9)
-
-
-
 ## Prerequisites for uploading Customer Attributes {#section_BD38693AFBF34926BA28E964963B4EA0}
 
 
@@ -37,7 +29,7 @@ Topics covered on this page:
 
 * **Group membership:** To upload customer attribute data, users must be members of the [Customer Attributes group](../admin_getting_started/admin_getting_started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group. 
 
-  To know whether your company has access to customer attributes, your [!DNL Experience Cloud] administrator should log into the [!DNL Experience Cloud]. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Launch Admin Console]** > **[!UICONTROL Groups]**. If *`Customer Attributes`* displays as one of the groups, you are ready to begin. 
+  To know whether your company has access to customer attributes, your [!DNL Experience Cloud] administrator should log into the [!DNL Experience Cloud]. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Launch Admin Console]** > **[!UICONTROL Groups]**. If *Customer Attributes* displays as one of the groups, you are ready to begin. 
 
   Users that are added to the Customer Attributes group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface. 
 
@@ -45,7 +37,7 @@ Topics covered on this page:
 
   See [Mbox.js Implementation](https://marketing.adobe.com/resources/help/en_US/target/ov/t_mbox_download.html). 
 
-* ** at.js:** Any version.
+* **at.js:** Any version.
 
 
 
@@ -97,5 +89,3 @@ For example:
   </tr> 
  </tbody> 
 </table>
-
-The following topics describe how to upload and validate customer attribute data. 
