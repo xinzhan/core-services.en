@@ -111,14 +111,9 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
         * **iOS:** The Alias ID corresponds to *"idType"* in [visitorSyncIdentifiers:identifiers](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods). 
         
           For example: 
-        
-        
-          ```
-          [ADBMobile visitorSyncIdentifiers:@{@<**"idType"**:@"idValue"}]; 
+               
+          `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];` 
  
-          
-          ```
-
         
         * **Android:** The Alias ID corresponds to *`"idType"`* in [syncIdentifiers](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods). 
         
