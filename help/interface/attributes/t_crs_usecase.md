@@ -119,11 +119,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
         
           For example: 
         
-        
-          ```
-          identifiers.put(**"idType"**, "idValue");
-          ```
-
+          `identifiers.put(`**`"idType"`**`, "idValue");`
         
           See [Leveraging multiple data sources](../attributes/crs_data_file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) for additional information about data processing regarding the Alias ID field and Customer IDs. 
         
