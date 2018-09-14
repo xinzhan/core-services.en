@@ -115,7 +115,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
           `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];` 
  
         
-        * **Android:** The Alias ID corresponds to *`"idType"`* in [syncIdentifiers](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods). 
+        * **Android:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods). 
         
           For example: 
         
