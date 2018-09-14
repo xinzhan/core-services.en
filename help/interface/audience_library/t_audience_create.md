@@ -71,14 +71,14 @@ The following example shows how to create the rules for a composite audience. Th
     
    ![](assets/home_garden.png) 
     
-   The *`Chrome & Safari Visitors`* is an audience segment shared from Analytics: 
+   The *Chrome & Safari Visitors* is an audience segment shared from Analytics: 
     
    * **[!UICONTROL Attribute Source:]** Experience Cloud    
    * **[!UICONTROL Dimension:]** Chrome & Safari Visitors
    
    ![](assets/chrome_safari.png) 
     
-   For comparison, you might add an *`OR`* rule to see all visitors to a site section, such as Patio & Furniture. 
+   For comparison, you might add an *OR* rule to see all visitors to a site section, such as Patio & Furniture. 
     
    ![](assets/audiences_rule_patio.png) 
     
