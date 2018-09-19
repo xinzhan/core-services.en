@@ -219,6 +219,7 @@ Experience Cloud Audiences is the interface that lets you create audiences, comb
 See [Audiences](../audience_library/audience_library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
 
 <!-- aam_mc.xml -->
+## Data Storage and Privacy Disclosure Information 
 If you leverage real-time audience profiling and other core services within the Adobe [!DNL Experience Cloud], use of these services might impact which data center (and country) your data resides. Specifically, because the core services of the Adobe [!DNL Experience Cloud] leverage Adobe Audience Manager, data used within the People core service must reside within Audience Manager servers in the United States. 
 
 When leveraging core services made available via the People core service, the types of data sent from other Adobe products to audience management are: 
