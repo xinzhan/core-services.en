@@ -131,12 +131,9 @@ When you invite a user to an organization, you can give the user access to produ
 1. In the [Admin Console](http://adminconsole.adobe.com/enterprise/), click **[!UICONTROL Products]**.
 1. Click **[!UICONTROL New Profile]**.
 1. Configure the profile details, then click **[!UICONTROL Next]**.
-
-   Step Info 
-
 1. Click **[!UICONTROL Done]**.
 
-   More help is available at: 
+More help is available at: 
 
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
 * [Enterprise User Permissions](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html) in Target help for more information.
