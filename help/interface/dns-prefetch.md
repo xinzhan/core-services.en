@@ -17,7 +17,7 @@ Implement DNS prefetch to help reduce page load times with different solutions a
 
 ## Understanding DNS prefetch {#section_772BF9CB7C4141DE9B0355146E2CD962}
 
-Browsers use DNS prefetch to automatically resolve domain names linked on a Web page to their corresponding IP addresses. The prefetch process starts when your browser loads a web page. As an example, say your page contains a clickable link to www.adobe.com. When a browser loads this page, it uses the [DNS system](http://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) to look up the linked domain name and resolve it to a corresponding numeric IP address. DNS prefetch helps improve page performance because the domain name is already resolved to an IP address before a site visitor clicks that link or button. The DNS prefetch process is transparent to the users. 
+Browsers use DNS prefetch to automatically resolve domain names linked on a Web page to their corresponding IP addresses. The prefetch process starts when your browser loads a web page. As an example, say your page contains a clickable link to www.adobe.com. When a browser loads this page, it uses the [DNS system](https://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) to look up the linked domain name and resolve it to a corresponding numeric IP address. DNS prefetch helps improve page performance because the domain name is already resolved to an IP address before a site visitor clicks that link or button. The DNS prefetch process is transparent to the users. 
 
 ## DNS prefetch and Adobe Experience Cloud solutions {#section_202A07F9F79F4ABDA44B98BA1DDCD516}
 

@@ -108,7 +108,7 @@ The following table describes how audiences are used in Experience Cloud solutio
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Cannot find Audiences? </p> </td> 
-   <td colname="col2"> <p>Ensure that you are provisioned. See <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Getting started - enable your solutions for core services</a>. </p> <p>Click <a href="http://adobe.com/go/audiences" format="http" scope="external"> here</a> to request access to Profiles and Audiences (integrations provisioning form). </p> </td> 
+   <td colname="col2"> <p>Ensure that you are provisioned. See <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Getting started - enable your solutions for core services</a>. </p> <p>Click <a href="https://adobe.com/go/audiences" format="http" scope="external"> here</a> to request access to Profiles and Audiences (integrations provisioning form). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Use cases </p> </td> 
