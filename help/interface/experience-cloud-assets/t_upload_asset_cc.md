@@ -14,7 +14,7 @@ translate: y
 
 # Upload an asset to a shared folder from the Creative Cloud browser
 
-See [http://helpx.adobe.com/creative-cloud/help/sync-files.html](http://helpx.adobe.com/creative-cloud/help/sync-files.html) for Creative Cloud help.
+See [https://helpx.adobe.com/creative-cloud/help/sync-files.html](https://helpx.adobe.com/creative-cloud/help/sync-files.html) for Creative Cloud help.
 
 1. Launch the [!DNL Creative Cloud] browser and navigate to [!UICONTROL Creative Cloud Files].
 1. Open the shared folder.

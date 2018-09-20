@@ -44,7 +44,7 @@ Administrators no longer manage users in solutions. User and product management 
 
 **To sign in to the Admin Console** 
 
-1. Navigate to [http://adminconsole.adobe.com/enterprise/](http://adminconsole.adobe.com/enterprise/#).
+1. Navigate to [https://adminconsole.adobe.com/enterprise/](https://adminconsole.adobe.com/enterprise/#).
 1. Type your [Adobe ID or Enterprise ID](https://helpx.adobe.com/enterprise/help/identity.html) and password.
 
 
@@ -128,7 +128,7 @@ Create a product profile and assign it to a permission group.
 
 When you invite a user to an organization, you can give the user access to products and product profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a product profile to enable access. 
 
-1. In the [Admin Console](http://adminconsole.adobe.com/enterprise/), click **[!UICONTROL Products]**.
+1. In the [Admin Console](https://adminconsole.adobe.com/enterprise/), click **[!UICONTROL Products]**.
 1. Click **[!UICONTROL New Profile]**.
 1. Configure the profile details, then click **[!UICONTROL Next]**.
 1. Click **[!UICONTROL Done]**.
@@ -199,7 +199,7 @@ Supported browsers in the Experience Cloud.
 
 * [Analysis Workspace and Reports & Analytics](https://marketing.adobe.com/resources/help/en_US/sc/user/?f=requirements) (includes Adobe Social)
 * [Report Builder](https://marketing.adobe.com/resources/help/en_US/arb/?f=system_requirements)
-* [Ad Hoc Analysis](http://marketing.adobe.com/resources/help/en_US/dsc/index.html?f=c_sys_reqs)
+* [Ad Hoc Analysis](https://marketing.adobe.com/resources/help/en_US/dsc/index.html?f=c_sys_reqs)
 * [Data Workbench](https://marketing.adobe.com/resources/help/en_US/insight/install/?f=c_Data_Workbench_Client_install)
 * [Adobe Target](https://marketing.adobe.com/resources/help/en_US/target/ov/?f=r_supported_browsers)
 * [Adobe Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/?f=c_supported_browsers)

@@ -21,7 +21,7 @@ Learn about latest branding updates for the clouds, how to navigate the interfac
 
 The latest cloud names and the solutions in each cloud: 
 
-![](assets/experience_cloud_appicon_32.png) [Experience Cloud](http://www.adobe.com/experience-cloud.html?promoid=FZPQZ2HS&mv=other) 
+![](assets/experience_cloud_appicon_32.png) [Experience Cloud](https://www.adobe.com/experience-cloud.html?promoid=FZPQZ2HS&mv=other) 
 
 Replaces *Marketing Cloud* as the parent cloud name for all Adobe's digital experience solutions and services. 
 
@@ -30,7 +30,7 @@ Replaces *Marketing Cloud* as the parent cloud name for all Adobe's digital expe
 >
 >You might continue to see references to *Marketing Cloud* in its previous, broader context until all the solution interfaces are re-branded to *Enterprise Cloud.* 
 
-![](assets/marketingcloud_32.png) [Marketing Cloud](http://www.adobe.com/marketing-cloud.html) 
+![](assets/marketingcloud_32.png) [Marketing Cloud](https://www.adobe.com/marketing-cloud.html) 
 
 Includes the following solutions: 
 
@@ -40,14 +40,14 @@ Includes the following solutions:
 * Adobe Primetime
 * Adobe Social
 
-![](assets/analyticscloud_appicon_32.png) [Analytics Cloud](http://www.adobe.com/data-analytics-cloud.html) 
+![](assets/analyticscloud_appicon_32.png) [Analytics Cloud](https://www.adobe.com/data-analytics-cloud.html) 
 
 Includes the following solutions: 
 
 * Adobe Analytics
 * Adobe Audience Manager
 
-![](assets/advertisingcloud_appicon_32.png) [Advertising Cloud](http://www.adobe.com/advertising-cloud.html) 
+![](assets/advertisingcloud_appicon_32.png) [Advertising Cloud](https://www.adobe.com/advertising-cloud.html) 
 
 Includes Media Optimizer and TubeMogul. 
 
@@ -102,7 +102,7 @@ Adobe Advertising Cloud is a programmatic ad-buying solution. It helps you find 
 
 Adobe Campaign lets you plan, deliver, and measure campaigns across all your online and offline channels. It helps increase your productivity and deliver relevant experiences to your customers. 
 
-![](assets/primetime_app_32.png) [Adobe Primetime](http://help.adobe.com/en_US/primetime/) 
+![](assets/primetime_app_32.png) [Adobe Primetime](https://help.adobe.com/en_US/primetime/) 
 
 Adobe Primetime is a multi-screen TV platform that helps broadcasters create engaging TV and film experiences that are personalized for any audience. 
 
@@ -146,7 +146,7 @@ Adobe Primetime is a multi-screen TV platform that helps broadcasters create eng
   </tr> 
   <tr> 
    <td colname="col1"> <p>People </p> </td> 
-   <td colname="col2"> <p>Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into audiences for targeted marketing efforts. </p> <p> <a href="audience_library/audience_library.md#concept_3D52E1DED6D04ECC949B514E182C4655" format="dita" scope="local"> Audiences</a> - Categorize different types of customers into audiences, then share those audiences across Marketing Cloud solutions. </p> <p><a href="attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer attributes</a> - audience enrichment that lets you connect consumer information you have collected outside of the Marketing Cloud. </p> <p><a href="http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="http" scope="external"> Device graph</a> - Collaborate with the world's most popular brands to recognize a familiar consumer behind an unfamiliar device. (In beta, for Marketing Cloud Device Co-op members only.) </p> </td> 
+   <td colname="col2"> <p>Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into audiences for targeted marketing efforts. </p> <p> <a href="audience_library/audience_library.md#concept_3D52E1DED6D04ECC949B514E182C4655" format="dita" scope="local"> Audiences</a> - Categorize different types of customers into audiences, then share those audiences across Marketing Cloud solutions. </p> <p><a href="attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer attributes</a> - audience enrichment that lets you connect consumer information you have collected outside of the Marketing Cloud. </p> <p><a href="https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="http" scope="external"> Device graph</a> - Collaborate with the world's most popular brands to recognize a familiar consumer behind an unfamiliar device. (In beta, for Marketing Cloud Device Co-op members only.) </p> </td> 
   </tr> 
  </tbody> 
 </table>

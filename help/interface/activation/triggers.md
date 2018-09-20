@@ -97,7 +97,7 @@ Create an abandonment trigger and configure the conditions for the trigger and p
    ![Step Result](assets/propensity-scoring.png) 
    
 1. Click **[!UICONTROL Save]**.
-1. Use triggers for [real-time remarketing](http://docs.campaign.adobe.com/doc/standard/en/EMA_Transactional_messaging_Marketing_Cloud_Triggers.html) in [!DNL Adobe Campaign].
+1. Use triggers for [real-time remarketing](https://docs.campaign.adobe.com/doc/standard/en/EMA_Transactional_messaging_Marketing_Cloud_Triggers.html) in [!DNL Adobe Campaign].
 
 ### Example triggers
 

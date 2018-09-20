@@ -58,18 +58,18 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 * [Experience Cloud Community](https://forums.adobe.com/community/experience-cloud)
 * [Experience Cloud Solution Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/)
 * [Solution Help Home](https://marketing.adobe.com/resources/help/en_US/home/)
-* [Adobe Training and Tutorials](http://helpx.adobe.com/learning.html?promoid=KAUDK)
+* [Adobe Training and Tutorials](https://helpx.adobe.com/learning.html?promoid=KAUDK)
 * Quick links to solution documentation: 
 
     * [Analytics](https://marketing.adobe.com/resources/help/en_US/analytics/getting-started/)    
     * [Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/c_aam_home.html)    
-    * [Experience Manager](http://docs.adobe.com/)    
+    * [Experience Manager](https://docs.adobe.com/)    
     * [Media Optimizer](https://marketing.adobe.com/resources/help/en_US/media-optimizer/)    
-    * [Primetime](http://help.adobe.com/en_US/primetime/)    
+    * [Primetime](https://help.adobe.com/en_US/primetime/)    
     * [Social](https://marketing.adobe.com/resources/help/en_US/social/)    
     * [Target](https://marketing.adobe.com/resources/help/en_US/target/)    
 
-* [Experience Cloud Overview](http://blogs.adobe.com/digitalmarketing/web-experience/part-1-adobes-art-science-todays-new-marketer/) (blog)
+* [Experience Cloud Overview](https://blogs.adobe.com/digitalmarketing/web-experience/part-1-adobes-art-science-todays-new-marketer/) (blog)
 * [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
 * [Experience Cloud Forum](https://forums.adobe.com/community/experience-cloud)
-* [Adobe Experience Cloud Community](http://helpx.adobe.com/marketing-cloud.html?promoid=KAWSE) (adobe.com)
+* [Adobe Experience Cloud Community](https://helpx.adobe.com/marketing-cloud.html?promoid=KAWSE) (adobe.com)

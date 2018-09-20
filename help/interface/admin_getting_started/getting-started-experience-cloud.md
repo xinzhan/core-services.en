@@ -190,7 +190,7 @@ Sample URL:
 
 >[!NOTE]
 >
->You must encode any URL before passing it to the `destURL` parameter. (Encoder sites like [URL Decoder / Encoder](http://meyerweb.com/eric/tools/dencoder/) are available.) 
+>You must encode any URL before passing it to the `destURL` parameter. (Encoder sites like [URL Decoder / Encoder](https://meyerweb.com/eric/tools/dencoder/) are available.) 
 
 <table id="table_B8D36AB5157B47A49CEF73A2E405F87A"> 
  <thead> 

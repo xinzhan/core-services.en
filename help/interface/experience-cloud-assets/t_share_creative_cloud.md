@@ -67,6 +67,6 @@ After you share a folder to the Creative Cloud, you will see the Creative Cloud 
 ![](assets/asset-cc-logo.png) 
 >[!MORE_LIKE_THIS]
 >
->* [Creative Cloud Help - Manage and sync files](http://helpx.adobe.com/creative-cloud/help/sync-files.html)
->* [Creative Cloud Help - Collaborate with others](http://helpx.stage.adobe.com/creative-cloud/help/collaboration.html)
->* [Creative Cloud Help - Collaboration FAQ](http://helpx.stage.adobe.com/creative-cloud/help/collaboration-faq.html)
+>* [Creative Cloud Help - Manage and sync files](https://helpx.adobe.com/creative-cloud/help/sync-files.html)
+>* [Creative Cloud Help - Collaborate with others](https://helpx.stage.adobe.com/creative-cloud/help/collaboration.html)
+>* [Creative Cloud Help - Collaboration FAQ](https://helpx.stage.adobe.com/creative-cloud/help/collaboration-faq.html)
