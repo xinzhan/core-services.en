@@ -47,7 +47,7 @@ The following table describes how audiences are used in Experience Cloud solutio
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Audiences </p> </td> 
-   <td colname="col2"> <p>Create, manage, and share audiences natively using the <a href="../audience_library/audience_library.md#concept_3D52E1DED6D04ECC949B514E182C4655" format="dita" scope="local"> Audience Library</a> interface. You can: </p> 
+   <td colname="col2"> <p>Create, manage, and share audiences natively using the <a href="../audience-library/audience-library.md#concept_3D52E1DED6D04ECC949B514E182C4655" format="dita" scope="local"> Audience Library</a> interface. You can: </p> 
     <ul id="ul_8A5A5BC2FF2B45EE9039BAC55B1034B5"> 
      <li id="li_9E0825BD453A4F518AC2A274CB3DD826">Use real-time audiences using raw analytics attributes </li> 
      <li id="li_240A79C2D433456F94F1DD3E885BB17E">Combine audiences to create composite ones, joining real-time and historical data </li> 
@@ -56,7 +56,7 @@ The following table describes how audiences are used in Experience Cloud solutio
   </tr> 
   <tr> 
    <td colname="col1"> <p>Analytics </p> </td> 
-   <td colname="col2"> <p>In segmentation, you can build a segment, combine it with a report suite, and then <a href="../audience_library/audience_library.md#task_32FEEFE0B32E4E388CD4D892D727282A" format="dita" scope="local"> publish the segment to the Experience Cloud</a>. </p> <p>Publishing the segment displays it on the <a href="../audience_library/audience_library.md#concept_3D52E1DED6D04ECC949B514E182C4655" format="dita" scope="local"> Audiences</a> page. The audience is also available as a targeted audience for a campaign experience delivered by <span class="keyword"> Adobe Target</span>, and in <span class="keyword"> Audience Manager</span>. </p> <p> Once an audience is shared from <span class="keyword"> Analytics</span>, and selected for use in an active campaign, all the visitor profiles who met the segment definition criteria for the past 90 days are sent to the <span class="keyword"> Experience Cloud</span> Audience Services platform. </p> <p> <p>Important:  You must limit the number of audiences shared from Analytics to 20 to avoid additional processing delays. Audiences shared to the Experience Cloud from Analytics cannot exceed 20 million unique members. Also, due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in the Experience Cloud. </p> </p> </td> 
+   <td colname="col2"> <p>In segmentation, you can build a segment, combine it with a report suite, and then <a href="../audience-library/audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A" format="dita" scope="local"> publish the segment to the Experience Cloud</a>. </p> <p>Publishing the segment displays it on the <a href="../audience-library/audience-library.md#concept_3D52E1DED6D04ECC949B514E182C4655" format="dita" scope="local"> Audiences</a> page. The audience is also available as a targeted audience for a campaign experience delivered by <span class="keyword"> Adobe Target</span>, and in <span class="keyword"> Audience Manager</span>. </p> <p> Once an audience is shared from <span class="keyword"> Analytics</span>, and selected for use in an active campaign, all the visitor profiles who met the segment definition criteria for the past 90 days are sent to the <span class="keyword"> Experience Cloud</span> Audience Services platform. </p> <p> <p>Important:  You must limit the number of audiences shared from Analytics to 20 to avoid additional processing delays. Audiences shared to the Experience Cloud from Analytics cannot exceed 20 million unique members. Also, due to caching, deleted report suites in Analytics require 12 hours before the deletion is shown in the Experience Cloud. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Mobile Services </p> </td> 
@@ -64,7 +64,7 @@ The following table describes how audiences are used in Experience Cloud solutio
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target </p> </td> 
-   <td colname="col2"> <p>The <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/" format="https" scope="external"> ID service</a> unifies visitor IDs and data into a single, actionable profile for use across solutions. </p> <p>The <a href="../audience_library/audience_library.md#task_32FEEFE0B32E4E388CD4D892D727282A" format="dita" scope="local"> Publish to the Experience Cloud</a> checkbox during the segment creation process in <span class="keyword"> Adobe Analytics</span> allows the segment to be available within the <span class="keyword"> Adobe Target's</span> custom audience library. A segment created in <span class="keyword"> Analytics</span> or <span class="keyword"> Audience Manager</span> can be used for activities in <span class="keyword"> Target</span>. </p> <p>For example, you can create campaign activities based on <span class="keyword"> Analytics</span> conversion metrics and audience segments created in <span class="keyword"> Analytics</span>. </p> </td> 
+   <td colname="col2"> <p>The <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/" format="https" scope="external"> ID service</a> unifies visitor IDs and data into a single, actionable profile for use across solutions. </p> <p>The <a href="../audience-library/audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A" format="dita" scope="local"> Publish to the Experience Cloud</a> checkbox during the segment creation process in <span class="keyword"> Adobe Analytics</span> allows the segment to be available within the <span class="keyword"> Adobe Target's</span> custom audience library. A segment created in <span class="keyword"> Analytics</span> or <span class="keyword"> Audience Manager</span> can be used for activities in <span class="keyword"> Target</span>. </p> <p>For example, you can create campaign activities based on <span class="keyword"> Analytics</span> conversion metrics and audience segments created in <span class="keyword"> Analytics</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Audience Manager </p> </td> 
@@ -108,7 +108,7 @@ The following table describes how audiences are used in Experience Cloud solutio
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Cannot find Audiences? </p> </td> 
-   <td colname="col2"> <p>Ensure that you are provisioned. See <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Getting started - enable your solutions for core services</a>. </p> <p>Click <a href="https://adobe.com/go/audiences" format="http" scope="external"> here</a> to request access to Profiles and Audiences (integrations provisioning form). </p> </td> 
+   <td colname="col2"> <p>Ensure that you are provisioned. See <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Getting started - enable your solutions for core services</a>. </p> <p>Click <a href="https://adobe.com/go/audiences" format="http" scope="external"> here</a> to request access to Profiles and Audiences (integrations provisioning form). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Use cases </p> </td> 
@@ -128,7 +128,7 @@ The [!DNL Experience Cloud] provides a library for creating and managing audienc
 
 **[!UICONTROL Experience Cloud]** > **[!UICONTROL Audience Library]** 
 
-![](assets/audience_library.png) 
+![](assets/audience-library.png) 
 
 <table id="table_50E240AE46424582A75400255515480C"> 
  <thead> 
@@ -140,7 +140,7 @@ The [!DNL Experience Cloud] provides a library for creating and managing audienc
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="wintitle"> New</span> </p> </td> 
-   <td colname="col2"> <p> <a href="../audience_library/audience_library.md#task_37F407F58BF9459493BB8E968CDFE737" format="dita" scope="local"> Create an audience</a>. </p> </td> 
+   <td colname="col2"> <p> <a href="../audience-library/audience-library.md#task_37F407F58BF9459493BB8E968CDFE737" format="dita" scope="local"> Create an audience</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="wintitle"> Title &amp; Description </span> </p> </td> 
@@ -152,7 +152,7 @@ The [!DNL Experience Cloud] provides a library for creating and managing audienc
   </tr> 
   <tr> 
    <td colname="col1"> <p>Source </p> </td> 
-   <td colname="col2"> <p>Identifies where the audience was created. </p> <p> <b>Analytics</b>: A segment created in reports &amp; analytics or ad hoc analysis, then <a href="../audience_library/audience_library.md#task_32FEEFE0B32E4E388CD4D892D727282A" format="dita" scope="local"> published to the Experience Cloud</a>. </p> <p> <b>Experience Cloud:</b> A new audience <a href="../audience_library/audience_library.md#task_37F407F58BF9459493BB8E968CDFE737" format="dita" scope="local"> created in Experience Cloud Audiences</a>. </p> <p> <b>Audience Manager:</b> Audiences created <span class="keyword"> Audience Manager</span> automatically display in the <span class="wintitle"> Experience Cloud Audiences</span>. </p> </td> 
+   <td colname="col2"> <p>Identifies where the audience was created. </p> <p> <b>Analytics</b>: A segment created in reports &amp; analytics or ad hoc analysis, then <a href="../audience-library/audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A" format="dita" scope="local"> published to the Experience Cloud</a>. </p> <p> <b>Experience Cloud:</b> A new audience <a href="../audience-library/audience-library.md#task_37F407F58BF9459493BB8E968CDFE737" format="dita" scope="local"> created in Experience Cloud Audiences</a>. </p> <p> <b>Audience Manager:</b> Audiences created <span class="keyword"> Audience Manager</span> automatically display in the <span class="wintitle"> Experience Cloud Audiences</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Current Size </p> </td> 

@@ -36,7 +36,7 @@ Settings in the Feed include:
 
 You can share reports from [!UICONTROL Reports & Analytics] to the Experience Cloud Feed. 
 
-1. [Sign in](admin_getting_started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) to the Experience Cloud using your Adobe ID. 
+1. [Sign in](admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) to the Experience Cloud using your Adobe ID. 
 
 1. Navigate to Reports & Analytics, then [create a project](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/freeform_overview.html). 
 

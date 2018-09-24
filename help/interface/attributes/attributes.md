@@ -25,9 +25,9 @@ If you capture enterprise customer data in a customer relationship management (C
 ## Prerequisites for uploading Customer Attributes {#section_BD38693AFBF34926BA28E964963B4EA0}
 
 
-* **Solution enablement:** [Enable your solutions for core services](../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). 
+* **Solution enablement:** [Enable your solutions for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). 
 
-* **Group membership:** To upload customer attribute data, users must be members of the [Customer Attributes group](../admin_getting_started/admin_getting_started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group. 
+* **Group membership:** To upload customer attribute data, users must be members of the [Customer Attributes group](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group. 
 
   To know whether your company has access to customer attributes, your [!DNL Experience Cloud] administrator should log into the [!DNL Experience Cloud]. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Launch Admin Console]** > **[!UICONTROL Groups]**. If *Customer Attributes* displays as one of the groups, you are ready to begin. 
 
@@ -52,7 +52,7 @@ The following image is an example of a data file showing subscriber data for pro
 
 After you create the data file, you can upload it to the customer attribute source that you create in **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**. 
 
-See [Upload Customer Attribute Data](../attributes/t_crs_usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) to learn this workflow. 
+See [Upload Customer Attribute Data](../attributes/t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) to learn this workflow. 
 
 ## Solution use cases {#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9}
 

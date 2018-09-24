@@ -58,7 +58,7 @@ Guidance and limitations when using Customer Attributes.
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Can I receive notifications about upload status for customer attributes? </p> </td> 
-   <td colname="col2"> <p>Yes. See <a href="../admin_getting_started/organizations.md#concept_0105453AD71847B8BFCAF4A40915F157" format="dita" scope="local"> Manage notifications</a>. </p> </td> 
+   <td colname="col2"> <p>Yes. See <a href="../admin-getting-started/organizations.md#concept_0105453AD71847B8BFCAF4A40915F157" format="dita" scope="local"> Manage notifications</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> What should I do to get started with customer attributes? </p> </td> 
@@ -66,8 +66,8 @@ Guidance and limitations when using Customer Attributes.
     <ol id="ol_1FACEF0990B6486B8DE86245D17695A8"> 
      <li id="li_F0C1542853684F8591FDC1B441D31A56"> <p>Get provisioned. </p> <p>If you are an <b>Analytics</b> customer, Adobe is provisioning you for customer attributes. If you use only <b>Target</b> and do not have Analytics, you must request provisioning for core services by contacting Customer Care. </p> </li> 
      <li id="li_444FEDEE4B7244F79BA847662F5B17CB"> <p>Have a conversation with your CRM team. Find out what kind of customer data is available that would be interesting for use in Analytics and throughout the Experience Cloud. </p> </li> 
-     <li id="li_32D4AAF8C29748A78801A0E1BFB37AF5"> <p>Implement core services. </p> <p>See <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Getting started - enable your solutions for core services</a> for steps on how to modernize your implementation for core services. (See the section about synching customer IDs for important information.) </p> </li> 
-    </ol> <p> <b>Note:</b> An administrator's FAQ for implementing core services is available <a href="../admin_getting_started/faq.md#concept_13219B4E51784577B6FF78AAA203DE91" format="dita" scope="local"> here</a>. </p> </td> 
+     <li id="li_32D4AAF8C29748A78801A0E1BFB37AF5"> <p>Implement core services. </p> <p>See <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Getting started - enable your solutions for core services</a> for steps on how to modernize your implementation for core services. (See the section about synching customer IDs for important information.) </p> </li> 
+    </ol> <p> <b>Note:</b> An administrator's FAQ for implementing core services is available <a href="../admin-getting-started/faq.md#concept_13219B4E51784577B6FF78AAA203DE91" format="dita" scope="local"> here</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> How many customer attributes am I allowed to use? </p> </td> 
@@ -85,7 +85,7 @@ Guidance and limitations when using Customer Attributes.
      <ul id="ul_9C473434B5DA4C6299AAB209DEDFCDE7"> 
       <li id="li_8BC10EB2825F4ADF8CA61F71D4994A28"> <b>Adobe Analytics</b>: Strongly recommended </li> 
       <li id="li_56F518E3F3DF4C93B6F7EF3B40ACC52F"> <b>Adobe Target:</b> Required. </li> 
-     </ul> </p> <p>Using the ID service enhances the functionality opens the doors to using the latest Experience Cloud functionality, including real-time audiences, the Target modernization, Analytics integration, and video heartbeat tracking. </p> <p>For more details see <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Core Services - How to Enable Your Solutions</a>. </p> <p> <b>Note</b>: The <span class="term"> Experience Cloud ID service</span> is the modernized implementation of what is formerly known as the <span class="term"> Analytics visitor ID service</span>. </p> </td> 
+     </ul> </p> <p>Using the ID service enhances the functionality opens the doors to using the latest Experience Cloud functionality, including real-time audiences, the Target modernization, Analytics integration, and video heartbeat tracking. </p> <p>For more details see <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Core Services - How to Enable Your Solutions</a>. </p> <p> <b>Note</b>: The <span class="term"> Experience Cloud ID service</span> is the modernized implementation of what is formerly known as the <span class="term"> Analytics visitor ID service</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>How does the customer attribute functionality relate to Adobe Audience Manager? </p> </td> 

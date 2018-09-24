@@ -16,7 +16,7 @@ translate: y
 
 Implement the Experience Cloud and become an administrator. This process modernizes your solutions for core service features like customer attributes and audiences.
 
-<!-- <p>https://marketing-beta.adobe.com/resources/help/core/core_services.html </p> 
+<!-- <p>https://marketing-beta.adobe.com/resources/help/core/core-services.html </p> 
 <p>https://adobe.sharepoint.com/sites/AGSConsulting/CoreServices/PA/_layouts/15/start.aspx#/ </p> -->
 
 <!-- Core services architecture and data flow wiki: https://wiki.corp.adobe.com/pages/viewpage.action?pageId=1004285689 -->
@@ -40,7 +40,7 @@ What you need to do to join the Experience Cloud:
 ![](assets/step2_icon.png) Modernize your implementation and get provisioned an administrator. 
 
 
-1. Follow the steps below in [Deploy the Experience Cloud ID Service](../core_services/core_services.md#section_3C9F6DF37C654D939625BB4D485E4354).
+1. Follow the steps below in [Deploy the Experience Cloud ID Service](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
 1. Contact your Account Manager and start the provisioning process for the Experience Cloud.
 
 ![](assets/step3_icon.png) Manage users and products in the Admin Console. 
@@ -51,7 +51,7 @@ After you are an administrator, you can log in at [marketing.adobe.com](https://
 
 You will see the **[!UICONTROL Administration]** link in the Experience Cloud menu navigation. 
 
-See [Experience Cloud user and product administration](../admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for help. 
+See [Experience Cloud user and product administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for help. 
 
 **User Access** 
 
@@ -69,7 +69,7 @@ Most likely, you have users who are already members of solution groups, such an 
 
 When you map these groups to Experience Cloud enterprise groups, those users must manually link their solution account credentials to their Adobe ID. 
 
-See [Link accounts in the Experience Cloud](../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) 
+See [Link accounts in the Experience Cloud](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) 
 
 > [!NOTE]
 > 
@@ -101,7 +101,7 @@ If you are not using Dynamic Tag Management, manually implement the ID service v
 
    (The [JavaScript Implementation](https://marketing.adobe.com/resources/help/en_US/sc/implement/js_implementation.html) guide is available if you need more information about [!DNL AppMeasurement.js].) 
 
-1. Synchronize the customer ID for Analytics. See [Analytics - synching the customer ID](../core_services/core_services.md#section_AD473A6A21C1446498E700363F9A8437) (below). 
+1. Synchronize the customer ID for Analytics. See [Analytics - synching the customer ID](../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437) (below). 
 
 ## Analytics & Target - synching the customer ID {#section_AD473A6A21C1446498E700363F9A8437}
 
@@ -187,7 +187,7 @@ Once you are up and running, navigate to **[!UICONTROL Administration]** > **[!U
 
 ![](assets/menu-administration-shell.png) 
 
-See [Experience Cloud user and product management](../admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
+See [Experience Cloud user and product management](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 
 **Customer Attributes** 
 
@@ -216,7 +216,7 @@ See [Customer Attributes](../attributes/attributes.md#concept_ACFEE7C8B8E94875BA
 
 Experience Cloud Audiences is the interface that lets you create audiences, combine existing audiences to create composite audiences, and view all shared audiences. 
 
-See [Audiences](../audience_library/audience_library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
+See [Audiences](../audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
 
 <!-- aam_mc.xml -->
 

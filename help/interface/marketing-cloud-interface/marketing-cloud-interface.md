@@ -132,11 +132,11 @@ Many of the maintenance notifications around scheduled maintenance / product upd
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Bulk Report Suite Mapping </p> </td> 
-   <td colname="col2"> <p>In <span class="uicontrol"> Administration</span> &gt; <span class="uicontrol"> Report Suite Mapping</span>, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.) </p> <p> <a href="../core_services/core_services.md#concept_apg_zq2_rw" format="dita" scope="local"> Mapping report suites</a> to a single organization helps enable cross-solution features and services in the Experience Cloud. </p> </td> 
+   <td colname="col2"> <p>In <span class="uicontrol"> Administration</span> &gt; <span class="uicontrol"> Report Suite Mapping</span>, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.) </p> <p> <a href="../core-services/core-services.md#concept_apg_zq2_rw" format="dita" scope="local"> Mapping report suites</a> to a single organization helps enable cross-solution features and services in the Experience Cloud. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Updates to Experience Cloud Audiences </p> </td> 
-   <td colname="col2"> <p> <b>Applying Report Suites</b> </p> <p>You can now apply a report suite to all your <a href="https://marketing.adobe.com/resources/help/en_US/mcloud/t_audience_create.html" format="html" scope="external"> audience rules</a>. (Previously, you had to specify a report suite in each rule definition.) </p> <p> <b>Props and Variables</b> </p> <p>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences. </p> </td> 
+   <td colname="col2"> <p> <b>Applying Report Suites</b> </p> <p>You can now apply a report suite to all your <a href="https://marketing.adobe.com/resources/help/en_US/mcloud/t-audience-create.html" format="html" scope="external"> audience rules</a>. (Previously, you had to specify a report suite in each rule definition.) </p> <p> <b>Props and Variables</b> </p> <p>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences. </p> </td> 
   </tr> 
  </tbody> 
 </table>

@@ -35,7 +35,7 @@ In the Experience Cloud, click the menu icon  ![](assets/menu-icon.png) to acces
     </ul> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="admin_getting_started/admin_getting_started.md#concept_A9A190B372C5450CA53D60431D362143" format="dita" scope="local"> Administration</a> </p> </td> 
+   <td colname="col1"> <p> <a href="admin-getting-started/admin-getting-started.md#concept_A9A190B372C5450CA53D60431D362143" format="dita" scope="local"> Administration</a> </p> </td> 
    <td colname="col2"> <p>Manage Experience Cloud user entitlements and product profiles. </p> </td> 
   </tr> 
   <tr> 
@@ -55,7 +55,7 @@ In the Experience Cloud, click the menu icon  ![](assets/menu-icon.png) to acces
    <td colname="col2"> <p> Mobile Services brings together mobile marketing capabilities for mobile applications from across the Adobe Marketing Cloud, which allows you to understand and improve user engagement with your mobile applications. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="audience_library/audience_library.md#topic_679810123CAA4E0CA4FA3417FB0100C7" format="dita" scope="local"> People</a> </p> </td> 
+   <td colname="col1"> <p> <a href="audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7" format="dita" scope="local"> People</a> </p> </td> 
    <td colname="col2"> <p>In the Audience Library, you can create audiences, combine existing audiences to create composite audiences, and view all shared audiences. </p> <p>In Customer Attributes, you can also upload enterprise customer data to the Experience Cloud. </p> </td> 
   </tr> 
  </tbody> 

@@ -18,7 +18,7 @@ Adobe Experience Cloud is a comprehensive set of best-in-class, integrated solut
 
 ## Core Services - Enable your solutions for core services {#section_A3D024994DA3492F8435CFCC4EF035C2}
 
-Help: [Enable your Solutions for Core Services](core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) 
+Help: [Enable your Solutions for Core Services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) 
 
 Describes how to: 
 
@@ -49,7 +49,7 @@ The ID service provides a universal, persistent ID that identifies your visitors
 
 ## Audiences {#section_5F60D7B0833348B9A1D74663AADCB42C}
 
-Help: [Audiences](audience_library/audience_library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
+Help: [Audiences](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
 
 Create and manage audiences in the Experience Cloud Audience Library. Audiences can be created or derived from various sources, such as: 
 
@@ -144,7 +144,7 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud solutions
 
 
 * Customer Attributes: Configure Target's [subscription](https://marketing.adobe.com/resources/help/en_US/mcloud/subscription.html) to customer attributes
-* Experience Cloud Audiences: [Experience Cloud Audience Library](https://marketing.adobe.com/resources/help/en_US/mcloud/audience_library.html)
+* Experience Cloud Audiences: [Experience Cloud Audience Library](https://marketing.adobe.com/resources/help/en_US/mcloud/audience-library.html)
 * Analytics: [Adobe Analytics as the Reporting Source for Adobe Target](https://marketing.adobe.com/resources/help/en_US/target/a4t/a4t.html)
 * Dynamic Tag Management: [Best Practices for Implementing Adobe Target using DTM](https://marketing.adobe.com/resources/help/en_US/dtm/target/)
 * Audience Manager: [Target Data Integration with Adobe Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/aam-target-integration.html)
@@ -199,7 +199,7 @@ Help (login required): [Integration with Adobe Experience Cloud Solutions and Co
 
 **Dynamic Tag Manager:** You can [use Dynamic Tag Manager to create Media Optimizer pixel-based conversion tracking tags](https://marketing.adobe.com/resources/help/en_US/dtm/t_media_opt_rule.html), as well as third-party tracking tags, for your search, social, and display ad landing pages. (You can also can create Media Optimizer tags directly within Media Optimizer.) 
 
-**Experience Cloud Audiences:** (Advertisers with display management) You can use any of your [Adobe Experience Cloud audiences](https://marketing.adobe.com/resources/help/en_US/mcloud/audience_library.html) as targets for your display ads. You can automatically use audiences that you've created in Adobe Experience Cloud and audiences from Analytics that you've published to Adobe Experience Cloud, and you can use audiences from Audience Manager when the Media Optimizer account is configured to allow it. Contact your account manager for more information about access to Adobe Experience Cloud and its Profiles and Audiences core service, and about the initial setup between Media Optimizer and Adobe Experience Cloud audiences. **Note:** If you also use Adobe Target, any of the audiences you've published to Adobe Experience Cloud are also available for activities in Target. 
+**Experience Cloud Audiences:** (Advertisers with display management) You can use any of your [Adobe Experience Cloud audiences](https://marketing.adobe.com/resources/help/en_US/mcloud/audience-library.html) as targets for your display ads. You can automatically use audiences that you've created in Adobe Experience Cloud and audiences from Analytics that you've published to Adobe Experience Cloud, and you can use audiences from Audience Manager when the Media Optimizer account is configured to allow it. Contact your account manager for more information about access to Adobe Experience Cloud and its Profiles and Audiences core service, and about the initial setup between Media Optimizer and Adobe Experience Cloud audiences. **Note:** If you also use Adobe Target, any of the audiences you've published to Adobe Experience Cloud are also available for activities in Target. 
 
 **Experience Cloud Assets:** (Advertisers with display management) You can use any of your Adobe Experience Cloud assets as the creatives for your display ads, using the New Display Beta view. You must be [logged in to Media Optimizer through Adobe Experience Cloud](https://enterprise-test.efrontier.com/CMDashboard/help/internal/getting_started/t_log_in_from_adobe_marketing_cloud.htm)) to access your Adobe Experience Cloud assets. Contact your account manager for information about access to Adobe Experience Cloud. 
 
