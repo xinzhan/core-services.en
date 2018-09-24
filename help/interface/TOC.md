@@ -49,7 +49,7 @@ hub: https://helpx.adobe.com/support/experience-cloud/core-services.html
     + [Optional - Upload the data file via FTP](attributes/t-upload-attributes-ftp.md)
     + [Validate the schema](attributes/validate-schema.md)
     + [Configure subscriptions](attributes/subscription.md)
-    + [Update the schema](attributes/t_update-schema.md)
+    + [Update the schema](attributes/t-update-schema.md)
     + [Privacy considerations - customer attributes](attributes/privacy-mac.md)
 + [Exchange Marketplace](exchange.md)
 + [Feed](feed.md)
