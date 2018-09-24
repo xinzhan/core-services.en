@@ -54,23 +54,23 @@ Alternatively, from the Experience Cloud menu ( ![](assets/menu-icon.png)), clic
 
 [Administration User Guide](https://helpx.adobe.com/enterprise/using/users.html) for the Creative Cloud and Document Cloud. Some information is relevant to Experience Cloud user management, such as [managing identity types](https://helpx.adobe.com/enterprise/help/identity.html). 
 
-[Sign in and manage your profile settings](../admin_getting_started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) to manage passwords, organizations, and notifications. 
+[Sign in and manage your profile settings](../admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) to manage passwords, organizations, and notifications. 
 
 ## Product profiles and groups {#section_AB50558124D541CF80A0D3D76D35A4BF}
 
 The addition of product profiles marks a shift from how solution products and services were previously managed (by using groups). In the Admin Console, permissions are based on product profiles, which are groups of products and services that you can assign to users. 
 
-For example in Analytics, you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, dimensions, and so on. You can permission users to a product profile by adding them to the profile. See [Assign Analytics access permissions to a product profile](../admin_getting_started/admin_getting_started.md#task_040673FE3E3E429B9531FBCB8B6A4391). 
+For example in Analytics, you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, dimensions, and so on. You can permission users to a product profile by adding them to the profile. See [Assign Analytics access permissions to a product profile](../admin-getting-started/admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391). 
 
 **Related help** 
 
-[Delegate limited administration privileges](../admin_getting_started/admin_getting_started.md#task_3A072C4AA9734BC59FFA7E015271BC7E) 
+[Delegate limited administration privileges](../admin-getting-started/admin-getting-started.md#task_3A072C4AA9734BC59FFA7E015271BC7E) 
 
 ## Analytics {#section_97DE101F92CD494AB073893680992F1A}
 
 Manage Analytics user and product permissions in the Admin Console. 
 
-[Assign Analytics access permissions to a product profile](../admin_getting_started/admin_getting_started.md#task_040673FE3E3E429B9531FBCB8B6A4391)(on this page). 
+[Assign Analytics access permissions to a product profile](../admin-getting-started/admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391)(on this page). 
 
 **User Account Migration** 
 

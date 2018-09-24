@@ -41,18 +41,18 @@ Analytics Premium gives you:
 
 The following sections describe where to find help, depending on the features that you purchased: 
 
-* [Analytics Premium Complete](../admin_getting_started/upgrade-to-analytics-premium.md#section_BFAD815EDF364845A52B340B2FD5B64C)
-* [Predictive Intelligence](../admin_getting_started/upgrade-to-analytics-premium.md#section_B407932C07A7476F83FB0275C3FB63DC)
-* [Customer 360](../admin_getting_started/upgrade-to-analytics-premium.md#section_3B2AC245388248688067DC9A48957AFB)
-* [Advanced Attribution](../admin_getting_started/upgrade-to-analytics-premium.md#section_9E4986A8389946CCAA7D003268343296)
-* [Data Workbench Requirements](../admin_getting_started/upgrade-to-analytics-premium.md#section_D959CA68D6DB42C38707F8E0CA3654CC)
-* [Experience Cloud](../admin_getting_started/upgrade-to-analytics-premium.md#section_6471C54454024301B2E0B687F79F6738)
+* [Analytics Premium Complete](../admin-getting-started/upgrade-to-analytics-premium.md#section_BFAD815EDF364845A52B340B2FD5B64C)
+* [Predictive Intelligence](../admin-getting-started/upgrade-to-analytics-premium.md#section_B407932C07A7476F83FB0275C3FB63DC)
+* [Customer 360](../admin-getting-started/upgrade-to-analytics-premium.md#section_3B2AC245388248688067DC9A48957AFB)
+* [Advanced Attribution](../admin-getting-started/upgrade-to-analytics-premium.md#section_9E4986A8389946CCAA7D003268343296)
+* [Data Workbench Requirements](../admin-getting-started/upgrade-to-analytics-premium.md#section_D959CA68D6DB42C38707F8E0CA3654CC)
+* [Experience Cloud](../admin-getting-started/upgrade-to-analytics-premium.md#section_6471C54454024301B2E0B687F79F6738)
 
 
 
 ## Analytics Premium Complete {#section_BFAD815EDF364845A52B340B2FD5B64C}
 
-In Analytics Premium Complete, you get all the capabilities of [Analytics Premium](../admin_getting_started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus the following upgrades: 
+In Analytics Premium Complete, you get all the capabilities of [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus the following upgrades: 
 
 <table id="table_F992D44A657347DF85CC5E50E73E821B"> 
  <thead> 
@@ -88,7 +88,7 @@ In Analytics Premium Complete, you get all the capabilities of [Analytics Premiu
 
 ## Predictive Intelligence {#section_B407932C07A7476F83FB0275C3FB63DC}
 
-Upgrading to Predictive Intelligence enables [Analytics Premium](../admin_getting_started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus: 
+Upgrading to Predictive Intelligence enables [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus: 
 
 |  Product  | Upgrades  |
 |---|---|
@@ -99,7 +99,7 @@ Upgrading to Predictive Intelligence enables [Analytics Premium](../admin_gettin
 
 ## Customer 360 {#section_3B2AC245388248688067DC9A48957AFB}
 
-Upgrading to Customer 360 offers [Analytics Premium](../admin_getting_started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus: 
+Upgrading to Customer 360 offers [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus: 
 
 <table id="table_057CAB0437DC475691E41EB084E77F54"> 
  <thead> 
@@ -131,7 +131,7 @@ Upgrading to Customer 360 offers [Analytics Premium](../admin_getting_started/up
 
 ## Advanced Attribution {#section_9E4986A8389946CCAA7D003268343296}
 
-Advanced Attribution offers access to [Analytics Premium](../admin_getting_started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus Algorithmic Attribution in Data Workbench (25% server call volume). 
+Advanced Attribution offers access to [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus Algorithmic Attribution in Data Workbench (25% server call volume). 
 
 ## Data Workbench Requirements {#section_D959CA68D6DB42C38707F8E0CA3654CC}
 
@@ -164,7 +164,7 @@ See Algorithmic Attribution templates at [Best Fit Attribution](https://marketin
 
 ## Experience Cloud - Administrate Users and Products {#section_6471C54454024301B2E0B687F79F6738}
 
-Experience Cloud and core services are available to Analytics Standard and Premium users, provided that you have followed the implementation modernization described in [Getting started - enable your solutions for core services](../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.) 
+Experience Cloud and core services are available to Analytics Standard and Premium users, provided that you have followed the implementation modernization described in [Getting started - enable your solutions for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.) 
 
 After you join the Experience Cloud, you can log in via the Experience Cloud at [!DNL marketing.adobe.com] and begin using core services (including customer attributes, audiences, and Mobile app analytics). 
 

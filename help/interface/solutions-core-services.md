@@ -108,7 +108,7 @@ Adobe Primetime is a multi-screen TV platform that helps broadcasters create eng
 
 ## What are core services? {#concept_38AC4888C3F84694AE4F60311C21B9C2}
 
-[Core services](core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) include features that simplify product implementation and enable cross-solution workflows, such as audience segmentation, customer attribute uploading, and collaboration tools. 
+[Core services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) include features that simplify product implementation and enable cross-solution workflows, such as audience segmentation, customer attribute uploading, and collaboration tools. 
 
 ![](assets/core-services.png) 
 
@@ -125,7 +125,7 @@ Adobe Primetime is a multi-screen TV platform that helps broadcasters create eng
    <td colname="col2"> <p>Tag management systems (Launch, by Adobe, and Dynamic Tag Management). </p> <p>Triggers enable you to take real-time action in Adobe Campaign based on insights from Adobe Analytics. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909" format="dita" scope="local"> Administration</a> </p> </td> 
+   <td colname="col1"> <p> <a href="admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909" format="dita" scope="local"> Administration</a> </p> </td> 
    <td colname="col2"> <p>Manage user and product entitlements across all your Adobe clouds and solutions. </p> </td> 
   </tr> 
   <tr> 
@@ -146,7 +146,7 @@ Adobe Primetime is a multi-screen TV platform that helps broadcasters create eng
   </tr> 
   <tr> 
    <td colname="col1"> <p>People </p> </td> 
-   <td colname="col2"> <p>Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into audiences for targeted marketing efforts. </p> <p> <a href="audience_library/audience_library.md#concept_3D52E1DED6D04ECC949B514E182C4655" format="dita" scope="local"> Audiences</a> - Categorize different types of customers into audiences, then share those audiences across Marketing Cloud solutions. </p> <p><a href="attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer attributes</a> - audience enrichment that lets you connect consumer information you have collected outside of the Marketing Cloud. </p> <p><a href="https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="http" scope="external"> Device graph</a> - Collaborate with the world's most popular brands to recognize a familiar consumer behind an unfamiliar device. (In beta, for Marketing Cloud Device Co-op members only.) </p> </td> 
+   <td colname="col2"> <p>Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into audiences for targeted marketing efforts. </p> <p> <a href="audience-library/audience-library.md#concept_3D52E1DED6D04ECC949B514E182C4655" format="dita" scope="local"> Audiences</a> - Categorize different types of customers into audiences, then share those audiences across Marketing Cloud solutions. </p> <p><a href="attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer attributes</a> - audience enrichment that lets you connect consumer information you have collected outside of the Marketing Cloud. </p> <p><a href="https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="http" scope="external"> Device graph</a> - Collaborate with the world's most popular brands to recognize a familiar consumer behind an unfamiliar device. (In beta, for Marketing Cloud Device Co-op members only.) </p> </td> 
   </tr> 
  </tbody> 
 </table>

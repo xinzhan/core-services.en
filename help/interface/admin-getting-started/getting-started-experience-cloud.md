@@ -24,17 +24,17 @@ Signing in to the Experience Cloud (rather than signing into a single solution) 
 
 >[!IMPORTANT]
 >
->Administrators, see [Administration](../admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about updates to user and product management. 
+>Administrators, see [Administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about updates to user and product management. 
 
 ## Sign in to the Experience Cloud (administrators) {#task_034FC955031347F3B02B686A09801A08}
 
-Sign in and verify that you are in the right [organization](../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). 
+Sign in and verify that you are in the right [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). 
 
 1. Click the Experience Cloud pull-down menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
 
    ![](assets/admin-link.png) 
 
-   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) (Adobe Corp, in this example). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company. 
+   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) (Adobe Corp, in this example). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company. 
 1. Click **[!UICONTROL Administration]**.
 
    ![](assets/admin-landing.png) 
@@ -58,23 +58,23 @@ Sign in and verify that you are in the right [organization](../admin_getting_sta
    <td colname="col2"> <p> Define and set up an identity system against which your end users will be authenticated. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p><a href="https://marketing.adobe.com/resources/help/en_US/mcloud/admin_getting_started.html" format="html" scope="external"> User Management</a> </p> </td> 
+   <td colname="col1"> <p><a href="https://marketing.adobe.com/resources/help/en_US/mcloud/admin-getting-started.html" format="html" scope="external"> User Management</a> </p> </td> 
    <td colname="col2"> <p> Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="../admin_getting_started/admin_getting_started.md#task_737DC3B4C243408A945D61A053C202E5" format="dita" scope="local"> Launch Admin Console</a> </p> </td> 
+   <td colname="col1"> <p> <a href="../admin-getting-started/admin-getting-started.md#task_737DC3B4C243408A945D61A053C202E5" format="dita" scope="local"> Launch Admin Console</a> </p> </td> 
    <td colname="col2"> <p>The Admin Console is the central location for managing your Adobe users and product entitlements across your entire organization. </p> <p>You can also sign in to the Admin Console using a <a href="https://adminconsole.adobe.com" format="https" scope="external"> direct link</a>. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="../experience-cloud-assets/t_admin_add_cc_user.md#task_F36D4F1D49B44F09A54F7371810D2752" format="dita" scope="local"> Manage Creative Cloud Users</a> </p> </td> 
+   <td colname="col1"> <p> <a href="../experience-cloud-assets/t-admin-add-cc-user.md#task_F36D4F1D49B44F09A54F7371810D2752" format="dita" scope="local"> Manage Creative Cloud Users</a> </p> </td> 
    <td colname="col2"> <p> Experience Cloud Assets allows marketers to share, sync and collaborate on folders with designers and other creative assets using the Creative Cloud. You can manage the Creative Cloud users approved to collaborate with your organization here. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Map Your Report Suites</a> </p> </td> 
-   <td colname="col2"> <p> (Analytics only) Experience Cloud core services are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. (This task is part of a broader workflow to <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> enable Analytics for core services</a>). </p> </td> 
+   <td colname="col1"> <p> <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Map Your Report Suites</a> </p> </td> 
+   <td colname="col2"> <p> (Analytics only) Experience Cloud core services are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. (This task is part of a broader workflow to <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> enable Analytics for core services</a>). </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="../admin_getting_started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1" format="dita" scope="local"> Organization ID</a> </p> </td> 
+   <td colname="col1"> <p> <a href="../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1" format="dita" scope="local"> Organization ID</a> </p> </td> 
    <td colname="col2"> <p>The <b>Organization ID</b> is found on the bottom of the Administration page. This ID is the associated ID with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg. </p> </td> 
   </tr> 
  </tbody> 
@@ -85,7 +85,7 @@ Sign in and verify that you are in the right [organization](../admin_getting_sta
 Help for non-administrative users signing in to the Experience Cloud.
 
 
-1. Verify with your administrator that your [organization](../admin_getting_started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) has been provisioned in the Experience Cloud.
+1. Verify with your administrator that your [organization](../admin-getting-started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) has been provisioned in the Experience Cloud.
 
 
 1. Navigate to the [Adobe Experience Cloud](https://marketing.adobe.com) ( [!DNL marketing.adobe.com]).
@@ -97,13 +97,13 @@ Help for non-administrative users signing in to the Experience Cloud.
 
    ![](assets/experience-cloud-core-services.png) 
 
-   The solutions and services that display in this menu depend on your application privileges defined by your [administrator](../admin_getting_started/admin_getting_started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
+   The solutions and services that display in this menu depend on your application privileges defined by your [administrator](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 
 ## Configure default personal account settings {#task_73CBCAE6C91749D19C95421E5AC311BA}
 
 Short Description
 
-You can edit personal details and specify a default [organization](../admin_getting_started/admin_getting_started.md#concept_705C626560A54CA2A4215F1C870C42B2) and landing page to display after signing in to the Experience Cloud. 
+You can edit personal details and specify a default [organization](../admin-getting-started/admin-getting-started.md#concept_705C626560A54CA2A4215F1C870C42B2) and landing page to display after signing in to the Experience Cloud. 
 
 1. Sign in to the Experience Cloud, then click your profile icon.
 
@@ -153,7 +153,7 @@ Short Description
 
 You can edit your Experience Cloud profile, specify a default organization and landing page, and more. 
 
-1. [Sign in to the Experience Cloud](../admin_getting_started/getting-started-experience-cloud.md#task_1BFE87E20DCB44078CAC82F3CD44B985).
+1. [Sign in to the Experience Cloud](../admin-getting-started/getting-started-experience-cloud.md#task_1BFE87E20DCB44078CAC82F3CD44B985).
 
 1. From the Experience Cloud menu, click your profile picture.
 

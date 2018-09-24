@@ -16,7 +16,7 @@ translate: y
 
 Features, release notes, and known issues for the Experience Cloud interface.
 
-For a list of documentation updates, see [Experience Cloud](../doc_updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
+For a list of documentation updates, see [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/). 
 
@@ -218,7 +218,7 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Customer Attributes </p> </td> 
-   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your solutions for core services, see <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a>. </p> </td> 
+   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your solutions for core services, see <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -249,7 +249,7 @@ No information available
   </tr> 
   <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 
-   <td colname="col2"> <p>Added the topic <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a> to assist you with implementing core services. </p> </td> 
+   <td colname="col2"> <p>Added the topic <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a> to assist you with implementing core services. </p> </td> 
   </tr> 
  </tbody> 
 </table>
