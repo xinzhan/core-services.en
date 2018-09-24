@@ -128,7 +128,7 @@ The [!DNL Experience Cloud] provides a library for creating and managing audienc
 
 **[!UICONTROL Experience Cloud]** > **[!UICONTROL Audience Library]** 
 
-![](assets/audience-library.png) 
+![](assets/audience_library.png) 
 
 <table id="table_50E240AE46424582A75400255515480C"> 
  <thead> 
