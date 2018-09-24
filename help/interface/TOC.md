@@ -31,7 +31,7 @@ hub: https://helpx.adobe.com/support/experience-cloud/core-services.html
     + [Assets overview](experience-cloud-assets/experience-cloud-assets.md)
     + [Share Experience Cloud folders and assets with Creative Cloud](experience-cloud-assets/creative-cloud.md)
     + [Manage Creative Cloud users](experience-cloud-assets/t-admin-add-cc-user.md)
-    + [Share an Experience Cloud asset folder](experience-cloud-assets/t_share_creative-cloud.md)
+    + [Share an Experience Cloud asset folder](experience-cloud-assets/t-share-creative-cloud.md)
     + [Upload an asset to a shared folder from the Creative Cloud browser](experience-cloud-assets/t-upload-asset-cc.md)
     + [Upload an asset to a shared folder from the Creative Cloud desktop](experience-cloud-assets/t-cc-asset-upload-thor.md)
     + [Disable synchronization of shared folders](experience-cloud-assets/t-disable-asset-sync.md)
