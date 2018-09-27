@@ -16,8 +16,6 @@ translate: y
 
 You can embed content from a web page into the Experience Cloud.
 
-### Bad heading that skips a level
-
 In [!UICONTROL Administration], drag the **[!UICONTROL Share to Adobe Experience Cloud]** button to your browser's bookmark toolbar. 
 
 ![](assets/oembed.png) 
