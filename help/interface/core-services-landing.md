@@ -5,10 +5,6 @@ seo-title: About core services
 solution: Experience Cloud
 title: About core services
 uuid: 0a8542de-8d89-43dc-b9ad-e27bdf4356f6
-index: y
-internal: n
-snippet: y
-translate: y
 ---
 
 # About core services {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
