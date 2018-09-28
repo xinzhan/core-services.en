@@ -6,10 +6,6 @@ seo-title: Frequently asked questions
 solution: Experience Cloud
 title: Frequently asked questions
 uuid: 3ed0b4eb-690f-4c14-a31c-0cc1118fb3b4
-index: y
-internal: n
-snippet: y
-translate: y
 ---
 
 # Frequently asked questions
