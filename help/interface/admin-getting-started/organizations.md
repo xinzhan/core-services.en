@@ -14,7 +14,7 @@ translate: y
 
 # Organizations and account linking
 
-Learn about organizations and linking solution accounts to Experience Cloud.
+Learn about managing organizations and linking solution accounts to Experience Cloud.
 
 <!-- accounts-experience-cloud.xml -->
 
