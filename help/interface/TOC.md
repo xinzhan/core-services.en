@@ -37,7 +37,7 @@ hub: https://helpx.adobe.com/support/experience-cloud/core-services.html
     + [Disable synchronization of shared folders](experience-cloud-assets/t-disable-asset-sync.md)
     + [Asset file requirements for sharing](experience-cloud-assets/assets-file-reqs.md)
     + [Behavior of shared folders](experience-cloud-assets/asset-behavior.md)
-+ Audiences (#audiences}
++ Audiences {#audiences}
     + [Audiences overview](audience-library/audience-library.md)
     + [Create an audience](audience-library/t-audience-create.md)
     + [Publish an Analytics audience segment](audience-library/t-publish-audience-segment.md)
