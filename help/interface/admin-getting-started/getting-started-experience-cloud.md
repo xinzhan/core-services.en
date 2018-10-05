@@ -40,45 +40,15 @@ Sign in and verify that you are in the right [organization](../admin-getting-sta
    ![](assets/admin-landing.png) 
 1. Continue by clicking one of the following links:
 
-
-<table id="table_044200C93F17463399811EAABA410938"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Element </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p><a href="https://helpx.adobe.com/marketing-cloud/how-to/first-time-setup.html" format="html" scope="external"> Admin Console Basics</a> </p> </td> 
-   <td colname="col2"> <p>Learn about the initial steps you need to take to get started using Experience Cloud solutions. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p><a href="https://helpx.adobe.com/enterprise/using/set-up-identity.html" format="html" scope="external"> Set up Identity</a> </p> </td> 
-   <td colname="col2"> <p> Define and set up an identity system against which your end users will be authenticated. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p><a href="https://marketing.adobe.com/resources/help/en_US/mcloud/admin-getting-started.html" format="html" scope="external"> User Management</a> </p> </td> 
-   <td colname="col2"> <p> Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <a href="../admin-getting-started/admin-getting-started.md#task_737DC3B4C243408A945D61A053C202E5" format="dita" scope="local"> Launch Admin Console</a> </p> </td> 
-   <td colname="col2"> <p>The Admin Console is the central location for managing your Adobe users and product entitlements across your entire organization. </p> <p>You can also sign in to the Admin Console using a <a href="https://adminconsole.adobe.com" format="https" scope="external"> direct link</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <a href="../experience-cloud-assets/t-admin-add-cc-user.md#task_F36D4F1D49B44F09A54F7371810D2752" format="dita" scope="local"> Manage Creative Cloud Users</a> </p> </td> 
-   <td colname="col2"> <p> Experience Cloud Assets allows marketers to share, sync and collaborate on folders with designers and other creative assets using the Creative Cloud. You can manage the Creative Cloud users approved to collaborate with your organization here. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Map Your Report Suites</a> </p> </td> 
-   <td colname="col2"> <p> (Analytics only) Experience Cloud core services are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. (This task is part of a broader workflow to <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> enable Analytics for core services</a>). </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <a href="../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1" format="dita" scope="local"> Organization ID</a> </p> </td> 
-   <td colname="col2"> <p>The <b>Organization ID</b> is found on the bottom of the Administration page. This ID is the associated ID with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Element | Description |
+|--- |--- |
+|[Admin Console Basics](https://helpx.adobe.com/marketing-cloud/how-to/first-time-setup.html)|Learn about the initial steps you need to take to get started using Experience Cloud solutions.|
+|[Set up Identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html)|Define and set up an identity system against which your end users will be authenticated.|
+|[User Management](https://marketing.adobe.com/resources/help/en_US/mcloud/admin-getting-started.html)|Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.|
+|[Launch Admin Console](../admin-getting-started/admin-getting-started.md)|The Admin Console is the central location for managing your Adobe users and product entitlements across your entire organization.<br>You can also sign in to the Admin Console using a [direct link](https://adminconsole.adobe.com).|
+|[Manage Creative Cloud Users](../experience-cloud-assets/t-admin-add-cc-user.md)|Experience Cloud Assets allows marketers to share, sync and collaborate on folders with designers and other creative assets using the Creative Cloud. You can manage the Creative Cloud users approved to collaborate with your organization here.|
+|[Map Your Report Suites](../core-services/core-services.md)|(Analytics only) Experience Cloud core services are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. (This task is part of a broader workflow to [enable Analytics for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)).|
+|[Organization ID](../admin-getting-started/organizations.md)|The *Organization ID* is found on the bottom of the Administration page. This ID is the associated ID with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg.|
 
 ## Sign in to the Experience Cloud (users) {#task_1BFE87E20DCB44078CAC82F3CD44B985}
 
