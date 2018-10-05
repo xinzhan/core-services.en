@@ -112,42 +112,12 @@ Adobe Primetime is a multi-screen TV platform that helps broadcasters create eng
 
 ![](assets/core-services.png) 
 
-<table id="table_C2FD36BA1E634FFCACF20712691A33BB"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Core Service </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <a href="activation/activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation </a> </td> 
-   <td colname="col2"> <p>Tag management systems (Launch, by Adobe, and Dynamic Tag Management). </p> <p>Triggers enable you to take real-time action in Adobe Campaign based on insights from Adobe Analytics. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <a href="admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909" format="dita" scope="local"> Administration</a> </p> </td> 
-   <td colname="col2"> <p>Manage user and product entitlements across all your Adobe clouds and solutions. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <a href="experience-cloud-assets/experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0" format="dita" scope="local"> Assets</a> </p> </td> 
-   <td colname="col2"> <p> Easily store, sync, and share all your digital assets in a central location, to save time and deliver a more consistent customer experience. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <a href="exchange.md#concept_E07F16F070544B82B56527A845C41D59" format="dita" scope="local"> Exchange</a> </p> </td> 
-   <td colname="col2"> <p>Search, browse, select, pay, and download Digital Marketing extensions via apps. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <a href="feed.md#concept_9256B8768A294009A777282DD8719213" format="dita" scope="local"> Feed</a> </p> </td> 
-   <td colname="col2"> <p>Collaboration is intrinsic to the Experience Cloud. Use the Feed to stay connected to your team through a central feed that lets you share posts, comments, and attachments. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/mobile/" format="https" scope="external"> Mobile Services</a> </p> </td> 
-   <td colname="col2"> <p> Adobe Mobile Services brings together mobile marketing capabilities for mobile applications from across the Experience Cloud, which allows you to understand and improve user engagement with your mobile applications. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>People </p> </td> 
-   <td colname="col2"> <p>Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into audiences for targeted marketing efforts. </p> <p> <a href="audience-library/audience-library.md#concept_3D52E1DED6D04ECC949B514E182C4655" format="dita" scope="local"> Audiences</a> - Categorize different types of customers into audiences, then share those audiences across Marketing Cloud solutions. </p> <p><a href="attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer attributes</a> - audience enrichment that lets you connect consumer information you have collected outside of the Marketing Cloud. </p> <p><a href="https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="http" scope="external"> Device graph</a> - Collaborate with the world's most popular brands to recognize a familiar consumer behind an unfamiliar device. (In beta, for Marketing Cloud Device Co-op members only.) </p> </td> 
-  </tr> 
- </tbody> 
-</table>
-
+| Core Service | Description |
+|--- |--- |
+|[Activation](activation/activation.md)|Tag management systems (Launch, by Adobe, and Dynamic Tag Management).<br>Triggers enable you to take real-time action in Adobe Campaign based on insights from Adobe Analytics.|
+|[Administration](admin-getting-started/admin-getting-started.md)|Manage user and product entitlements across all your Adobe clouds and solutions.|
+|[Assets](experience-cloud-assets/experience-cloud-assets.md)|Easily store, sync, and share all your digital assets in a central location, to save time and deliver a more consistent customer experience.|
+|[Exchange](exchange.md)|Search, browse, select, pay, and download Digital Marketing extensions via apps.|
+|[Feed](feed.md)|Collaboration is intrinsic to the Experience Cloud. Use the Feed to stay connected to your team through a central feed that lets you share posts, comments, and attachments.|
+|[Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/)|Adobe Mobile Services brings together mobile marketing capabilities for mobile applications from across the Experience Cloud, which allows you to understand and improve user engagement with your mobile applications.|
+|People|Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into audiences for targeted marketing efforts.<br>[Audiences](audience-library/audience-library.md) - Categorize different types of customers into audiences, then share those audiences across Marketing Cloud solutions.<br>[Customer attributes](attributes/attributes.md) - audience enrichment that lets you connect consumer information you have collected outside of the Marketing Cloud.<br>[Device graph](https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) - Collaborate with the world's most popular brands to recognize a familiar consumer behind an unfamiliar device. (In beta, for Marketing Cloud Device Co-op members only.)|
