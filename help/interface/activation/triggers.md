@@ -109,7 +109,7 @@ For example, the following page shows rules you might use for a Cart Abandonment
 
 **Referrer Trigger** 
 
-The following trigger fires when a hit comes in with the product of Men's Boots and referrer of Facebook. For the two criteria ( *`products`* and *`referrer`*) to be evaluated in the same hit, they should be added to the same container. 
+The following trigger fires when a hit comes in with the product of Men's Boots and referrer of Facebook. For the two criteria ( *products* and *referrer*) to be evaluated in the same hit, they should be added to the same container. 
 
 ![](assets/fb-boots-promo.png) 
 
