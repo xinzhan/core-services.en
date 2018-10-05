@@ -54,36 +54,11 @@ The following sections describe where to find help, depending on the features th
 
 In Analytics Premium Complete, you get all the capabilities of [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus the following upgrades: 
 
-<table id="table_F992D44A657347DF85CC5E50E73E821B"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Product </th> 
-   <th colname="col2" class="entry"> Upgrades </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> Reports &amp; Analytics </td> 
-   <td colname="col2"> 
-    <ul id="ul_024ED2CF650442E3BCB45622225AD0FE"> 
-     <li id="li_D6C8474EA616476184CD2DE5E0903092"> <a href="https://marketing.adobe.com/resources/help/en_US/analytics/contribution/" format="https" scope="external"> Contribution Analysis </a></li> 
-     <li id="li_3004457D14964F3A88E5BA4B4FF384C1"> <a href="../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes </a> (Up to 200) </li> 
-    </ul> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> Data Workbench </td> 
-   <td colname="col2"> 
-    <ul id="ul_EC2CF8010CF1406CAD197D702127C2B8"> 
-     <li id="li_10D6FD2A7390499C90E51F5F877F0E1C">Algorithmic Attribution </li> 
-     <li id="li_2AC805482756495C965B54067124D219">Pre-built workspaces </li> 
-    </ul> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> Analytics Platform </td> 
-   <td colname="col2"> <a href="https://marketing.adobe.com/developer/documentation/analytics-live-stream/overview-1" format="https" scope="external"> Live Stream </a> (raw data, dashboards, triggers) </td> 
-  </tr> 
- </tbody> 
-</table>
+| Product | Upgrades |
+|--- |--- |
+|Reports & Analytics|<ul><li>[Contribution Analysis](https://marketing.adobe.com/resources/help/en_US/analytics/contribution/)</li><li>[Customer Attributes](../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) (Up to 200)</li></ul>|
+|Data Workbench|<ul><li>Algorithmic Attribution</li><li>Pre-built workspaces|
+|Analytics Platform|[Live Stream](https://marketing.adobe.com/developer/documentation/analytics-live-stream/overview-1)   (raw data, dashboards, triggers)</li></ul>|
 
 
 ## Predictive Intelligence {#section_B407932C07A7476F83FB0275C3FB63DC}
@@ -101,32 +76,11 @@ Upgrading to Predictive Intelligence enables [Analytics Premium](../admin-gettin
 
 Upgrading to Customer 360 offers [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus: 
 
-<table id="table_057CAB0437DC475691E41EB084E77F54"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Product </th> 
-   <th colname="col2" class="entry"> Upgrades </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> Reports &amp; Analytics </td> 
-   <td colname="col2"> <a href="../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes </a> (analysis and segment sharing) </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> Data Workbench </td> 
-   <td colname="col2"> 
-    <ul id="ul_CFE403BB8421473BA1BA6C77AFD0CA72"> 
-     <li id="li_1D5A7EC493A7420896E40BD7469C72A8">Derived Customer Attributes </li> 
-     <li id="li_DDF6E89FA2164022859C4FDBE1134E62">Pre-built workspaces for audience discovery </li> 
-    </ul> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> Analytics Platform </td> 
-   <td colname="col2"> <a href="../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes </a> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Product | Upgrades |
+|--- |--- |
+|[Customer Attributes](../attributes/attributes.md)|Customer Attributes  (analysis and segment sharing)|
+|Data Workbench|<ul><li>Derived Customer Attributes</li><li>Pre-built workspaces for audience discovery</li></ul>|
+|Analytics Platform|[Customer Attributes](../attributes/attributes.md)|
 
 
 ## Advanced Attribution {#section_9E4986A8389946CCAA7D003268343296}

@@ -49,49 +49,17 @@ Create an abandonment trigger and configure the conditions for the trigger and p
 
    ![Step Result](assets/add-trigger.png) 
 
-1. Configure the trigger by completing the following fields and dragging metrics and dimension items to the rule's containers:
+1.  Configure the trigger by completing the following fields and dragging metrics and dimension items to the rule's containers:
 
-   <table id="table_25DE808C07334AC4B9290A1B843C8258"> 
-   <thead> 
-   <tr> 
-   <th colname="col1" class="entry"> Element </th> 
-   <th colname="col2" class="entry"> Description </th> 
-   </tr> 
-   </thead>
-   <tbody> 
-   <tr> 
-   <td colname="col1"> <p>Name </p> </td> 
-   <td colname="col2"> <p>The friendly name for this trigger. </p> </td> 
-   </tr> 
-   <tr> 
-   <td colname="col1"> <p>Description </p> </td> 
-   <td colname="col2"> <p>The description of this trigger, how you will use it, and so on. </p> </td> 
-   </tr> 
-   <tr> 
-   <td colname="col1"> <p>Report Suite </p> </td> 
-   <td colname="col2"> <p>The Analytics <a href="https://marketing.adobe.com/resources/help/en_US/analytics/getting-started/report-suites.html" format="html" scope="external"> report suite</a> used for this trigger. This setting identifies the reporting data to use. </p> </td> 
-   </tr> 
-   <tr> 
-   <td colname="col1"> <p>Visit must include </p> <p>Visit must not include </p> <p>Trigger after no action </p> <p>Include meta data </p> </td> 
-   <td colname="col2"> <p>You can define criteria or visitor behaviors that you want to occur, and behaviors that you do not want to occur. </p> <p>For example, rules for a simple cart abandonment trigger might be: </p> 
-    <ul id="ul_2D72A5724530435B9075A69007D14736"> 
-     <li id="li_15C835A5F12742F4860E7C9F642C250E"> <span class="uicontrol"> Visit must include:</span> <span class="term"> Cart Addition</span> (metric) and <span class="term"> Exists</span>. (You can further refine the rule with a specific product view or with dimensions like Browser Types.) </li> 
-     <li id="li_B71E5F6101A74E239D84020749CAF829"> <span class="uicontrol"> Visit must not include:</span> <span class="term"> Checkout</span>. </li> 
-     <li id="li_32D94A8A00714D959ECC16B005C6ADC2"> <span class="uicontrol"> Trigger after no action for:</span> <span class="term"> 10 minutes</span>. </li> 
-     <li id="li_B23DF9B529554ED19B40335294050558"> <span class="uicontrol"> Include Meta Data:</span> Lets you add a particular Campaign dimension or variables that are relevant to a visitor's behavior. This field can be useful for Adobe Campaign to build the correct re-marketing email. </li> 
-    </ul> <p>You can specify <span class="term"> Any</span>, <span class="term"> And</span> or <span class="term"> Or</span> logic within or between containers, depending on the criteria you determine are important for the rule. </p> </td> 
-   </tr> 
-   <tr> 
-   <td colname="col1"> Container </td> 
-   <td colname="col2"> <p>Containers are where you set and store rules, conditions, or filters that define a trigger. If you want events to occur at the same time, put them in the same container. Meaning, each container processes independently at the hit level. </p> <p>For example, if you have two containers joined by the <span class="term"> And</span> operator, you can expect the rules to qualify when two hits meet the requirements. </p> </td> 
-   </tr> 
-   <tr> 
-   <td colname="col1"> Start new session after </td> 
-   <td colname="col2"> <p> Create a trigger for session start and session end events. </p> </td> 
-   </tr> 
-   </tbody> 
-   </table>
- 
+    | Element | Description |
+    |--- |--- |
+    |Name|The friendly name for this trigger.|
+    |Description|The description of this trigger, how you will use it, and so on.|
+    |Report Suite|The Analytics [report suite](https://marketing.adobe.com/resources/help/en_US/analytics/getting-started/report-suites.html) used for this trigger. This setting identifies the reporting data to use.|
+    |Visit must include<br>Visit must not include<br>Trigger after no action<br>Include meta data|You can define criteria or visitor behaviors that you want to occur, and behaviors that you do not want to occur.  For example, rules for a simple cart abandonment trigger might be:<ul><li>Visit must include:  Cart Addition (metric) and  Exists. (You can further refine the rule with a specific product view or with dimensions like Browser Types.)</li><li>Visit must not include:  Checkout.</li><li>Trigger after no action for:  10 minutes.</li><li>Include Meta Data: Lets you add a particular Campaign dimension or variables that are relevant to a visitor's behavior. This field can be useful for Adobe Campaign to build the correct re-marketing email.</li></ul><br>You can specify  Any,  And or  Or logic within or between containers, depending on the criteria you determine are important for the rule.|
+    |Container|Containers are where you set and store rules, conditions, or filters that define a trigger. If you want events to occur at the same time, put them in the same container. Meaning, each container processes independently at the hit level.  For example, if you have two containers joined by the  And operator, you can expect the rules to qualify when two hits meet the requirements.|
+    |Start new session after|Create a trigger for session start and session end events.|
+
 1. (Optional) In Abandonment triggers, you can apply [Propensity Scoring](../activation/triggers.md#concept_A506150674AD45DB98D3CC07E560D334).
 
    ![Step Result](assets/propensity-scoring.png) 

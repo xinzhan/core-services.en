@@ -162,34 +162,8 @@ Sample URL:
 >
 >You must encode any URL before passing it to the `destURL` parameter. (Encoder sites like [URL Decoder / Encoder](https://meyerweb.com/eric/tools/dencoder/) are available.) 
 
-<table id="table_B8D36AB5157B47A49CEF73A2E405F87A"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Parameter </th> 
-   <th colname="col2" class="entry"> Description </th> 
-   <th colname="col3" class="entry"> Example </th> 
-   <th colname="col4" class="entry"> Required / Optional </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p> tenantId </p> </td> 
-   <td colname="col2"> <p>Name of the tenant the user should log into. </p> </td> 
-   <td colname="col3"> <p> aem62tenant </p> </td> 
-   <td colname="col4"> <p>Optional </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> destURL </p> </td> 
-   <td colname="col2"> <p> The complete URL to the place where the user should be taken to. </p> </td> 
-   <td colname="col3"> <p> <span class="filepath"> https://sc.omniture.com/x/1_7xxzf</span> </p> </td> 
-   <td colname="col4"> <p>Optional </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> solutionname </p> </td> 
-   <td colname="col2"> <p>Name of the MAC Solution that is the owner of destURL parameter. It is used to verify that the user has access to the solution which is the owner of the URL. </p> <p>It is the responsibility of the solutions to make sure that the solutionname is in Sync with the destURL parameter. </p> <p>For example : If the URL contains solutionname as social and the destURL provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify weather the owner of the destURL is in sync with the solution name. </p> </td> 
-   <td colname="col3"> <p>analytics </p> </td> 
-   <td colname="col4"> <p> Required if destURL param is used. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
-
+| Parameter | Description | Example | Required / Optional |
+|--- |--- |--- |--- |
+|tenantId|Name of the tenant the user should log into.|aem62tenant|Optional|
+|destURL|The complete URL to the place where the user should be taken to.|https://sc.omniture.com/x/1_7xxzf|Optional|
+|solutionname|Name of the MAC Solution that is the owner of destURL parameter. It is used to verify that the user has access to the solution which is the owner of the URL.  It is the responsibility of the solutions to make sure that the solutionname is in Sync with the destURL parameter.  For example : If the URL contains solutionname as social and the destURL provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify weather the owner of the destURL is in sync with the solution name.|analytics|Required if destURL param is used.|
