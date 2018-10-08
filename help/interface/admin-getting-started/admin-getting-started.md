@@ -28,14 +28,6 @@ Learn about signing in to the Admin Console and managing Experience Cloud user p
  <li id="li_AB89A6D00A274EB7863D0243757322DE"> Public Beta - Drive solution teams and customers to switch references from old domain to new domain (Aug - Oct, 2018) </li> 
  <li id="li_6FED48B1F361493082102E823EA335F4"> General Availability - Redirect all old domain requests to new domain (Oct, 2018) </li> 
 </ul> -->
-On this page: 
-
-* [What's new in Experience Cloud user management](../admin_getting_started/admin_getting_started.md#concept_06A0A13362F644FB90F947238407637A)
-* [Create a product profile](../admin_getting_started/admin_getting_started.md#task_16335111C52D40E9BAC73D0699584DBF)
-* [Assign Analytics access permissions to a product profile](../admin_getting_started/admin_getting_started.md#task_040673FE3E3E429B9531FBCB8B6A4391)
-* [Delegate administrative roles to users](../admin_getting_started/admin_getting_started.md#task_3A072C4AA9734BC59FFA7E015271BC7E)
-
-
 
 >[!IMPORTANT]
 >
@@ -52,7 +44,7 @@ Administrators no longer manage users in solutions. User and product management 
 
 **To sign in to the Admin Console** 
 
-1. Navigate to [http://adminconsole.adobe.com/enterprise/](http://adminconsole.adobe.com/enterprise/#).
+1. Navigate to [https://adminconsole.adobe.com/enterprise/](https://adminconsole.adobe.com/enterprise/#).
 1. Type your [Adobe ID or Enterprise ID](https://helpx.adobe.com/enterprise/help/identity.html) and password.
 
 
@@ -62,23 +54,23 @@ Alternatively, from the Experience Cloud menu ( ![](assets/menu-icon.png)), clic
 
 [Administration User Guide](https://helpx.adobe.com/enterprise/using/users.html) for the Creative Cloud and Document Cloud. Some information is relevant to Experience Cloud user management, such as [managing identity types](https://helpx.adobe.com/enterprise/help/identity.html). 
 
-[Sign in and manage your profile settings](../admin_getting_started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) to manage passwords, organizations, and notifications. 
+[Sign in and manage your profile settings](../admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) to manage passwords, organizations, and notifications. 
 
 ## Product profiles and groups {#section_AB50558124D541CF80A0D3D76D35A4BF}
 
 The addition of product profiles marks a shift from how solution products and services were previously managed (by using groups). In the Admin Console, permissions are based on product profiles, which are groups of products and services that you can assign to users. 
 
-For example in Analytics, you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, dimensions, and so on. You can permission users to a product profile by adding them to the profile. See [Assign Analytics access permissions to a product profile](../admin_getting_started/admin_getting_started.md#task_040673FE3E3E429B9531FBCB8B6A4391). 
+For example in Analytics, you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, dimensions, and so on. You can permission users to a product profile by adding them to the profile. See [Assign Analytics access permissions to a product profile](../admin-getting-started/admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391). 
 
 **Related help** 
 
-[Delegate limited administration privileges](../admin_getting_started/admin_getting_started.md#task_3A072C4AA9734BC59FFA7E015271BC7E) 
+[Delegate limited administration privileges](../admin-getting-started/admin-getting-started.md#task_3A072C4AA9734BC59FFA7E015271BC7E) 
 
 ## Analytics {#section_97DE101F92CD494AB073893680992F1A}
 
 Manage Analytics user and product permissions in the Admin Console. 
 
-[Assign Analytics access permissions to a product profile](../admin_getting_started/admin_getting_started.md#task_040673FE3E3E429B9531FBCB8B6A4391)(on this page). 
+[Assign Analytics access permissions to a product profile](../admin-getting-started/admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391)(on this page). 
 
 **User Account Migration** 
 
@@ -136,15 +128,12 @@ Create a product profile and assign it to a permission group.
 
 When you invite a user to an organization, you can give the user access to products and product profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a product profile to enable access. 
 
-1. In the [Admin Console](http://adminconsole.adobe.com/enterprise/), click **[!UICONTROL Products]**.
+1. In the [Admin Console](https://adminconsole.adobe.com/enterprise/), click **[!UICONTROL Products]**.
 1. Click **[!UICONTROL New Profile]**.
 1. Configure the profile details, then click **[!UICONTROL Next]**.
-
-   Step Info 
-
 1. Click **[!UICONTROL Done]**.
 
-   More help is available at: 
+More help is available at: 
 
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
 * [Enterprise User Permissions](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html) in Target help for more information.
@@ -210,7 +199,7 @@ Supported browsers in the Experience Cloud.
 
 * [Analysis Workspace and Reports & Analytics](https://marketing.adobe.com/resources/help/en_US/sc/user/?f=requirements) (includes Adobe Social)
 * [Report Builder](https://marketing.adobe.com/resources/help/en_US/arb/?f=system_requirements)
-* [Ad Hoc Analysis](http://marketing.adobe.com/resources/help/en_US/dsc/index.html?f=c_sys_reqs)
+* [Ad Hoc Analysis](https://marketing.adobe.com/resources/help/en_US/dsc/index.html?f=c_sys_reqs)
 * [Data Workbench](https://marketing.adobe.com/resources/help/en_US/insight/install/?f=c_Data_Workbench_Client_install)
 * [Adobe Target](https://marketing.adobe.com/resources/help/en_US/target/ov/?f=r_supported_browsers)
 * [Adobe Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/?f=c_supported_browsers)

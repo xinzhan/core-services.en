@@ -14,25 +14,11 @@ translate: y
 
 # Organizations and account linking
 
-Learn about organizations and linking solution accounts to Experience Cloud.
-
-## Organizations and account linking {#topic_C31CB834F109465A82ED57FF0563B3F1}
-
-Learn about organizations and linking solution accounts to Experience Cloud.
-
+Learn about managing organizations and linking solution accounts to Experience Cloud.
 
 <!-- accounts-experience-cloud.xml -->
 
-* [Identify your organization](../admin_getting_started/organizations.md#concept_384D169B0B724B799D573B8ECB5C39BF)
-* [Find your Organization ID](../admin_getting_started/organizations.md#concept_EA8AEE5B02CF46ACBDAD6A8508646255)
-* [Specify a default organization and landing page](../admin_getting_started/organizations.md#concept_6A191B42A9874A9780882903BA18F071)
-* [Link a solution account to an Adobe ID](../admin_getting_started/organizations.md#task_FD389E78640848919E247AC5E95B8369)
-* [Troubleshoot account linking issues](../admin_getting_started/organizations.md#concept_DFCB29A3B4834FC59AA29E0BBA301584)
-
-
 ## Identify your organization {#concept_384D169B0B724B799D573B8ECB5C39BF}
-
-Short Description
 
 An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and solutions. Most often, an organization is your company name. However, a company can have many organizations. 
 
@@ -41,8 +27,6 @@ Also, you might need to locate your organization ID for support purposes. You ca
 ![Step Result](assets/organization-switch.png) 
 
 ## Find your Organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
-
-Short Description
 
 To view your Organization ID, click ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**. 
 
@@ -88,5 +72,3 @@ Typically, account linking fails because the Adobe ID is linked to a previous us
 
 * [Contact Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html).
 * Access your solution using the standard login while the issue is being solved.
-
-

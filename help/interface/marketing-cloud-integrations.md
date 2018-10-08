@@ -6,10 +6,6 @@ seo-title: Experience Cloud Integrations
 solution: Experience Cloud
 title: Experience Cloud Integrations
 uuid: a9893c6b-bccc-4fb5-b724-724644c7def5
-index: y
-internal: n
-snippet: y
-translate: y
 ---
 
 # Experience Cloud Integrations
@@ -18,7 +14,7 @@ Adobe Experience Cloud is a comprehensive set of best-in-class, integrated solut
 
 ## Core Services - Enable your solutions for core services {#section_A3D024994DA3492F8435CFCC4EF035C2}
 
-Help: [Enable your Solutions for Core Services](core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) 
+Help: [Enable your Solutions for Core Services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) 
 
 Describes how to: 
 
@@ -49,7 +45,7 @@ The ID service provides a universal, persistent ID that identifies your visitors
 
 ## Audiences {#section_5F60D7B0833348B9A1D74663AADCB42C}
 
-Help: [Audiences](audience_library/audience_library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
+Help: [Audiences](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
 
 Create and manage audiences in the Experience Cloud Audience Library. Audiences can be created or derived from various sources, such as: 
 

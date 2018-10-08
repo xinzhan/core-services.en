@@ -14,9 +14,6 @@ translate: y
 
 # Upload an asset to a shared folder from the Creative Cloud desktop
 
-Upload an asset to a shared folder from the Creative Cloud desktop.
-
-
 1. Enable sharing.
 1. Launch the [!DNL Creative Cloud] desktop and navigate to [!UICONTROL Assets].
 1. Click **[!UICONTROL Open Folder]**.

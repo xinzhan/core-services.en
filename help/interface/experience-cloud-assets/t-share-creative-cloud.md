@@ -51,7 +51,7 @@ Share an Experience Cloud asset folder with Creative Cloud users.
    <!-- <p>Integrations: </p> 
 <p>In <b>Social</b>, (Asset Selector) and publish a social post to FB or twitter, go to Publisher, the Import from Assets brings a page overlay of MAC assets. You can search for a particular folder, browse to it, and attach the asset to a post. </p> 
 <p> <b>Target integration</b>: Launch Target (bullseye), Create Activity, name it, click Continue, specify activity URL, then Swap Image, Target has a similar asset selector and replace an image in a Target Activity/experience. (Or Insert Element to load a shared/MAC asset to Target.) When creating activities in <span class="keyword"> Adobe Target</span>, you can load or swap shared assets from the <a href="https://marketing.adobe.com/resources/help/en_US/target/target/c_manage_content.html" format="https" scope="external"> Content Library</a>. </p> -->
-1. To un-share a folder, click **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](../experience-cloud-assets/t_share_creative_cloud.md#step_BA17CFA185284641A9B878BA29551996)), then remove users by clicking X, then click **[!UICONTROL Share]**.
+1. To un-share a folder, click **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](../experience-cloud-assets/t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), then remove users by clicking X, then click **[!UICONTROL Share]**.
 
    ![](assets/asset_remove_user.png) 
 
@@ -67,6 +67,6 @@ After you share a folder to the Creative Cloud, you will see the Creative Cloud 
 ![](assets/asset-cc-logo.png) 
 >[!MORE_LIKE_THIS]
 >
->* [Creative Cloud Help - Manage and sync files](http://helpx.adobe.com/creative-cloud/help/sync-files.html)
->* [Creative Cloud Help - Collaborate with others](http://helpx.stage.adobe.com/creative-cloud/help/collaboration.html)
->* [Creative Cloud Help - Collaboration FAQ](http://helpx.stage.adobe.com/creative-cloud/help/collaboration-faq.html)
+>* [Creative Cloud Help - Manage and sync files](https://helpx.adobe.com/creative-cloud/help/sync-files.html)
+>* [Creative Cloud Help - Collaborate with others](https://helpx.stage.adobe.com/creative-cloud/help/collaboration.html)
+>* [Creative Cloud Help - Collaboration FAQ](https://helpx.stage.adobe.com/creative-cloud/help/collaboration-faq.html)

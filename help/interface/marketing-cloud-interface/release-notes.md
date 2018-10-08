@@ -16,7 +16,7 @@ translate: y
 
 Features, release notes, and known issues for the Experience Cloud interface.
 
-For a list of documentation updates, see [Experience Cloud](../doc_updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
+For a list of documentation updates, see [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/). 
 
@@ -47,11 +47,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 * Fixed an issue preventing thumbnails from showing for assets shared from Assets on Demand to the Experience Cloud Feed. (MAC-29955) 
 
-
-
-
 ## Release 16.2 February 18 2016 {#section_D9610373116C4D77A38F67815C725EA3}
-
 
 <table id="table_C9B288CF42034F329C3C72D95D22E515"> 
  <thead> 
@@ -218,7 +214,7 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Customer Attributes </p> </td> 
-   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your solutions for core services, see <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a>. </p> </td> 
+   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your solutions for core services, see <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -249,7 +245,7 @@ No information available
   </tr> 
   <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 
-   <td colname="col2"> <p>Added the topic <a href="../core_services/core_services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a> to assist you with implementing core services. </p> </td> 
+   <td colname="col2"> <p>Added the topic <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a> to assist you with implementing core services. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -259,11 +255,11 @@ No information available
 
 Fixes: 
 
-*
+* Improved the user email invitation workflow for account provisioning.
 * Fixed an asset folder issue preventing [!DNL Experience Cloud] and [!DNL Adobe Campaign] assets from displaying identical folder hierarchies.
 * Fixed an issue preventing the deletion of audiences that were part of deactivated [!DNL Target] activities.
 * Fixed an issue preventing the Add (plus) icon from displaying under [!UICONTROL Rules] on the [!UICONTROL Create New Audience] page.
-*
+* Improved Experience Cloud interface support for Internet Explorer 9.
 
 
 
@@ -288,41 +284,39 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 **Fixes** 
 
-*
-*
+* Fixed an issue in which PNG files could not be rendered on a card.
+* Fixed an issue with uploading files to Experience Cloud Assets via drag and drop.
 
 
 **Known Issues** 
 
-*
-*
-* Some users might have issues uploading large file-types to [!DNL Experience Cloud] Assets.
-* Users might be missing links on their [!DNL Experience Cloud] cards from [!DNL Media Optimizer].
-* Some administrative users might experience issues linking their accounts after accepting an invitation to join the [!DNL Experience Cloud].
-* [!DNL Experience Cloud] interface can reduce in performance when in parallel use by multiple users.
-*
-*
-* Some users might be unable to re-add a [!DNL Creative Cloud] user to a shared folder after the [!DNL Creative Cloud] user has been deleted.
-* Some users might experience a delay in the notification that occurs when a folder is shared from the [!DNL Experience Cloud] to Creative Cloud.
-* Some users might experience an issue sharing a folder between the [!DNL Experience Cloud] and [!DNL Creative Cloud].
-*
-*
-
+* Users are not able to share PowerPoint files on boards.
+* Group and entitlement changes made in User Management take effect only after a new login.
+* Some users might have issues uploading large file-types to Experience Cloud Assets.
+* Users might be missing links on their Experience Cloud cards from Media Optimizer.
+* Some administrative users might experience issues linking their accounts after accepting an invitation to join the Experience Cloud.
+* Experience Cloud interface can reduce in performance when in parallel use by multiple users.
+* Some users are able to delete an out-of-date asset instead of receiving an error notification.
+* Some users might experience issues when logging into two browsers with the same Adobe ID simultaneously.
+* Some users might be unable to re-add a Creative Cloud user to a shared folder after the Creative Cloud user has been deleted.
+* Some users might experience a delay in the notification that occurs when a folder is shared from the Experience Cloud to Creative Cloud.
+* Some users might experience an issue sharing a folder between the Experience Cloud and Creative Cloud.
+* Some users may have trouble creating an audience within an Analytics report suite after shared audiences have been enabled.
+* Some users may have trouble uploading assets to a board.
 
 
 ## Release 14.11.1 - November 13 2014 {#section_A6CF1D4F27B9496892A89C983EB39102}
 
 Known issues: 
 
-*
+* Some users are able to delete an out-of-date asset instead of receiving an error notification.
 * Some [!DNL .png] files cannot be rendered on a card.
-*
-*
-*
-*
+* Some users may have trouble uploading assets to a board.
+* Group and entitlement changes made in user management only take effect after a new login.
+* Admins must log out and back in to see changes made in Account Settings.
+* User are not able to share PowerPoint files on boards.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
-*
-
+* Adobe Experience Manager to Creative Cloud synchronization is not working.
 
 
 ## Release 14.10.1 - October 16 2014 {#section_E3A0F4423B814707AA3745E083500835}
@@ -350,17 +344,17 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 **Fixes** 
 
-*
+* Creating a card from a PDF and sharing it to the board was returning an error message.
 
 
 **Known Issues** 
 
-*
+* Some users may have trouble uploading assets to a board.
 * Some [!DNL .png] files cannot be rendered on a card.
-*
-*
-*
-*
+* Group and entitlement changes made in user management only take effect after a new login.
+* Some users may not be able to create a card from a PDF and share it to a board.
+* Some users are able to delete an out-of-date asset instead of receiving an error notification.
+* User are not able to share PowerPoint files on boards.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 
@@ -371,16 +365,16 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Fixes and Improvements** 
 
 * When you navigate to [!DNL marketing.adobe.com], the login experience is now consistent with Adobe's Creative Cloud login.
-*
+* On the Manage Organizations page, the linking experience (after an invite is received) is now consistent for each solution.
 
 
 **Known Issues** 
 
-*
-*
-*
-*
-*
+* Group and entitlement changes made in user management only take effect after a new login.
+* Some users may not be able to create a card from a PDF and share it to a board.
+* Some users may have trouble uploading assets to a board.
+* Some users are able to delete an out-of-date asset instead of receiving an error notification.
+* User are not able to share PowerPoint files on boards.
 * Some [!DNL .png] files cannot be rendered on a card.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
@@ -409,14 +403,14 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 **Known Issues** 
 
-*
-*
-*
+* Group and entitlement changes made in user management only take effect after a new login.
+* Some users may not be able to create a card from a PDF and share it to a board.
+* Some users may have trouble uploading assets to a board.
 * Some users may not be able to log in from [!DNL Target] to [!DNL Experience Cloud].
 * Some Audience Manager users cannot log into the [!DNL Experience Cloud].
-*
+* Some users are able to delete an out-of-date asset instead of receiving an error notification.
 * Files deleted from [!DNL Experience Cloud] are not being deleted from [!DNL Digital Asset Management].
-*
+* User are not able to share PowerPoint files on boards.
 * Some [!DNL .png] files cannot be rendered on a card.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
@@ -476,8 +470,8 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in the [!DNL Experience Cloud].
 * Some users are not able to link their audience management account with their [!DNL Experience Cloud] account.
-*
-*
+* You will be logged out after 15 minutes of inactivity. Also, logging out in one location will log you out of the Experience Cloud.
+* Some Exchange users may find their names in the comments to be a long string ID instead of their names
 
 
 **Fixes** 
@@ -503,7 +497,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
   </tr> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Audiences </p> </td> 
-   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol"> Audiences</span></p> <p> <span class="wintitle"> Audiences</span> is where you create, edit, and manage audiences, similar to how you work with segments. For example, you can create a segment in reports and analytics, then share it to <span class="wintitle"> Experience Cloud</span><span class="wintitle"> Audiences</span>. Once shared, the audience is available in <span class="keyword"> Adobe Target</span> for campaign activities, and in Adobe Audience Manager for segmentation. </p> <p> <p>Note: To request enablement in Target, visit <a href="http://www.adobe.com/go/audiences" format="http" scope="external"> http://www.adobe.com/go/audiences</a>. </p> </p> </td> 
+   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol"> Audiences</span></p> <p> <span class="wintitle"> Audiences</span> is where you create, edit, and manage audiences, similar to how you work with segments. For example, you can create a segment in reports and analytics, then share it to <span class="wintitle"> Experience Cloud</span><span class="wintitle"> Audiences</span>. Once shared, the audience is available in <span class="keyword"> Adobe Target</span> for campaign activities, and in Adobe Audience Manager for segmentation. </p> <p> <p>Note: To request enablement in Target, visit <a href="https://www.adobe.com/go/audiences" format="http" scope="external"> https://www.adobe.com/go/audiences</a>. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> </p> </td> 
@@ -524,20 +518,19 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 * [!DNL Experience Cloud] was not linking to [!DNL Adobe Target]. This issue occurred if the [!DNL Adobe Target] login can be used on multiple [!DNL Target] servers.
 * [!DNL Adobe Media Optimizer] was not creating users automatically when the user has been created in [!DNL Experience Cloud].
-* Data shared from [!DNL Media Optimizer] was misrepresented in the [!DNL Experience Cloud].
-*
-*
-*
+* Options in combo boxes used for adding new users temporarily disappeared while typing.
+* The Comments link on asset card view was not clickable.
+* After adding a custom tag to an asset, no other metadata changes were not persisting.
+* Deleting an image, Assets does not warn if the image is used in Adobe Target Essentials.
 * Slow [!UICONTROL Experience Cloud] interface performance when in parallel use by many users.
 * Deleting an image in [!UICONTROL Experience Cloud Assets] was not issuing a warning if the image was used in [!DNL Adobe Target Essentials].
 * When **[!UICONTROL remember me]** was not selected during login, the user was logged out after 15 minutes.
-*
+* Users were having to log out and back in for all permission and entitlement changes to take effect.
 * Logging in to the [!DNL Experience Cloud] was taking longer than a second.
 * For certain users, deleting files from the [!DNL Experience Cloud] did not synchronizing with [!DNL Digital Asset Management].
-*
-*
-*
-
+* Users were being logged out after only 15 minutes of browser inactivity.
+* User were not able to share PowerPoint files on boards.
+* Some users were experiencing poor visual layout in Internet Explorer 10 than other browsers.
 
 
 ## Release 14.4.1 - April 22 2014 {#section_E2A699764E744D2E8D418E9A3D40AF6B}
@@ -566,14 +559,14 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Fixes** 
 
 
-*
-*
+* After adding a custom tag to an asset, no other metadata changes can be persisted.
+* Users have to refresh the board to make the deleted cards disappear from view.
 * When **[!UICONTROL Remember me]** is not selected during login, the user is logged out after 15 minutes
 * [!DNL Analytics] solution landing page shows formatting errors.
-*
+* Users must log out and log back in for all permission and entitlement changes to take effect.
 * Deleting an image, [!UICONTROL Assets] does not warn if the image is used in [!DNL Adobe Target Essentials].
-*
-*
+* Comments link on asset card view is not clickable.
+* Options in combo boxes for adding new users temporarily disappear while typing.
 * Logging in to the [!DNL Experience Cloud] takes longer than a second.
 * Data shared from [!DNL Media Optimizer] is misrepresented in the [!DNL Experience Cloud].
 * Adobe [!DNL Media Optimizer] does not create users automatically when user has been created in the [!DNL Experience Cloud].
@@ -582,8 +575,8 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 * [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in [!DNL Experience Cloud].
-*
-*
+* Filters applied to trended reports from Analytics are not applied to cards in Experience Cloud.
+* Some Excel or CSV files cannot be uploaded to a board.
 * Some users may not be able to link their audience management account with their [!DNL Experience Cloud].
 * Some users may experience error when sharing [!DNL Analytics] segments in the [!DNL Experience Cloud].
 * Some users may not be able to drill down to subfolders in [!UICONTROL Asset Selector].
@@ -598,34 +591,34 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability and sec
 
 **Fixes** 
 
-*
+* Added the ability to remove your avatar image.
 * Fixed an issue preventing you from unlinking your [!DNL Adobe Media Optimizer] accounts.
 
 
 **Known Issues** 
 
-*
+* Deleting an image in Experience Cloud Assets does not warn if the image is used in Adobe Target Essentials.
 * Refreshing a card from [!DNL Analytics] can sometimes lead to an empty chart in the expanded card.
-*
+* Users must log out and log back in for all permission and entitlement changes to take effect.
 * When *`Remember me`* is not selected during login, the user will be logged out after 15 minutes.
 * [!DNL Analytics] solution landing page shows formatting errors.
-*
-*
+* The Comments link on asset card view is not clickable.
+* Experience Cloud interface can slow down when in parallel use by many users
 * Experience Cloud cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple Target servers.
-*
-*
+* Logging in to Experience Cloud takes longer than a second.
+* After adding a custom tag to an asset, no other metadata changes can be persisted.
 * [!DNL Adobe Media Optimizer] does not create users automatically when user has been created in Experience Cloud.
-*
+* Options in combo boxes for adding new users temporarily disappear while typing.
 * Data shared from [!DNL Media Optimizer] is mis-represented in Experience Cloud.
-*
+* Sharing Flickr images fails.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in Experience Cloud.
-*
+* Group and entitlement changes made in user management only take effect after a new login.
 * [!DNL Search&Promote] linking is not available from [!UICONTROL Organizations & Product Access].
-*
-*
+* User have to refresh the board to make the deleted cards disappear from view.
+* Some Excel or CSV files cannot be uploaded to a board.
 * [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
-*
-*
+* Some PNG files cannot be rendered on a card.
+* Beta feedback cannot be submitted.
 
 
 
@@ -657,6 +650,4 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability and sec
 * Fixed an issue that prevented shared [!DNL Analytics] reports from applying segment filters.
 * Fixed an issue causing solutions to display on the [!UICONTROL Experience Cloud Solutions] page as linked, even if the solutions accounts were not linked.
 * Fixed an issue that prevented [!DNL Adobe Target] customers in Asia from being able to click the **[!UICONTROL Continue to Experience Cloud]** button on the linking page.
-*
-
-
+* Fixed an issue that prevented the sharing of YouTube videos.

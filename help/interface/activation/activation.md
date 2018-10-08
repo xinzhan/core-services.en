@@ -40,7 +40,7 @@ To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a r
    <td colname="col2"> <p> Step-by-step instructions to add Adobe Analytics using Adobe Dynamic Tag Management </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-implementation.html" format="html" scope="external"> Deploy the Experience Cloud ID Service </a> </p> </td> 
+   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-implementation-guides.html" format="html" scope="external"> Implementation Guides for Experience Cloud ID Service </a> </p> </td> 
    <td colname="col2"> <p>The Experience Cloud ID service enables core functionality across Experience Cloud solutions (including customer attributes, audience sharing, and triggers). Adobe strongly recommends implementing the ID service and take advantage of these features. </p> </td> 
   </tr> 
   <tr> 
@@ -50,11 +50,11 @@ To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a r
  </tbody> 
 </table>
 
-If you want help implementing dynamic tag management we encourage you to contact your Account Manager for information on Adobe Global Services offerings, or implementation partner offerings. Please also feel free to contact us at [@AdobeExpCare](http://twitter.com/AdobeExpCare) with hashtag #DTM. 
+If you want help implementing dynamic tag management we encourage you to contact your Account Manager for information on Adobe Global Services offerings, or implementation partner offerings. Please also feel free to contact us at [@AdobeExpCare](https://twitter.com/AdobeExpCare) with hashtag #DTM. 
 
 ## Experience Cloud Triggers {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
-*`Triggers`* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization. 
+*Triggers* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization. 
 
 <table id="table_AF6842470172429EA97C9B02163BD0C3"> 
  <thead> 

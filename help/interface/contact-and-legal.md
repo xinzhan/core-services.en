@@ -39,7 +39,7 @@ We welcome any suggestions or feedback regarding this solution. Enhancement idea
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Terms of Use](https://marketing.adobe.com/resources/help/en_US/terms.html) | [Privacy Center](http://www.adobe.com/privacy/policy.html)
+[Terms of Use](https://marketing.adobe.com/resources/help/en_US/terms.html) | [Privacy Center](https://www.adobe.com/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark. 
 

@@ -29,7 +29,7 @@ Share folders and assets between the Experience Cloud and the Creative Cloud. Co
 
 
 
-Before Creative Cloud users have access to assets, they must be whitelisted in the Experience Cloud. See [Manage Creative Cloud users](../experience-cloud-assets/t_admin_add_cc_user.md#task_F36D4F1D49B44F09A54F7371810D2752). 
+Before Creative Cloud users have access to assets, they must be whitelisted in the Experience Cloud. See [Manage Creative Cloud users](../experience-cloud-assets/t-admin-add-cc-user.md#task_F36D4F1D49B44F09A54F7371810D2752). 
 
 ## About asset sharing with Adobe Target {#section_B7CD64CAB35D43A4B12957B304072DC9}
 

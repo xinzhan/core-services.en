@@ -14,13 +14,7 @@ translate: y
 
 # Create a customer attribute source and upload the data file
 
-Create the customer attribute source and upload the data.
-
-## Create a customer attribute source and upload the data file {#topic_9D7D3A939F6E458DAB84E583BB539638}
-
-Create the customer attribute source and upload the data.
-
-You can activate the data source when you are ready. After the data source is active, share the attribute data to Analytics and Target. 
+Create the customer attribute source and upload the data. You can activate the data source when you are ready. After the data source is active, share the attribute data to Analytics and Target. 
 
 ## Customer attributes workflow {#concept_BF0AF88E9EF841219ED4D10754CD7154}
 
@@ -28,16 +22,16 @@ Short Description
 
 ![](assets/crs.png) 
 
-1. [Create a data file](../attributes/t_crs_usecase.md#task_B5FB8C0649374C7A94C45DCF2878EA1A)
-1. [Create the attribute source and upload the data file](../attributes/t_crs_usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
-1. [Validate the schema](../attributes/t_crs_usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
-1. [Configure subscriptions and activate the attribute source](../attributes/t_crs_usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
+1. [Create a data file](../attributes/t-crs-usecase.md#task_B5FB8C0649374C7A94C45DCF2878EA1A)
+1. [Create the attribute source and upload the data file](../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
+1. [Validate the schema](../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
+1. [Configure subscriptions and activate the attribute source](../attributes/t-crs-usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
 
 
 After the data source is active, you can: 
 
-* [Use customer attributes in Adobe Analytics](../attributes/t_crs_usecase.md#task_7EB0680540CE4B65911B2C779210915D)
-* [Use customer attributes in Adobe Target](../attributes/t_crs_usecase.md#task_FC5F9D9059114027B62DB9B1C7D9E257)
+* [Use customer attributes in Adobe Analytics](../attributes/t-crs-usecase.md#task_7EB0680540CE4B65911B2C779210915D)
+* [Use customer attributes in Adobe Target](../attributes/t-crs-usecase.md#task_FC5F9D9059114027B62DB9B1C7D9E257)
 
 
 
@@ -47,9 +41,9 @@ After the data source is active, you can:
 >
 >Solution group membership is also required. 
 
-To use the Customer Attributes feature, users must belong to the Adobe Customer Attributes group in user management , and to solution-level groups (Analytics or Target). 
+To use the Customer Attributes feature, users must belong to the Adobe Customer Attributes group in user management, and to solution-level groups (Analytics or Target). 
 
-See [Users and Groups](../admin_getting_started/admin_getting_started.md#task_3295A85536BF48899A1AB40D207E77E9). 
+See [Users and Groups](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). 
 
 ## Create a data file {#task_B5FB8C0649374C7A94C45DCF2878EA1A}
 
@@ -61,7 +55,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 
    >[!NOTE]
    >
-   >Later in this process, you will drag-and-drop the [!DNL .csv] to upload the file. However, if you [upload via FTP](../attributes/t_upload_attributes_ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a [!DNL .fin] file with the same name as the [!DNL .csv]. 
+   >Later in this process, you will drag-and-drop the [!DNL .csv] to upload the file. However, if you [upload via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a [!DNL .fin] file with the same name as the [!DNL .csv]. 
 
 
 
@@ -69,8 +63,8 @@ This data is enterprise customer data from your CRM. The data might include subs
 
    ![](assets/01_crs_usecase.png) 
 
-1. Before continuing, review the important information in [Data File Requirements](../attributes/crs_data_file.md#concept_DE908F362DF24172BFEF48E1797DAF19), before you upload the file.
-1. [Create a customer attribute source and upload the data](../attributes/t_crs_usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78), described below.
+1. Before continuing, review the important information in [Data File Requirements](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19), before you upload the file.
+1. [Create a customer attribute source and upload the data](../attributes/t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78), described below.
 
 ## Create the attribute source and upload the data file {#task_09DAC0F2B76141E491721C1E679AABC8}
 
@@ -102,11 +96,11 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
       The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
     
-        * **Dynamic tag management: **The Alias ID corresponds to the *`Integration Code`* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/dtm/?f=macid) tool. 
+        * **Dynamic tag management:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/dtm/?f=macid) tool. 
         
-        * **Visitor API: **The Alias ID corresponds to the additional [Customer IDs](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) that you can associate with each visitor. 
+        * **Visitor API:** The Alias ID corresponds to the additional [Customer IDs](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) that you can associate with each visitor. 
         
-          For example, *`"crm_id"`* in: 
+          For example, *"crm_id"* in: 
         
         
           ```
@@ -114,40 +108,30 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
           ```
 
         
-        * **iOS:** The Alias ID corresponds to *`"idType"`* in [visitorSyncIdentifiers:identifiers](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods). 
+        * **iOS:** The Alias ID corresponds to *"idType"* in [visitorSyncIdentifiers:identifiers](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods). 
+        
+          For example: 
+               
+          `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];` 
+ 
+        
+        * **Android:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods). 
         
           For example: 
         
+          `identifiers.put(`**`"idType"`**`, "idValue");`
         
-          ```
-          [ADBMobile visitorSyncIdentifiers:@{@ 
-<b>"idType"</b>:@"idValue"}]; 
-          
-          ```
-
-        
-        * **Android:** The Alias ID corresponds to *`"idType"`* in [syncIdentifiers](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods). 
-        
-          For example: 
-        
-        
-          ```
-          identifiers.put( 
-<b>"idType"</b>, "idValue");
-          ```
-
-        
-          See [Leveraging multiple data sources](../attributes/crs_data_file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) for additional information about data processing regarding the Alias ID field and Customer IDs. 
+          See [Leveraging multiple data sources](../attributes/crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) for additional information about data processing regarding the Alias ID field and Customer IDs. 
         
         
         
     
-    * **[!UICONTROL File Upload:]** You can drag-and-drop the [!DNL .csv] data file, or upload the data via FTP. (Using FTP also requires a [!DNL .fin] file.) See [Upload the Data via FTP](../attributes/t_upload_attributes_ftp.md#task_591C3B6733424718A62453D2F8ADF73B). 
+    * **[!UICONTROL File Upload:]** You can drag-and-drop the [!DNL .csv] data file, or upload the data via FTP. (Using FTP also requires a [!DNL .fin] file.) See [Upload the Data via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B). 
     
 
       >[!IMPORTANT]
       >
-      >Specific data file requirements exist. See [Data File Requirements](../attributes/crs_data_file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for more information. 
+      >Specific data file requirements exist. See [Data File Requirements](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for more information. 
 
     
       After uploading the file, table data is displayed under the [!UICONTROL File Upload] heading on this page. You can validate the schema, configure subscriptions, or set up the FTP. 
@@ -172,9 +156,9 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
 
 The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). You can also delete attributes by updating the schema.
 
-See [Validate the schema](../attributes/validate_schema.md#concept_B3A01A15D04E4F998118E09B3A9B5043). 
+See [Validate the schema](../attributes/validate-schema.md#concept_B3A01A15D04E4F998118E09B3A9B5043). 
 
-To delete attributes, see [(Optional) Update the schema (deletes attributes)](../attributes/t_crs_usecase.md#task_6568898BB7C44A42ABFB86532B89063C). 
+To delete attributes, see [(Optional) Update the schema (deletes attributes)](../attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C). 
 
 ## (Optional) Update the schema (delete attributes) {#task_6568898BB7C44A42ABFB86532B89063C}
 
@@ -182,7 +166,7 @@ How to delete attributes and replace attributes in the schema.
 
 
 1. On the [!UICONTROL Edit Customer Attribute Source] page, remove the **[!UICONTROL Target]** or **[!UICONTROL Analytics]** subscription (under [!UICONTROL Configure Subscriptions]).
-1. [Upload a new data file with updated fields](../attributes/t_crs_usecase.md#task_09DAC0F2B76141E491721C1E679AABC8).
+1. [Upload a new data file with updated fields](../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8).
 
 ## Configure subscriptions and activate the attribute source {#task_1ACA21198F0E46A897A320C244DFF6EA}
 
@@ -192,7 +176,7 @@ See [Configure subscriptions](../attributes/subscription.md#concept_ECA3C44FA6D5
 
 **To activate an attribute source** 
 
-1. On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate the [!UICONTROL Activate] heading, then click **[!UICONTROL Active]**.
+On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate the [!UICONTROL Activate] heading, then click **[!UICONTROL Active]**.
 
    ![Step Result](assets/activate_attribute_source.png) 
 
