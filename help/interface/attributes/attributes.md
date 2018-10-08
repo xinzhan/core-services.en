@@ -60,32 +60,7 @@ After the data resides in the Experience Cloud, you can customize it and share i
 
 For example: 
 
-<table id="table_23FD754F93724FB9B4D32275B0AAE4F5"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Solution </th> 
-   <th colname="col2" class="entry"> Advantages and Use Cases </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> Adobe Analytics </td> 
-   <td colname="col2"> <p>Marketers and analysts can understand: </p> 
-    <ul id="ul_3B4037784B454CD892942E814A19A606"> 
-     <li id="li_382C91A24DCD49DEAC61F20BC793712B">The online campaigns that are most effective with your gold-level customers. </li> 
-     <li id="li_8E0EB3432B4D4AA8987D1A10FBE1E1CA">The products that gold-level customers search for versus products that platinum-level customers search for. </li> 
-     <li id="li_7C21BD089ACA42BFA478702A4D92F370">Whether your site redesign is having a positive impact on conversion rates for older customers. </li> 
-     <li id="li_6F49791C95B140228C5558CFCF9334FD">Which products do customers with a low lifetime value tend to research on my site. </li> 
-    </ul> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> Adobe Target </td> 
-   <td colname="col2"> <p>Attribute data enables Target users to: </p> 
-    <ul id="ul_FA1149C892DC40B9A905BD0CFA6DE8B4"> 
-     <li id="li_C957DB5DD27F4B9BB8498501285A280B">Show loyalty club members special discounts and offers. </li> 
-     <li id="li_1ED3D423718F455799833BB92392FC0D">Recommend more expensive products to your luxury customers. </li> 
-     <li id="li_ABBDA6236103438799BB8B820AB5EF68">For customers who already receive emails, show an upsell offer in the space normally reserved for email signups </li> 
-    </ul> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Solution | Advantages and Use Cases |
+|--- |--- |
+|Adobe Analytics|Marketers and analysts can understand:<ul><li>The online campaigns that are most effective with your gold-level customers.</li><li>The products that gold-level customers search for versus products that platinum-level customers search for.</li><li>Whether your site redesign is having a positive impact on conversion rates for older customers.</li><li>Which products do customers with a low lifetime value tend to research on my site.</li></ul>|
+|Adobe Target|Attribute data enables Target users to:<ul><li>Show loyalty club members special discounts and offers.</li><li>Recommend more expensive products to your luxury customers.</li><li>For customers who already receive emails, show an upsell offer in the space normally reserved for email signups</li></ul>|
