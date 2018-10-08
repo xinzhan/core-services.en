@@ -6,10 +6,6 @@ seo-title: Frequently asked questions, limitations, and best practices
 solution: Experience Cloud
 title: Frequently asked questions, limitations, and best practices
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
-index: y
-internal: n
-snippet: y
-translate: y
 ---
 
 # Frequently asked questions, limitations, and best practices
@@ -21,32 +17,13 @@ FAQ and best practices for customer attributes in Analytics and Target.
 
 Guidance and limitations when using Customer Attributes. 
 
-<table id="table_0F2D0988F8574B3DA732A25B58405DCA"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Issue </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Customer Attribute Subscription Limitations </p> </td> 
-   <td colname="col2"> <p>When you upgrade to Analytics Premium, there is a 24-hour delay before additional attributes are available. You may see an <b>Attribute Subscription Max</b> error issued during this delay. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Custom Analytics ID (s.visitorID) </p> </td> 
-   <td colname="col2"> <p>Setting a customer ID using <span class="varname"> s.visitorID</span> is a method of identifying users in Analytics. However, integrations in which Analytics data is exported or imported using the ID Service will not function when a visitor is identified using <span class="varname"> s.visitorID</span>. </p> <p>This includes, but is not limited to, shared audiences, Analytics for Target (A4T), and Customer Attributes. </p> <p>For these integrations, setting a custom Analytics ID is not supported. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Character length limitations in Analytics </p> </td> 
-   <td colname="col2"> <p>When creating an Analytics subscription, field lengths for the uploaded files are truncated to 255. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
-
+| Issue | Description |
+|--- |--- |
+|Customer Attribute Subscription Limitations|When you upgrade to Analytics Premium, there is a 24-hour delay before additional attributes are available. You may see an Attribute Subscription Max error issued during this delay.|
+|Custom Analytics ID (s.visitorID)|Setting a customer ID using  s.visitorID is a method of identifying users in Analytics. However, integrations in which Analytics data is exported or imported using the ID Service will not function when a visitor is identified using  s.visitorID.<br>This includes, but is not limited to, shared audiences, Analytics for Target (A4T), and Customer Attributes.<br>For these integrations, setting a custom Analytics ID is not supported.|
+|Character length limitations in Analytics|When creating an Analytics subscription, field lengths for the uploaded files are truncated to 255.|
 
 ## FAQ about customer attributes {#section_E47866EEA83348E09FE43CEC5E44C461}
-
 
 <table id="table_88631069013B408EBB0A810657662B36"> 
  <thead> 
