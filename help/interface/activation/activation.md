@@ -40,7 +40,7 @@ To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a r
    <td colname="col2"> <p> Step-by-step instructions to add Adobe Analytics using Adobe Dynamic Tag Management </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-implementation.html" format="html" scope="external"> Deploy the Experience Cloud ID Service </a> </p> </td> 
+   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-implementation-guides.html" format="html" scope="external"> Implementation Guides for Experience Cloud ID Service </a> </p> </td> 
    <td colname="col2"> <p>The Experience Cloud ID service enables core functionality across Experience Cloud solutions (including customer attributes, audience sharing, and triggers). Adobe strongly recommends implementing the ID service and take advantage of these features. </p> </td> 
   </tr> 
   <tr> 

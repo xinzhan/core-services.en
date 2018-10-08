@@ -44,7 +44,7 @@ Sign in and verify that you are in the right [organization](../admin-getting-sta
 |--- |--- |
 |[Admin Console Basics](https://helpx.adobe.com/marketing-cloud/how-to/first-time-setup.html)|Learn about the initial steps you need to take to get started using Experience Cloud solutions.|
 |[Set up Identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html)|Define and set up an identity system against which your end users will be authenticated.|
-|[User Management](https://marketing.adobe.com/resources/help/en_US/mcloud/admin-getting-started.html)|Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.|
+|[User Management](https://helpx.adobe.com/enterprise/using/users.html)|Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.|
 |[Launch Admin Console](../admin-getting-started/admin-getting-started.md)|The Admin Console is the central location for managing your Adobe users and product entitlements across your entire organization.<br>You can also sign in to the Admin Console using a [direct link](https://adminconsole.adobe.com).|
 |[Manage Creative Cloud Users](../experience-cloud-assets/t-admin-add-cc-user.md)|Experience Cloud Assets allows marketers to share, sync and collaborate on folders with designers and other creative assets using the Creative Cloud. You can manage the Creative Cloud users approved to collaborate with your organization here.|
 |[Map Your Report Suites](../core-services/core-services.md)|(Analytics only) Experience Cloud core services are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. (This task is part of a broader workflow to [enable Analytics for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)).|
@@ -162,34 +162,8 @@ Sample URL:
 >
 >You must encode any URL before passing it to the `destURL` parameter. (Encoder sites like [URL Decoder / Encoder](https://meyerweb.com/eric/tools/dencoder/) are available.) 
 
-<table id="table_B8D36AB5157B47A49CEF73A2E405F87A"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Parameter </th> 
-   <th colname="col2" class="entry"> Description </th> 
-   <th colname="col3" class="entry"> Example </th> 
-   <th colname="col4" class="entry"> Required / Optional </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p> tenantId </p> </td> 
-   <td colname="col2"> <p>Name of the tenant the user should log into. </p> </td> 
-   <td colname="col3"> <p> aem62tenant </p> </td> 
-   <td colname="col4"> <p>Optional </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> destURL </p> </td> 
-   <td colname="col2"> <p> The complete URL to the place where the user should be taken to. </p> </td> 
-   <td colname="col3"> <p> <span class="filepath"> https://sc.omniture.com/x/1_7xxzf</span> </p> </td> 
-   <td colname="col4"> <p>Optional </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> solutionname </p> </td> 
-   <td colname="col2"> <p>Name of the MAC Solution that is the owner of destURL parameter. It is used to verify that the user has access to the solution which is the owner of the URL. </p> <p>It is the responsibility of the solutions to make sure that the solutionname is in Sync with the destURL parameter. </p> <p>For example : If the URL contains solutionname as social and the destURL provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify weather the owner of the destURL is in sync with the solution name. </p> </td> 
-   <td colname="col3"> <p>analytics </p> </td> 
-   <td colname="col4"> <p> Required if destURL param is used. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
-
+| Parameter | Description | Example | Required / Optional |
+|--- |--- |--- |--- |
+|tenantId|Name of the tenant the user should log into.|aem62tenant|Optional|
+|destURL|The complete URL to the place where the user should be taken to.|https://sc.omniture.com/x/1_7xxzf|Optional|
+|solutionname|Name of the MAC Solution that is the owner of destURL parameter. It is used to verify that the user has access to the solution which is the owner of the URL.  It is the responsibility of the solutions to make sure that the solutionname is in Sync with the destURL parameter.  For example : If the URL contains solutionname as social and the destURL provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify weather the owner of the destURL is in sync with the solution name.|analytics|Required if destURL param is used.|
