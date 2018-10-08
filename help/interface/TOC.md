@@ -4,6 +4,7 @@ product: core-services
 archtype: end-user
 user-guide: null
 hub: https://helpx.adobe.com/support/experience-cloud/core-services.html
+git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.en
 getting-started: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
 tutorials: https://helpx.adobe.com/experience-cloud/tutorials.html
 ---
