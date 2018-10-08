@@ -57,7 +57,7 @@ The following table describes how audiences are used in Experience Cloud solutio
 
 | Help with | Resource |
 |--- |--- |
-|Cannot find Audiences?|Ensure that you are provisioned. See[Getting started - enable your solutions for core services](../core-services/core-services.md.<br>Click [here](https://adobe.com/go/audiences) to request access to Profiles and Audiences (integrations provisioning form).|
+|Cannot find Audiences?|Ensure that you are provisioned. See [Getting started - enable your solutions for core services](../core-services/core-services.md).<br>Click [here](https://www.adobe.com/go/audiences) to request access to Profiles and Audiences (integrations provisioning form).|
 |Use cases|For more guidance on what solution to use, go to [Audience Creation Options](https://helpx.adobe.com/marketing-cloud-core/kb/People/Audience-Creation-Options.html) in the Knowledge Base.|
 |Forum|The [Audiences forum](https://forums.adobe.com/community/experience-cloud/platform/core-services/people-service/audiences) is an additional resource to get help with audiences.|
 
