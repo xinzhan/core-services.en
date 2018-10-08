@@ -36,8 +36,6 @@ Analytics Premium gives you:
 >
 >* eVars 76-250 (SiteCatalyst) and 100-250 (Standard) will be visible in Admin Tools, but will not be enabled already.>
 >* Contribution Analysis is turned on by Adobe. It will not change location (it is still available on the Anomaly Detection page), but it will now automatically start analyzing all data points.>
->
->
 
 The following sections describe where to find help, depending on the features that you purchased: 
 
@@ -57,8 +55,8 @@ In Analytics Premium Complete, you get all the capabilities of [Analytics Premiu
 | Product | Upgrades |
 |--- |--- |
 |Reports & Analytics|<ul><li>[Contribution Analysis](https://marketing.adobe.com/resources/help/en_US/analytics/contribution/)</li><li>[Customer Attributes](../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) (Up to 200)</li></ul>|
-|Data Workbench|<ul><li>Algorithmic Attribution</li><li>Pre-built workspaces|
-|Analytics Platform|[Live Stream](https://marketing.adobe.com/developer/documentation/analytics-live-stream/overview-1)   (raw data, dashboards, triggers)</li></ul>|
+|Data Workbench|<ul><li>Algorithmic Attribution</li><li>Pre-built workspaces</li></ul>|
+|Analytics Platform|[Live Stream](https://marketing.adobe.com/developer/documentation/analytics-live-stream/overview-1)   (raw data, dashboards, triggers)|
 
 
 ## Predictive Intelligence {#section_B407932C07A7476F83FB0275C3FB63DC}
