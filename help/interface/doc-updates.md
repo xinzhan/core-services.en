@@ -16,83 +16,72 @@ translate: y
 
 Information about updates to the Experience Cloud help.
 
+**9/5/2018**
 
-<table id="table_A8AED523DACD4C3FA6FA60DF0F408D51"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Date </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>9/5/2018 </p> </td> 
-   <td colname="col2"> <p>Added how to delete a customer attribute. See <a href="attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C" format="dita" scope="local"> (Optional) Update the schema (delete attributes)</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>6/8/20118 </p> </td> 
-   <td colname="col2"> <p>Updated <a href="attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19" format="dita" scope="local"> About data file and data sources for customer attributes</a> with information about uploading multiple files. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>6/6/2018 </p> </td> 
-   <td colname="col2"> <p>General updates to content and screens. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>2/6/2018 </p> </td> 
-   <td colname="col2"> <p>Updates to <a href="admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909" format="dita" scope="local"> Manage Experience Cloud users and products</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>1/17/2018 </p> </td> 
-   <td colname="col2"> <p>Some reorganization and link updates. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>12/29/2017 </p> </td> 
-   <td colname="col2"> <p>Revised guide for latest release. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> 3/15/2017 </p> </td> 
-   <td colname="col2"> <p>Updated the definition of Raw Analytics Data in <a href="audience-library/t-audience-create.md#task_37F407F58BF9459493BB8E968CDFE737" format="dita" scope="local"> Create an audience</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>2/23/2017 </p> </td> 
-   <td colname="col2"> <p>Added <a href="activation/triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB" format="dita" scope="local"> Experience Cloud Triggers</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>2/1/2017 </p> </td> 
-   <td colname="col2"> <p>Added <a href="core-services/core-services.md#concept_apg_zq2_rw" format="dita" scope="local"> report suite mapping</a> as a step to <a href="core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> enabling core services</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>5/9/2016 </p> </td> 
-   <td colname="col2"> <p>Added <a href="marketing-cloud-integrations.md#concept_9E6D3E37D1E3452E8CCCFA92AF034F90" format="dita" scope="local"> Experience Cloud Integrations</a>, a round-up of integration documentation. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>2/11/2016 </p> </td> 
-   <td colname="col2"> <p>Added <a href="experience-cloud-assets/experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0" format="dita" scope="local"> Experience Cloud Assets</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>3/2/2015 </p> </td> 
-   <td colname="col2"> <p>Added <a href="core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>1/15/2015 </p> </td> 
-   <td colname="col2"> <p> Added Experience Cloud Users can now share folders to the Creative Cloud and sync assets and comments across the two Clouds. See <a href="experience-cloud-assets/creative-cloud.md#concept_3E5A34C3459047D5965F900788A9BA68" format="dita" scope="local"> Asset Sharing</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>7/17/2014 </p> </td> 
-   <td colname="col2"> <p>Added <a href="admin-getting-started/faq.md#concept_13219B4E51784577B6FF78AAA203DE91" format="dita" scope="local"> Experience Cloud FAQ</a> for administrators. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>5/22/2014 </p> </td> 
-   <td colname="col2"> <p>Added documentation for <span class="wintitle"> Audiences</span> </p> <p>See <a href="audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7" format="dita" scope="local"> Audiences</a> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>5/22/2014 </p> </td> 
-   <td colname="col2"> <p>Updated <a href="admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909" format="dita" scope="local"> Manage Experience Cloud users and products</a> for information about becoming an administrator in the <span class="keyword"> Experience Cloud</span>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>5/22/2014 </p> </td> 
-   <td colname="col2"> <p>Added <a href="exchange.md#concept_E07F16F070544B82B56527A845C41D59" format="dita" scope="local"> Exchange Marketplace</a>. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+Added how to delete a customer attribute. See [(Optional) Update the schema (delete attributes)](attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
 
+**6/8/20118**
+
+Updated [About data file and data sources for customer attributes](attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) with information about uploading multiple files.
+
+**6/6/2018**
+
+General updates to content and screens.
+
+**2/6/2018**
+
+Updates to [Manage Experience Cloud users and products](admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909).
+
+**1/17/2018**
+
+Some reorganization and link updates.
+
+**12/29/2017**
+
+Revised guide for latest release.
+
+**3/15/2017**
+
+Updated the definition of Raw Analytics Data in [Create an audience](audience-library/t-audience-create.md#task_37F407F58BF9459493BB8E968CDFE737).
+
+**2/23/2017**
+
+Added [Experience Cloud Triggers](activation/triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB).
+
+**2/1/2017**
+
+Added [report suite mapping](core-services/core-services.md#concept_apg_zq2_rw) as a step to [enabling core services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C).
+
+**5/9/2016**
+
+Added [Experience Cloud Integrations](marketing-cloud-integrations.md#concept_9E6D3E37D1E3452E8CCCFA92AF034F90), a round-up of integration documentation.
+
+**2/11/2016**
+
+Added [Experience Cloud Assets](experience-cloud-assets/experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0).
+
+**3/2/2015**
+
+Added [Enable your solutions for core services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
+
+**1/15/2015**
+
+Added Experience Cloud Users can now share folders to the Creative Cloud and sync assets and comments across the two Clouds. See [Asset Sharing](experience-cloud-assets/creative-cloud.md#concept_3E5A34C3459047D5965F900788A9BA68).
+
+**7/17/2014**
+
+Added [Experience Cloud FAQ](admin-getting-started/faq.md#concept_13219B4E51784577B6FF78AAA203DE91) for administrators.
+
+**5/22/2014**
+
+Added documentation for Audiences
+
+See [Audiences](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7)
+
+**5/22/2014**
+
+Updated [Manage Experience Cloud users and products](admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about becoming an administrator in the Experience Cloud.
+
+**5/22/2014**
+
+Added [Exchange Marketplace](exchange.md#concept_E07F16F070544B82B56527A845C41D59).
