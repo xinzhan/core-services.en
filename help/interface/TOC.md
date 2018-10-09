@@ -12,11 +12,11 @@ tutorials: https://helpx.adobe.com/experience-cloud/tutorials.html
 # Table of Contents
 
 + [Experience Cloud and core services help](experience-cloud.md)
-+ [About the new cloud names in Experience Cloud](solutions-core-services.md)
 + About core services {#about-core-services}
     + [Core services overview](core-services-landing.md)
     + [Enable your solutions for core services](core-services/core-services.md)
     + [Map report suites to an organization](core-services/map-report-suite.md)
+    + [About the new cloud names in Experience Cloud](solutions-core-services.md)
 + [Experience Cloud Integrations](marketing-cloud-integrations.md)
 + Manage users and products {#manage-users-and-products}
     + [Manage Experience Cloud users and products](admin-getting-started/admin-getting-started.md)
@@ -54,14 +54,14 @@ tutorials: https://helpx.adobe.com/experience-cloud/tutorials.html
     + [Configure subscriptions](attributes/subscription.md)
     + [Update the schema](attributes/t-update-schema.md)
     + [Privacy considerations - customer attributes](attributes/privacy-mac.md)
-+ [Exchange Marketplace](exchange.md)
-+ [Feed](feed.md)
-+ [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/)
-+ [Forum](https://forums.adobe.com/community/experience-cloud)
-+ [Terminology](terms.md)
-+ [Using DNS prefetch with different solutions and services](dns-prefetch.md)
 + Release notes {#release-notes}
     + [What's new in the Experience Cloud](marketing-cloud-interface/marketing-cloud-interface.md)
     + [Cumulative release notes](marketing-cloud-interface/release-notes.md)
-+ [Documentation updates - Experience Cloud](doc-updates.md)
-+ [Contact and Legal Information](contact-and-legal.md)
++ [Exchange Marketplace](exchange.md)
++ [Feed](feed.md)
++ [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/)
++ More Resources {#more-resources}
+    + [Forum](https://forums.adobe.com/community/experience-cloud)
+    + [Terminology](terms.md)
+    + [Using DNS prefetch with different solutions and services](dns-prefetch.md)
+    + [Documentation updates - Experience Cloud](doc-updates.md)
