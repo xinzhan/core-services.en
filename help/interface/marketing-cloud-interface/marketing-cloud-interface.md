@@ -63,26 +63,13 @@ Fixes and improvements for June, 2018.
 
 New features and fixes in the [!DNL Adobe Experience Cloud] interface. 
 
-<table id="table_FC7B5C6C59BD45238220D606D7BFC0A1"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Feature </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr>
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>New administration landing page </p> </td> 
-   <td colname="col2"> <p>When you sign in to the Experience Cloud and navigate to the Administration page, a new intuitive interface is available to help you quickly access your Experience Cloud solutions and Core Services. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
-
+| Feature | Description |
+|--- |--- |
+|New administration landing page|When you sign in to the Experience Cloud and navigate to the Administration page, a new intuitive interface is available to help you quickly access your Experience Cloud solutions and Core Services.|
 **Fixes** 
 
 * Fixed an issue where the image upload failed due to a Scene7 update. (CORE-12746)
 * Made updates to drop support for TLS 1.0 protocol, as mandated by PCI to eliminate security vulnerability. (CORE-7695)
-
 
 
 ## October 26, 2017 {#section_11195859B4094177A939C0561428B525}
@@ -94,72 +81,26 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 ## August 8, 2017 {#section_2313A875454044F490B418506DD24593}
 
 
-<table id="table_948CCE041DCC4F8E852999473E9AE82C"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Feature </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Notifications - Granular settings </p> </td> 
-   <td colname="col2"> <p>You can enable notifications for product and solution events and activities, including notifications about <a href="../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> upload activity. 
-     <!--(MMR-743)--> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Notifications - Maintenance notifications </p> </td> 
-   <td colname="col2"> <p>In Notification settings, you can enable maintenance notifications for products and solutions. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Admin Console for Experience Cloud Solutions </p> </td> 
-   <td colname="col2"> <p>New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization. </p> <p>The migration to the Admin Console for user management will proceed in waves. Adobe will contact you (system administrators) when it is time to migrate. </p> <p>Analytics administrators, see <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/" format="https" scope="external"> Analytics Migration</a>. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Feature | Description |
+|--- |--- |
+|Notifications - Granular settings|You can enable notifications for product and solution events and activities, including notifications about [Customer Attributes](../attributes/attributes.md) upload activity.|
+|Notifications - Maintenance notifications|In Notification settings, you can enable maintenance notifications for products and solutions.|
+|Admin Console for Experience Cloud Solutions|New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization.<br>The migration to the Admin Console for user management will proceed in waves. Adobe will contact you (system administrators) when it is time to migrate.<br>Analytics administrators, see  [Analytics Migration](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/).|
 
 
 ## May 22, 2017 {#section_242FE649FA1B4BFA88EC6E353D175ACC}
 
-
-<table id="table_4E4B34EEE3D94D78BA1A1FBC62950559"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Feature </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Bulk Report Suite Mapping </p> </td> 
-   <td colname="col2"> <p>In <span class="uicontrol"> Administration</span> &gt; <span class="uicontrol"> Report Suite Mapping</span>, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.) </p> <p> <a href="../core-services/core-services.md#concept_apg_zq2_rw" format="dita" scope="local"> Mapping report suites</a> to a single organization helps enable cross-solution features and services in the Experience Cloud. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Updates to Experience Cloud Audiences </p> </td> 
-   <td colname="col2"> <p> <b>Applying Report Suites</b> </p> <p>You can now apply a report suite to all your <a href="https://marketing.adobe.com/resources/help/en_US/mcloud/t-audience-create.html" format="html" scope="external"> audience rules</a>. (Previously, you had to specify a report suite in each rule definition.) </p> <p> <b>Props and Variables</b> </p> <p>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
-
+| Feature | Description |
+|--- |--- |
+|Bulk Report Suite Mapping|In  Administration >  Report Suite Mapping, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.)  <br>[Mapping report suites](../core-services/core-services.md) to a single organization helps enable cross-solution features and services in the Experience Cloud.|
+|Updates to Experience Cloud Audiences|**Applying Report Suites**<br>You can now apply a report suite to all your [audience rules](https://marketing.adobe.com/resources/help/en_US/mcloud/t-audience-create.html). (Previously, you had to specify a report suite in each rule definition.) <br>**Props and Variables**<br>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences.|
 
 ## November 8, 2016 - 16.11.1 {#section_7065A9BCCDF544C2BB37E9A7D661EA6A}
 
 
-<table id="table_E9C662271DD94D84818FA962CADFC822"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Feature </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Update to Profile &amp; Passwords </p> </td> 
-   <td colname="col2"> <p>Users can no longer edit IMS user profile information under <span class="wintitle"> Personal Details</span> In <span class="uicontrol"> Edit Profile</span> &gt; <span class="uicontrol"> Profile &amp; Passwords</span>. Instead users are redirected to <span class="codeph"> accouts.adobe.com</span>. This applies to all identity types (Adobe ID, Enterprise, and Federated). 
-     <!--<xref href="https://jira.corp.adobe.com/browse/MAC-30214" format="https" scope="external">https://jira.corp.adobe.com/browse/MAC-30214</xref>--> </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Feature | Description |
+|--- |--- |
+|Update to Profile & Passwords|Users can no longer edit IMS user profile information under  Personal Details In  Edit Profile >  Profile & Passwords. Instead users are redirected to `accounts.adobe.com`. This applies to all identity types (Adobe ID, Enterprise, and Federated).|
 
 **Fixes** 
 
