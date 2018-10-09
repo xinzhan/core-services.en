@@ -71,8 +71,6 @@ Help for non-administrative users signing in to the Experience Cloud.
 
 ## Configure default personal account settings {#task_73CBCAE6C91749D19C95421E5AC311BA}
 
-Short Description
-
 You can edit personal details and specify a default [organization](../admin-getting-started/admin-getting-started.md#concept_705C626560A54CA2A4215F1C870C42B2) and landing page to display after signing in to the Experience Cloud. 
 
 1. Sign in to the Experience Cloud, then click your profile icon.
@@ -119,8 +117,6 @@ You can sort the Notifications display based on the message types that are impor
 
 ## Manage profiles and passwords {#task_7B89F4F38E5A4C4EB0FF842953856382}
 
-Short Description
-
 You can edit your Experience Cloud profile, specify a default organization and landing page, and more. 
 
 1. [Sign in to the Experience Cloud](../admin-getting-started/getting-started-experience-cloud.md#task_1BFE87E20DCB44078CAC82F3CD44B985).
@@ -133,9 +129,6 @@ You can edit your Experience Cloud profile, specify a default organization and l
    On the Profile & Passwords page, complete the fields and options under Personal Details. 
 
 ## Recover your password {#task_46541A2806164CB1A4AE8239604E4EB1}
-
-Short Description
-
 
 1. Navigate to your solution login page.
 1. Click **[!UICONTROL Forgot Password]**.

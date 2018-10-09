@@ -18,8 +18,6 @@ Create the customer attribute source and upload the data. You can activate the d
 
 ## Customer attributes workflow {#concept_BF0AF88E9EF841219ED4D10754CD7154}
 
-Short Description
-
 ![](assets/crs.png) 
 
 1. [Create a data file](../attributes/t-crs-usecase.md#task_B5FB8C0649374C7A94C45DCF2878EA1A)
