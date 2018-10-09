@@ -33,8 +33,6 @@ All audiences, regardless of where they are sourced, are accessible for real-tim
 
 ## How solutions use audiences {#concept_01EB9345C5344597BC94A864EDD38EE1}
 
-Short Description
-
 The following table describes how audiences are used in Experience Cloud solutions: 
 
 | Solution | Description |
