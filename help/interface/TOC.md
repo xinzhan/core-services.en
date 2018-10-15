@@ -1,7 +1,7 @@
 ---
 cloud: experience-cloud
 product: core-services
-archtype: end-user
+audience: end-user
 user-guide: null
 hub: https://helpx.adobe.com/support/experience-cloud/core-services.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.en
