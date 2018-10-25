@@ -6,30 +6,26 @@ seo-title: Experience Cloud and core services help
 solution: Experience Cloud
 title: Experience Cloud and core services help
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-index: y
-internal: n
-snippet: y
-translate: y
 ---
 
-# Experience Cloud and core services help {#section_AFFBC9EDDE5B4E4493A7C2896121A773}
+# Experience Cloud and Core Services help
 
 The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
 
-**Administration & Enablement** 
+## Administration & Enablement
 
-* [User and product management](admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) (Admin Console)
-* [Enable your solutions for core services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
-* [Frequently asked questions](admin-getting-started/admin-getting-started.md#concept_A9A190B372C5450CA53D60431D362143)
-* [Organizations and account linking](admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
+* [User and product management](admin-getting-started/admin-getting-started.md) (Admin Console)
+* [Enable your solutions for core services](core-services/core-services.md)
+* [Frequently asked questions](admin-getting-started/admin-getting-started.md)
+* [Organizations and account linking](admin-getting-started/organizations.md)
 * [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/)
-* [Integrations](marketing-cloud-integrations.md#concept_9E6D3E37D1E3452E8CCCFA92AF034F90)
+* [Integrations](marketing-cloud-integrations.md)
 * [Integrating Adobe Target with the Experience Cloud](https://marketing.adobe.com/resources/help/en_US/target/a4t/c_integrating_target_with_mac.html)
 * [Experience Cloud privacy and security Overview](https://marketing.adobe.com/resources/help/en_US/xref/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [Profile Management in Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
 * [DNS prefetch](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
-**Core Services Product Documentation** 
+## Core Services Product Documentation 
 
 * [Activation](https://marketing.adobe.com/resources/help/en_US/dtm/) 
 
@@ -46,12 +42,12 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 * [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/)
 * [Triggers](activation/triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB)
 
-**Release Notes** 
+## Release Notes 
 
 * [What's New in the Experience Cloud](marketing-cloud-interface/marketing-cloud-interface.md#concept_9A4370BD59744928BDC9F87E978798B3)
 * [Release Notes - Cumulative Fixes](marketing-cloud-interface/release-notes.md#concept_F5C9FF69A5B44395BB5FA0552F4E9175)
 
-**Community Resources & Blogs** 
+## Community Resources & Blogs 
 
 * [Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html)
 * [Contact Support](https://helpx.adobe.com/marketing-cloud/contact-support.html)
