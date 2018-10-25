@@ -2,14 +2,16 @@
 cloud: experience-cloud
 product: core-services
 audience: end-user
-user-guide: null
-hub: https://helpx.adobe.com/support/experience-cloud/core-services.html
+user-guide-url: null
+solution-title: Core Services
+solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
+solution-image: assets/core-services.png
+getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
+tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.en
-getting-started: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
-tutorials: https://helpx.adobe.com/experience-cloud/tutorials.html
 ---
 
-# Table of Contents
+# Core Services User Guide {#user-guide}
 
 + [Experience Cloud and core services help](experience-cloud.md)
 + About core services {#about-core-services}
