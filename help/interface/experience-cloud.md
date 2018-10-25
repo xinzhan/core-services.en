@@ -12,6 +12,20 @@ uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 
 The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
 
+![](assets/experience-cloud-core-services.png) 
+
+## Core Services Product Documentation 
+
+| Service | Description |
+|--- |--- |
+|[Activation](activation/activation.md)|Activation is the core service that enables you to implement and deploy Experience Cloud solutions. It includes:<ul><li>[Launch, by Adobe](https://docs.adobelaunch.com/) (the latest tag management solution)</li><li>[Dynamic Tag Manager](https://marketing.adobe.com/resources/help/en_US/dtm/)</li><li>[Triggers](activation/triggers.md)</li><li>[Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/)</li><li>[Experience Cloud Debugger](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/)</li></ul>|
+|[Administration](admin-getting-started/admin-getting-started.md)|Manage Experience Cloud user entitlements and product profiles.|
+|[Assets](experience-cloud-assets/experience-cloud-assets.md)|Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions.|
+|[Exchange](https://experiencecloud.adobeexchange.com/)|Expand your Adobe Experience Cloud functionality with the best extensions, scripts, and more. Explore with the search bar, or sort by product or app type.|
+|[Feed](feed.md)|Share or post assets and Analytics reports directly with others using your Experience Cloud Feed.|
+|[Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/)|Mobile Services brings together mobile marketing capabilities for mobile applications from across the Adobe Marketing Cloud, which allows you to understand and improve user engagement with your mobile applications.|
+|[People](audience-library/audience-library.md)|In the Audience Library, you can create audiences, combine existing audiences to create composite audiences, and view all shared audiences.<br>In [Customer Attributes](attributes/attributes.md), you can also upload enterprise customer data to the Experience Cloud.|
+
 ## Administration & Enablement
 
 * [User and product management](admin-getting-started/admin-getting-started.md) (Admin Console)
@@ -25,23 +39,6 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 * [Profile Management in Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
 * [DNS prefetch](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
-## Core Services Product Documentation 
-
-* [Activation](https://marketing.adobe.com/resources/help/en_US/dtm/) 
-
-  * [Launch, by Adobe](https://docs.adobelaunch.com/)    
-  * [Dynamic Tag Manager](https://marketing.adobe.com/resources/help/en_US/dtm/)    
-  * [Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/)    
-  * [Experience Cloud Debugger](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/)    
-  * [Triggers](activation/triggers.md#topic_4F21FCE9A64E46E8B6D51F494FA652A7)    
-
-* [Assets](experience-cloud-assets/experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0)
-* [Audiences](audience-library/audience-library.md#concept_3D52E1DED6D04ECC949B514E182C4655)
-* [Customer Attributes](attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1)
-* [Feed](feed.md#concept_9256B8768A294009A777282DD8719213)
-* [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/)
-* [Triggers](activation/triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB)
-
 ## Release Notes 
 
 * [What's New in the Experience Cloud](marketing-cloud-interface/marketing-cloud-interface.md#concept_9A4370BD59744928BDC9F87E978798B3)
@@ -50,22 +47,9 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 ## Community Resources & Blogs 
 
 * [Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html)
-* [Contact Support](https://helpx.adobe.com/marketing-cloud/contact-support.html)
+* [Experience League](https://landing.adobe.com/experience-league/)
+* [Contact Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 * [Experience Cloud Community](https://forums.adobe.com/community/experience-cloud)
-* [Experience Cloud Solution Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/)
-* [Solution Help Home](https://marketing.adobe.com/resources/help/en_US/home/)
 * [Adobe Training and Tutorials](https://helpx.adobe.com/learning.html?promoid=KAUDK)
-* Quick links to solution documentation: 
-
-    * [Analytics](https://marketing.adobe.com/resources/help/en_US/analytics/getting-started/)    
-    * [Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/c_aam_home.html)    
-    * [Experience Manager](https://docs.adobe.com/)    
-    * [Media Optimizer](https://marketing.adobe.com/resources/help/en_US/media-optimizer/)    
-    * [Primetime](https://help.adobe.com/en_US/primetime/)    
-    * [Social](https://marketing.adobe.com/resources/help/en_US/social/)    
-    * [Target](https://marketing.adobe.com/resources/help/en_US/target/)    
-
-* [Experience Cloud Overview](https://blogs.adobe.com/digitalmarketing/web-experience/part-1-adobes-art-science-todays-new-marketer/) (blog)
+* [Adobe Customer Experience Blog](https://theblog.adobe.com/customer-experience/) (blog)
 * [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
-* [Experience Cloud Forum](https://forums.adobe.com/community/experience-cloud)
-* [Adobe Experience Cloud Community](https://helpx.adobe.com/marketing-cloud.html?promoid=KAWSE) (adobe.com)
