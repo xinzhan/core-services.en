@@ -12,7 +12,7 @@ tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.en
 ---
 
-# Core Services User Guide {#user-guide}
+# Core Services User Guide {#interface}
 
 + [Experience Cloud and core services help](experience-cloud.md)
 + About core services {#about-core-services}
