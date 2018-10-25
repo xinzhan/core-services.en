@@ -2,6 +2,7 @@
 cloud: experience-cloud
 product: core-services
 audience: end-user
+user-guide: null
 user-guide-url: null
 solution-title: Core Services
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
