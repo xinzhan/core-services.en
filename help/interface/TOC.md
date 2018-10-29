@@ -10,6 +10,7 @@ solution-image: assets/core-services.png
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.en
+index: no
 ---
 
 # Core Services User Guide {#interface}
