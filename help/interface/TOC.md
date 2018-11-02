@@ -6,7 +6,7 @@ user-guide-title: Core Services User Guide
 user-guide-url: null
 solution-title: Core Services
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
-solution-image: assets/core-services.png
+solution-image: assets/experience-cloud-logo-24.png
 getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
 tutorials-title: Tutorials
