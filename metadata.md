@@ -2,7 +2,7 @@
 cloud: experience-cloud
 solution-title: Core Services
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
-solution-image: assets/core-services.png
+solution-icon: help/interface/assets/experience-cloud-logo-24.png
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.en
@@ -17,7 +17,9 @@ The metadata.md file includes repo-level metadata that passes through to user gu
 | solution-title | Used in article header as link |
 | solution-hub-url | Opens helpx hub page |
 | solution-icon | Displays solution icon next to solution title. Not yet implemented |
+| getting-started-title | Rarely used when Tutorials is not appropriate |
 | getting-started-url | Link to helpx getting started page |
+| tutorials-title | Rarely used when Tutorials is not appropriate |
 | tutorials-url | Link to video tutorials--either helpx tutorials or KT tutorials |
 | mini-toc-levels | Determines the number of heading levels that appear in right rail. default is 2 |
-| git-repo | Specifies the location of the master repo for internal use |
+| git-repo | Specifies the location of the collaboration repo. Use the github.com mirror for public-facing docs |
