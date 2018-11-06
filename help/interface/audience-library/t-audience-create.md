@@ -63,17 +63,17 @@ The following example shows how to create the rules for a composite audience. Th
   >You should have an understanding of your implementation variables when defining audience rules.
 
   Under [!UICONTROL Rules], define the *`Home & Garden`* attribute selections: 
-    
-  * **[!UICONTROL Attribute Source:]** Raw Analytics Data    
-  * **[!UICONTROL Report Suite:]** Report Suite 31    
-  * Dimension = **[!UICONTROL Store (Merch) (v6)]** > **[!UICONTROL Equals]** > **[!UICONTROL Home & Garden]** 
+  
+* **[!UICONTROL Attribute Source:]** Raw Analytics Data    
+* **[!UICONTROL Report Suite:]** Report Suite 31    
+* Dimension = **[!UICONTROL Store (Merch) (v6)]** > **[!UICONTROL Equals]** > **[!UICONTROL Home & Garden]** 
     
   ![](assets/home_garden.png) 
     
   The *Chrome & Safari Visitors* is an audience segment shared from Analytics: 
     
-  * **[!UICONTROL Attribute Source:]** Experience Cloud    
-  * **[!UICONTROL Dimension:]** Chrome & Safari Visitors
+* **[!UICONTROL Attribute Source:]** Experience Cloud    
+* **[!UICONTROL Dimension:]** Chrome & Safari Visitors
    
   ![](assets/chrome_safari.png) 
     
