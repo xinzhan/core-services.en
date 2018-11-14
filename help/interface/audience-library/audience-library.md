@@ -5,7 +5,7 @@ seo-title: Audiences
 solution: Experience Cloud
 title: Audiences
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

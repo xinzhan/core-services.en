@@ -5,7 +5,7 @@ seo-title: About the new cloud names in Experience Cloud
 solution: Experience Cloud
 title: About the new cloud names in Experience Cloud
 uuid: 27d022ad-50fa-485e-8f94-0959112cf3d0
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

@@ -6,7 +6,7 @@ seo-title: Cumulative release notes
 solution: Experience Cloud
 title: Cumulative release notes
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

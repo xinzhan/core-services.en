@@ -6,7 +6,7 @@ seo-title: What's new in the Experience Cloud
 solution: Experience Cloud
 title: What's new in the Experience Cloud
 uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

@@ -4,7 +4,7 @@ seo-description: Learn how to map one or multiple report suites to an organizati
 seo-title: Map report suites to an organization
 title: Map report suites to an organization
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

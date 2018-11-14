@@ -6,7 +6,7 @@ seo-title: Embedding content
 solution: Experience Cloud
 title: Embedding content
 uuid: 13b29be9-1d4f-4bf5-900f-9489d3e042d7
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

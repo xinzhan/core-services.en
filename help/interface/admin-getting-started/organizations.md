@@ -6,7 +6,7 @@ seo-title: Organizations and account linking
 solution: Marketing Cloud
 title: Organizations and account linking
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

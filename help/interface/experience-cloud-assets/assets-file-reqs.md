@@ -6,7 +6,7 @@ seo-title: Asset file requirements for sharing
 solution: Experience Cloud
 title: Asset file requirements for sharing
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

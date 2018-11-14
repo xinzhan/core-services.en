@@ -6,7 +6,7 @@ seo-title: Privacy considerations - customer attributes
 solution: Experience Cloud
 title: Privacy considerations - customer attributes
 uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

@@ -6,7 +6,7 @@ seo-title: Upload an asset to a shared folder from the Creative Cloud browser
 solution: Experience Cloud
 title: Upload an asset to a shared folder from the Creative Cloud browser
 uuid: 701e28ed-4d1f-4109-882e-64d3b16cd2da
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

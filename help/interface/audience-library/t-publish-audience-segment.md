@@ -6,7 +6,7 @@ seo-title: Publish an Analytics audience segment
 solution: Experience Cloud
 title: Publish an Analytics audience segment
 uuid: 4201dc22-4b79-457c-a614-949bba087617
-index: y
+index: n
 internal: n
 snippet: y
 translate: y

@@ -6,7 +6,7 @@ seo-title: Sign in and manage your profile settings
 solution: Marketing Cloud
 title: Sign in and manage your profile settings
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
-index: y
+index: n
 internal: n
 snippet: y
 translate: y
