@@ -93,7 +93,7 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 | Feature | Description |
 |--- |--- |
 |Bulk Report Suite Mapping|In  Administration >  Report Suite Mapping, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.)  <br>[Mapping report suites](../core-services/core-services.md) to a single organization helps enable cross-solution features and services in the Experience Cloud.|
-|Updates to Experience Cloud Audiences|**Applying Report Suites**<br>You can now apply a report suite to all your [audience rules](https://marketing.adobe.com/resources/help/en_US/mcloud/t-audience-create.html). (Previously, you had to specify a report suite in each rule definition.) <br>**Props and Variables**<br>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences.|
+|Updates to Experience Cloud Audiences|**Applying Report Suites**<br>You can now apply a report suite to all your [audience rules](/help/interface/audience-library/t-audience-create.html). (Previously, you had to specify a report suite in each rule definition.) <br>**Props and Variables**<br>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences.|
 
 ## November 8, 2016 - 16.11.1 {#section_7065A9BCCDF544C2BB37E9A7D661EA6A}
 
@@ -106,5 +106,3 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 
 * Fixed an issue with technical passwords that caused an error in folder sharing between Creative Cloud and Experience Cloud. (MAC-31067, MAC-32014)
 * Fixed an issue with the upload of certain file types, including PDF, that was found after the October release in Assets Core Service. (MAC-32517)
-
-
