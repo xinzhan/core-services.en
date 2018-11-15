@@ -9,7 +9,6 @@ uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 index: n
 internal: n
 snippet: y
-translate: y
 ---
 
 # About data file and data sources for customer attributes
