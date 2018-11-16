@@ -1,5 +1,6 @@
 ---
 cloud: experience-cloud
+product: core-services
 solution-title: Core Services
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/interface/assets/experience-cloud-logo-24.png
