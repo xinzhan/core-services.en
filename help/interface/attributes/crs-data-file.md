@@ -113,7 +113,9 @@ The same file viewed in a text editor:
    <td colname="col1"> <p>FTP Guidelines and size limitations </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_E157EE6F98914EADA0C103D1D1E705D3"> 
-      <li id="li_84FBD455DD164A28AC16F4A5AB19E4B3">File size limit for FTP is 4 GB for each upload. </li> 
+      <li id="li_84FBD455DD164A28AC16F4A5AB19E4B3">Maximum file size limit for FTP is 4 GB for each upload. </li> 
+      <li>Minimum file size limit for 10 mb for each upload. </li>
+      <li>You can upload one file every half hour. </li>
       <li id="li_B69A20C51D824727AA99C1F6F78537A4"> You should drop your <span class="filepath"> .csv </span> (and <span class="filepath"> .fin </span>) file in the root folder of the FTP site. </li> 
      </ul> </p> <p> <p>Important:  The total allowed space for the FTP account is 40 GB. It is your responsibility to delete processed files. </p> </p> </td> 
   </tr> 
@@ -129,11 +131,7 @@ The same file viewed in a text editor:
    <td colname="col1"> <p>Character Encoding </p> </td> 
    <td colname="col2"> <p>For Japan, UTF-8 is mandatory. </p> </td> 
   </tr> 
-  <tr> 
-   <td colname="col1"> <p>Character length </p> </td> 
-   <td colname="col2"> </td> 
-  </tr> 
-  <tr> 
+   <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
    <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in Analytics. As such, customer attributes are associated with the visitor for the entire life of that visitor profile in Analytics. This includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the data warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> </td> 
   </tr> 
