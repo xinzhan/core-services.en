@@ -6,10 +6,6 @@ seo-title: Configure subscriptions
 solution: Experience Cloud
 title: Configure subscriptions
 uuid: f74a8155-0a21-46b3-9b1e-4c838f72f24f
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Configure subscriptions

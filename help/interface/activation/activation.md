@@ -6,10 +6,6 @@ seo-title: Activation
 solution: Experience Cloud
 title: Activation
 uuid: 54ada638-3592-49ee-930a-9f44bcc5e5d3
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Activation
