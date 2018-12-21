@@ -5,10 +5,6 @@ seo-title: Using DNS prefetch with different solutions and services
 solution: Experience Cloud
 title: Using DNS prefetch with different solutions and services
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Using DNS prefetch with different solutions and services

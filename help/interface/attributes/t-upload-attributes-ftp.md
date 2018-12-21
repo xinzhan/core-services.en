@@ -6,10 +6,6 @@ seo-title: Optional - Upload the data file via FTP
 solution: Experience Cloud
 title: Optional - Upload the data file via FTP
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Optional - Upload the data file via FTP

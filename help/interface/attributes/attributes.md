@@ -6,10 +6,6 @@ seo-title: Customer attributes
 solution: Experience Cloud
 title: Customer attributes
 uuid: 1621402d-990f-46f9-981a-473280559069
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Customer attributes

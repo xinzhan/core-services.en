@@ -5,10 +5,6 @@ seo-title: Audiences
 solution: Experience Cloud
 title: Audiences
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}

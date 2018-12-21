@@ -5,10 +5,6 @@ seo-title: Assets
 solution: Experience Cloud
 title: Assets
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Assets

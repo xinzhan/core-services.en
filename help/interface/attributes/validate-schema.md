@@ -6,10 +6,6 @@ seo-title: Validate the schema
 solution: Experience Cloud
 title: Validate the schema
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Validate the schema
