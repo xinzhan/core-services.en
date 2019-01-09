@@ -16,6 +16,11 @@ For a list of documentation updates, see [Experience Cloud](../doc-updates.md#co
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/). 
 
+## Release 19.1.1 - January 17 2019
+
+* Fixed an issue preventing the help search from returning results. (MCUI-1670)
+* Fixed and improved eVar management in Triggers. (MCUI-6400) 
+
 ## Release 16.5.1 - May 26 2016 {#section_3785F182BC13493F84903CA69EB6D0A8}
 
 **Features and Improvements** 
