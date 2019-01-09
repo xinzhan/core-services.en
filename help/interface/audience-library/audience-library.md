@@ -5,10 +5,6 @@ seo-title: Audiences
 solution: Experience Cloud
 title: Audiences
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
@@ -25,10 +21,10 @@ Audiences can be created or derived from various sources, such as:
 
 **Real-Time vs. Historical Audiences**
 
-All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. The system evaluates audiences in two ways: 
+All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. However, audiences shared from Analytics to Audience Manager are not accessible for real-time targetting. The system evaluates audiences in two ways: 
 
 * Historical audiences are sourced from analytics are evaluated every 12 hours. Historical audiences always include return visitors.
-* Real-time audiences are sourced in the Experience Cloud Audiences are evaluated real time.
+* Real-time audiences are sourced in the Experience Cloud Audiences and evaluated in real time.
 
 
 ## How solutions use audiences {#concept_01EB9345C5344597BC94A864EDD38EE1}

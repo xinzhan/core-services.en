@@ -9,7 +9,6 @@ uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 index: n
 internal: n
 snippet: y
----
 
 # About data file and data sources for customer attributes
 
@@ -80,7 +79,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Customer ID column </p> </td> 
-   <td colname="col2"> <p> The first column must be a unique customer ID. The ID used should correspond to the ID that is being passed to the Experience Cloud ID Service. </p> <p>For Analytics, the ID being stored in a prop or eVar. </p> <p>For Target, the setCustomerID value. (See <a href="../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Target - synching the customer ID </a>) </p> <p> This customer ID is the unique identifier your CRM uses for each person in your database. The remaining columns are attributes that come from your CRM. You will choose how many attributes to upload. </p> <p>Friendly, readable names are recommended for the column headings, but not required. When you validate the schema after upload, you can map friendly names to the uploaded rows and columns. </p> <p> <b>About Customer IDs</b> </p> <p>Typically, an enterprise uses a customer ID from a CRM system. This ID is set using the <span class="codeph"> setCustomerIDs </span> call when a person logs in. This ID is also used as the key in the CRM file that is uploaded to the Experience Cloud. An <a href="../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local"> Alias ID </a> is a friendly name for a data store in Audience Manager, where the alias data is stored. The system sends aliases to this data store (via setCustomerIDs). The CRM file is applied to the data in that data store. </p> <p>For <span class="codeph"> setCustomerIDs </span> information, see <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids" format="https" scope="external"> Customer IDs and Authentication States </a>. </p> </td> 
+   <td colname="col2"> <p> The first column must be a unique customer ID. The ID used should correspond to the ID that is being passed to the Experience Cloud ID Service. </p> <p>For Analytics, the ID being stored in a prop or eVar. </p> <p>For Target, the setCustomerID value. (See <a href="../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Target - synching the customer ID </a>) </p> <p> This customer ID is the unique identifier your CRM uses for each person in your database. The remaining columns are attributes that come from your CRM. You will choose how many attributes to upload. </p> <p>Friendly, readable names are recommended for the column headings, but not required. When you validate the schema after upload, you can map friendly names to the uploaded rows and columns. </p> <p> <b>About Customer IDs</b> </p> <p>Typically, an enterprise uses a customer ID from a CRM system. This ID is set using the <span class="codeph"> setCustomerIDs </span> call when a person logs in. This ID is also used as the key in the CRM file that is uploaded to the Experience Cloud. An <a href="../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local"> Alias ID </a> is a friendly name for a data store in Audience Manager, where the alias data is stored. The system sends aliases to this data store (via setCustomerIDs). The CRM file is applied to the data in that data store. </p> <p>For <span class="codeph"> setCustomerIDs </span> information, see <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-authenticated-state.html" format="https" scope="external"> Customer IDs and Authentication States </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Subsequent headers and columns </p> </td> 
@@ -112,7 +111,9 @@ The same file viewed in a text editor:
    <td colname="col1"> <p>FTP Guidelines and size limitations </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_E157EE6F98914EADA0C103D1D1E705D3"> 
-      <li id="li_84FBD455DD164A28AC16F4A5AB19E4B3">File size limit for FTP is 4 GB for each upload. </li> 
+      <li id="li_84FBD455DD164A28AC16F4A5AB19E4B3">Maximum file size limit for FTP is 4 GB for each upload. </li> 
+      <li>Minimum file size limit for 10 mb for each upload. </li>
+      <li>You can upload one file every half hour. </li>
       <li id="li_B69A20C51D824727AA99C1F6F78537A4"> You should drop your <span class="filepath"> .csv </span> (and <span class="filepath"> .fin </span>) file in the root folder of the FTP site. </li> 
      </ul> </p> <p> <p>Important:  The total allowed space for the FTP account is 40 GB. It is your responsibility to delete processed files. </p> </p> </td> 
   </tr> 
@@ -128,11 +129,7 @@ The same file viewed in a text editor:
    <td colname="col1"> <p>Character Encoding </p> </td> 
    <td colname="col2"> <p>For Japan, UTF-8 is mandatory. </p> </td> 
   </tr> 
-  <tr> 
-   <td colname="col1"> <p>Character length </p> </td> 
-   <td colname="col2"> </td> 
-  </tr> 
-  <tr> 
+   <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
    <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in Analytics. As such, customer attributes are associated with the visitor for the entire life of that visitor profile in Analytics. This includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the data warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> </td> 
   </tr> 

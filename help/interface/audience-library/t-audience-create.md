@@ -6,10 +6,6 @@ seo-title: Create an audience
 solution: Experience Cloud
 title: Create an audience
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Create an audience

@@ -6,10 +6,6 @@ seo-title: Feed
 solution: Experience Cloud
 title: Feed
 uuid: 7ff327d1-5a74-49fb-8c3c-729034818ebc
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Feed

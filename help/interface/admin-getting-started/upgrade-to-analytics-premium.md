@@ -7,10 +7,6 @@ solution: Experience Cloud
 title: Upgrading to Analytics Premium and the Experience Cloud
 topic: Premium
 uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Upgrading to Analytics Premium and the Experience Cloud

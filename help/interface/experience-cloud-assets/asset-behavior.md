@@ -6,10 +6,6 @@ seo-title: Behavior of shared folders
 solution: Experience Cloud
 title: Behavior of shared folders
 uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf
-index: n
-internal: n
-snippet: y
-translate: y
 ---
 
 # Behavior of shared folders

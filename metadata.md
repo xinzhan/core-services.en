@@ -1,11 +1,14 @@
 ---
 cloud: experience-cloud
+product: core-services
 solution-title: Core Services
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/interface/assets/experience-cloud-logo-24.png
+getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
+tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
-git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.en
+git-repo: https://github.com/AdobeDocs/core-services.en
 ---
 
 # Metadata for internal use
