@@ -65,9 +65,9 @@ This data is enterprise customer data from your CRM. The data might include subs
 Perform these steps on the Create New Customer Attribute Source page in the Experience Cloud.
 
 
->[!NOTE]
+>[!IMPORTANT]
 >
->When creating, modifying, or deleting customer attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source.
+>When creating, modifying, or deleting customer attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source. You must have administrative rights in Audience Manager to create or modify customer attribute sources. Contact Audience Manager Customer Care or consulting to obtain administrative rights.
 
 
 1. In the [!DNL Experience Cloud], click the Menu  ![](assets/menu-icon.png) icon.
