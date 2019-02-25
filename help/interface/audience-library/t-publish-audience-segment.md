@@ -23,7 +23,7 @@ Publish an Analytics audience segment to the Experience Cloud and to Adobe Targe
     |Select the window for audience creation|Note that this is a **rolling** time window, not a fixed one.|
 
 1.  Click **[!UICONTROL Save]**.
-1.  Access [!DNL Adobe Target], then navigate to the [!UICONTROL Segment] list.
-1.  On the [!UICONTROL Segment] page, click **[!UICONTROL Import Experience Cloud Audiences]**
+1.  Access [!DNL Adobe Target], click [!UICONTROL Audiences].
+1.  On the [!UICONTROL Audiences] page, locate the audience sourced from the Experience Cloud.
 
-    This option displays the [!DNL Analytics] segment for use in activities. 
+    These audiences are available for use in activities. 
