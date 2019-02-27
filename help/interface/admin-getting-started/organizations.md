@@ -24,11 +24,11 @@ Also, you might need to locate your organization ID for support purposes. You ca
 
 ## Find your Organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
 
-To view your Organization ID, click ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**. 
+The **organization ID** is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg.
+
+To view your Organization ID, navigate to the Experience Cloud landing page, or click ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**. You can find the organization ID on the bottom of the [!UICONTROL Getting Started with the Experience Cloud] page, or the [!UICONTROL Administration] page.
 
 ![](assets/administration-page.png) 
-
-The **organization ID** is found on the bottom of the Administration page. This ID is the associated ID with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg. 
 
 ## Link a solution account to an Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
 
