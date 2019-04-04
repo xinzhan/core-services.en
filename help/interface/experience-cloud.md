@@ -35,7 +35,7 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 * [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/)
 * [Integrations](marketing-cloud-integrations.md)
 * [Integrating Adobe Target with the Experience Cloud](https://marketing.adobe.com/resources/help/en_US/target/a4t/c_integrating_target_with_mac.html)
-* [Experience Cloud privacy and security Overview](/assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
+* [Experience Cloud privacy and security Overview](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [Profile Management in Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
 * [DNS prefetch](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
