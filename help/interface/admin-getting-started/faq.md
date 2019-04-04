@@ -52,7 +52,6 @@ Provisioning in the Experience Cloud means:
 * You can become prepared to retire your solution-specific login process.
 * You can retain access control to solutions.
 
-
 **How do I manage users and product profiles?** 
 
 * See the [Admin Console User Guide](https://helpx.adobe.com/enterprise/administering/user-guide.html) for help. 
@@ -60,8 +59,6 @@ Provisioning in the Experience Cloud means:
 * User entitlements and product management is performed in the [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (product link). 
 
 * **Important:** Analytics administrators, see [Manage Analytics Users in the Admin Console](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/) about migrating user IDs from Analytics Admin Tools to the Admin Console. 
-
-
 
 **What do I do if someone cannot log in to the Experience Cloud?** 
 
@@ -83,9 +80,11 @@ See [Manage user accounts](../admin-getting-started/organizations.md#topic_C31CB
 
 An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and solutions. Most often, an organization is your company name. However, a company can have many organizations. 
 
-**Where can I find my IMS organization ID?** 
+**Where can I find my IMS Organization ID?** 
 
-Click the Experience Cloud menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**. The organization ID is near the bottom of the page. 
+See [Finding your Organization ID](organizations.md). 
+
+The Organization ID is displayed on the Experience Cloud landing page and the [Admin Console landing page](https://adminconsole.adobe.com). 
 
 Alternatively, administrators can log into the Admin console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com#)) for a specific organization, and you will be able to see your IMS org ID in the URL. 
 
