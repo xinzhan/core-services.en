@@ -129,7 +129,7 @@ Contact Customer Care to enable historical data.
 
 Experience Cloud services (such as Experience Cloud ID service and People) are associated with an Experience Cloud organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an Experience Cloud organization. 
 
-See [Map report suites to an organization](map-report-suite.md). 
+See [Map report suites to an organization](report-suite-mapping.md). 
 
 ## Step 4. (Adobe Analytics) Modernize your Analytics AppMeasurement code {#section_1798D9D0F05C47E29816AC4EEB9A0913}
 
