@@ -11,7 +11,7 @@ index: no
 + About core services {#about-core-services}
     + [Core services overview](core-services-landing.md)
     + [Enable your solutions for core services](core-services/core-services.md)
-    + [Map report suites to an organization](core-services/map-report-suite.md)
+    + [Map report suites to an organization](core-services/report-suite-mapping.md)
     + [About the new cloud names in Experience Cloud](solutions-core-services.md)
 + [Experience Cloud Integrations](marketing-cloud-integrations.md)
 + Manage users and products {#manage-users-and-products}
