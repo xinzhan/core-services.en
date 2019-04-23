@@ -12,7 +12,6 @@ uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf
 
 Rules for how shared folders behave when moved, deleted, and restored.
 
-
 >[!NOTE]
 >
 >Shared Experience Cloud folders and assets are mirrored to the Creative Cloud desktop in a 1:1 relationship. If an Experience Cloud user changes a folder (deletes, adds, or removes sharing), the action is mirrored in the Creative Cloud desktop and web. As such, if a folder is unshared, the folder and assets are deleted from your local machine. After sharing is removed, the folder and its contents are moved to the trash can on your local computer, where you can manually restore them to your machine.

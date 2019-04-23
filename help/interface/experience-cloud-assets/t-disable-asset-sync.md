@@ -12,12 +12,10 @@ uuid: 17c42b39-614c-45e4-bfb1-c6cb2fd66150
 
 How to disable the synchronization of shared Experience Cloud folders within your Creative Cloud Files folder.
 
-
 >[!NOTE]
 >
 >You can desynchronize only folders that you own.
 <p class="head"> <b>Windows</b> </p>
-
 
 1. Open Windows Explorer. 
 
@@ -27,10 +25,7 @@ How to disable the synchronization of shared Experience Cloud folders within you
 
 1. Deselect any folder that you do not want to synchronize. 
 
-
-
 <p class="head"> <b>Mac OS</b> </p>
-
 
 1. Open a Finder window. 
 
@@ -42,7 +37,4 @@ How to disable the synchronization of shared Experience Cloud folders within you
 
 1. Deselect any folder that you do not want to synchronize. 
 
-   Synchronized folders have a checkmark next to the folder name. 
-
-
-
+   Synchronized folders have a checkmark next to the folder name.

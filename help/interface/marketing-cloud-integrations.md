@@ -94,7 +94,6 @@ Enables Analytics to collect impressions and clicks on Assets served up from AEM
 * Analytics
 * Experience Manager
 
-
 ## Audience Manager integrations {#section_8FEFE1746E26416EB7E73095BBAD5345}
 
 [Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/c_integration.html) (integration home) 
@@ -116,7 +115,6 @@ Use the Experience Cloud Activation solutions to set up and debug your Experienc
 1. Use [Launch](https://docs.adobelaunch.com) or [Dynamic Tag Management](https://marketing.adobe.com/resources/help/en_US/dtm/) to insert code that activates [Adobe Experience Cloud solutions](solutions-core-services.md#topic_BD726D3A649E4FC49063029E86B70C62) on your pages.
 1. Use [Adobe Cloud Platform Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/) to test your implementations.
 
-
 Use the Adobe Experience Cloud Debugger extension to debug issues found by Auditor or to examine other information about your implementations. 
 
 **Applicable solutions or services** 
@@ -128,8 +126,6 @@ Use the Adobe Experience Cloud Debugger extension to debug issues found by Audit
 * [MAC ID Service](https://marketing.adobe.com/resources/help/en_US/dtm/macid.html)
 * [Nielsen Tracking](https://marketing.adobe.com/resources/help/en_US/dtm/nielsen.html)
 
-
-
 ## Target {#section_739716AB6022424CBC38724CDED10701}
 
 Help: [Integrating Adobe Target with the Experience Cloud](https://marketing.adobe.com/resources/help/en_US/target/a4t/c_integrating_target_with_mac.html) 
@@ -138,16 +134,12 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud solutions
 
 **Applicable solutions or services** 
 
-
 * Customer Attributes: Configure Target's [subscription](https://marketing.adobe.com/resources/help/en_US/mcloud/subscription.html) to customer attributes
 * Experience Cloud Audiences: [Experience Cloud Audience Library](https://marketing.adobe.com/resources/help/en_US/mcloud/audience_library.html)
 * Analytics: [Adobe Analytics as the Reporting Source for Adobe Target](https://marketing.adobe.com/resources/help/en_US/target/a4t/a4t.html)
 * Dynamic Tag Management: [Best Practices for Implementing Adobe Target using DTM](https://marketing.adobe.com/resources/help/en_US/dtm/target/)
 * Audience Manager: [Target Data Integration with Adobe Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/aam-target-integration.html)
 * Campaign: [Integrating Target with Campaign](https://marketing.adobe.com/resources/help/en_US/target/a4t/c_campaign_and_target.html)
-
-
-
 
 ## Experience Manager integrations {#section_32FB010EF8B4429FBC63C8DC2A9BE98F}
 
@@ -169,8 +161,6 @@ Integrate AEM with other solutions and third-party services.
 * [Third-party services](https://docs.adobe.com/docs/en/aem/6-2/administer/integration/third-party-services.html) (data connectors)
 * [Extensions](https://docs.adobe.com/docs/en/aem/6-2/develop/extending.html)
 
-
-
 ## Experience Manager - Assets {#section_CB865F8EFE4C4147BF8E2E4B66B5A318}
 
 Help: [Configuring AEM Assets integration with Experience Cloud and Creative Cloud](https://docs.adobe.com/docs/en/aem/6-2/administer/integration/configure-assets-cc-integration.html) 
@@ -182,8 +172,6 @@ Synchronize your assets within Adobe Experience Manager (AEM) Assets with Adobe 
 * AEM
 * Creative Cloud
 * [Experience Cloud](https://docs.adobe.com/docs/en/aem/6-2/administer/integration/marketing-cloud.html)
-
-
 
 ## Advertising Cloud {#section_9B1935F8BBC147C89C6DB68A35CB1BAB}
 

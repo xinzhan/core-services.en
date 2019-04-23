@@ -12,18 +12,13 @@ uuid: 2bb002a6-e08e-402b-8df0-ecb21ab74490
 
 Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like Social and Target. The shared folder must originate from the Experience Cloud.
 
-
 ## Benefits of sharing {#section_4AA9939F38064280BB181D5F9E1FDEEE}
-
 
 * Streamline creative production workflows in the review, approve, and publish phase
 * Spend less time managing in-process files and versions in multiple locations
 * Track and manage creative assets more effectively
 * Enjoy increase enterprise security
 * Easily share, save, and send files between creatives and marketers
-
-
-
 
 Before Creative Cloud users have access to assets, they must be whitelisted in the Experience Cloud. See [Manage Creative Cloud users](../experience-cloud-assets/t-admin-add-cc-user.md#task_F36D4F1D49B44F09A54F7371810D2752). 
 

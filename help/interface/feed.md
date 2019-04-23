@@ -12,8 +12,6 @@ uuid: 7ff327d1-5a74-49fb-8c3c-729034818ebc
 
 Learn how to share or post assets and Analytics reports directly with others using your Experience Cloud Feed.
 
-
-<!-- <p>Next Pulse release info: work with Stephanie AU </p> -->
 The Feed might be empty the first time you log in to the Experience Cloud. As you create posts and share things, and other users share content with you, the Feed will automatically populate to help you and your team members keep up to date. 
 
 ![](assets/posts.png) 
@@ -41,6 +39,3 @@ You can share reports from [!UICONTROL Reports & Analytics] to the Experience Cl
    ![](assets/share_report.png) 
 
 1. On the Share window, add recipients, then click **[!UICONTROL Share]**. 
-
-
-

@@ -1,7 +1,7 @@
 ---
-description: The Experience Cloud provides administrative tools for managing approved Creative Cloud users. These users can be invited on an ad-hoc basis to a campaign folder. Only users that have been added to the list by an administrator can be invited to a campaign. The added users will display in the auto-complete user list in the Experience Cloud.
+description: Administrative tools for managing approved Creative Cloud users. 
 keywords: asset sharing;Creative Cloud;core services
-seo-description: The Experience Cloud provides administrative tools for managing approved Creative Cloud users. These users can be invited on an ad-hoc basis to a campaign folder. Only users that have been added to the list by an administrator can be invited to a campaign. The added users will display in the auto-complete user list in the Experience Cloud.
+seo-description: Administrative tools for managing approved Creative Cloud users. 
 seo-title: Manage Creative Cloud users
 solution: Experience Cloud
 title: Manage Creative Cloud users
@@ -11,8 +11,6 @@ uuid: 11c4de67-40c5-4438-92fc-e23761be3f18
 # Manage Creative Cloud users
 
 The Experience Cloud provides administrative tools for managing approved Creative Cloud users. These users can be invited on an ad-hoc basis to a campaign folder. Only users that have been added to the list by an administrator can be invited to a campaign. The added users will display in the auto-complete user list in the Experience Cloud.
-
-
 
 >[!NOTE]
 >

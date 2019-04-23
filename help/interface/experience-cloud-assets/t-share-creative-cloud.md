@@ -12,7 +12,6 @@ uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
 
 Share an Experience Cloud asset folder with Creative Cloud users.
 
-
 1. On an Asset folder, click **[!UICONTROL Share to Creative Cloud]**.
 
    ![Step Result](assets/asset-share-cc.png) 
@@ -40,14 +39,7 @@ Share an Experience Cloud asset folder with Creative Cloud users.
 
    ![](assets/asset_comment_mac.png) 
 
-   <!-- <p></p> 
-<p>You can unshare a folder. On Share to Creative Cloud, click Remove, then click Update. The blue creative cloud icon disappears. Tasks: Accept invitations, share, unshare, add comments. </p> 
-<p>Turn assets into cards for annotation (tie into that MAC feature). </p> -->
-
-   <!-- <p>Integrations: </p> 
-<p>In <b>Social</b>, (Asset Selector) and publish a social post to FB or twitter, go to Publisher, the Import from Assets brings a page overlay of MAC assets. You can search for a particular folder, browse to it, and attach the asset to a post. </p> 
-<p> <b>Target integration</b>: Launch Target (bullseye), Create Activity, name it, click Continue, specify activity URL, then Swap Image, Target has a similar asset selector and replace an image in a Target Activity/experience. (Or Insert Element to load a shared/MAC asset to Target.) When creating activities in <span class="keyword"> Adobe Target</span>, you can load or swap shared assets from the <a href="https://marketing.adobe.com/resources/help/en_US/target/target/c_manage_content.html" format="https" scope="external"> Content Library</a>. </p> -->
-1. To un-share a folder, click **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](../experience-cloud-assets/t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), then remove users by clicking X, then click **[!UICONTROL Share]**.
+ 1. To un-share a folder, click **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](../experience-cloud-assets/t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), then remove users by clicking X, then click **[!UICONTROL Share]**.
 
    ![](assets/asset_remove_user.png) 
 
@@ -57,12 +49,12 @@ Additional ways to use a shared asset include:
 * Use assets in the [!UICONTROL Asset Selector] in [!DNL Adobe Social] for social posts. See [Publisher Page](https://marketing.adobe.com/resources/help/en_US/social/?f=c_pub_publisher).
 * Load or swap assets in the [Content Library](https://marketing.adobe.com/resources/help/en_US/target/target/?f=c_manage_content) in [!DNL Adobe Target] for images in activities.
 
-
 After you share a folder to the Creative Cloud, you will see the Creative Cloud logo on the folder. 
 
 ![](assets/asset-cc-logo.png) 
->[!MORE_LIKE_THIS]
->
->* [Creative Cloud Help - Manage and sync files](https://helpx.adobe.com/creative-cloud/help/sync-files.html)
->* [Creative Cloud Help - Collaborate with others](https://helpx.stage.adobe.com/creative-cloud/help/collaboration.html)
->* [Creative Cloud Help - Collaboration FAQ](https://helpx.stage.adobe.com/creative-cloud/help/collaboration-faq.html)
+
+Related help:
+
+* [Creative Cloud Help - Manage and sync files](https://helpx.adobe.com/creative-cloud/help/sync-files.html)
+* [Creative Cloud Help - Collaborate with others](https://helpx.adobe.com/creative-cloud/help/collaboration.html)
+* [Creative Cloud Help - Collaboration FAQ](https://helpx.adobe.com/creative-cloud/help/collaboration-faq.html)

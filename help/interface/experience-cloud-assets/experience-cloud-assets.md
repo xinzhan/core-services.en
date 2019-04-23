@@ -11,13 +11,11 @@ uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 
 Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a Photoshop file, slides in a PowerPoint file, pages in a PDF, files in a ZIP).
 
-
 <!-- asset.xml -->
 Asset services include: 
 
 * Asset storage, management interface, embedded selection interface (accessed through solutions).
 * Integrations with Creative Cloud, Experience Cloud collaboration, and Experience Cloud solutions.
-
 
 Using assets improves consistency and brand compliance, and speeds time to market. You can streamline workflows in solutions: 
 
@@ -25,7 +23,6 @@ Using assets improves consistency and brand compliance, and speeds time to marke
 * **[!DNL Target]**: Create experiences for A/B and multivariate tests.
 * **[!DNL Media Optimizer]**: Develop ad units across different channels and campaigns
 * **[!DNL Campaign]**: Place assets into email newsletters and campaigns.
-
 
 In [!UICONTROL Experience Cloud Assets], you can: 
 
@@ -39,8 +36,6 @@ In [!UICONTROL Experience Cloud Assets], you can:
 * [View Asset Properties](../experience-cloud-assets/experience-cloud-assets.md#section_FED28711DAB14E1BBEEA7CA890EE9573)
 * [Run Usage reports](../experience-cloud-assets/experience-cloud-assets.md#section_15D782FFB8D74CF4A735116CC03AD902)
 * [Asset Sharing with Experience Manager](../experience-cloud-assets/experience-cloud-assets.md#section_45C1B72F4D274F54BC6CCB64D2580AC5)
-
-
 
 ## Navigate to Experience Cloud Assets {#section_3657039DD3524F2AA88753BFF4781125}
 
@@ -61,7 +56,6 @@ Editing an asset enables features, including:
 * Crop
 * Rotate
 * Flip
-
 
 ![](assets/asset-edit.png) 
 

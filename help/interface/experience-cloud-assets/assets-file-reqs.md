@@ -12,7 +12,6 @@ uuid: 1621accf-c407-437b-ae12-61f13cc338d0
 
 Allowed file types and size limitations for sharing assets between the Experience Cloud and Creative Cloud.
 
-
 ## File types allowed for upload {#section_52B6A40BB00B45BC944C01C49B4BB590}
 
 File types you can upload include most images, documents, and multimedia. See [Supported Formats](https://helpx.adobe.com/experience-manager/brand-portal/using/brand-portal-supported-formats.html) for information about file formats in [!DNL Experience Cloud] Assets. 

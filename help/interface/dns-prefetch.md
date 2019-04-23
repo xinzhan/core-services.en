@@ -19,12 +19,8 @@ Browsers use DNS prefetch to automatically resolve domain names linked on a Web 
 
 DNS prefetch works automatically with static, embedded links on a page. This also means automatic DNS prefetch doesn’t work with different [!UICONTROL Experience Cloud] solutions and services because: 
 
-
 * Each Experience Cloud solution or service generates DNS calls dynamically as the page loads.
 * The browser can't resolve domain names to IP address before these calls are made.
-
-
-
 
 However, you can manually implement DNS prefetch with your Experience Cloud solutions. You do this by adding the HTML `<dns-prefetch>` tag to the `<head>` section of your page code as shown below. When implemented properly, DNS prefetch can help save a few milliseconds of page load time. 
 
@@ -48,11 +44,7 @@ The following examples show you how to make DNS prefetch calls to different [!DN
     * `<link rel="dns-prefetch" href="//cm.everesttechnet">`    
     
     
-
 * **Target:** `<link rel="dns-prefetch" href="//insert customer code here.tt.omtrdc.net">` 
-
-
-
 
 >[!MORE_LIKE_THIS]
 >
