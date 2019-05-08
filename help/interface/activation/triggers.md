@@ -22,6 +22,8 @@ uuid: dab536e3-1969-4661-919e-5b15f423fecd
 
 **Types of Triggers** 
 
+ Generally, a trigger can take 15-90 minutes to launch  a marketing campaign. This varies depending on the implementation of data collection, load on the pipeline, custom configuration of the defined trigger, and the workflow in Adobe Campaign.
+
 * **Abandonment:** You can create a trigger to fire when a visitor views a product but does not add anything to the cart. Configure [Propensity Scoring](../activation/triggers.md#concept_A506150674AD45DB98D3CC07E560D334) to understand customers' tendency to not after abandoning a shopping cart.
 * **Action:** You can create triggers, for example, to fire after newsletter sign-ups, email subscriptions, or applications for credit cards (confirmations). If you are a retailer, you can create a trigger for a visitor who signs up for a loyalty program. In media and entertainment, create triggers for visitors who watch a certain show, and perhaps you want to respond with a survey.
 * **Session Start and Session End:** Create a trigger for session start and session end events.
