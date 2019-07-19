@@ -23,8 +23,8 @@ index: yes
     + [Embedding content](admin-getting-started/oembed.md)
 + Activation {#activation}
     + [Activation overview](activation/activation.md)
-    + [Launch user guide](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/)
-    + [DTM user guide](https://marketing.adobe.com/resources/help/en_US/dtm/)
+    + [Launch user guide](https://docs.adobe.com/content/help/en/launch/using/overview.html)
+    + [DTM user guide](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
     + [Triggers](activation/triggers.md)
 + Assets {#assets}
     + [Assets overview](experience-cloud-assets/experience-cloud-assets.md)
@@ -55,7 +55,7 @@ index: yes
     + [Cumulative release notes](marketing-cloud-interface/release-notes.md)
 + [Exchange Marketplace](exchange.md)
 + [Feed](feed.md)
-+ [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/)
++ [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 + More Resources {#more-resources}
     + [Forum](https://forums.adobe.com/community/experience-cloud)
     + [Terminology](terms.md)
