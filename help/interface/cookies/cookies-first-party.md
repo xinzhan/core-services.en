@@ -46,9 +46,9 @@ See Create CNAME Records for more information.
 
 1. When these CNAMES are in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers. If you have an existing implementation, you should consider Visitor Migration to maintain your existing visitors. After the certificate has been pushed live to Adobe’s production environment, you will be able to update your tracking server variables to the new hostnames. Meaning, if the site is not secure (https), update the `s.trackingServer`. If the site is secure (https), update both `s.trackingServer` and `s.trackingServerSecure` variables.
 
-1. [Ping the hostname]().
+1. Ping the hostname (see below).
 
-1. [Update Implementation Code]().
+1. Update Implementation Code (see below).
 
 ### Maintenance and Renewals
 
@@ -119,6 +119,6 @@ After you have verified your hostname(s) are responding and forwarding to Adobe 
 1. Upload the updated core JavaScript file to your site.
 1. If you are moving to first-party cookies from a long-standing implementation, or changing to a different first-party collection hostname, we recommend migrating visitors from the previous domain to the new domain.
 
-See [Visitor Migration]() in the Analytics Implementation Guide.
+See [Visitor Migration](https://docs.adobe.com/help/en/analytics/implementation/javascript-implementation/visitor-migration.html) in the Analytics Implementation Guide.
 
 After you have uploaded the JavaScript file, everything is configured for first-party cookie data collection. We recommend that you monitor Analytics reporting for the next several hours to ensure that data collection continues as normal. If it does not, verify that all above steps have been completed and have one of your organization's supported users contact Customer Care.
