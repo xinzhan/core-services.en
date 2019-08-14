@@ -25,7 +25,6 @@ index: yes
     + [Advertising Cloud cookies](cookies/cookies-advertising-cloud.md)
     + [Scene7 cookies](cookies/cookies-s7.md)
     + [Search and Promote cookies](cookies/cookies-snp.md)
-    + [Survey cookies](cookies/cookies-survey.md)
     + [Target cookies](cookies/cookies-target.md)
     + [Enable privacy settings for browser cookies](cookies/browser-cookie-settings.md)
     + [How Changes to Third Party Cookie Support Impacts Customers](cookies/cookies-thirdparty.md)
