@@ -19,7 +19,7 @@ Two options are available to implement first party cookies
 
 * The Experience Platform ID Service. The ID Service can set the cookie in the first-party context using JavaScript.
 * DNS entries on your companies DNS server.
-* If your site has secure pages using the `https://` protocol and you are not using the Experience Platform ID Service, you can work with Adobe to obtain an SSL certificate in order to implement first-party cookies
+* If your site has secure pages using the `https:` protocol and you are not using the Experience Platform ID Service, you can work with Adobe to obtain an SSL certificate in order to implement first-party cookies
 
 The SSL certificate issuance process can often be confusing and time consuming. As a result, Adobe established a partnership with DigiCert, an industry leading Certificate Authority (CA), and developed an integrated process by which the purchase and management of these certificates is automated.
 
