@@ -15,7 +15,7 @@ snippet: y
 
 Data workbench uses cookies to analyze large volumes of rapidly evolving data in real-time.
 
-## Cookie Name: v1st {#section-5d50a078de444d12b7d927d68ff3b679}
+**Cookie Name: v1st**
 
 |  Attribute  | Description  |
 |---|---|

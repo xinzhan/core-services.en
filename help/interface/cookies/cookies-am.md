@@ -15,16 +15,7 @@ snippet: y
 
 Audience Manager relies on a few simple cookies to perform different functions. These include things like assigning IDs, recording data calls, error tracking, and testing to see if cookies can be set. This section lists and describes the various cookies set by Audience Manager.
 
-Contents:
-
-<ul class="simplelist"> 
- <li> <a href="../cookies/cookies-am.md#section-089407f3e2fe4f489b97164df3cd036c" format="dita" scope="local"> demdex Cookie </a> </li> 
- <li> <a href="../cookies/cookies-am.md#section-a71050d788d54350adc6b3f6ebf32398" format="dita" scope="local"> dextp Cookie </a> </li> 
- <li> <a href="../cookies/cookies-am.md#section-670ae9e671874576b528b46e8a1d24ac" format="dita" scope="local"> dstjs Cookie </a> </li> 
- <li> <a href="../cookies/cookies-am.md#section-0d1fea09c83249dfa944cc028a8ef840" format="dita" scope="local"> _dp Cookie </a> </li> 
-</ul>
-
-## demdex Cookie {#section-089407f3e2fe4f489b97164df3cd036c}
+**demdex Cookie**
 
 <table id="table_1CCF7EA2BC9E421F8DEECA5F611E33F6"> 
  <thead> 
@@ -53,7 +44,7 @@ Contents:
  </tbody> 
 </table>
 
-## dextp Cookie {#section-a71050d788d54350adc6b3f6ebf32398}
+**dextp Cookie**
 
 <table id="table_7343C9C9ADD24D3FA693ECC76E4A4045"> 
  <thead> 
@@ -86,7 +77,7 @@ Contents:
  </tbody> 
 </table>
 
-**dextp Cookie Data Syntax**
+dextp Cookie Data Syntax:
 
 The following table lists and defines the elements in a [!DNL dextp] cookie by location in the data string.
 
@@ -121,7 +112,7 @@ The following table lists and defines the elements in a [!DNL dextp] cookie by l
  </tbody> 
 </table>
 
-## dst Cookie {#section-670ae9e671874576b528b46e8a1d24ac}
+**dst Cookie**
 
 <table id="table_83AE9B6350C6408BAECD9FCF33022B98"> 
  <thead> 
@@ -154,13 +145,6 @@ The following table lists and defines the elements in a [!DNL dextp] cookie by l
  </tbody> 
 </table>
 
-## _dp Cookie {#section-0d1fea09c83249dfa944cc028a8ef840}
+**_dp Cookie**
 
-This is a temporary cookie. [!DNL Audience Manager] tries to set the [!DNL _dp] cookie to determine if it can set other cookies in the demdex.net domain in a third-party context. When [!DNL _dp] is set it contains a value of 1. [!DNL Audience Manager] reads this value and immediately removes the cookie. If the [!DNL _dp] cookie is not present, [!DNL Audience Manager] knows it cannot set cookies. 
-
->[!MORE_LIKE_THIS]
->
->* [Understanding Calls to the Demdex Domain](https://marketing.adobe.com/resources/help/en_US/aam/demdex-calls.html)
->* [Adobe Privacy Center](http://www.adobe.com/privacy.html)
->* [Audience Manager Data Security and Privacy](https://marketing.adobe.com/resources/help/en_US/aam/c_data_security_and_privacy.html)
->* [Audience Manager Privacy and Data Retention FAQ](https://marketing.adobe.com/resources/help/en_US/aam/faq_privacy.html)
+This is a temporary cookie. [!DNL Audience Manager] tries to set the [!DNL _dp] cookie to determine if it can set other cookies in the demdex.net domain in a third-party context. When [!DNL _dp] is set it contains a value of 1. [!DNL Audience Manager] reads this value and immediately removes the cookie. If the [!DNL _dp] cookie is not present, [!DNL Audience Manager] knows it cannot set cookies.

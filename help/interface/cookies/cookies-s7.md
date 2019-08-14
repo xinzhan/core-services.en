@@ -29,18 +29,14 @@ For AS2 Flash eCatalog viewer, cookies:
 
 The newer AS3 viewers do not implement session persistence.
 
-* [Cookie Name: VatLogin.jsp](../cookies/cookies-s7.md#section-03aa90aa7e36427b8cb12dc4a0f0291e) 
-* [Cookie Name: s7js.flyout.InfoMessage.displayed.state](../cookies/cookies-s7.md#section-14ad50dfcd7342f9ac80283b1f0d3400) 
-* [Cookie Name: s7js.flyout.InfoMessage.displayed_idx.ant](../cookies/cookies-s7.md#section-05d1c52c478541609f4a18a9c1eb032f)
-
-## Cookie Name: VatLogin.jsp {#section-03aa90aa7e36427b8cb12dc4a0f0291e}
+**Cookie Name: VatLogin.jsp**
 
 |  Attribute  | Description  |
 |---|---|
 |  Information Stored  | Sets the session cookie. The AuthFilter embedded into IPS ImageServer (IS, IR, and also the SWFs/skins and video contexts) uses the cookie for access authorization. If present, it allows HTTP requests to pass through. Otherwise it returns unauthorized.  |
 |  Expiration  | This cookie is a session cookie. Current session expiration is set to 45 minutes in the Scene7 IPS [!DNL web.xml].  |
 
-## Cookie Name: s7js.flyout.InfoMessage.displayed<assetId>.state {#section-14ad50dfcd7342f9ac80283b1f0d3400}
+**Cookie Name: s7js.flyout.InfoMessage.displayed `assetId`.state**
 
 <table id="table_6835D64C5D464A049F576621F2BE3FAD"> 
  <thead> 
@@ -61,7 +57,7 @@ The newer AS3 viewers do not implement session persistence.
  </tbody> 
 </table>
 
-## Cookie Name: s7js.flyout.InfoMessage.displayed<assetId>_idx<id>.ant {#section-05d1c52c478541609f4a18a9c1eb032f}
+**Cookie Name: s7js.flyout.InfoMessage.displayed`assetId`_idx`id`.ant**
 
 Browser cookies are used by legacy DHTML viewers for storing state information and sticky notes data. They are also used by the multiscreen DHTML flyout for making message indicator session-specific. 
 
