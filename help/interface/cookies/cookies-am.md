@@ -18,10 +18,10 @@ Audience Manager relies on a few simple cookies to perform different functions. 
 Contents:
 
 <ul class="simplelist"> 
- <li> <a href="../cookies-overview/cookies-am.md#section-089407f3e2fe4f489b97164df3cd036c" format="dita" scope="local"> demdex Cookie </a> </li> 
- <li> <a href="../cookies-overview/cookies-am.md#section-a71050d788d54350adc6b3f6ebf32398" format="dita" scope="local"> dextp Cookie </a> </li> 
- <li> <a href="../cookies-overview/cookies-am.md#section-670ae9e671874576b528b46e8a1d24ac" format="dita" scope="local"> dstjs Cookie </a> </li> 
- <li> <a href="../cookies-overview/cookies-am.md#section-0d1fea09c83249dfa944cc028a8ef840" format="dita" scope="local"> _dp Cookie </a> </li> 
+ <li> <a href="../cookies/cookies-am.md#section-089407f3e2fe4f489b97164df3cd036c" format="dita" scope="local"> demdex Cookie </a> </li> 
+ <li> <a href="../cookies/cookies-am.md#section-a71050d788d54350adc6b3f6ebf32398" format="dita" scope="local"> dextp Cookie </a> </li> 
+ <li> <a href="../cookies/cookies-am.md#section-670ae9e671874576b528b46e8a1d24ac" format="dita" scope="local"> dstjs Cookie </a> </li> 
+ <li> <a href="../cookies/cookies-am.md#section-0d1fea09c83249dfa944cc028a8ef840" format="dita" scope="local"> _dp Cookie </a> </li> 
 </ul>
 
 ## demdex Cookie {#section-089407f3e2fe4f489b97164df3cd036c}

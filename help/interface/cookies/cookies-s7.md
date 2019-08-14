@@ -29,9 +29,9 @@ For AS2 Flash eCatalog viewer, cookies:
 
 The newer AS3 viewers do not implement session persistence.
 
-* [Cookie Name: VatLogin.jsp](../cookies-overview/cookies-s7.md#section-03aa90aa7e36427b8cb12dc4a0f0291e) 
-* [Cookie Name: s7js.flyout.InfoMessage.displayed.state](../cookies-overview/cookies-s7.md#section-14ad50dfcd7342f9ac80283b1f0d3400) 
-* [Cookie Name: s7js.flyout.InfoMessage.displayed_idx.ant](../cookies-overview/cookies-s7.md#section-05d1c52c478541609f4a18a9c1eb032f)
+* [Cookie Name: VatLogin.jsp](../cookies/cookies-s7.md#section-03aa90aa7e36427b8cb12dc4a0f0291e) 
+* [Cookie Name: s7js.flyout.InfoMessage.displayed.state](../cookies/cookies-s7.md#section-14ad50dfcd7342f9ac80283b1f0d3400) 
+* [Cookie Name: s7js.flyout.InfoMessage.displayed_idx.ant](../cookies/cookies-s7.md#section-05d1c52c478541609f4a18a9c1eb032f)
 
 ## Cookie Name: VatLogin.jsp {#section-03aa90aa7e36427b8cb12dc4a0f0291e}
 
