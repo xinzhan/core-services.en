@@ -19,12 +19,8 @@ The following list outlines how third-party cookie support impacts current imple
 
 **Adobe Analytics and Target**
 
-<!--
-Test
--->
-
 * Customers with a first-party implementation would remain largely unaffected. 
-* Customers that are not using first-party implementation can implement the [Visitor ID service](https://marketing.adobe.com/resources/help/en_US/sc/implement/?f=visid_service) to store the ID cookie as a first-party cookie without a first-party implementation.
+* Customers that are not using first-party implementation can implement the [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html) to store the ID cookie as a first-party cookie without a first-party implementation.
 
 **Adobe Experience Manager**
 

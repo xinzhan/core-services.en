@@ -32,10 +32,3 @@ Remove users who blocked all cookies on desktop and mobile browsers.
 Laws and regulatory guidance have expressed that a user's action to block cookies is the same as a user's action to opt out from profiling. By enabling this feature, data collected from desktop browsers where the user has set its browser to block all cookies will be excluded from Analytics reports. If Adobe cannot recognize the web browser, data will be included in Analytics reports.
 
 Lawmakers around the world have stated (both in guidance and in settlements) that cookie browser settings are an indication of user preference to opt out from profiling. Specifically, these lawmakers have stated that the browser setting to block third party cookies is an opt-out request from third-party (cross-site) tracking; and blocking out all cookies is an opt-out request for all tracking. While server-side identifiers (such as IP address or user agent) may be a desirable option that bypasses cookie browser settings, some lawmakers view them as a circumvention of user choice.
-
-<!--
-<p>Awaiting content from Vinay May 20 2015 </p>
-<p>https://wiki.corp.adobe.com/display/omtrcache/Inferred+Opt+Out </p>
-<p>https://wiki.corp.adobe.com/display/omtrplatform/Auto-opt-out+For+Users+Who+Block+Cookies </p>
--->
-
