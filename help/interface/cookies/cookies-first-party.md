@@ -37,12 +37,10 @@ Here is how you implement a new first-party SSL certificate for first-party cook
 
 1. Fill out the request form and open a ticket with Customer Care requesting to set up first-party cookies on the Adobe Managed program. Each field is described within the document with examples.
 
-1. Create CNAME records. Upon receiving the ticket, a FPSSL specialist should provide you with a pair of CNAME records. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAMES will be similar to the following. 
+1. Create CNAME records (see instructions below). Upon receiving the ticket, a FPSSL specialist should provide you with a pair of CNAME records. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAMES will be similar to the following. 
 
 * **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.ssl.d1.omtrdc.net`. 
 * **Non-secure** - For example, the hostname `metrics.example.com` points to: `example.com.d1.omtrdc.net`. 
-
-See Create CNAME Records for more information. 
 
 1. When these CNAMES are in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers. If you have an existing implementation, you should consider Visitor Migration to maintain your existing visitors. After the certificate has been pushed live to Adobe’s production environment, you will be able to update your tracking server variables to the new hostnames. Meaning, if the site is not secure (https), update the `s.trackingServer`. If the site is secure (https), update both `s.trackingServer` and `s.trackingServerSecure` variables.
 
