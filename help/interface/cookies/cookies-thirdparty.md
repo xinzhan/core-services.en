@@ -11,26 +11,26 @@ internal: n
 snippet: y
 ---
 
-# How Changes to Third Party Cookie Support Impacts Customers{#how-changes-to-third-party-cookie-support-impacts-customers}
+# How Changes to Third-Party Cookie Support Impact Customers{#how-changes-to-third-party-cookie-support-impacts-customers}
 
 As the support for third-party cookies has become more and more limited across browsers, Adobe has been working on new solutions that carefully balance customer requirements with the consumer's right to privacy across the Adobe Experience Cloud solutions.
 
 The following list outlines how third-party cookie support impacts current implementations of the Adobe Experience Cloud solutions:
 
-**Adobe Analytics and Target**
+## Adobe Analytics and Adobe Target
 
-* Customers with a first-party implementation would remain largely unaffected. 
+* Customers with a [first-party implementation](/help/interface/cookies/cookies-first-party.md) would remain largely unaffected. 
 * Customers that are not using first-party implementation can implement the [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html) to store the ID cookie as a first-party cookie without a first-party implementation.
 
-**Adobe Experience Manager**
+## Adobe Experience Manager
 
-* As Adobe Experience Manager operates wholly within the customer's domain, there is minimal interaction with third-party cookies and thus minimal to no impact.
+* Because Adobe Experience Manager operates wholly within the customer's domain, there is minimal interaction with third-party cookies and thus minimal to no impact.
 
-**Adobe Social**
+## Adobe Social
 
 * Social would not be impacted as long as the cus­tomer has the newest ver­sion of the code.
 
-**Adobe Media Optimizer**
+## Adobe Advertising Cloud
 
 * Search:
 
