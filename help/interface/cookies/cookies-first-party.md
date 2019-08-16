@@ -35,7 +35,7 @@ The Adobe Managed Certificate program lets you implement a new first-party SSL c
 
 Here is how you implement a new first-party SSL certificate for first-party cookies: 
 
-1. Fill out the request form and open a ticket with Customer Care requesting to set up first-party cookies on the Adobe Managed program. Each field is described within the document with examples.
+1. Fill out the ![request form](assets/FPC_Request_Form.xlsx) and open a ticket with Customer Care requesting to set up first-party cookies on the Adobe Managed program. Each field is described within the document with examples.
 
 1. Create CNAME records (see instructions below). Upon receiving the ticket, a FPSSL specialist should provide you with a pair of CNAME records. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAMES will be similar to the following. 
 
