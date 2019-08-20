@@ -32,7 +32,7 @@ On the [!UICONTROL Validate Schema] page, each row of the schema represents a co
 
 * **[!UICONTROL FTP Setup:]** [Upload the data via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B). 
 
-* **[!UICONTROL ID Lookup:]** Enter a Customer ID (CID) from your [!DNL .csv] to look up Experience Cloud information for the ID. This feature is useful for troubleshooting why attribute data is not displaying for a visitor: 
+* **[!UICONTROL ID Lookup:]** Enter a Customer ID (CID) from your `.csv` to look up Experience Cloud information for the ID. This feature is useful for troubleshooting why attribute data is not displaying for a visitor: 
 
     * **[!UICONTROL MCID (Experience Cloud ID):]** Displays if you are using the latest Experience Cloud ID service. If you are on the MCID service but no IDs are listed here, the Experience Cloud has not received an alias for that CID. Meaning, the visitor has not logged in, or your implementation is not passing that ID through. 
     
@@ -49,7 +49,7 @@ You can also upload data via FTP after you create a customer attribute source an
 
 The names you apply to strings, integers, and numbers are used to create [!DNL Analytics] metrics. See [Customer Attributes Report](https://marketing.adobe.com/resources/help/en_US/reference/?f=reports_customer_attributes) in [!DNL Analytics] help for more information. 
 
-* **[!UICONTROL Attribute:]** Attribute data read from the uploaded [!DNL .csv] file. 
+* **[!UICONTROL Attribute:]** Attribute data read from the uploaded `.csv` file. 
 
 * **[!UICONTROL Type:]** The data type, such as: 
 

@@ -36,13 +36,13 @@ The following example shows how to create the rules for a composite audience. Th
 
   ![](assets/audience_create.png) 
 
-1. In the [!DNL Experience Cloud], click **[!UICONTROL People]** > **[!UICONTROL Audience Library]**.
+1. In the [!DNL Experience Cloud], under [!DNL Experience Platform], click **[!UICONTROL People]** > **[!UICONTROL Audience Library]**.
 1. On the [!UICONTROL Audiences] page, click **[!UICONTROL New]**. ![](assets/add_icon_small.png)
 
   ![Step Result](assets/audience_create_new.png) 
 
 1. On the [!UICONTROL Create New Audience] page, specify a title and description.
-1.  Under [!UICONTROL Rules], select an attribute source:
+1. Under [!UICONTROL Rules], select an attribute source:
 
 * **[!UICONTROL Real-Time Analytics Data:]** (or Raw data) This is attribute data derived from real-time Analytics image requests, and includes data such as eVars and events. You must select a report suite when using this attribute source, and define the dimension or event to include. This report suite selection provides the variable structure used by the report suite. 
 
@@ -52,7 +52,7 @@ The following example shows how to create the rules for a composite audience. Th
 
 * **[!UICONTROL Experience Cloud:]** Attribute data derived from the [!DNL Experience Cloud] sources. For example, this can be data from audience segments you create in [!DNL Analytics], or data from [!DNL Audience Manager].
     
-1.  Define audience rules.
+1. Define audience rules.
 
   >[!NOTE]
   >

@@ -12,7 +12,7 @@ uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
 
 If you do not upload using drag-and-drop, you can upload customer attribute data via FTP to the Experience Cloud.
 
-You can upload the data after you create a customer attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in [!DNL .csv] format, with a second [!DNL .fin] file to indicate the upload is complete. 
+You can upload the data after you create a customer attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate the upload is complete. 
 
 >[!IMPORTANT]
 >
@@ -41,9 +41,9 @@ File uploads to the customer attributes FTP site can be done via FTP or SFTP.
 
 1. Click **[!UICONTROL Actions]** > **[!UICONTROL File Upload]**.
 
-1. Upload a [!DNL .fin] file, so that your file can be retrieved.
+1. Upload a `.fin` file, so that your file can be retrieved.
 
-   The file type [!DNL .fin] is user-created and signals that the upload is finished. It can be a blank notepad file. For example, if you upload [!DNL crs123.csv], you also upload [!DNL crs123.fin]. 
+   The file type `.fin` is user-created and signals that the upload is finished. It can be a blank notepad file. For example, if you upload [!DNL crs123.csv], you also upload [!DNL crs123.fin]. 
 
    If the upload is successful, both files are moved to a folder called **processed**. 
 

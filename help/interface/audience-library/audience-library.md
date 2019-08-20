@@ -60,7 +60,7 @@ The following table describes how audiences are used in Experience Cloud solutio
 
 The [!DNL Experience Cloud] provides a library for creating and managing audiences, with native, real-time audience identification. 
 
-**[!UICONTROL Experience Cloud]** > **[!UICONTROL Audience Library]** 
+**[!UICONTROL Experience Cloud]** > **[!UICONTROL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Audience Library]** 
 
 ![](assets/audience_library.png) 
 

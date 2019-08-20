@@ -12,9 +12,7 @@ uuid: 1621402d-990f-46f9-981a-473280559069
 
 ## Overview 
 
-The [!UICONTROL customer attributes] feature in the Experience Cloud is found here.
-
-  **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]** 
+To locate [!UICONTROL customer attributes] navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]** 
 
 If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, leverage the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 

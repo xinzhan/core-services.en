@@ -10,7 +10,7 @@ uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 
 # Create a customer attribute source and upload the data file
 
-Create the customer attribute source and upload the data. You can activate the data source when you are ready. After the data source is active, share the attribute data to Analytics and Target. 
+Create the customer attribute source (CSV and FIN files) and upload the data. You can activate the data source when you are ready. After the data source is active, share the attribute data to Analytics and Target. 
 
 ## Customer attributes workflow {#concept_BF0AF88E9EF841219ED4D10754CD7154}
 
@@ -44,12 +44,12 @@ See [Users and Groups](../admin-getting-started/admin-getting-started.md#task_32
 This data is enterprise customer data from your CRM. The data might include subscriber data for products, including member IDs, entitled products, most-launched products, and so on.
 
 
-1. Create a [!DNL .csv].
+1. Create a `.csv`.
 
 
    >[!NOTE]
    >
-   >Later in this process, you will drag-and-drop the [!DNL .csv] to upload the file. However, if you [upload via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a [!DNL .fin] file with the same name as the [!DNL .csv]. 
+   >Later in this process, you will drag-and-drop the `.csv` to upload the file. However, if you [upload via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a `.fin` file with the same name as the `.csv`. 
 
 
 
@@ -71,7 +71,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
 
 
 1. In the [!DNL Experience Cloud], click the Menu  ![](assets/menu-icon.png) icon.
-1. Click **[!UICONTROL People]**, then click **[!UICONTROL Customer Attributes]**.
+1. Under **[!DNL Experience Platform]**, click **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**.
 
    The [!UICONTROL Customer Attributes] page is where you can manage and edit existing attribute data sources. 
 
@@ -120,7 +120,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
         
         
     
-    * **[!UICONTROL File Upload:]** You can drag-and-drop the [!DNL .csv] data file, or upload the data via FTP. (Using FTP also requires a [!DNL .fin] file.) See [Upload the Data via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B). 
+    * **[!UICONTROL File Upload:]** You can drag-and-drop the `.csv` data file, or upload the data via FTP. (Using FTP also requires a `.fin` file.) See [Upload the Data via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B). 
     
 
       >[!IMPORTANT]

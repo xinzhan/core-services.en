@@ -12,7 +12,7 @@ uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 
 Data file requirements and multiple data sources for uploading customer attributes to the Experience Cloud.
 
-You will need access to CRM or similar data from your enterprise. The data you upload to the Experience Cloud must be a [!DNL .csv] file. If you upload via FTP or sFTP, you also upload a [!DNL .fin] file. 
+You will need access to CRM or similar data from your enterprise. The data you upload to the Experience Cloud must be a `.csv` file. If you upload via FTP or sFTP, you also upload a `.fin` file. 
 
 Customer Attributes is designed to handle a few files per day. To mitigate the issue of having a large number of small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
 
