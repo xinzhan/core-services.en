@@ -8,13 +8,13 @@ title: Experience Cloud and core services help
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 ---
 
-# Experience Cloud and Core Services help
+# Experience Cloud and Core Services Help
 
 The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
 
 ![](assets/experience-cloud-core-services.png) 
 
-## Core Services Product Documentation 
+## Core services product documentation 
 
 | Service | Description |
 |--- |--- |
@@ -26,7 +26,7 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 |[Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/)|Mobile Services brings together mobile marketing capabilities for mobile applications from across the Adobe Marketing Cloud, which allows you to understand and improve user engagement with your mobile applications.|
 |[People](audience-library/audience-library.md)|In the Audience Library, you can create audiences, combine existing audiences to create composite audiences, and view all shared audiences.<br>In [Customer Attributes](attributes/attributes.md), you can also upload enterprise customer data to the Experience Cloud.|
 
-## Administration & Enablement
+## Administration & enablement
 
 * [User and product management](admin-getting-started/admin-getting-started.md) (Admin Console)
 * [Enable your solutions for core services](core-services/core-services.md)
@@ -39,12 +39,12 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 * [Profile Management in Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
 * [DNS prefetch](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
-## Release Notes 
+## Release notes 
 
 * [What's New in the Experience Cloud](marketing-cloud-interface/marketing-cloud-interface.md#concept_9A4370BD59744928BDC9F87E978798B3)
 * [Release Notes - Cumulative Fixes](marketing-cloud-interface/release-notes.md#concept_F5C9FF69A5B44395BB5FA0552F4E9175)
 
-## Community Resources & Blogs 
+## Community resources & blogs 
 
 * [Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html)
 * [Experience League](https://landing.adobe.com/experience-league/)
