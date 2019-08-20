@@ -7,7 +7,7 @@ index: yes
 
 # Core Services User Guide {#interface}
 
-+ [Experience Cloud and Core Services help](experience-cloud.md)
++ [Experience Cloud and Core Services Help](experience-cloud.md)
 + About core services {#about-core-services}
     + [Core services overview](core-services-landing.md)
     + [Enable your solutions for core services](core-services/core-services.md)
@@ -65,7 +65,7 @@ index: yes
     + [Update the schema](attributes/t-update-schema.md)
     + [Privacy considerations - customer attributes](attributes/privacy-mac.md)
 + Release notes {#release-notes}
-    + [What's new in the Experience Cloud](marketing-cloud-interface/marketing-cloud-interface.md)
+    + [What's new in the Experience Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
     + [Cumulative release notes](marketing-cloud-interface/release-notes.md)
 + [Exchange Marketplace](exchange.md)
 + [Feed](feed.md)

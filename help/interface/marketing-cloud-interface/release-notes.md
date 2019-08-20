@@ -16,7 +16,23 @@ For a list of documentation updates, see [Experience Cloud](../doc-updates.md#co
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/). 
 
+## August - 2019
+
+* Fixed a critical issue in Experience Cloud login that led to session logout for some users. (MCUI-6908)
+* Updated Experience Cloud login to improve performance and reduce latency. (MCUI-6854, MCUI-6869, MCUI-6883)
+* Updated interface cosmetically. (MCUI-6861, MCUI-6911, MCUI-6862)
+* Fixed an issue with Experience Cloud [!UICONTROL Triggers] that led to incorrect interpretation of _Like_ clause in the [!UICONTROL Trigger] definition. (MCUI-6611)
+
+## April - 2019
+
+* Updated the app switcher to include Marketo in Experience Cloud solution suite, and branding updates to Experience Platform. (MCUI-6529)
+* Updated Experience Cloud Home to include navigation links to the Feed and Administration pages. (MCUI-6682)
+* Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of “like” clause. (MCUI-6611)
+* Improvements to Customer Attributes for better logging in the Subscription service. (MCUI-6519)
+
 ## Release 19.1.1 - January 17 2019
+
+**Note:** In March 2019, The Experience Cloud interface will not support Internet Explorer 11.
 
 * Fixed an issue preventing the help search from returning results. (MCUI-1670)
 * Fixed and improved eVar management in Triggers. (MCUI-6400) 
