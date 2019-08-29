@@ -23,7 +23,7 @@ Help and product documentation for Adobe Experience Cloud.
 
 ![Analytics](assets\mc_analytics_32.png) **Analytics Help**
 
-* [Analytics Help Home](/help/landing/home.md)
+* [Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
 * [Tools](https://docs.adobe.com/content/help/en/analytics/analyze/home.html)
 * [Admin](https://docs.adobe.com/content/help/en/analytics/admin/home.html)
 * [Implementation](https://docs.adobe.com/content/help/en/analytics/implementation/home.html)
@@ -36,7 +36,7 @@ Help and product documentation for Adobe Experience Cloud.
 
 ![Audience Manager](assets\mc_analytics_32.png) **Audience Manager Help**
 
-* Audience Manager
+* [Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/)
 * Audience Manager Admin
 
 ![Target](assets\mc_target_32.png) **Target Help**
