@@ -9,6 +9,8 @@ seo-description: Experience Cloud help
 
 Help and product documentation for Adobe Experience Cloud.
 
+![](assets/experience_cloud_appicon_32.png)
+
 ## Experience Cloud help
 
 * [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) (all products)
