@@ -9,6 +9,8 @@ seo-description: Experience Cloud help
 
 Help and product documentation for Adobe Experience Cloud.
 
+Subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive release notes each month.
+
 ## ![Experience Cloud Help](assets/experience_cloud_appicon_32.png) Experience Cloud Help
 
 * [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) (all products)
