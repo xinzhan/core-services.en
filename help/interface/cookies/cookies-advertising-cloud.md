@@ -13,7 +13,7 @@ snippet: y
 
 Advertising Cloud uses cookies to map ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.
 
-Cookie Name: _lcc 
+## Cookie Name: _lcc
 
 <table id="table_821F8EBE91F244CBA72B0975B961B908"> 
  <thead> 
@@ -46,7 +46,7 @@ Cookie Name: _lcc
  </tbody> 
 </table>
 
-Cookie Name: adcloud 
+## Cookie Name: adcloud 
 
 <table id="table_D7CD238736BC4571883F92F47673F57C"> 
  <thead> 
@@ -79,7 +79,7 @@ Cookie Name: adcloud
  </tbody> 
 </table>
 
-Cookie Name: ev_sync_&#42;
+## Cookie Name: ev_sync_&#42;
 
 (ev_sync_ax, ev_sync_bk, ev_sync_dd, ev_sync_fs, ev_sync_ix, ev_sync_nx, ev_sync_ox, ev_sync_pm, ev_sync_rc, ev_sync_tm, ev_sync_yh) 
 
@@ -114,7 +114,7 @@ Cookie Name: ev_sync_&#42;
  </tbody> 
 </table>
 
-Cookie Name: everest_g_v2 
+## Cookie Name: everest_g_v2 
 
 <table id="table_04043292A43B41B69EAF17AF4E217C69"> 
  <thead> 
@@ -147,7 +147,7 @@ Cookie Name: everest_g_v2
  </tbody> 
 </table>
 
-Cookie Name: everest_session_v2 
+## Cookie Name: everest_session_v2 
 
 <table id="table_1A3AE4CA71304ADB943CB1F64BE695F5"> 
  <thead> 
@@ -180,7 +180,7 @@ Cookie Name: everest_session_v2
  </tbody> 
 </table>
 
-Cookie Name: ev_tm 
+## Cookie Name: ev_tm 
 
 <table id="table_6C4D9DCFA4BF4FB2BD445E027550955F"> 
  <thead> 
@@ -213,7 +213,7 @@ Cookie Name: ev_tm
  </tbody> 
 </table>
 
-Cookie Name: _tmae 
+## Cookie Name: _tmae 
 
 <table id="table_28C2B62595E240D5A3C3E0BE147748C1"> 
  <thead> 
