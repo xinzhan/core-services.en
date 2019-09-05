@@ -9,7 +9,11 @@ seo-description: Experience Cloud help
 
 Help and product documentation for Adobe Experience Cloud.
 
-Subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive release notes each month.
+## Release Notes, Videos, and Community Forums
+
+* Subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive release notes each month.
+* Product Videos: Product videos are available at [Adobe Video Learning](https://helpx.adobe.com/experience-cloud/tutorials.html).
+* Experience League: Visit the [Adobe Experience League](https://landing.adobe.com/experience-league/) for guided learning.
 
 ## ![Experience Cloud Help](assets/experience_cloud_appicon_32.png) Experience Cloud Help
 
