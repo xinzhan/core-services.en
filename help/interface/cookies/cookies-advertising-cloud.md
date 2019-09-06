@@ -25,11 +25,11 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>IDs and time stamps (in the format yyyymmdd) of display clicks </p> </td> 
+   <td colname="col2"> <p>IDs and time stamps (in the format yyyymmdd) of display clicks</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
-   <td colname="col2"> <p>15 minutes/p&gt; </p> </td> 
+   <td colname="col2"> <p>15 minutes</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Usage </p> </td> 
@@ -46,6 +46,39 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  </tbody> 
 </table>
 
+## Cookie Name: _tmae 
+
+<table id="table_28C2B62595E240D5A3C3E0BE147748C1"> 
+ <thead> 
+  <tr> 
+   <th colname="col1" class="entry"> Attribute </th> 
+   <th colname="col2" class="entry"> Description </th> 
+  </tr> 
+ </thead>
+ <tbody> 
+  <tr> 
+   <td colname="col1"> <p>Information Stored </p> </td> 
+   <td colname="col2"> <p>Encoded IDs and time stamps for ad engagements using Advertising Cloud DSP tracking </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Expiration </p> </td> 
+   <td colname="col2"> <p>1 year </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Usage </p> </td> 
+   <td colname="col2"> <p>A third-party cookie that stores user engagements with ads, such as “last seen ad xyz123 on June 30, 2016” </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Location </p> </td> 
+   <td colname="col2"> <p>everesttech.net </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Size </p> </td> 
+   <td colname="col2"> <p>Variable; data is encoded and typically less than 1 KB </p> </td> 
+  </tr> 
+ </tbody> 
+</table>
+
 ## Cookie Name: adcloud 
 
 <table id="table_D7CD238736BC4571883F92F47673F57C"> 
@@ -58,7 +91,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>The surfer ID, timestamps ofthe surfer's last visit to the advertiser’s website and the surfer's last search click, and the ef_id that was created when the userclicked an ad/p&gt; </p> </td> 
+   <td colname="col2"> <p>The surfer ID, timestamps ofthe surfer's last visit to the advertiser’s website and the surfer's last search click, and the ef_id that was created when the user clicked an ad</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
@@ -74,7 +107,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Size </p> </td> 
-   <td colname="col2"> <p>Variable, but typically 50-150bytes </p> </td> 
+   <td colname="col2"> <p>Variable, but typically 50-150 bytes </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -212,37 +245,3 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
   </tr> 
  </tbody> 
 </table>
-
-## Cookie Name: _tmae 
-
-<table id="table_28C2B62595E240D5A3C3E0BE147748C1"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Attribute </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>Encoded IDs and time stamps for ad engagements using Advertising Cloud DSP tracking </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Expiration </p> </td> 
-   <td colname="col2"> <p>1 year </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Usage </p> </td> 
-   <td colname="col2"> <p>A third-party cookie that stores user engagements with ads, such as “last seen ad xyz123 on June 30, 2016” </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Location </p> </td> 
-   <td colname="col2"> <p>everesttech.net </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Size </p> </td> 
-   <td colname="col2"> <p>Variable; data is encoded and typically less than 1 KB </p> </td> 
-  </tr> 
- </tbody> 
-</table>
-
