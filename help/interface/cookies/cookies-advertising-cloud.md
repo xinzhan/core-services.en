@@ -278,3 +278,36 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
   </tr> 
  </tbody> 
 </table>
+
+## Cookie Name: id_adcloud 
+
+<table> 
+ <thead> 
+  <tr> 
+   <th colname="col1" class="entry"> Attribute </th> 
+   <th colname="col2" class="entry"> Description </th> 
+  </tr> 
+ </thead>
+ <tbody> 
+  <tr> 
+   <td colname="col1"> <p>Information Stored </p> </td> 
+   <td colname="col2"> <p>The surfer ID </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Expiration </p> </td> 
+   <td colname="col2"> <p>91 days </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Usage </p> </td> 
+   <td colname="col2"> <p>The cookie is set in the first-party domain but isn't used yet </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Location </p> </td> 
+   <td colname="col2"> <p>The advertiser's top-level domain (such as example.com) </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Size </p> </td> 
+   <td colname="col2"> <p>16 bytes </p> </td> 
+  </tr> 
+ </tbody> 
+</table>
