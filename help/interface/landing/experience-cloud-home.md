@@ -42,8 +42,7 @@ Help and product documentation for Adobe Experience Cloud.
 
 ## ![Audience Manager Help](assets/mc_audiencemanager_32.png) Audience Manager Help
 
-* [Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/)
-* [Audience Manager Admin](https://marketing.adobe.com/resources/help/en_US/aam/admin/index.html)
+* [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)
 
 ## ![Target Help](assets/mc_target_32.png) Target Help
 
