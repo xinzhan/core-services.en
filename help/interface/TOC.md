@@ -2,6 +2,7 @@
 audience: end-user
 user-guide-title: Core Services User Guide
 user-guide-url: https://www.adobe.com
+product: core services
 index: yes
 ---
 
