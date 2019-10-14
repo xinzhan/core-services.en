@@ -82,7 +82,7 @@ Guidance and limitations when using Customer Attributes.
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>(Target only) </b>How does the customer attributes functionality compare to Target's bulk profile API? </p> </td> 
-   <td colname="col2"> <p> The <a href="https://marketing.adobe.com/developer/documentation/test-target/r-profile-update" format="https" scope="external"> bulk profile API</a> enables Target profiles to be updated directly via the API, either for an individual profile or in bulk. The capability is similar to customer attributes, with the following key differences: </p> 
+   <td colname="col2"> <p> The <a href="https://www.adobe.io/apis/experiencecloud/target.html" format="https" scope="external"> bulk profile API</a> enables Target profiles to be updated directly via the API, either for an individual profile or in bulk. The capability is similar to customer attributes, with the following key differences: </p> 
     <ul id="ul_5AAA4A8497C04F50A8AAA9F776BB868E"> 
      <li id="li_B20AEA397F3B4C86A1140CDA61ABD575">The profile API is a REST API call and customer attributes uses FTP. </li> 
      <li id="li_7FBE428EF5D34B6AA09B6368E8210344">Target's profile API only sends data to Target instead of to the whole Experience Cloud. </li> 
@@ -91,7 +91,7 @@ Guidance and limitations when using Customer Attributes.
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>(Target only)</b> Does uploading data from customer attributes to Adobe Target extend the Target visitor's profile lifetime? </p> </td> 
-   <td colname="col2"> <p>Yes. See <a href="https://marketing.adobe.com/resources/help/en_US/target/ov/?f=c_visitor_profile_lifetime" format="https" scope="external"> Visitor Profile Lifetime</a> in Adobe Target Help. </p> </td> 
+   <td colname="col2"> <p>Yes. See <a href="https://docs.adobe.com/content/help/en/target/using/audiences/visitor-profiles/visitor-profile.html" format="https" scope="external"> Visitor Profile Lifetime</a> in Adobe Target Help. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b> (Target only)</b> Can I target on the data uploaded in customer attributes immediately after the visitor is identified by the customer ID? </p> </td> 
