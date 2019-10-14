@@ -18,21 +18,11 @@ You can upload the data after you create a customer attribute source and an FTP 
 >
 >Review [Data file requirements for uploading customer attributes](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) before uploading the file. 
 
-
 File uploads to the customer attributes FTP site can be done via FTP or SFTP. 
 
 * You need a client that supports SFTP connections.
-* You can connect with SFTP using either username/password or using no password, as described [here](https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/?f=ftp_sftp_cert_auth).
+* You can connect with SFTP using either username/password or using no password, as described [here](https://docs.adobe.com/help/en/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
 
-
-
-<!-- <p>Error states - get with Matt and Dave </p> 
-<p>What are the most common reasons for doing this? Retail? Do a use case example, then show an AN example. </p> 
-<p>You create one FTP per attribute source. Files go to the root folder in that account. The file type .fin is user-created. (For example, upload a .csv then a .fin of the same name, which signals you have completed the upload. https://wiki.corp.adobe.com/display/marketingcloud/Customer+Record+Services#CustomerRecordServices-FileFormats (leverage for doc). Possibly link from FTP File Reqs page to a help file about naming conventions. Need a new file type page for this. Similar content here: https://marketing.adobe.com/resources/help/en_US/reference/c_general_file_structure.html and here: https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/ftp_datasources.html </p> 
-<p>Drag-n-drop and zip functionality for uploads - 1/21/2015. S/b less than 100 megs for drag and drop zip file. Fin file not required for drag/drop. </p> 
-<p>Preview Data - shows the last upload (?) </p> 
-<p>Need a link to the "instructions" on that information icon with the image. </p> 
-<p>Workflow: Drag and drop, validate schema, configure subscription, save/activate. </p> -->
 **To upload the data file via FTP** 
 
 1. [Create a customer attribute source and upload the data file...](../attributes/t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78).
@@ -46,6 +36,5 @@ File uploads to the customer attributes FTP site can be done via FTP or SFTP.
    The file type `.fin` is user-created and signals that the upload is finished. It can be a blank notepad file. For example, if you upload [!DNL crs123.csv], you also upload [!DNL crs123.fin]. 
 
    If the upload is successful, both files are moved to a folder called **processed**. 
-
 
    See [Data file requirements for uploading customer attributes](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for important information about file names and structure. 

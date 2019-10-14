@@ -90,9 +90,9 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
       The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
     
-        * **Dynamic tag management:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/dtm/?f=macid) tool. 
+        * **Dynamic tag management:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/dtm/using/tools/macid.html) tool. 
         
-        * **Visitor API:** The Alias ID corresponds to the additional [Customer IDs](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) that you can associate with each visitor. 
+        * **Visitor API:** The Alias ID corresponds to the additional [Customer IDs](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) that you can associate with each visitor. 
         
           For example, *"crm_id"* in: 
         
@@ -102,14 +102,14 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
           ```
 
         
-        * **iOS:** The Alias ID corresponds to *"idType"* in [visitorSyncIdentifiers:identifiers](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods). 
+        * **iOS:** The Alias ID corresponds to *"idType"* in [visitorSyncIdentifiers:identifiers](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html). 
         
           For example: 
                
           `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];` 
  
         
-        * **Android:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods). 
+        * **Android:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html). 
         
           For example: 
         
@@ -187,7 +187,7 @@ The following example shows an [!DNL Analytics] segment based on the uploaded at
 
 When you publish a segment to the Experience Cloud, it becomes available in Experience Cloud audiences and Audience Manager. 
 
-See [Customer Attributes Report](https://marketing.adobe.com/resources/help/en_US/reference/?f=reports_customer_attributes) in Analytics help for more information. 
+See [Customer Attributes Report](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-customer-attributes.html) in Analytics help for more information. 
 
 ## Use customer attributes in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
@@ -195,4 +195,4 @@ In Target, you can select a customer attribute from the Visitor Profile section 
 
 ![](assets/crs-add-attribute-target.png) 
 
-See [Creating a New Audience](https://marketing.adobe.com/resources/help/en_US/target/target/?f=t_creating_a_new_audience) in Target help. 
+See [Creating a New Audience](https://docs.adobe.com/content/help/en/target/using/audiences/create-audiences/audiences.html) in Target help. 

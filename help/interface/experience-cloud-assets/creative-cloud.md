@@ -24,14 +24,6 @@ Before Creative Cloud users have access to assets, they must be whitelisted in t
 
 ## About asset sharing with Adobe Target {#section_B7CD64CAB35D43A4B12957B304072DC9}
 
-When creating activities in [!DNL Adobe Target], you can use a shared image asset when swapping images in the Content Library. 
+When creating activities in [!DNL Adobe Target], you can use a shared image asset when swapping images in the [!UICONTROL Offers Library]. 
 
-See [Content Library](https://marketing.adobe.com/resources/help/en_US/target/target/?f=c_manage_content) in [!DNL Target] Help. 
-
-## About asset sharing with Adobe Social {#section_96BFBB9FF3074B2AB49A9B7932DB25EF}
-
-In [!DNL Adobe Social], you can insert a shared image asset using the [!UICONTROL Asset Selector] in the [!UICONTROL Publisher]. You can search for a folder, browse to it, and attach the asset to a Facebook or Twitter post. 
-
-See [Publisher Page](https://marketing.adobe.com/resources/help/en_US/social/?f=c_pub_publisher) in [!DNL Social] Help. 
-
-Shared folders and assets are synchronized automatically between the clouds. 
+See [Offers Library](https://docs.adobe.com/help/en/target/using/experiences/offers/manage-content.html) in [!DNL Target] Help. 

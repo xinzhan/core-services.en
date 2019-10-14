@@ -12,11 +12,9 @@ uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 
 The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). A schema is created based on these settings. The schema is used to validate all future data uploaded to this data source. This mapping process does not alter the original data.
 
-
 >[!NOTE]
 >
 >Updating the schema after validation deletes customer attributes. See [Update the schema (also deletes attributes)](../attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C). 
-
 
 **[!UICONTROL Customer Attribute Source]** > **[!UICONTROL Create New Customer Attribute Source]** > **[!UICONTROL View/Edit Schema]** 
 
@@ -40,14 +38,9 @@ On the [!UICONTROL Validate Schema] page, each row of the schema represents a co
     
     * **[!UICONTROL AVID (Analytics visitor ID):]** Displays if you use a prop or eVar to upload CIDs. If those IDs are being passed to the Experience Cloud, any visitor IDs associated with the CID you entered are displayed here. 
     
-    
-    
-
-
-
 You can also upload data via FTP after you create a customer attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in .csv format, with a second .fin file to indicate the upload is complete 
 
-The names you apply to strings, integers, and numbers are used to create [!DNL Analytics] metrics. See [Customer Attributes Report](https://marketing.adobe.com/resources/help/en_US/reference/?f=reports_customer_attributes) in [!DNL Analytics] help for more information. 
+The names you apply to strings, integers, and numbers are used to create [!DNL Analytics] metrics. See [Customer Attributes Report](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-customer-attributes.html) in [!DNL Analytics] help for more information. 
 
 * **[!UICONTROL Attribute:]** Attribute data read from the uploaded `.csv` file. 
 
@@ -59,12 +52,6 @@ The names you apply to strings, integers, and numbers are used to create [!DNL A
     
     * **Numbers:** Can have up to two decimal places. 
     
-    
-    
-
 * **[!UICONTROL Display Name:]** A friendly name for the attribute. For example, you might change an attribute *customer age* to *Customer Since*. 
 
 * **[!UICONTROL Description:]** A friendly description of the attribute. 
-
-
-

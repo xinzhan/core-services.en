@@ -46,8 +46,8 @@ Share an Experience Cloud asset folder with Creative Cloud users.
    Once you have removed all Creative Cloud Users, the folder is un-shared and the Creative Cloud users no longer has access. 
 Additional ways to use a shared asset include: 
 
-* Use assets in the [!UICONTROL Asset Selector] in [!DNL Adobe Social] for social posts. See [Publisher Page](https://marketing.adobe.com/resources/help/en_US/social/?f=c_pub_publisher).
-* Load or swap assets in the [Content Library](https://marketing.adobe.com/resources/help/en_US/target/target/?f=c_manage_content) in [!DNL Adobe Target] for images in activities.
+* Use assets in the [!UICONTROL Asset Selector] in [!DNL Adobe Social] for social posts.
+* Load or swap assets in the [Offers Library](https://docs.adobe.com/help/en/target/using/experiences/offers/manage-content.html) in [!DNL Adobe Target] for images in activities.
 
 After you share a folder to the Creative Cloud, you will see the Creative Cloud logo on the folder. 
 
