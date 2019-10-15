@@ -14,8 +14,6 @@ This page provides self help, support, and techical and product documentation fo
 
 ## Release notes and community resources
 
-Release notes, videos, community forums, and support:
-
 * [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) - all products
 * [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) - subscribe to receive release notes each month)
 * [Adobe Video Learning](https://helpx.adobe.com/experience-cloud/tutorials.html)
@@ -28,8 +26,6 @@ Release notes, videos, community forums, and support:
 * [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
 
 ## ![Experience Cloud help](assets/experience_cloud_appicon_32.png) Experience Cloud and core services help
-
-Help on profiles, audiences, customer attributes, Experience Cloud ID Service, Adobe Mobile, and so on:
 
 * [Adobe Mobile](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 * [Audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html)
@@ -46,8 +42,6 @@ Help on profiles, audiences, customer attributes, Experience Cloud ID Service, A
 
 ### Administration & enablement
 
-User and product management:
-
 * [User and product management](admin-getting-started/admin-getting-started.md) (Admin Console)
 * [Enable your solutions for core services](core-services/core-services.md)
 * [Frequently asked questions](admin-getting-started/admin-getting-started.md)
@@ -59,8 +53,6 @@ User and product management:
 * [DNS prefetch](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
 ## ![Analytics Help](assets/mc_analytics_32.png) Analytics help
-
-Web analytics, marketing and cross-channel analytics, attribution and predictive analytics:
 
 * [Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
 * [Tools](https://docs.adobe.com/content/help/en/analytics/analyze/home.html)
@@ -75,33 +67,23 @@ Web analytics, marketing and cross-channel analytics, attribution and predictive
 
 ## ![Audience Manager Help](assets/mc_audiencemanager_32.png) Audience Manager help
 
-Data management platform, audience segmentation, audience insights, real-time action:
-
 * [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)
 
 ## ![Target Help](assets/mc_target_32.png) Target help
-
-A/B and multivariate testing, omnichannel personalization, AI-powered automation and scale:
 
 * [Target release notes](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 * [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html)
 
 ## ![Experience Manager Help](assets/mc_experiencemanager_32.png) Experience Manager help
 
-Content management system, digital asset management, digital enrollment and forms, managed services:
-
 * [Experience Manager Learn & Support](https://helpx.adobe.com/support/experience-manager.html)
 
 ## ![Campaign Help](assets/mc_campaign_32.png) Campaign help
-
-Email Marketing, customer journeys, omnichannel marketing:
 
 * Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## ![Advertising Cloud Help](assets/advertisingcloud_appicon_32.png) Advertising Cloud help
-
-Demand-side platform, search marketing management, TV advertising, creative management.
 
 Help for the Advertising Cloud is available in the product by clicking the **Help** icon (?) at the top of any page.
 
