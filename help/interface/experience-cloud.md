@@ -16,7 +16,7 @@ This page provides self help, support, and techical and product documentation fo
 
 * [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) - all products
 * [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) - subscribe to receive release notes each month)
-* [Adobe Video Learning](https://helpx.adobe.com/experience-cloud/tutorials.html)
+* [Adobe Video Learning](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
 * [Adobe Experience League](https://landing.adobe.com/experience-league/) - guided learning
 * [Contact Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 * [Community forum](https://forums.adobe.com/community/experience-cloud)
