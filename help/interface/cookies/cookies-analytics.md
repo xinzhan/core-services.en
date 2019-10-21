@@ -82,6 +82,20 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 |Location|This cookie is stored on your domain as a first-party cookie.|
 |Size|33 bytes|
 
+## Cookie Flags
+
+The following table describes the flags for Analytics cookies:
+
+| Cookie (set by) | httpOnly  | Secure | SameSite | 
+|--- |--- |--- |--- |
+|s_vi   (http Response)|No |Yes when SameSite is "None" and connection uses HTTPS |"Lax" by default when using CNAME. "None" when using 2o7.net or omtrdc.net. |
+|s_ecid   (http Response)|No|No|"Lax"|
+|s_fid (Javascript)|No|No|Unset|
+|s_cc (Javascript)|No |No |Unset|
+|s_sq (Javascript)|No |No |Unset|
+
+*Note: If using a single CNAME to track across multiple domains or properties, SameSite should be set to "None." For help changing Analytics cookie settings, contact Customer Care.*
+
 ## Cookies Set By Plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}
 
 Additional cookies can be set depending on the use of Analytics plug-ins. These cookies are snippets of code available to the client for use in a variety of circumstances. These circumstances include: retrieving values from the URL; concatenating values to pass to Analytics; capturing form abandonment, and so on. For specifics on cookies that are set by each plug-in, contact ClientCare. An example would be the [!DNL s_vh] cookie used with the *Set Once Per* and *Set and Get Last Value* plug-ins.
