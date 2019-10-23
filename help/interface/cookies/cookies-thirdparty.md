@@ -6,9 +6,6 @@ seo-title: How Changes to Third Party Cookie Support Impacts Customers
 solution: Marketing Cloud,Analytics,Target,Social
 title: How Changes to Third Party Cookie Support Impacts Customers
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
-index: y
-internal: n
-snippet: y
 ---
 
 # How Changes to Third-Party Cookie Support Impact Customers{#how-changes-to-third-party-cookie-support-impacts-customers}

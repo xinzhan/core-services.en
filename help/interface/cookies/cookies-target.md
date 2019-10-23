@@ -6,9 +6,6 @@ seo-title: Target Cookies
 solution: Marketing Cloud,Analytics,Target,Social
 title: Target Cookies
 uuid: 44f7e32e-8d99-4682-8b54-8364d001b403
-index: y
-internal: n
-snippet: y
 ---
 
 # Target Cookies{#target-cookies}

@@ -4,9 +4,6 @@ seo-description: Advertising Cloud uses cookies to map ad engagement events to c
 seo-title: Advertising Cloud Cookies
 title: Advertising Cloud Cookies
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
-index: y
-internal: n
-snippet: y
 ---
 
 # Advertising Cloud Cookies{#advertising-cloud-cookies}

@@ -6,9 +6,6 @@ seo-title: Analytics Cookies
 solution: Marketing Cloud,Analytics,Target,Social
 title: Analytics Cookies
 uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
-index: y
-internal: n
-snippet: y
 ---
 
 # Analytics Cookies{#analytics-cookies}
@@ -32,7 +29,7 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 
 | Attribute  | Description  |
 |--- |--- |
-|Information Stored|Contains a copy of the Experience Cloud ID (ECID) or MID. The MID is stored in a key-value pair that follows this syntax, s_ecid=MCMID|<ECID>|
+|Information Stored|Contains a copy of the Experience Cloud ID (ECID) or MID. The MID is stored in a key-value pair that follows this syntax, s_ecid=MCMID|`<ECID>`|
 |Expiration|2 years|
 |Usage|This cookie is set by the customer's domain after the AMCV cookie is set by the client. The purpose of this cookie is to allow persistent ID tracking in the 1^st^ party state and is used as a reference ID if the AMCV cookie has expired. Check AMCV cookie here for more details.|
 |Location|CNAME customers only. Not applicable for 3rd-party scenarios. Cookie is stored on your domain, the same domain used by CNAME and your Analytics image request.|
@@ -52,7 +49,7 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 
 | Attribute  | Description  |
 |--- |--- |
-|Information Stored|This cookie is set and read by the JavaScript code when the ClickMap functionality and the Activity Map functionality are enabled; it contains information about the previous link that was clicked on by the user|
+|Information Stored|This cookie is set and read by the JavaScript code when the ClickMap functionality or the Activity Map functionality are enabled; it contains information about the previous link that was clicked on by the user|
 |Expiration|This cookie is a session cookie and expires when the browser is closed|
 |Usage|Only one cookie for all accounts|
 |Location|This cookie is stored at the domain of the page|
@@ -65,7 +62,7 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 |Information Stored|Unique visitor ID time/date stamp|
 |Expiration|2 years|
 |Usage|This cookie is used to identify a unique visitor|
-|Location|This cookie is stored at the domain of the image request - typically 2O7.net if you are using third-party cookies, or your domain if using first-party cookies.|
+|Location|This cookie is stored at the domain of the image request - typically a customer-specific subdomain under 2o7.net or omtrdc.net if you are using third-party cookies, or if your domain is using first-party cookies.|
 |Size|44 bytes|
 
 >[!NOTE]
@@ -77,8 +74,8 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 | Attribute  | Description  |
 |--- |--- |
 |Information Stored|Fallback unique visitor ID time/date stamp|
-|Expiration|5 years|
-|Usage|This cookie is used to identify a unique visitor if the standard  s_vi  cookie is unavailable due to third-party cookie restrictions. Not used for implementations that use first-party cookies.|
+|Expiration|2 years|
+|Usage|This cookie is used to identify a unique visitor if the standard  `s_vi` cookie is unavailable due to third-party cookie restrictions. Not used for implementations that use first-party cookies.|
 |Location|This cookie is stored on your domain as a first-party cookie.|
 |Size|33 bytes|
 
@@ -94,7 +91,7 @@ The following table describes the flags for Analytics cookies:
 |s_cc (Javascript)|No |No |Unset|
 |s_sq (Javascript)|No |No |Unset|
 
-*Note: If using a single CNAME to track across multiple domains or properties, SameSite should be set to "None." For help changing Analytics cookie settings, contact Customer Care.*
+>[!NOTE] If using a single CNAME to track across multiple domains or properties, SameSite should be set to "None" for `s_vi`. For help changing Analytics cookie settings, contact Customer Care.
 
 ## Cookies Set By Plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}
 

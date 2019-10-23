@@ -6,9 +6,6 @@ seo-title: Search and Promote Cookies
 solution: Marketing Cloud,Analytics,Target,Social
 title: Search and Promote Cookies
 uuid: 65bf24e0-0564-4dc2-b652-9fd9db57d23f
-index: y
-internal: n
-snippet: y
 ---
 
 # Search and Promote Cookies{#search-and-promote-cookies}
