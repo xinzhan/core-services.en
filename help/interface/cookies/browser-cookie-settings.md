@@ -6,9 +6,6 @@ seo-title: Enable privacy settings for browser cookies
 solution: Marketing Cloud,Analytics,Target,Social
 title: Enable privacy settings for browser cookies
 uuid: f6a56e8b-b021-49db-8eb4-6c14af0c7243
-index: y
-internal: n
-snippet: y
 ---
 
 # Enable privacy settings for browser cookies{#enable-privacy-settings-for-browser-cookies}

@@ -6,9 +6,6 @@ seo-title: Audience Manager Cookies
 solution: Marketing Cloud,Audience Manager
 title: Audience Manager Cookies
 uuid: 8b384c38-b85a-4e93-b00e-41a9d3ae2b21
-index: y
-internal: n
-snippet: y
 ---
 
 # Audience Manager Cookies{#audience-manager-cookies}

@@ -6,9 +6,6 @@ seo-title: Data Workbench Cookies
 solution: Marketing Cloud,Analytics,Target,Social
 title: Data Workbench Cookies
 uuid: c15013f4-c47d-4950-aa19-be9afd25cd5f
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Cookies{#data-workbench-cookies}

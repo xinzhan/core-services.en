@@ -6,9 +6,6 @@ seo-title: Data Connectors Cookies
 solution: Marketing Cloud,Analytics,Target,Social
 title: Data Connectors Cookies
 uuid: 5d27ba66-e640-4513-befc-69e8502de941
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Connectors Cookies{#data-connectors-cookies}

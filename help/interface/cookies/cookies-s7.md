@@ -6,9 +6,6 @@ seo-title: Scene7 Cookies
 solution: Marketing Cloud,Analytics,Target,Social
 title: Scene7 Cookies
 uuid: f9b9d13a-17e5-4139-8c84-6fe5d22c4196
-index: y
-internal: n
-snippet: y
 ---
 
 # Scene7 Cookies{#scene-cookies}

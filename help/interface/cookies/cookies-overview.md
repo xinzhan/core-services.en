@@ -4,9 +4,6 @@ seo-description: Many services within the Adobe Experience Cloud use cookies. A 
 seo-title: Cookies Used in the Experience Cloud
 title: Cookies Used in the Experience Cloud
 uuid: 4255a13a-917b-4b5f-a7d4-4b2e7521d189
-index: y
-internal: n
-snippet: y
 ---
 
 # Cookies Used in the Experience Cloud{#cookies-used-in-the-experience-cloud}
