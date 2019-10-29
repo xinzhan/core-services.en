@@ -10,6 +10,8 @@ uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 
 # Experience Cloud and Core Services Product Documentation
 
+![Experience Cloud](assets/banner.png)
+
 This page provides self help, support, and techical and product documentation for the Adobe Experience Cloud solutions and services. The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
 
 ## Release notes and community resources
@@ -25,7 +27,7 @@ This page provides self help, support, and techical and product documentation fo
 * [Adobe Customer Experience Blog](https://theblog.adobe.com/customer-experience/) (blog)
 * [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
 
-## ![Experience Cloud help](assets/experience_cloud_appicon_32.png) Experience Cloud and core services help
+## Experience Cloud and core services help
 
 * [Adobe Mobile](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 * [Audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html)
@@ -40,7 +42,7 @@ This page provides self help, support, and techical and product documentation fo
 * [Feed](feed.md)
 * [General Data Protection Regulation (GDPR) API](https://www.adobe.io/apis/experiencecloud/gdpr.html)
 
-### Administration & enablement
+## Administration & enablement
 
 * [User and product management](admin-getting-started/admin-getting-started.md) (Admin Console)
 * [Enable your solutions for core services](core-services/core-services.md)
@@ -51,42 +53,3 @@ This page provides self help, support, and techical and product documentation fo
 * [Experience Cloud privacy and security Overview](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [Profile Management in Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
 * [DNS prefetch](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
-
-## ![Analytics Help](assets/mc_analytics_32.png) Analytics help
-
-* [Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
-* [Tools](https://docs.adobe.com/content/help/en/analytics/analyze/home.html)
-* [Admin](https://docs.adobe.com/content/help/en/analytics/admin/home.html)
-* [Implementation](https://docs.adobe.com/content/help/en/analytics/implementation/home.html)
-* [Components](https://docs.adobe.com/content/help/en/analytics/components/home.html)
-* [Export](https://docs.adobe.com/content/help/en/analytics/export/home.html)
-* [Import](https://docs.adobe.com/content/help/en/analytics/import/home.html)
-* [Integration](https://docs.adobe.com/content/help/en/analytics/integration/home.html)
-* [Media Analytics](https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html)
-* [Data Workbench](https://marketing.adobe.com/resources/help/en_US/insight/)
-
-## ![Audience Manager Help](assets/mc_audiencemanager_32.png) Audience Manager help
-
-* [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)
-
-## ![Target Help](assets/mc_target_32.png) Target help
-
-* [Target release notes](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
-* [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html)
-
-## ![Experience Manager Help](assets/mc_experiencemanager_32.png) Experience Manager help
-
-* [Experience Manager Learn & Support](https://helpx.adobe.com/support/experience-manager.html)
-
-## ![Campaign Help](assets/mc_campaign_32.png) Campaign help
-
-* Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
-* Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-
-## ![Advertising Cloud Help](assets/advertisingcloud_appicon_32.png) Advertising Cloud help
-
-Help for the Advertising Cloud is available in the product by clicking the **Help** icon (?) at the top of any page.
-
-## ![Primetime Help](assets/primetime_app_32.png) Primetime help
-
-* [Primetime Help](http://help.adobe.com/en_US/primetime/)
