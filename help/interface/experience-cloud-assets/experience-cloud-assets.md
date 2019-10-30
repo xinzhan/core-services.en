@@ -73,6 +73,8 @@ Click **[!UICONTROL Annotate]** by drawing circles or arrows on an image, and an
 
 ## Share an asset to your feed {#section_2CD53A99600D4A3D9AA82C3CDA666E6B}
 
+**Experience Cloud Feed will no longer be supported starting Nov 01, 2019 and shall be deprecated by Dec, 2019.**
+
 Click **[!UICONTROL Share]** from the toolbar to share the asset as [feed](../feed.md#concept_9256B8768A294009A777282DD8719213) to other Experience Cloud users. 
 
 ![](assets/assets-share-card.png) 
