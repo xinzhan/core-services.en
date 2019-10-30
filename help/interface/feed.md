@@ -10,6 +10,8 @@ uuid: 7ff327d1-5a74-49fb-8c3c-729034818ebc
 
 # Feed
 
+**Experience Cloud Feed will no longer be supported starting Nov 01, 2019 and shall be deprecated by Dec, 2019.**
+
 Learn how to share or post assets and Analytics reports directly with others using your Experience Cloud Feed.
 
 The Feed might be empty the first time you log in to the Experience Cloud. As you create posts and share things, and other users share content with you, the Feed will automatically populate to help you and your team members keep up to date. 
@@ -27,6 +29,8 @@ Settings in the Feed include:
 * **Favorites:** View posts that you marked as favorites.
 
 ## Share an Analytics project to the Feed {#section_F2BDF9FEF4394686BAC5051CBE913EE5}
+
+**Experience Cloud Feed will no longer be supported starting Nov 01, 2019 and shall be deprecated by Dec, 2019.**
 
 You can share reports from [!UICONTROL Reports & Analytics] to the Experience Cloud Feed. 
 
