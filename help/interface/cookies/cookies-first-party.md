@@ -11,19 +11,20 @@ snippet: y
 
 # About first-party cookies
 
-Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions. These harmless cookies originate from a domain hosted by Adobe, known as third-party cookies.
+Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions. These harmless cookies, which originate from a domain hosted by Adobe, are known as third-party cookies.
 
 Many browsers and anti-spyware applications are designed to reject and delete third-party cookies, including those used in Analytics data collection. In order to circumvent tracking limitations imposed by browsers and programs, you can implement first-party cookies.
 
 Two options are available to implement first party cookies
 
 * The Experience Platform ID Service. The ID Service can set the cookie in the first-party context using JavaScript.
-* DNS entries on your companies DNS server.
-* If your site has secure pages using the `https:` protocol and you are not using the Experience Platform ID Service, you can work with Adobe to obtain an SSL certificate in order to implement first-party cookies
+* DNS entries on your company's DNS server.
+
+If your site has secure pages using the `https:` protocol and you are not using the Experience Platform ID Service, you can work with Adobe to obtain an SSL certificate in order to implement first-party cookies
 
 The SSL certificate issuance process can often be confusing and time consuming. As a result, Adobe established a partnership with DigiCert, an industry leading Certificate Authority (CA), and developed an integrated process by which the purchase and management of these certificates is automated.
 
-With your permission, we will work with our CA to issue, deploy, and manage a new SHA-2 SSL certificate for you. Adobe will continue to manage this certificate and ensure that an unexpected expiration, revocation, or security concern, does do not threaten the availability of your organizations secure collection.
+With your permission, we will work with our CA to issue, deploy, and manage a new SHA-2 SSL certificate for you. Adobe will continue to manage this certificate and ensure that an unexpected expiration, revocation, or security concern, does do not threaten the availability of your organization's secure collection.
 
 ## Adobe Managed Certificate Program
 
@@ -57,7 +58,7 @@ SSL certificates expire each year, meaning Adobe must purchase a new certificate
 |**How can Adobe purchase a certificate for our domain?**|The certificate can only be purchased when you have pointed the specified hostname (for example, smetrics.example.com) to an Adobe owned hostname. This is essentially delegating this hostname to Adobe and allows Adobe to purchase the certificate on your behalf.|
 |**Can I request that the certificate be revoked?**|Yes, as the owner of the domain, you are entitled to request we have the certificate revoked. You will only need to open a ticket with Customer Care to have this completed.|
 |**Will this certificate be using SHA-2 encryption?**|Yes, Adobe will work with DigiCert to issue a SHA-2 certificate.|
-|**Does this incur any additional cost?**|No, Adobe is offering this service to all current Analytics customers at no additional cost.|
+|**Does this incur any additional cost?**|No, Adobe is offering this service to all current Adobe Digital Experience customers at no additional cost.|
 
 ## Create CNAME records
 
@@ -72,7 +73,7 @@ The FPC specialist provides you with the configured hostnames and what CNAMEs th
 
 As long as implementation code is not altered, this step will not affect data collection and can be done at any time after updating implementation code.
 
->[!Note:] The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies. 
+>[!Note:] The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies, but because of recent Apple ITP changes, it is still recommended to allocate a CNAME even when using the Experience Cloud ID service. 
 
 ## Ping the hostname
 
@@ -96,7 +97,7 @@ If the CNAME records are not correctly set up or not active, it will return the 
 
 `Ping request could not find the host. Please check the name and try again.`
 
->[!Note:] If you are using `https:// protocol`, ping will only respond after the upload date specified by the FPC specialist. An addition, be sure to ping the secure hostname and non-secure hostname to ensure that both are working correctly before updating your implementation.
+>[!Note:] If you are using `https:// protocol`, ping will only respond after the upload date specified by the FPC specialist. In addition, be sure to ping the secure hostname and non-secure hostname to ensure that both are working correctly before updating your implementation.
 
 ## Update implementation code
 
@@ -104,7 +105,7 @@ Before you edit code on your site to utilize first-party cookies, complete these
 
 * Request an SSL certificate, as described above in Implementation Steps for the Adobe Managed Certificate Program.
 * Create CNAME records (see above).
-* Ping the hostname (see above).
+* Ping the hostname(s) (see above).
 
 After you have verified your hostname(s) are responding and forwarding to Adobe data collection servers, you can alter your implementation to point to your own data collection hostnames.
 
