@@ -17,12 +17,12 @@ This page provides self help, support, and techical and product documentation fo
 ## Release notes and community resources
 
 * [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) - all products
+* [Help Home - Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html)
 * [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) - subscribe to receive release notes each month)
 * [Adobe Video Learning](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
 * [Adobe Experience League](https://landing.adobe.com/experience-league/) - guided learning
 * [Contact Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 * [Community forum](https://forums.adobe.com/community/experience-cloud)
-* [Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html)
 * [Adobe Training and Tutorials](https://helpx.adobe.com/learning.html?promoid=KAUDK)
 * [Adobe Customer Experience Blog](https://theblog.adobe.com/customer-experience/) (blog)
 * [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
