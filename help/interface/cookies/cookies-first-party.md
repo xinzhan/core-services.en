@@ -66,9 +66,9 @@ Your organization's network operations team should configure your DNS servers by
 The FPC specialist provides you with the configured hostnames and what CNAMEs they are to be pointed to. For example:
 
 * **SSL Hostname**:`smetrics.mysite.com`
-* **SSL CNAME**:`mysite.com.ssl.d1.sc.omtrdc.net`
+* **SSL CNAME**:`mysite.com.ssl.sc.omtrdc.net`
 * **Non-SSL Hostname**:`metrics.mysite.com`
-* **Non-SSL CNAME**:`mysite.com.d1.sc.omtrdc.net`
+* **Non-SSL CNAME**:`mysite.com.sc.omtrdc.net`
 
 As long as implementation code is not altered, this step will not affect data collection and can be done at any time after updating implementation code.
 
