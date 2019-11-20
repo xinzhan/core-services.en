@@ -14,21 +14,19 @@ uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 
 This page provides self help, support, and techical and product documentation for the Adobe Experience Cloud solutions and services. The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
 
-## Release notes and community resources
+## What do you want to learn?
 
-* [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) - all products
-* [Help Home - Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html)
-* [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) - subscribe to receive release notes each month)
-* [Adobe Video Learning](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
-* [Adobe Experience League](https://landing.adobe.com/experience-league/) - guided learning
-* [Contact Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html)
-* [Community forum](https://forums.adobe.com/community/experience-cloud)
-* [Adobe Training and Tutorials](https://helpx.adobe.com/learning.html?promoid=KAUDK)
-* [Adobe Customer Experience Blog](https://theblog.adobe.com/customer-experience/) (blog)
+* [Release notes and product updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) - What's new in the Experience Cloud, and subscribe to get updates
+* [Tutorials for implementing core services](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html) - Explore videos and tutorials about core services
+* [Expert help at Experience League](https://landing.adobe.com/experience-league/) - Get guided learning from experts and the community
+* [Education and training](https://helpx.adobe.com/learning.html?promoid=KAUDK) - Engage with Adobe to ensure that you get the most out of our products
+* [Customer Experience Blog](https://theblog.adobe.com/customer-experience/) - Read the Experience Cloud blog
+* [Help for all products](https://helpx.adobe.com/support/experience-cloud.html) - Browse for help at Experience Cloud Learn & Support
+* [Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html) - Contact Adobe Customer Care
+
+## Core services product documetation
+
 * [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
-
-## Experience Cloud and core services help
-
 * [Adobe Mobile](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 * [Audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html)
 * [Assets](experience-cloud-assets/experience-cloud-assets.md)
