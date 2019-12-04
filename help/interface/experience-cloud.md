@@ -21,7 +21,7 @@ This page provides self help, support, and techical and product documentation fo
 * [Expert help at Experience League](https://landing.adobe.com/experience-league/) - Get guided learning from experts and the community
 * [Education and training](https://helpx.adobe.com/learning.html?promoid=KAUDK) - Engage with Adobe to ensure that you get the most out of our products
 * [Customer Experience Blog](https://theblog.adobe.com/customer-experience/) - Read the Experience Cloud blog
-* [Help for all products](https://helpx.adobe.com/support/experience-cloud.html) - Browse for help at Experience Cloud Learn & Support
+* [Product documentation for all Experience Cloud solutions](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) - Browse for help at Experience Cloud Learn & Support
 * [Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html) - Contact Adobe Customer Care
 
 ## Core services product documetation
