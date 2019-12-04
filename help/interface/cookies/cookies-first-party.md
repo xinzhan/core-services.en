@@ -11,19 +11,22 @@ snippet: y
 
 # About first-party cookies
 
-Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions. These harmless cookies originate from a domain hosted by Adobe, known as third-party cookies.
+Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions. These harmless cookies which originate from a domain hosted by Adobe, are known as third-party cookies.
 
-Many browsers and anti-spyware applications are designed to reject and delete third-party cookies, including those used in Analytics data collection. In order to circumvent tracking limitations imposed by browsers and programs, you can implement first-party cookies.
+Many browsers and anti-spyware applications are designed to reject and delete third-party cookies, including those used in Analytics data collection. To support your tracking of how your visitors interact with your website, you can implement first-party cookies.
 
 Two options are available to implement first party cookies
 
 * The Experience Platform ID Service. The ID Service can set the cookie in the first-party context using JavaScript.
-* DNS entries on your companies DNS server.
-* If your site has secure pages using the `https:` protocol and you are not using the Experience Platform ID Service, you can work with Adobe to obtain an SSL certificate in order to implement first-party cookies
+* DNS entries on your company's DNS server to configure a CNAME alias to an Adobe hosted domain. Please note that while various Adobe products support using a CNAME, in all cases the CNAME is used to a create a trusted first-party endpoint for a specific customer and is owned by that customer. If that customer controls multiple domains, they may use a single CNAME endpoint to track users across their domains, but as this requires third-party cookies for all domains outside of the CNAME’s domain, it does not work when third-party cookies are blocked and so is not recommended. Adobe CNAMEs are never used to track an individual or device across domains owned by different customers.
+
+Even when using the first option with the Experience Cloud ID Service, Apple's ITP will make the first-party cookies short-lived, so it is best used in conjunction with the second option.
+
+For the second option using a CNAME, if your site has secure pages using the `https:` protocol, you can work with Adobe to obtain an SSL certificate in order to implement first-party cookies. Adobe strongly recommends that you exclusively use HTTPS for data collection as we will be dropping support for HTTP collection in the second half of 2020.
 
 The SSL certificate issuance process can often be confusing and time consuming. As a result, Adobe established a partnership with DigiCert, an industry leading Certificate Authority (CA), and developed an integrated process by which the purchase and management of these certificates is automated.
 
-With your permission, we will work with our CA to issue, deploy, and manage a new SHA-2 SSL certificate for you. Adobe will continue to manage this certificate and ensure that an unexpected expiration, revocation, or security concern, does do not threaten the availability of your organizations secure collection.
+With your permission, we will work with our CA to issue, deploy, and manage a new SHA-2 SSL certificate for you. Adobe will continue to manage this certificate and ensure that an unexpected expiration, revocation, or security concern, does do not threaten the availability of your organization's secure collection.
 
 ## Adobe Managed Certificate Program
 
@@ -47,7 +50,7 @@ Here is how you implement a new first-party SSL certificate for first-party cook
 
 ### Maintenance and Renewals
 
-SSL certificates expire each year, meaning Adobe must purchase a new certificate for each implementation on a yearly basis. All supported users within your organization will receive an email notification each time an implementation is close to expiration. For Adobe to renew your hostname, one supported user will must reply to the email from Adobe and indicate that you plan to continue using the expiring hostname for data collection. At that point, Adobe automatically purchases and installs a new certificate. 
+SSL certificates expire each year, meaning Adobe must purchase a new certificate for each implementation on a yearly basis. All supported users within your organization will receive an email notification each time an implementation is close to expiration. For Adobe to renew your hostname, one supported user must reply to the email from Adobe and indicate that you plan to continue using the expiring hostname for data collection. At that point, Adobe automatically purchases and installs a new certificate. 
 
 ### Frequently Asked Questions
 
@@ -102,7 +105,7 @@ If the CNAME records are not correctly set up or not active, it will return the 
 
 Before you edit code on your site to utilize first-party cookies, complete these prerequisites:
 
-* Request an SSL certificate, as described above in Implementation Steps for the Adobe Managed Certificate Program.
+* Request an SSL certificate, by following the steps described above in the *Implement* section ofCla the *Adobe Managed Certificate Program.*
 * Create CNAME records (see above).
 * Ping the hostname (see above).
 
