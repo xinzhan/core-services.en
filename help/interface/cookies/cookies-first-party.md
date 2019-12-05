@@ -105,7 +105,7 @@ If the CNAME records are not correctly set up or not active, it will return the 
 
 Before you edit code on your site to utilize first-party cookies, complete these prerequisites:
 
-* Request an SSL certificate, by following the steps described above in the *Implement* section ofCla the *Adobe Managed Certificate Program.*
+* Request an SSL certificate, by following the steps described above in the *Implement* section of the [Adobe Managed Certificate Program](#adobe-managed-certificate-program).
 * Create CNAME records (see above).
 * Ping the hostname(s) (see above).
 
