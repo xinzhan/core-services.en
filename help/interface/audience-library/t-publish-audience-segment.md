@@ -12,7 +12,7 @@ uuid: 4201dc22-4b79-457c-a614-949bba087617
 
 Publish an Analytics audience segment to the Experience Cloud and to Adobe Target, for audience marketing activities.
 
-1.  In Analytics, [build a segment](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_build.html).
+1.  In Analytics, [build a segment](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html).
 1.  On the Segment Builder, enable the **[!UICONTROL Publish this segment to the Experience Cloud]** option.
 
     ![](assets/ec_audience_example.png) 

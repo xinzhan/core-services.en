@@ -54,7 +54,7 @@ Help for non-administrative users signing in to the Experience Cloud.
 1. Verify with your administrator that your [organization](../admin-getting-started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) has been provisioned in the Experience Cloud.
 
 
-1. Navigate to the [Adobe Experience Cloud](https://marketing.adobe.com) ( [!DNL marketing.adobe.com]).
+1. Navigate to the [Adobe Experience Cloud](https://experiencecloud.adobe.com) ([!DNL experiencecloud.adobe.com]).
 1. Click **[!UICONTROL Sign In With Adobe ID]**.
 
    Your Experience Cloud administrator can help you determine the type of account (Adobe ID or Enterprise ID). 
@@ -137,15 +137,13 @@ You can edit your Experience Cloud profile, specify a default organization and l
 
 Optionally, you can sign in to a specific page in a solution, using authentication provided by the Experience Cloud Interface.
 
+### URL Template
 
-<!-- mac-deep-linking.xml -->
-**URL Template** 
-
-[!DNL https://<tenantId>.marketing.adobe.com/<solutionname>?destURL=<fullURL>] 
+`https://<tenantId>.experiencecloud.adobe.com/<solutionname>?destURL=<fullURL>`
 
 Sample URL: 
 
-[!DNL https://aem62tenant.marketing.adobe.com/analytics?destURL=https%3A%2F%2Fsc.omniture.com%2Freports%2F11562.html] 
+`https://aem62tenant.experiencecloud.adobe.com/analytics?destURL=https%3A%2F%2Fsc.omniture.com%2Freports%2F11562.html`
 
 >[!NOTE]
 >

@@ -16,7 +16,7 @@ Activation includes the latest tag management product called Launch, by Adobe, D
 
 Deploy and manage the analytics, marketing, and advertising tags necessary to power relevant customer experiences. 
 
-See [Launch, by Adobe](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/). 
+See [Launch, by Adobe](https://docs.adobelaunch.com/getting-started). 
 
 ## Dynamic Tag Management {#section_C7E000EEF3E6459FB4B6D4A8960DD8F0}
 
@@ -31,15 +31,15 @@ To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a r
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/analytics/getting-started/add-adobe-analytics-dtm-tool.html" format="html" scope="external"> Deploy Adobe Analytics </a> </p> </td> 
+   <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/dtm/using/tools/analytics-dtm.html" format="html" scope="external"> Deploy Adobe Analytics </a> </p> </td> 
    <td colname="col2"> <p> Step-by-step instructions to add Adobe Analytics using Adobe Dynamic Tag Management </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-implementation-guides.html" format="html" scope="external"> Implementation Guides for Experience Cloud ID Service </a> </p> </td> 
+   <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html" format="html" scope="external"> Implementation Guides for Experience Cloud ID Service </a> </p> </td> 
    <td colname="col2"> <p>The Experience Cloud ID service enables core functionality across Experience Cloud solutions (including customer attributes, audience sharing, and triggers). Adobe strongly recommends implementing the ID service and take advantage of these features. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/dtm/" format="https" scope="external"> Dynamic Tag Management Product Documentation </a> </p> </td> 
+   <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html" format="https" scope="external"> Dynamic Tag Management Product Documentation </a> </p> </td> 
    <td colname="col2"> <p>Learn more about deploying Experience Cloud solutions with Dynamic Tag Management. </p> </td> 
   </tr> 
  </tbody> 
@@ -75,4 +75,4 @@ If you want help implementing dynamic tag management we encourage you to contact
 
 The Adobe Experience Cloud Debugger extension for Chrome examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented. 
 
-See [Experience Cloud Debugger](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/) for help. 
+See [Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html) for help. 

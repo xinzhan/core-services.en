@@ -27,7 +27,7 @@ Fixes and improvements for July, 2018.
 
 * Deployed a back-end capability to control asset sharing between Marketing Cloud-to-AEM and Marketing Cloud-to-Creative Cloud. (CORE-14386)
 * Fixed an issue that blocked provisioning of new tenants on some environments. (CORE-15509)
-* Fixed an issue that redirected users to [!DNL marketing.adobe.com] while accessing [!DNL experiencecloud.adobe.com] via [!DNL http] instead of [!DNL https] (secured). (CORE-15587)
+* Fixed an issue that redirected users to [!DNL experiencecloud.adobe.com] while accessing [!DNL experiencecloud.adobe.com] via [!DNL http] instead of [!DNL https] (secured). (CORE-15587)
 * Fixed an issue that blocked notifications for some new tenants. (CORE-15240)
 
 ## June 14, 2018 {#section_7ABC327992CB46B0B8E4A631B8B68899}
@@ -63,7 +63,7 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 |--- |--- |
 |Notifications - Granular settings|You can enable notifications for product and solution events and activities, including notifications about [Customer Attributes](../attributes/attributes.md) upload activity.|
 |Notifications - Maintenance notifications|In Notification settings, you can enable maintenance notifications for products and solutions.|
-|Admin Console for Experience Cloud Solutions|New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization.<br>The migration to the Admin Console for user management will proceed in waves. Adobe will contact you (system administrators) when it is time to migrate.<br>Analytics administrators, see  [Analytics Migration](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/).|
+|Admin Console for Experience Cloud Solutions|New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization.<br>The migration to the Admin Console for user management will proceed in waves. Adobe will contact you (system administrators) when it is time to migrate.<br>Analytics administrators, see  [Analytics Migration](https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html).|
 
 ## May 22, 2017 {#section_242FE649FA1B4BFA88EC6E353D175ACC}
 

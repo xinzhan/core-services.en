@@ -59,18 +59,18 @@ An Analytics user ID migration tool is available to help Analytics administrator
 
 The account migration is being rolled out to customers in phases. Adobe will notify and assist you when it is your time to migrate existing user accounts from **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** to the Admin Console. 
 
-After the migration, users sign in using their Adobe ID (or Enterprise ID) and authenticate to their Experience Cloud solutions and services at [marketing.adobe.com](https://marketing.adobe.com). If users attempt to sign in via legacy logins ([!DNL my.omniture.com] and [!DNL sc.omniture.com]) they are redirected to [!DNL marketing.adobe.com]. 
+After the migration, users sign in using their Adobe ID (or Enterprise ID) and authenticate to their Experience Cloud solutions and services at [experiencecloud.adobe.com](https://experiencecloud.adobe.com). If users attempt to sign in via legacy logins ([!DNL my.omniture.com] and [!DNL sc.omniture.com]) they are redirected to [!DNL experiencecloud.adobe.com]. 
 
 **Related help** 
 
-[Analytics User ID Migration](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/) 
+[Analytics User ID Migration](https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html) 
 
 ## Target - product profiles vs workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
 
 In Target, a workspace is a product profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics. 
 
 See: 
-* [Enterprise User Permissions](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html)
+* [Enterprise User Permissions](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html)
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
 * Video: [How to Configure Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
@@ -86,19 +86,19 @@ See [Managing groups and users](https://helpx.adobe.com/campaign/standard/admini
 
 Launch, by Adobe displays on the Products page in the Admin Console. You can include other solutions and core services in a Launch product profile. 
 
-See [User Management](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/user-management.html) for information about user permissions in the Admin Console and set up Launch-specific options, including assigning rights to profiles. 
+See [User Management](https://docs.adobelaunch.com/launch-reference/administration/user-permissions) for information about user permissions in the Admin Console and set up Launch-specific options, including assigning rights to profiles. 
 
 ## Dynamic Tag Manager {#section_3A41CF2BD5994B9891537D063571D4ED}
 
 Invite users to Dynamic Tag Management and assign user roles and add users to groups. 
 
-See [Users and Permissions](https://marketing.adobe.com/resources/help/en_US/dtm/users.html) for information about how to invite users to Dynamic Tag Management and assign user roles and add users to groups. 
+See [Users and Permissions](https://docs.adobe.com/content/help/en/dtm/using/admin/users.html) for information about how to invite users to Dynamic Tag Management and assign user roles and add users to groups. 
 
 ## Audience Manager {#section_C31E3FA8A1E14463B1B3E07235F1983C}
 
 Create Audience Manager users and assign them to groups. You can also view limits (traits, segments, destinations, and AlgoModel). 
 
-See [Administration](https://marketing.adobe.com/resources/help/en_US/aam/c_administration.html) in Audience Manager help. 
+See [Administration](https://docs.adobe.com/content/help/en/dtm/using/admin/users.html) in Audience Manager help. 
 
 ## Manage Experience Cloud products {#task_16335111C52D40E9BAC73D0699584DBF}
 
@@ -114,7 +114,7 @@ When you invite a user to an organization, you can give the user access to produ
 More help is available at: 
 
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
-* [Enterprise User Permissions](https://marketing.adobe.com/resources/help/en_US/target/target/property_channel.html) in Target help for more information.
+* [Enterprise User Permissions](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html) in Target help for more information.
 * Video: [How to Configure Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
 ## Assign Analytics access permissions to a product profile {#task_040673FE3E3E429B9531FBCB8B6A4391}

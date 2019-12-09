@@ -14,7 +14,7 @@ Features, release notes, and known issues for the Experience Cloud interface.
 
 For a list of documentation updates, see [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
-For release notes covering all solutions, see [Experience Cloud Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/). 
+For release notes covering all solutions, see [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html). 
 
 ## August - 2019
 
@@ -167,7 +167,7 @@ No information available
 </table>
 
 * Fixed an issue preventing customer attributes from syncing for some customers.
-* Fixed an issue preventing [Adobe Target Product Documentation](https://marketing.adobe.com/resources/help/ja_JP/target/a4t/) page from displaying in Japanese.
+* Fixed an issue preventing [Adobe Target Product Documentation](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html) page from displaying in Japanese.
 * Fixed an issue preventing the use of Japanese text in comments between the [!DNL Creative Cloud] and the [!DNL Experience Cloud].
 
 ## Release 15.4.1 - April 8 2015 {#section_75634120CC934B3381EDEA7F6F976F0A}
@@ -351,7 +351,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 **Fixes and Improvements** 
 
-* When you navigate to [!DNL marketing.adobe.com], the login experience is now consistent with Adobe's Creative Cloud login.
+* When you navigate to [!DNL experiencecloud.adobe.com], the login experience is now consistent with Adobe's Creative Cloud login.
 * On the Manage Organizations page, the linking experience (after an invite is received) is now consistent for each solution.
 
 **Known Issues** 

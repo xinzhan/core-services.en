@@ -32,12 +32,9 @@ If you capture enterprise customer data in a customer relationship management (C
 * **Target mbox:** mbox.js version 58 or higher is required for customer attributes. 
 
 
-  See [Mbox.js Implementation](https://marketing.adobe.com/resources/help/en_US/target/ov/t_mbox_download.html). 
+  See [Mbox.js Implementation](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/mbox-download.html). 
 
 * **at.js:** Any version.
-
-
-
 
 ## What Is enterprise customer data? {#section_6F34C29F11414842AA57D2B1248FA3C6}
 

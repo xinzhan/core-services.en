@@ -28,7 +28,7 @@ What you need to do to join the Experience Cloud:
 
 >[!NOTE]
 >
->For Target, [migrate to at.js from mbox.js](https://marketing.adobe.com/resources/help/en_US/target/ov2/t_target-migrate-atjs.html). 
+>For Target, [migrate to at.js from mbox.js](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/upgrading-from-atjs-1x-to-atjs-20.html). 
 
 ![](assets/step2_icon.png) Modernize your implementation and get provisioned an administrator. 
 
@@ -112,11 +112,11 @@ For example, assume that Bob has Customer ID `52mc210tr42` in your CRM system. W
 
 The Customer ID must be set on each [!DNL Analytics] server call where the Customer ID is known. 
 
-**Mobile SDKs** 
+### Mobile SDKs 
 
 See the *Experience Cloud ID service* section for syntax examples about how to set additional customer IDs in [Android](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html) and [iOS](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html) Mobile applications. 
 
-**Enabling Attributes for Historical Data** 
+### Enabling Attributes for Historical Data
 
 Customer attribute data is made available after visitors log in. If you have not yet implemented the latest Experience Cloud ID service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to the Experience Cloud. This process lets you begin using customer attributes immediately. 
 

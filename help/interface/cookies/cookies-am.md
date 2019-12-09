@@ -28,7 +28,7 @@ Audience Manager relies on a few simple cookies to perform different functions. 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Content</b> </p> </td> 
-   <td colname="col2"> <p>The <span class="wintitle"> demdex </span> cookie contains a Unique User ID (UUID) as shown in the example below: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>See also, <a href="https://marketing.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="https" scope="external"> Index of IDs in Audience Manager </a>. </p> </td> 
+   <td colname="col2"> <p>The <span class="wintitle"> demdex </span> cookie contains a Unique User ID (UUID) as shown in the example below: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>See also, <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html" format="https" scope="external"> Index of IDs in Audience Manager </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Other Attributes</b> </p> </td> 
@@ -121,7 +121,7 @@ The following table lists and defines the elements in a [!DNL dextp] cookie by l
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Purpose</b> </p> </td> 
-   <td colname="col2"> <p> <span class="keyword"> Audience Manager </span> sets this cookie when there's an error sending data to a <a href="https://marketing.adobe.com/resources/help/en_US/aam/c_destinations.html" format="https" scope="external"> destination </a>. </p> </td> 
+   <td colname="col2"> <p> <span class="keyword"> Audience Manager </span> sets this cookie when there's an error sending data to a <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html#purposes" format="https" scope="external"> destination </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Content</b> </p> </td> 

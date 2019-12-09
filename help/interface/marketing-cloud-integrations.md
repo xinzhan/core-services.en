@@ -20,7 +20,7 @@ Describes how to:
 
 * Provision your company in the Experience Cloud.
 * Enable you to become an administrator.
-* [Implement the Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+* [Implement the Experience Cloud ID service](https://docs.adobe.com/content/help/en/id-service/using/home.html).
 * Modernize your Analytics and Target implementations via DTM.
 * Start using core services.
 
@@ -29,19 +29,19 @@ Solutions or services:
 * Activation - Dynamic Tag Management or Launch, by Adobe
 * Analytics
 * Target
-* [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/)
+* [Experience Cloud ID service](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 
 ## Experience Cloud ID service {#section_6ECCCFA2D84D4D4F88C879C799CA9D78}
 
-Help: [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/mcvid/) 
+Help: [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) 
 
 The ID service provides a universal, persistent ID that identifies your visitors across all the solutions in the Experience Cloud. It can replace ID generation code for services such as Analytics, Audience Manager, Target, video heartbeat, and other Experience Cloud solutions or features. 
 
 **Applicable solutions or services** 
 
-* [Analytics](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-setup-analytics.html)
-* [Target](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-setup-target.html)
-* [Data Workbench](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-dwb.html)
+* [Analytics](https://docs.adobe.com/content/help/en/id-service/using/home.htmlmcvid-setup-analytics.html)
+* [Target](https://docs.adobe.com/content/help/en/id-service/using/home.htmlmcvid-setup-target.html)
+* [Data Workbench](https://docs.adobe.com/content/help/en/id-service/using/home.htmlmcvid-dwb.html)
 
 ## Audiences {#section_5F60D7B0833348B9A1D74663AADCB42C}
 
@@ -55,8 +55,8 @@ Create and manage audiences in the Experience Cloud Audience Library. Audiences 
 
 **Applicable solutions or services** 
 
-* [Activities](https://marketing.adobe.com/resources/help/en_US/target/target/c_activities.html) in Adobe Target
-* [Segmentation](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/aam-analytics-segments.html) in Audience Manager
+* [Activities](https://docs.adobe.com/content/help/en/target/using/activities/activities.html) in Adobe Target
+* [Segmentation](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html) in Audience Manager
 * [Media Optimizer](https://enterprise.efrontier.com/CMDashboard/help/internal/concepts_and_features/media_optimizer_integration_with_adobe_marketing_cloud.htm) (login required)
 
 ## Customer Attributes {#section_6A9EA6847F654F129381869E5016626C}
@@ -67,12 +67,12 @@ If you capture enterprise customer data in a customer relationship management (C
 
 **Applicable solutions or services** 
 
-* Analytics: [Customer Attributes Report](https://marketing.adobe.com/resources/help/en_US/reference/reports_customer_attributes.html)
-* Target: Configure Target's [subscription](https://marketing.adobe.com/resources/help/en_US/mcloud/subscription.html) to customer attributes
+* Analytics: [Customer Attributes Report](https://docs.adobe.com/content/help/en/analytics/components/variables/dimensions-reports/reports-customer-attributes.html)
+* Target: Configure Target's [subscription](https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/subscription.html) to customer attributes
 
 ## Experience Cloud Assets {#section_92BC5DFDB0E0499CB0DD34B85E06F79A}
 
-Help: [Share Experience Cloud Folders with Creative Cloud](https://marketing.adobe.com/resources/help/en_US/mcloud/creative_cloud.html) 
+Help: [Share Experience Cloud Folders with Creative Cloud](https://docs.adobe.com/content/help/en/core-services/interface/assets/creative-cloud.html) 
 
 Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like Social and Target. 
 
@@ -85,7 +85,7 @@ Share folders and assets between the Experience Cloud and the Creative Cloud. Co
 
 ## Analytics - AEM Assets reporting in Analytics {#section_0A16AE14F128470AA02EFC6457BDCE75}
 
-Help: [AEM Assets reporting in Analytics](https://marketing.adobe.com/resources/help/en_US/reference/aem-assets-reporting.html) 
+Help: [AEM Assets reporting in Analytics](https://docs.adobe.com/content/help/en/analytics/integration/aem-assets-reporting.html) 
 
 Enables Analytics to collect impressions and clicks on Assets served up from AEM Asset Insights. 
 
@@ -96,7 +96,7 @@ Enables Analytics to collect impressions and clicks on Assets served up from AEM
 
 ## Audience Manager integrations {#section_8FEFE1746E26416EB7E73095BBAD5345}
 
-[Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/c_integration.html) (integration home) 
+[Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/implementation-integration-guides/implementation-and-integration.html) 
 
 Work with data from Experience Cloud solutions or other external systems in Audience Manager. 
 

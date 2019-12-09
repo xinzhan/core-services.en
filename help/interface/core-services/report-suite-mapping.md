@@ -15,7 +15,6 @@ Experience Cloud services (such as Experience Cloud ID service and the People co
 * Sets a Experience Cloud organization as the primary organization for the report suite.
 * Does not change who can access a report suite (access is still determined by the Adobe Analytics login account for each user)
 
-
 **Requirements** 
 
 You must be an Analytics administrator of a login company that has access to the report suite you want to map. Additionally, this account must be [linked to a Experience Cloud organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) in order to map report suites to that organization. 
@@ -25,8 +24,6 @@ Organizations are grayed out if you do not have Analytics administrator permissi
 ## Map a report suite to an organization {#task_23993FE78DF6455FA8D7BE60686EA16C}
 
 1. Click **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administration]** > **[!UICONTROL Report Suite Mapping]**
-
-   You can also use a [Direct URL](https://audience.marketing.adobe.com/rsmapping/ui.html). 
 
 1. To see the login companies that have access to each report suite, click **[!UICONTROL Visible to Login Companies]**.
 
@@ -39,8 +36,6 @@ Organizations are grayed out if you do not have Analytics administrator permissi
 ## Map multiple report suites to an organization {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 
 1. Click **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administration]** > **[!UICONTROL Report Suite Mapping]**.
-
-   You can also use a [Direct URL](https://audience.marketing.adobe.com/rsmapping/ui.html). 
 
 1. Select the report suites that you want to map.
 
@@ -58,7 +53,7 @@ This section contains tips to help you select the Experience Cloud organization 
 
 **Which organization should I choose?** 
 
-If the Experience Cloud ID service is currently deployed on the report suite, ensure the organization you select in the Report Suite Mapping tool is the same organization specified in the [!DNL visitorAPI.js] file on your site. You can use the instructions in [Test and Verify the Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-test-verify.html) to find the org ID that is being used by the Visitor ID service. 
+If the Experience Cloud ID service is currently deployed on the report suite, ensure the organization you select in the Report Suite Mapping tool is the same organization specified in the [!DNL visitorAPI.js] file on your site. You can use the instructions in [Test and Verify the Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/test-verify.html) to find the org ID that is being used by the Visitor ID service. 
 
 If the Visitor ID service is not yet deployed on the sites that collect data for the report suite, if you deploy the Experience Cloud Visitor ID service in the future, you will need to ensure your deployment matches the organization you chose in the Report Suite Mapping tool. 
 
