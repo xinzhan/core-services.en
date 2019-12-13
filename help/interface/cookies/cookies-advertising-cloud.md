@@ -10,39 +10,6 @@ uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 
 Advertising Cloud uses cookies to map ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.
 
-## Cookie Name: id_adcloud
-
-<table id="id_adcloud"> 
-<thead> 
-<tr> 
-<th colname="col1" class="entry"> Attribute </th> 
-<th colname="col2" class="entry"> Description </th> 
-</tr> 
-</thead>
-<tbody> 
-<tr> 
-<td colname="col1"> <p>Information Stored </p> </td> 
-<td colname="col2"> <p>The surfer ID </p> </td> 
-</tr> 
-<tr> 
-<td colname="col1"> <p>Expiration </p> </td> 
-<td colname="col2"> <p>91 days </p> </td> 
-</tr> 
-<tr> 
-<td colname="col1"> <p>Usage </p> </td> 
-<td colname="col2"> <p>The cookie is set in the first-party domain but isn't used yet </p> </td> 
-</tr> 
-<tr> 
-<td colname="col1"> <p>Location </p> </td> 
-<td colname="col2"> <p>The advertiser's top-level domain (such as example.com) </p> </td> 
-</tr> 
-<tr> 
-<td colname="col1"> <p>Size </p> </td> 
-<td colname="col2"> <p>16 bytes </p> </td> 
-</tr> 
-</tbody> 
-</table> 
-
 ## Cookie Name: _lcc
 
 <table id="table_821F8EBE91F244CBA72B0975B961B908"> 
@@ -121,7 +88,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>The surfer ID, timestamps ofthe surfer's last visit to the advertiser’s website and the surfer's last search click, and the ef_id that was created when the user clicked an ad</p> </td> 
+   <td colname="col2"> <p>The timestamps of the surfer's last visit to the advertiser’s website and the surfer's last search click, and the ef_id that was created when the user clicked an ad</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
