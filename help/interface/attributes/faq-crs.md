@@ -20,7 +20,7 @@ Guidance and limitations when using Customer Attributes.
 | Issue | Description |
 |--- |--- |
 |Customer Attribute Subscription Limitations|When you upgrade to Analytics Premium, there is a 24-hour delay before additional attributes are available. You may see an Attribute Subscription Max error issued during this delay.|
-|Daily frequency upload limitation| The best practic is to not update customer attributes more than once a day. Adobe recommends that you wait at least 24 hours to upload another customer profile data file (for the same set of profiles).|
+|Daily frequency upload limitation| Adobe recommends that you update customer attributes only once per day. You must wait least 24 hours to upload another customer profile data file for the same set of profiles.|
 |Custom Analytics ID (s.visitorID)|Setting a customer ID using  s.visitorID is a method of identifying users in Analytics. However, integrations in which Analytics data is exported or imported using the ID Service will not function when a visitor is identified using  s.visitorID.<br>This includes, but is not limited to, shared audiences, Analytics for Target (A4T), and Customer Attributes.<br>For these integrations, setting a custom Analytics ID is not supported.|
 |Character length limitations in Analytics|When creating an Analytics subscription, field lengths for the uploaded files are truncated to 255.|
 
