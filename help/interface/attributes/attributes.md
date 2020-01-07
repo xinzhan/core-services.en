@@ -36,7 +36,7 @@ If you capture enterprise customer data in a customer relationship management (C
 
 * **at.js:** Any version.
 
-## What Is enterprise customer data? {#section_6F34C29F11414842AA57D2B1248FA3C6}
+## What is enterprise customer data? {#section_6F34C29F11414842AA57D2B1248FA3C6}
 
 Enterprise data resides in other systems. It can be complex and mean different things to different people. This data can include information such as memberships, loyalty level, age, gender, products owned, interests, and Lifetime Value. 
 

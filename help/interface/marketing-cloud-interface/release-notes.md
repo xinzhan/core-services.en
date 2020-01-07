@@ -16,6 +16,10 @@ For a list of documentation updates, see [Experience Cloud](../doc-updates.md#co
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html). 
 
+## January - 2020
+
+* The Feed page was deprecated in December, 2019. Look for an in-product deprecation notice. (MCUI-10039)
+
 ## August - 2019
 
 * Fixed a critical issue in Experience Cloud login that led to session logout for some users. (MCUI-6908)
