@@ -68,7 +68,6 @@ index: yes
     + [What's new in the Experience Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
     + [Cumulative release notes](marketing-cloud-interface/release-notes.md)
 + [Exchange Marketplace](exchange.md)
-+ [Experience Cloud Feed](feed.md)
 + [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 + More Resources {#more-resources}
     + [Forum](https://forums.adobe.com/community/experience-cloud)

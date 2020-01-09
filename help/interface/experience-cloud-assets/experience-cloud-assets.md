@@ -71,7 +71,7 @@ Click **[!UICONTROL Annotate]** by drawing circles or arrows on an image, and an
 
 ![](assets/assets-annotate.png) 
 
-## Share an asset to your feed {#section_2CD53A99600D4A3D9AA82C3CDA666E6B}
+<!-- ## Share an asset to your feed {#section_2CD53A99600D4A3D9AA82C3CDA666E6B}
 
 **Experience Cloud Feed will no longer be supported starting Nov 01, 2019 and shall be deprecated by Dec, 2019.**
 
@@ -79,7 +79,7 @@ Click **[!UICONTROL Share]** from the toolbar to share the asset as [feed](../fe
 
 ![](assets/assets-share-card.png) 
 
-Sharing displays the image on your Feed page and with whomever you have shared the card. 
+Sharing displays the image on your Feed page and with whomever you have shared the card.  -->
 
 ## View full-screen assets, and zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 

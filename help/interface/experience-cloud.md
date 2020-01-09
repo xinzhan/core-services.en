@@ -37,7 +37,6 @@ This page provides self help, support, and techical and product documentation fo
 * [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 * [Experience Platform Launch](https://docs.adobelaunch.com/)
 * [Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html)
-* [Feed](feed.md)
 * [General Data Protection Regulation (GDPR) API](https://www.adobe.io/apis/experiencecloud/gdpr.html)
 
 ## Administration & enablement

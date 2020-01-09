@@ -110,8 +110,4 @@ No. Users must link their own solutions with their user names and passwords.
 
 **Why do I see Social when my company does not have it?** 
 
-Adobe Social is a product that can be sold with Analytics. Therefore, if you have Analytics you will see this solution, but you will not have access unless you have purchased it. 
-
-**How do I share a report or a campaign to the Experience Cloud?** 
-
-An Analytics report or a Target campaign are examples of assets that you can share in the [Feed](../feed.md#concept_9256B8768A294009A777282DD8719213). 
+Adobe Social is a product that can be sold with Analytics. Therefore, if you have Analytics you will see this solution, but you will not have access unless you have purchased it.
