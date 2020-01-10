@@ -55,19 +55,19 @@ Create an offer to add to your offer inventory.
   </tr> 
   <tr> 
    <td colname="col1"> <p>End date </p> </td> 
-   <td colname="col2"> <p>The date on which the offer ends. If an end date of 1/20/17 is selected, the offer is no longer shown after 11:59PM on 1/20/17. When an offer passes its end date, it is automatically archived. </p> <p>Offer Management operates on the UTC time standard. See the row above for more information. </p> </td> 
+   <td colname="col2"> <p>The date on which the offer ends. If an end date of 1/20/17 is selected, the offer is no longer shown after 11:59PM on 1/20/17. When an offer passes its end date, it is automatically archived. </p><p>Offer Management operates on the UTC time standard. See the row above for more information. </p></td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Eligibility rules </p> </td> 
-   <td colname="col2"> <p>You can create offer eligibility rules based on data available in the <span class="keyword"> Campaign</span> database. Eligibility rules determine to whom and when an offer can be shown. </p> <p>For example, you can specify that you only want a 'Women's Winter Clothing Offer' to be shown when (Gender = 'Female') and (Region = 'Northeast'). The attributes used to build these rules come from the Campaign Standard profile. </p> <p> <p>Note:  When you first access Offer Management, there are no attributes available in the rule builder. You must share attributes from the Campaign UI. Once shared, those attributes are available. </p> </p> </td> 
+   <td colname="col2"> <p>You can create offer eligibility rules based on data available in the <span class="keyword"> Campaign</span> database. Eligibility rules determine to whom and when an offer can be shown. </p> <p>For example, you can specify that you only want a 'Women's Winter Clothing Offer' to be shown when (Gender = 'Female') and (Region = 'Northeast'). The attributes used to build these rules come from the Campaign Standard profile. </p> <p>Note:  When you first access Offer Management, there are no attributes available in the rule builder. You must share attributes from the Campaign UI. Once shared, those attributes are available. </p></td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Max cap </p> </td> 
-   <td colname="col2"> <p>The maximum times that an offer can be proposed. </p> <p> <p>Note:  The number of times an offer is proposed is calculated at email preparation time. For example, if you prepare an email with a number of offers, those numbers count towards your max cap regardless of whether or not the email is sent. </p> </p> </td> 
+   <td colname="col2"> <p>The maximum times that an offer can be proposed. </p> <p>Note:  The number of times an offer is proposed is calculated at email preparation time. For example, if you prepare an email with a number of offers, those numbers count towards your max cap regardless of whether or not the email is sent. </p></td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Max cap per user </p> </td> 
-   <td colname="col2"> <p>The maximum times that an offer can be proposed to a given user. </p> <p> <p>Note:  The number of times an offer is proposed to a given user is calculated at email preparation time. For example, if you prepare an email with a number of offers, those numbers count towards your max cap per user regardless of whether or not the email is sent. </p> </p> </td> 
+   <td colname="col2"> <p>The maximum times that an offer can be proposed to a given user. </p> <p>Note:  The number of times an offer is proposed to a given user is calculated at email preparation time. For example, if you prepare an email with a number of offers, those numbers count towards your max cap per user regardless of whether or not the email is sent.</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Labels </p> </td> 
