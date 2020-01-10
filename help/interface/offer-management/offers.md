@@ -67,7 +67,7 @@ Create an offer to add to your offer inventory.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Max cap per user </p> </td> 
-   <td colname="col2"> <p>The maximum times that an offer can be proposed to a given user. </p> <p>Note:  The number of times an offer is proposed to a given user is calculated at email preparation time. For example, if you prepare an email with a number of offers, those numbers count towards your max cap per user regardless of whether or not the email is sent.</p> </td> 
+   <td colname="col2"> <p>The maximum times that an offer can be proposed to a given user. </p> <p>Note:  The number of times an offer is proposed to a given user is calculated at email preparation time. For example, if you prepare an email with a number of offers, those numbers count towards your max cap per user regardless of whether or not the email is sent.</p> </td>
   </tr> 
   <tr> 
    <td colname="col1"> <p>Labels </p> </td> 
