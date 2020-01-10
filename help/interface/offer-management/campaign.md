@@ -105,7 +105,7 @@ Insert an offer activity into any image or text block within an email template i
 * **Placement check:** All offers must have a content representation that matches the placement selected as part of the offer activity. If a placement for an offer is deleted between activity creation time and preparation time (if time is greater than three minutes), that offer is not considered. 
 * **Date check:** All offers must be valid for the current date (this is _not_ the offer send date). The date when you prepare the email campaign is the date that determines which offer to serve. For example, if you prepare an email campaign on 1/15/17, and one of the offers selected is not valid until 1/16/17, the offer is not served. 
 
-* **Eligibility rule check:** All offers must satisfy the [eligibility rules](offers.md#task_6C4AE487377D424FA133ACCA6AF741D4). 
+* **Eligibility rule check:** All offers must satisfy the [eligibility rules](offers.md). 
 
 * **Priority check:** If a user is eligible for multiple offers, [!UICONTROL Offer Management] uses the user-set priority to determine which offer to show each user.
 
