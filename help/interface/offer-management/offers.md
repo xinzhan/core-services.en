@@ -1,28 +1,22 @@
 ---
 description: Create and manage offers to be used in Adobe Campaign.
 seo-description: Create and manage offers to be used in Adobe Campaign.
-seo-title: Offers
-title: Offers
+seo-title: Offer Management
+title: Offer Management
 uuid: 83e1d4cd-c5fa-4df0-9603-2914eb4648f8
 index: y
-internal: n
-snippet: y
 ---
 
-# Offers{#offers}
+# Offers
 
 Create and manage offers to be used in Adobe Campaign.
-
-## Offers {#topic_D68467099AA54337A3DEB0F3CECCDF5E}
-
-Create and manage offers to be used in Adobe Campaign. 
 
 There are two types of offers in [!UICONTROL Offer Management]: 
 
 |  Type  | Description  |
 |---|---|
-|  General offer  | Enables you to fill out the complete offer data model (eligibility rules, start and end dates, and content).  |
-|  Fallback offer  | The last resort offer if a customer is not eligible for any of the other offers selected. You cannot associate any eligibility rules or start and end dates with fallback offers.  |
+|  General offer |Enables you to fill out the complete offer data model (eligibility rules, start and end dates, and content).  |
+|  Fallback offer |The last resort offer if a customer is not eligible for any of the other offers selected. You cannot associate any eligibility rules or start and end dates with fallback offers.  |
 
 >[!NOTE]
 >
