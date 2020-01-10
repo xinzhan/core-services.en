@@ -33,5 +33,4 @@ On the Labels tab, you can create, edit, and manage labels.
 
 1. Click **[!UICONTROL Add]**.
 
-   You can assign labels to an offer while creating the offer or when editing an existing offer. 
-
+   You can assign labels to an offer while creating the offer or when editing an existing offer.

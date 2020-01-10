@@ -17,7 +17,7 @@ Create and manage offers to be used in Adobe Campaign.
 
 Create and manage offers to be used in Adobe Campaign. 
 
-There are two types of offers in Offer Management: 
+There are two types of offers in [!UICONTROL Offer Management]: 
 
 |  Type  | Description  |
 |---|---|
@@ -32,7 +32,7 @@ There are two types of offers in Offer Management:
 
 Create an offer to add to your offer inventory.
 
-1. From the [!UICONTROL Inventory] tab in [!DNL Offer Management], click **[!UICONTROL Create New Offer]**, then select **[!UICONTROL Create Offer]**.
+1. From the [!UICONTROL Inventory] tab in [!UICONTROL Offer Management], click **[!UICONTROL Create New Offer]**, then select **[!UICONTROL Create Offer]**.
 
    ![](assets/create-offerx.png)
 
