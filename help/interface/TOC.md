@@ -64,7 +64,7 @@ index: yes
     + [Configure subscriptions](attributes/subscription.md)
     + [Update the schema](attributes/t-update-schema.md)
     + [Privacy considerations - customer attributes](attributes/privacy-mac.md)
-+ [Offer Management]{#offer-management}
++ Offer Management {#offer-management}
     + [Getting started with Offer Management](offer-management/getting-started.md)
     + [Offer Management workflow](offer-management/offer-management-workflow.md)
     + [Offers](offer-management/offers.md)
