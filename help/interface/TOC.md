@@ -64,6 +64,13 @@ index: yes
     + [Configure subscriptions](attributes/subscription.md)
     + [Update the schema](attributes/t-update-schema.md)
     + [Privacy considerations - customer attributes](attributes/privacy-mac.md)
++ [Offer Management]{#offer-management}
+    + [Getting started with Offer Management](offer-management/getting-started.md)
+    + [Offer Management workflow](offer-management/offer-management-workflow.md)
+    + [Offers](offer-management/offers.md)
+    + [Labels](offer-management/labels.md)
+    + [Placements](offer-management/placements.md)
+    + [Campaign](offer-management/campaign.md)
 + Release notes for Experience Cloud {#release-notes}
     + [What's new in the Experience Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
     + [Cumulative release notes](marketing-cloud-interface/release-notes.md)
