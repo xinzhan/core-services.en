@@ -1,16 +1,16 @@
 ---
-description: Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.
+description: Learn about signing in to the Admin Console, managing Experience Cloud user permissions and product profiles, and browser support.
 keywords: core services
-seo-description: Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.
+seo-description: Learn about signing in to the Admin Console, managing Experience Cloud user permissions and product profiles, and browser support.
 seo-title: Manage Experience Cloud users and products
-solution: Marketing Cloud
+solution: Experience Cloud
 title: Manage Experience Cloud users and products
 uuid: aea4e4c3-f543-4e8d-b553-d838418477d6
 ---
 
 # Manage Experience Cloud users and products {#topic_3FCB4099640647E3B2411ADBFCE81909}
 
-Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.
+Learn about signing in to the Admin Console, managing Experience Cloud user permissions and product profiles, and browser support.
 
 >[!IMPORTANT]
 >
