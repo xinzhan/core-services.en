@@ -156,15 +156,18 @@ By using these roles, you can simultaneously delegate management to others witho
 
 Supported browsers in the Experience Cloud.
 
-**Experience Cloud Core Services** 
+Experience Cloud supported browsers incluce:
 
-* Microsoft's latest Internet Explorer. (Microsoft has [ended support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, Adobe will not fix issues reported against these specific versions of Internet Explorer.)
-* Google Chrome
-* Mozilla Firefox
-* Apple Safari
+* [!DNL Microsoft Edge] (Microsoft has [ended support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, Adobe will not fix issues reported against these specific versions of Internet Explorer.)
+* [!DNL Google Chrome]
+* [!DNL Firefox]
+* [!DNL Safari]
+* [!DNL Opera]
 
-**Solution and Product Requirements** 
+**Note:** Although the Experience Cloud interface supports these browsers, individual solutions might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].)
 
-* [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) (includes Adobe Social)
+**Solution and product requirements** 
+
+* [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html)
 * [Report Builder](https://docs.adobe.com/content/help/en/analytics/analyze/report-builder/report-builder-setup/system-requirements.html)
 * [Adobe Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html)
