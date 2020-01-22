@@ -102,5 +102,10 @@ Guidance and limitations when using Customer Attributes.
    <td colname="col1"> <p> <b> (Target only)</b> Can I target on the data uploaded in customer attributes immediately after the visitor is identified by the customer ID? </p> </td> 
    <td colname="col2"> <p>Yes. </p> <p>On the server call to Target, which includes the mbox third-party ID, all customer attribute data will be available. </p> </td> 
   </tr> 
+    <tr> 
+   <td colname="col1"> <p> <b> (Target only)</b> What does the "Sync Status" column represent for files uploaded in Customer Attribute Source? </p> </td> 
+   <td colname="col2"> <p> The number of records published and synced by Target can be viewed by clicking the Sync Status icon against a specific attribute file. "Sync %" is a realtime metric that specifies the % of profiles that have been synced in Target. </p> <p> <b> Note:</b> It may take up to 24 hours for attributes to sync with Target. </p>
+ </td> 
+  </tr> 
  </tbody> 
 </table>
