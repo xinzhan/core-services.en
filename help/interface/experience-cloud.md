@@ -16,12 +16,12 @@ This page provides self help, support, and techical and product documentation fo
 
 ## What do you want to learn?
 
+* [Product documentation for all Experience Cloud solutions](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) - Browse for help at Experience Cloud Learn & Support
 * [Release notes and product updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) - What's new in the Experience Cloud, and subscribe to get updates
 * [Tutorials for implementing core services](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html) - Explore videos and tutorials about core services
 * [Expert help at Experience League](https://landing.adobe.com/experience-league/) - Get guided learning from experts and the community
 * [Education and training](https://helpx.adobe.com/learning.html?promoid=KAUDK) - Engage with Adobe to ensure that you get the most out of our products
 * [Customer Experience Blog](https://theblog.adobe.com/customer-experience/) - Read the Experience Cloud blog
-* [Product documentation for all Experience Cloud solutions](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) - Browse for help at Experience Cloud Learn & Support
 * [Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html) - Contact Adobe Customer Care
 
 ## Core services product documetation

@@ -10,7 +10,7 @@ uuid: 5820060f-9b18-4339-81e0-401d964f7a03
 
 # Enable your solutions for core services
 
-Implement the Experience Cloud and become an administrator. This process modernizes your solutions for core service features like customer attributes and audiences.
+For existing customers, learn how to modernize your solution implementations and implement the Experience Cloud so that you can use features like customer attributes and audiences.
 
 <!-- <p>https://marketing-beta.adobe.com/resources/help/core/core-services.html </p> 
 <p>https://adobe.sharepoint.com/sites/AGSConsulting/CoreServices/PA/_layouts/15/start.aspx#/ </p> -->
@@ -70,7 +70,9 @@ See [Link accounts in the Experience Cloud](../admin-getting-started/organizatio
 
 The following sections describe how to modernize your implementation. Modernizing your implementation enables core services in the Experience Cloud. 
 
-## Step 2. Implement the Experience Cloud ID service using [!UICONTROL Experience Platform Launch], or [!UICONTROL Dynamic Tag Management] {#section_3C9F6DF37C654D939625BB4D485E4354}
+## Step 2. Implement the [!UICONTROL Experience Cloud ID service] using [!UICONTROL Experience Platform Launch], or [!UICONTROL Dynamic Tag Management] {#section_3C9F6DF37C654D939625BB4D485E4354}
+
+The [!UICONTROL Experience Cloud ID service] provides a common ID for cross-solution integration. It provides cross-domain visitor identification and a path for cross-device/browser targeting and personalization based on CRM data uploaded via [!UICONTROL Customer Attributes].
 
 The simplest method for enabling Experience Cloud core services is to activate it automatically for Analytics and Target via the [Experience Cloud ID service tool](https://docs.adobe.com/content/help/en/launch/using/implement/solutions/idservice-save.html) in [!UICONTROL Experience Platform Launch], or [!UICONTROL Dynamic Tag Management]. (Experience Platform Launch is strongly recommended.) 
 
