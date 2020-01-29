@@ -10,7 +10,16 @@ uuid: 5820060f-9b18-4339-81e0-401d964f7a03
 
 # Enable your solutions for core services
 
-For existing customers, learn how to modernize your solution implementations and implement the Experience Cloud so that you can use features like customer attributes and audiences.
+For existing customers, learn how to modernize your solution implementations and implement the Experience Cloud so that you can use features like customer attributes and audiences. To accomplish this, you will:
+
+1. [Join the Experience Cloud and become an administrator](#section_2423F0BD3DF642658103310EE5EA6154)
+1. [Implement the Experience Cloud ID service](#section_3C9F6DF37C654D939625BB4D485E4354)
+1. [Map report suites to an Experience Cloud organization](#section_7B08516B01BA421681DF03D0E86CE3BA)
+1. [Update your Analytics AppMeasurement code](#section_1798D9D0F05C47E29816AC4EEB9A0913)
+1. [Update your Adobe Target implementation](#section_C2F4493C7A36406DAE2266B429A4BD24)
+1. [Verify the core services implementation](#section_E641782A0F4F44AF8C9C91216BE330D5)
+1. [Manage users and products](#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
+1. [Begin using core services](#section_960C06093623462E8EA247B3E97274A1)
 
 <!-- <p>https://marketing-beta.adobe.com/resources/help/core/core-services.html </p> 
 <p>https://adobe.sharepoint.com/sites/AGSConsulting/CoreServices/PA/_layouts/15/start.aspx#/ </p> -->
@@ -82,19 +91,13 @@ For complete Experience Cloud ID service help (formerly, visitor ID), go [here](
 
 **Not Using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management]?** 
 
-If you are not using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management], manually implement the ID service via the JavaScript Deployment ([!DNL VisitorAPI.js]), as follows: 
+If you are not using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management], manually implement the ID service via the JavaScript Deployment ([!DNL VisitorAPI.js]), as follows:
 
-1. [Implement the Experience Cloud ID Service for Analytics](https://docs.adobe.com/content/help/en/id-service/using/implementation/setup-analytics.html).
-
-   Adobe also recommends setting additional [customer IDs](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. 
-
-1. Update your existing [!DNL s_code] to version H.27.3 or later, or your existing [!DNL AppMeasurement.js] to version 1.4 or later. 
-
-   These files are available for download in the [Code Manager](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/code-manager-admin.html) in Analytics Admin Tools. 
-
-   (The [JavaScript Implementation](https://docs.adobe.com/content/help/en/analytics/implementation/javascript-implementation/javascript-implementation-overview.html) guide is available if you need more information about [!DNL AppMeasurement.js].) 
-
-1. Synchronize the customer ID for Analytics. See [Analytics - synching the customer ID](../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437) (below). 
+| Task    | Description  |
+| -----------| ---------- |  
+| [Implement the Experience Cloud ID Service for Analytics](https://docs.adobe.com/content/help/en/id-service/using/implementation/setup-analytics.html)  | Adobe also recommends setting additional [customer IDs](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. |  
+| Update your existing [!DNL s_code] to version H.27.3 or later, or your existing [!DNL AppMeasurement.js] to version 1.4 or later.  | These files are available for download in the [Code Manager](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/code-manager-admin.html) in Analytics Admin Tools.  (The [JavaScript Implementation](https://docs.adobe.com/content/help/en/analytics/implementation/javascript-implementation/javascript-implementation-overview.html) guide is available if you need more information about [!DNL AppMeasurement.js].) |
+| Synchronize the customer ID for Analytics  | See [Analytics - synching the customer ID](../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437) (below). |
 
 ## Analytics & Target - synching the customer ID {#section_AD473A6A21C1446498E700363F9A8437}
 
@@ -121,13 +124,13 @@ Customer attribute data is made available after visitors log in. If you have not
 
 Contact Customer Care to enable historical data. 
 
-## Step 3. Map Report Suites to an Experience Cloud Organization {#section_7B08516B01BA421681DF03D0E86CE3BA}
+## Step 3. Map report suites to an Experience Cloud Organization {#section_7B08516B01BA421681DF03D0E86CE3BA}
 
-Experience Cloud services (such as Experience Cloud ID service and the [!UICONTROL People service]) are associated with an Experience Cloud organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an Experience Cloud organization. 
+Experience Cloud services (such as Experience Cloud ID service and the [!UICONTROL People service]) are associated with an Experience Cloud organization instead of an individual Analytics report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an Experience Cloud organization. 
 
 See [Map report suites to an organization](report-suite-mapping.md). 
 
-## Step 4. (Adobe Analytics) Modernize your Analytics AppMeasurement code {#section_1798D9D0F05C47E29816AC4EEB9A0913}
+## Step 4. (Adobe Analytics) Update your Analytics AppMeasurement code {#section_1798D9D0F05C47E29816AC4EEB9A0913}
 
 Verify that you are on regional data collection (RDC). If your data collection domain is [!DNL omtrdc.net], or if your CNAME is mapped to [!DNL omtrdc.net], you are on RDC. See [Transitioning to RDC](https://docs.adobe.com/content/help/en/analytics/technotes/rdc/regional-data-collection.html) for more information. If you are using first-party cookies, refer to [CNAME and the Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/reference/analytics-reference/cname.html) for information about data collection CNAMEs and cross-domain tracking. 
 
@@ -135,12 +138,12 @@ It is recommended that you modernize your Analytics implementation by updating y
 
 In [!UICONTROL Dynamic Tag Management], click **[!UICONTROL <Web Property Name>]** > **[!UICONTROL Overview]** > **[!UICONTROL Add a Tool]** > **[!UICONTROL Adobe Analytics]**. See [Adobe Analytics Settings](https://docs.adobe.com/content/help/en/dtm/using/tools/analytics-dtm.html) in Dynamic Tag Management for deployment information. 
 
-## Step 5. (Adobe Target) Modernize your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
+## Step 5. (Adobe Target) Update your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
 
 * It is recommended that you add an [Adobe Target extension](https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/targetv2-extension/adobe-target-extension-v2.html) in [!UICONTROL Experience Platform Launch], so that your library retrieval is automatic. You can also set up the [Experience Cloud ID service extension](https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/id-service-extension/overview.html) for Target (and other solutinos) using [!UICONTROL Experience Platform Launch]. The [!UICONTROL Experience Cloud ID service] update **is required** for [!UICONTROL Target] to use core services. (If you use [!UICONTROL Dynamic Tag Management], add an [Adobe Target tool](https://docs.adobe.com/content/help/en/dtm/using/tools/target.html). You can also use [!UICONTROL Dynamic Tag Management] to deploy the Experience Cloud ID service for Target.)
 * If you are not using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management], [update your mbox library](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/target-download-config-mbox.html) manually.
 * Request access to use Adobe Analytics as the reporting source for [!DNL Adobe Target]. [!DNL Target] and [!DNL Analytics] data are combined on the same server call during processing so that visitors are connected between the two solutions. See [Analytics for Target Implementation](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html).
-* 
+ 
   >[!IMPORTANT]
   >
   >All Analytics customers are already provisioned for core services like customer attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
@@ -193,7 +196,7 @@ See [Experience Cloud user and product management](../admin-getting-started/admi
  
 Users that are added to the [!UICONTROL Customer Attributes] group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface 
 
-## Step 8. Start using core services {#section_960C06093623462E8EA247B3E97274A1}
+## Step 8. Begin using core services {#section_960C06093623462E8EA247B3E97274A1}
 
 Take advantage of the following core service features. 
 
