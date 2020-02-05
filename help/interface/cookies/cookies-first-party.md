@@ -75,7 +75,7 @@ The FPC specialist provides you with the configured hostnames and what CNAMEs th
 
 As long as implementation code is not altered, this step will not affect data collection and can be done at any time after updating implementation code.
 
->[!Note:] The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies, but because of recent Apple ITP changes, it is still recommended to allocate a CNAME even when using the Experience Cloud ID service. 
+>[!Note:] The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies, but because of recent Apple ITP changes, it is still recommended to allocate a CNAME even when using the Experience Cloud ID Service. 
 
 ## Ping the hostname
 

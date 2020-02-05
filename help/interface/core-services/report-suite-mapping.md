@@ -10,7 +10,7 @@ uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 
 Learn how to map one or multiple report suites to an organization.
 
-Experience Cloud services (such as Experience Cloud ID service and the People core service) are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. The mapping process: 
+Experience Cloud services (such as Experience Cloud ID Service and the People core service) are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. The mapping process: 
 
 * Sets a Experience Cloud organization as the primary organization for the report suite.
 * Does not change who can access a report suite (access is still determined by the Adobe Analytics login account for each user)
@@ -53,7 +53,7 @@ This section contains tips to help you select the Experience Cloud organization 
 
 **Which organization should I choose?** 
 
-If the Experience Cloud ID service is currently deployed on the report suite, ensure the organization you select in the Report Suite Mapping tool is the same organization specified in the [!DNL visitorAPI.js] file on your site. You can use the instructions in [Test and Verify the Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/test-verify.html) to find the org ID that is being used by the Visitor ID service. 
+If the Experience Cloud ID Service is currently deployed on the report suite, ensure the organization you select in the Report Suite Mapping tool is the same organization specified in the [!DNL visitorAPI.js] file on your site. You can use the instructions in [Test and Verify the Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/test-verify.html) to find the org ID that is being used by the Visitor ID service. 
 
 If the Visitor ID service is not yet deployed on the sites that collect data for the report suite, if you deploy the Experience Cloud Visitor ID service in the future, you will need to ensure your deployment matches the organization you chose in the Report Suite Mapping tool. 
 

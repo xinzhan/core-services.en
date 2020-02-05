@@ -129,7 +129,7 @@ The same file viewed in a text editor:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
-   <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in Analytics. As such, customer attributes are associated with the visitor for the entire life of that visitor profile in Analytics. This includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the data warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> </td> 
+   <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in Analytics. As such, customer attributes are associated with the visitor for the entire life of that visitor profile in Analytics. This includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the data warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data feeds </p> </td> 

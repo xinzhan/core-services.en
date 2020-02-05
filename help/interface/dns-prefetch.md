@@ -34,7 +34,7 @@ The following examples show you how to make DNS prefetch calls to different [!DN
 
 * **Audience Manager:** `<link rel="dns-prefetch" href="//dpm.demdex.net">` 
 
-* **Experience Cloud ID service:** `<link rel="dns-prefetch" href="//fast. *`insert partner ID here`*.demdex.net">` 
+* **Experience Cloud ID Service:** `<link rel="dns-prefetch" href="//fast. *`insert partner ID here`*.demdex.net">` 
 
 * **Dynamic Tag Manager** (DTM): Not required. DTM links are available as soon as the page loads. 
 

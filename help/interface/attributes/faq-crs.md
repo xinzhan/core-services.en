@@ -67,7 +67,7 @@ Guidance and limitations when using Customer Attributes.
      <ul id="ul_9C473434B5DA4C6299AAB209DEDFCDE7"> 
       <li id="li_8BC10EB2825F4ADF8CA61F71D4994A28"> <b>Adobe Analytics</b>: Strongly recommended </li> 
       <li id="li_56F518E3F3DF4C93B6F7EF3B40ACC52F"> <b>Adobe Target:</b> Required. </li> 
-     </ul> </p> <p>Using the ID service enhances the functionality opens the doors to using the latest Experience Cloud functionality, including real-time audiences, the Target modernization, Analytics integration, and video heartbeat tracking. </p> <p>For more details see <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Core Services - How to Enable Your Solutions</a>. </p> <p> <b>Note</b>: The <span class="term"> Experience Cloud ID service</span> is the modernized implementation of what is formerly known as the <span class="term"> Analytics visitor ID service</span>. </p> </td> 
+     </ul> </p> <p>Using the ID service enhances the functionality opens the doors to using the latest Experience Cloud functionality, including real-time audiences, the Target modernization, Analytics integration, and video heartbeat tracking. </p> <p>For more details see <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Core Services - How to Enable Your Solutions</a>. </p> <p> <b>Note</b>: The <span class="term"> Experience Cloud ID Service</span> is the modernized implementation of what is formerly known as the <span class="term"> Analytics visitor ID service</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>How does the customer attribute functionality relate to Adobe Audience Manager? </p> </td> 

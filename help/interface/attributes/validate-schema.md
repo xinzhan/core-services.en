@@ -32,7 +32,7 @@ On the [!UICONTROL Validate Schema] page, each row of the schema represents a co
 
 * **[!UICONTROL ID Lookup:]** Enter a Customer ID (CID) from your `.csv` to look up Experience Cloud information for the ID. This feature is useful for troubleshooting why attribute data is not displaying for a visitor: 
 
-    * **[!UICONTROL MCID (Experience Cloud ID):]** Displays if you are using the latest Experience Cloud ID service. If you are on the MCID service but no IDs are listed here, the Experience Cloud has not received an alias for that CID. Meaning, the visitor has not logged in, or your implementation is not passing that ID through. 
+    * **[!UICONTROL MCID (Experience Cloud ID):]** Displays if you are using the latest Experience Cloud ID Service. If you are on the MCID service but no IDs are listed here, the Experience Cloud has not received an alias for that CID. Meaning, the visitor has not logged in, or your implementation is not passing that ID through. 
     
     * **[!UICONTROL CID (Customer ID):]** The attributes associated with this CID. If you are using a prop or eVar to upload CIDs (AVID), and you see attributes displayed but no AVID, this indicates that the visitor has not logged in to your site. 
     

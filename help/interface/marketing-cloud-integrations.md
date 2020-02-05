@@ -20,7 +20,7 @@ Describes how to:
 
 * Provision your company in the Experience Cloud.
 * Enable you to become an administrator.
-* [Implement the Experience Cloud ID service](https://docs.adobe.com/content/help/en/id-service/using/home.html).
+* [Implement the Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html).
 * Modernize your Analytics and Target implementations via DTM.
 * Start using core services.
 
@@ -29,9 +29,9 @@ Solutions or services:
 * Activation - Dynamic Tag Management or Launch, by Adobe
 * Analytics
 * Target
-* [Experience Cloud ID service](https://docs.adobe.com/content/help/en/id-service/using/home.html)
+* [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 
-## Experience Cloud ID service {#section_6ECCCFA2D84D4D4F88C879C799CA9D78}
+## Experience Cloud ID Service {#section_6ECCCFA2D84D4D4F88C879C799CA9D78}
 
 Help: [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) 
 
