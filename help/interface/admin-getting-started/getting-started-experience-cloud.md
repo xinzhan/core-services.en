@@ -10,7 +10,7 @@ uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 
 # Sign in and manage your profile settings
 
-Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and core services that you own. Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
+Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and services that you own. Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
 
 <!-- t_sign_in.xml -->
 

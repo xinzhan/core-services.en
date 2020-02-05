@@ -58,7 +58,6 @@ See [Experience Cloud user and product administration](../admin-getting-started/
 
 To log in to the Experience Cloud, your users must: 
 
-
 1. Have an Adobe ID.
 1. Sign in at [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
 1. Belong to a solution group that is mapped to an enterprise group.

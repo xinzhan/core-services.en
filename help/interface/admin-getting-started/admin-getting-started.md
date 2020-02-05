@@ -84,7 +84,7 @@ See [Managing groups and users](https://helpx.adobe.com/campaign/standard/admini
 
 ## Launch, by Adobe {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-Launch, by Adobe displays on the Products page in the Admin Console. You can include other solutions and core services in a Launch product profile. 
+Launch, by Adobe displays on the Products page in the Admin Console. You can include other solutions and services in a Launch product profile. 
 
 See [User Management](https://docs.adobelaunch.com/launch-reference/administration/user-permissions) for information about user permissions in the Admin Console and set up Launch-specific options, including assigning rights to profiles. 
 

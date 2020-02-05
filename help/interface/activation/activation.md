@@ -65,7 +65,7 @@ If you want help implementing dynamic tag management we encourage you to contact
   </tr> 
   <tr> 
    <td colname="col1"> <p>Using Triggers in Adobe Campaign </p> </td> 
-   <td colname="col2"> <p> Adobe Campaign Standard 16.7 introduces an integration with the new Trigger core service. This core service enables business users to easily define triggers based on online behavioral data captured in Adobe Analytics. Once the trigger is defined, it will be available in Adobe Campaign to support remarketing messages that drive engagement and conversions. This new out-of-the-box feature will allow marketers to trigger remarketing messages at the right time, based on online events like cart abandonment, pages views, videos watched, and so on. </p> </td> 
+   <td colname="col2"> <p> Adobe Campaign Standard 16.7 introduces an integration with the new Trigger service. This service enables business users to easily define triggers based on online behavioral data captured in Adobe Analytics. Once the trigger is defined, it will be available in Adobe Campaign to support remarketing messages that drive engagement and conversions. This new out-of-the-box feature will allow marketers to trigger remarketing messages at the right time, based on online events like cart abandonment, pages views, videos watched, and so on. </p> </td> 
   </tr> 
  </tbody> 
 </table>
