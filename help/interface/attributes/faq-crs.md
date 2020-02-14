@@ -107,5 +107,17 @@ Guidance and limitations when using Customer Attributes.
    <td colname="col2"> <p> The number of records published and synced by Target can be viewed by clicking the Sync Status icon against a specific attribute file. "Sync %" is a realtime metric that specifies the % of profiles that have been synced in Target. </p> <p> <b> Note:</b> It may take up to 24 hours for attributes to sync with Target. </p>
  </td> 
   </tr> 
+<tr>
+	<td colname="col1"> <p> What do the file upload metrics represent in Customer Attributes Source? </p> </td>
+	<td colname="col2"> <p> You can check the status of attributes uploaded to Customer Attributes with the help of following metrics: </p>
+		<ul>
+			<li> <b> Records: </b> Number of records in the attributes file. </li>
+			<li> <b> New Records: </b> Number of new records present in the attributes file. </li>
+			<li> <b> Updated Records: </b> Number of records in that already exist in Customer Attributes with updated values in the file. </li>
+			<li> <b> All Data (Records): </b> Total number of records successfully uploaded to Customer Attributes. </li>
+		</ul>
+	</td>
+</tr>
+  
  </tbody> 
 </table>
