@@ -26,98 +26,18 @@ Guidance and limitations when using Customer Attributes.
 
 ## FAQ about customer attributes {#section_E47866EEA83348E09FE43CEC5E44C461}
 
-<table id="table_88631069013B408EBB0A810657662B36"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Question </th> 
-   <th colname="col2" class="entry"> Answer </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Can I receive notifications about upload status for customer attributes? </p> </td> 
-   <td colname="col2"> <p>Yes. See <a href="../admin-getting-started/organizations.md#concept_0105453AD71847B8BFCAF4A40915F157" format="dita" scope="local"> Manage notifications</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> What should I do to get started with customer attributes? </p> </td> 
-   <td colname="col2"> 
-    <ol id="ol_1FACEF0990B6486B8DE86245D17695A8"> 
-     <li id="li_F0C1542853684F8591FDC1B441D31A56"> <p>Get provisioned. </p> <p>If you are an <b>Analytics</b> customer, Adobe is provisioning you for customer attributes. If you use only <b>Target</b> and do not have Analytics, you must request provisioning for core services by contacting Customer Care. </p> </li> 
-     <li id="li_444FEDEE4B7244F79BA847662F5B17CB"> <p>Have a conversation with your CRM team. Find out what kind of customer data is available that would be interesting for use in Analytics and throughout the Experience Cloud. </p> </li> 
-     <li id="li_32D4AAF8C29748A78801A0E1BFB37AF5"> <p>Implement core services. </p> <p>See <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Getting started - enable your solutions for core services</a> for steps on how to modernize your implementation for core services. (See the section about synching customer IDs for important information.) </p> </li> 
-    </ol> <p> <b>Note:</b> An administrator's FAQ for implementing core services is available <a href="../admin-getting-started/faq.md#concept_13219B4E51784577B6FF78AAA203DE91" format="dita" scope="local"> here</a>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> How many customer attributes am I allowed to use? </p> </td> 
-   <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv</span> columns to the customer attribute service. However, when configuring subscriptions and selecting attributes, the following limits apply (per report suite), depending on the solutions you own:</p> <p> 
-     <ul>
-     <li>Foundation: 0</li>
-     <li>Select: 3</li>
-     <li>Prime: 15</li>
-     <li>Ultimate: 200</li>
-     <li>Standard: 3 total</li>
-     <li>Premium: 200</li>
-     <li>Target Standard: 5</li>
-     <li>Target Premium: 200</li></ul>
-     </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Is migrating to the Experience Cloud ID Service required? </p> </td> 
-   <td colname="col2"> <p>Migration depends on the solutions you use. </p> <p> 
-     <ul id="ul_9C473434B5DA4C6299AAB209DEDFCDE7"> 
-      <li id="li_8BC10EB2825F4ADF8CA61F71D4994A28"> <b>Adobe Analytics</b>: Strongly recommended </li> 
-      <li id="li_56F518E3F3DF4C93B6F7EF3B40ACC52F"> <b>Adobe Target:</b> Required. </li> 
-     </ul> </p> <p>Using the ID service enhances the functionality opens the doors to using the latest Experience Cloud functionality, including real-time audiences, the Target modernization, Analytics integration, and video heartbeat tracking. </p> <p>For more details see <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Core Services - How to Enable Your Solutions</a>. </p> <p> <b>Note</b>: The <span class="term"> Experience Cloud ID Service</span> is the modernized implementation of what is formerly known as the <span class="term"> Analytics visitor ID service</span>. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>How does the customer attribute functionality relate to Adobe Audience Manager? </p> </td> 
-   <td colname="col2"> <p>While Audience Manager can receive data to perform audience identification, it cannot perform analytics functionality that ties attributes to historical behavioral data or provide the reporting, analysis, and segmentation capabilities that are available in Adobe Analytics. The People core service enables rich data from across solutions to be tied together and associated with a single ID for use across the Experience Cloud. </p> <p> In Adobe Target, customer attributes appear as individual attributes that can be combined with other rules to build audiences. Audiences shared in the People core service are full audiences that cannot be modified. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <b>(Analytics only) </b>How is this functionality different from what is provided in Analytics premium? </p> </td> 
-   <td colname="col2"> <p>In the past, customers interested in combining customer attribute data with Analytics data have relied heavily on the data workbench tool for this functionality. Customer attributes exposes this functionality to a wider audience by providing customer attributes as dimensions and metrics in reports &amp; analytics, ad hoc analysis, and report builder. Analytics Standard customers will have access to customer attributes, but with limited capabilities. The full capability is available to Analytics Premium customers. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <b>(Target Only)</b> Can I pre-load or upload data for customers that Target has never seen? </p> </td> 
-   <td colname="col2"> <p> Yes. When the visitor makes their first request to Target, the system will fetch the existing information we have about them from Customer Attributes and use that data for targeting. </p> <p> <p>Note:  Retrieving this data can take up to 20 min from the visitor's first interaction with Target. </p> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <b>(Target Only)</b> Can I create a super audience by combining customer attribute data with shared audience data? </p> </td> 
-   <td colname="col2"> <p>No. Shared audience data is a completed audience. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <b>(Target only) </b>How does the customer attributes functionality compare to Target's bulk profile API? </p> </td> 
-   <td colname="col2"> <p> The <a href="https://www.adobe.io/apis/experiencecloud/target.html" format="https" scope="external"> bulk profile API</a> enables Target profiles to be updated directly via the API, either for an individual profile or in bulk. The capability is similar to customer attributes, with the following key differences: </p> 
-    <ul id="ul_5AAA4A8497C04F50A8AAA9F776BB868E"> 
-     <li id="li_B20AEA397F3B4C86A1140CDA61ABD575">The profile API is a REST API call and customer attributes uses FTP. </li> 
-     <li id="li_7FBE428EF5D34B6AA09B6368E8210344">Target's profile API only sends data to Target instead of to the whole Experience Cloud. </li> 
-     <li id="li_CBB4D3FAF53944E0A066A4AD9F9C8760">Customer attributes provides a simple interface to create and manage this external data. </li> 
-    </ul> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <b>(Target only)</b> Does uploading data from customer attributes to Adobe Target extend the Target visitor's profile lifetime? </p> </td> 
-   <td colname="col2"> <p>Yes. See <a href="https://docs.adobe.com/content/help/en/target/using/audiences/visitor-profiles/visitor-profile.html" format="https" scope="external"> Visitor Profile Lifetime</a> in Adobe Target Help. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> <b> (Target only)</b> Can I target on the data uploaded in customer attributes immediately after the visitor is identified by the customer ID? </p> </td> 
-   <td colname="col2"> <p>Yes. </p> <p>On the server call to Target, which includes the mbox third-party ID, all customer attribute data will be available. </p> </td> 
-  </tr> 
-    <tr> 
-   <td colname="col1"> <p> <b> (Target only)</b> What does the "Sync Status" column represent for files uploaded in Customer Attribute Source? </p> </td> 
-   <td colname="col2"> <p> The number of records published and synced by Target can be viewed by clicking the Sync Status icon against a specific attribute file. "Sync %" is a realtime metric that specifies the % of profiles that have been synced in Target. </p> <p> <b> Note:</b> It may take up to 24 hours for attributes to sync with Target. </p>
- </td> 
-  </tr> 
-<tr>
-	<td colname="col1"> <p> What do the file upload metrics represent in Customer Attributes Source? </p> </td>
-	<td colname="col2"> <p> You can check the status of attributes uploaded to Customer Attributes with the help of following metrics: </p>
-		<ul>
-			<li> <b> Records: </b> Number of records in the attributes file. </li>
-			<li> <b> New Records: </b> Number of new records present in the attributes file. </li>
-			<li> <b> Updated Records: </b> Number of records in that already exist in Customer Attributes with updated values in the file. </li>
-			<li> <b> All Data (Records): </b> Total number of records successfully uploaded to Customer Attributes. </li>
-		</ul>
-	</td>
-</tr>
-  
- </tbody> 
-</table>
+| Question | Answer |
+|--- |--- |
+|Can I receive notifications about upload status for customer attributes?|Yes. See [Manage notifications](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/organizations.html#concept_0105453AD71847B8BFCAF4A40915F157).|
+|What should I do to get started with customer attributes?|<ol><li>Get provisioned. If you are an Analytics customer, Adobe is provisioning you for customer attributes. If you use only Target and do not have Analytics, you must request provisioning for core services by contacting Customer Care.</li> <li>Have a conversation with your CRM team. Find out what kind of customer data is available that would be interesting for use in Analytics and throughout the Experience Cloud.</li><li>Implement core services. See [Enabling your solutions for core services](https://docs.adobe.com/content/help/en/core-services/interface/about-core-services/core-services.html) for steps on how to modernize your implementation. (See the section about synching customer IDs for important information.)</li></ol> **Note:** An administrator's FAQ for implementing core services is available [here](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/faq.html#concept_13219B4E51784577B6FF78AAA203DE91).|
+|How many customer attributes am I allowed to use?|You can upload hundreds of `.csv` columns to the customer attribute service. However, when configuring subscriptions and selecting attributes, the following limits apply (per report suite), depending on the solutions you own:  <ul><li>Foundation: 0</li><li>Select: 3</li><li>Prime: 15</li><li>Ultimate: 200</li><li>Standard: 3 total</li><li>Premium: 200</li><li>Target Standard: 5</li><li>Target Premium: 200</li></ul>|
+|Is migrating to the Experience Cloud ID Service required?|Migration depends on the solutions you use. <ul><li>Adobe Analytics:  Strongly recommended </li><li>Adobe Target: Required. </li></ul><br> Using the ID service enhances the functionality opens the doors to using the latest Experience Cloud functionality, including real-time audiences, the Target modernization, Analytics integration, and video heartbeat tracking. <br> For more details see [Enable your solutions for core services](https://docs.adobe.com/content/help/en/core-services/interface/about-core-services/core-services.html). <br>** Note:** The [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/intro/overview.html) is the modernized implementation of what is formerly known as _Analytics visitor ID service._|
+|How does the customer attribute functionality relate to Adobe Audience Manager?|While Audience Manager can receive data to perform audience identification, it cannot perform analytics functionality that ties attributes to historical behavioral data or provide the reporting, analysis, and segmentation capabilities that are available in Adobe Analytics. The People core service enables rich data from across solutions to be tied together and associated with a single ID for use across the Experience Cloud. <br>In Adobe Target, customer attributes appear as individual attributes that can be combined with other rules to build audiences. Audiences shared in the People core service are full audiences that cannot be modified.|
+|**(Analytics only)** How is this functionality different from what is provided in Analytics premium?|In the past, customers interested in combining customer attribute data with Analytics data have relied heavily on the data workbench tool for this functionality. Customer attributes exposes this functionality to a wider audience by providing customer attributes as dimensions and metrics in reports & analytics, ad hoc analysis, and report builder. Analytics Standard customers will have access to customer attributes, but with limited capabilities. The full capability is available to Analytics Premium customers.|
+|**(Target Only)** Can I pre-load or upload data for customers that Target has never seen?|Yes. When the visitor makes their first request to Target, the system will fetch the existing information we have about them from Customer Attributes and use that data for targeting. **Note:**  Retrieving this data can take up to 20 min from the visitor's first interaction with Target.|
+|**(Target Only)** Can I create a super audience by combining customer attribute data with shared audience data?|No. Shared audience data is a completed audience.|
+|**(Target only)** How does the customer attributes functionality compare to Target's bulk profile API?|The  bulk profile API enables Target profiles to be updated directly via the API, either for an individual profile or in bulk. The capability is similar to customer attributes, with the following key differences: <ul><li>The profile API is a REST API call and customer attributes uses FTP. </li><li>Target's profile API only sends data to Target instead of to the whole Experience Cloud. </li><li>Customer attributes provides a simple interface to create and manage this external data. </li></ul>      
+|**(Target only)** Does uploading data from customer attributes to Adobe Target extend the Target visitor's profile lifetime?|Yes. See [Visitor Profile Lifetime](https://docs.adobe.com/content/help/en/target/using/audiences/visitor-profiles/visitor-profile.html) in Adobe Target Help.|
+|**(Target only)** Can I target on the data uploaded in customer attributes immediately after the visitor is identified by the customer ID?|Yes. On the server call to Target, which includes the mbox third-party ID, all customer attribute data will be available.|
+|**(Target only)** What does the **[!UICONTROL Sync Status]** column represent for files uploaded in Customer Attribute Source?|The number of records published and synced by Target can be viewed by clicking the Sync Status icon against a specific attribute file. `Sync %` is a realtime metric that specifies the % of profiles that have been synced in Target.<br> **Note:** It may take up to 24 hours for attributes to sync with Target.|
+|What do the file upload metrics represent in Customer Attributes Source?|You can check the status of attributes uploaded to Customer Attributes with the help of following metrics: <ul><li>Records:  Number of records in the attributes file.</li><li>**New Records:** Number of new records present in the attributes file.</li> <li>**Updated Records:** Number of records in that already exist in Customer Attributes with updated values in the file.</li><li>**All Data (Records):** Total number of records successfully uploaded to Customer Attributes.</li></ul>|
