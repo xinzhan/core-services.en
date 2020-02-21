@@ -30,7 +30,7 @@ index: yes
     + [How Changes to Third Party Cookie Support Impacts Customers](cookies/cookies-thirdparty.md)
 + User and product management {#manage-users-and-products}
     + [Manage Experience Cloud users and products](admin-getting-started/admin-getting-started.md)
-    + [Admin Tool](admin-getting-started/admin-tool.md)
+    + [Admin Tool](admin-getting-started/admin-tool-experience-cloud.md)
     + [Frequently asked questions](admin-getting-started/faq.md)
     + [Sign in and manage your profile settings](admin-getting-started/getting-started-experience-cloud.md)
     + [Organizations and account linking](admin-getting-started/organizations.md)
