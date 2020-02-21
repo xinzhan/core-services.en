@@ -27,7 +27,7 @@ This page displays complete list of users with access to Experience Cloud in you
 
 |Element | Description|
 |---|---|
-|[!UICONTROL Name] |The first and Last name of the user. You can sort this column from A to Z and Z to A.  Click a user's name to see more details about the user.
+|[!UICONTROL Name] |The first and Last name of the user. You can sort this column from A to Z and Z to A.  Click a user's name to see more details about the user.|
 |[!UICONTROL Email] |The email address associated with the user. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL ID Type] |The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
 |[!UICONTROL Solutions] |Summary of Experience Cloud solutions that the user can access. You can apply filters to narrow down list of users with specific solution access.|
