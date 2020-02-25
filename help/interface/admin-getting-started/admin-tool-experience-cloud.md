@@ -31,7 +31,7 @@ This page displays complete list of users with access to Experience Cloud in you
 |[!UICONTROL Email] |The email address associated with the user. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL ID Type] |The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
 |[!UICONTROL Solutions] |Summary of Experience Cloud solutions that the user can access. You can apply filters to narrow down list of users with specific solution access.|
-|[!UICONTROL Last Login] |Time and Date of the most recent user login to the Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** Last Login data was not preserved before January 13, 2020, so users that have last logged in prior to this date may not appear to have any information around last login. As of February 12, 2020 - user’s last login data will be kept for 365 days. Use the current information to view current login activity in the Experience Cloud, but not to take action on inactive accounts. |
+|[!UICONTROL Last Login] |Time and Date of the most recent user login to the Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user’s last login data will be kept for 365 days. This information is intended to show current login activity in the Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13th, 2020. |
 
 ## Customize the user list view
 
