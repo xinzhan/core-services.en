@@ -16,7 +16,9 @@ The Experience Cloud Admin Tool enables administrators to view a sortable and fi
 
    ![](assets/admin-tool.png)
 
-1. From the Experience Cloud Home, click **[!UICONTROL Admin Tool.]** (Alternatively, in the home page URL you can replace _home_ with _admin._)
+1. From the Experience Cloud Home, click **[!UICONTROL Admin Tool.]** 
+
+    (Alternatively, in the home page URL you can replace _home_ with _admin._)
 
     The [!UICONTROL Users] page displays.
 
