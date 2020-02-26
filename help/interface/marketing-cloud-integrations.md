@@ -26,7 +26,7 @@ Describes how to:
 
 Solutions or services: 
 
-* Activation - Dynamic Tag Management or Launch, by Adobe
+* Activation - Dynamic Tag Management or Experience Platform Launch
 * Analytics
 * Target
 * [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html)

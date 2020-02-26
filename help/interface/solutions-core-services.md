@@ -55,9 +55,9 @@ The following information briefly describes the solutions and provides links to 
 To get started in Analytics: 
 
 1. Create your first Analytics report suite (data repository) using the steps described in [Getting Started with Adobe Analytics](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/home.html).
-1. Then, deploy Analytics code using [Launch, by Adobe](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html).
+1. Then, deploy Analytics code using [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html).
 
-Launch, by Adobe, is the next-generation of tag management and gives you a simple way to deploy and manage all the analytics, marketing, and advertising tags. 
+Experience Platform Launch is the next-generation of tag management and gives you a simple way to deploy and manage all the analytics, marketing, and advertising tags. 
 
 See also: 
 
@@ -107,7 +107,7 @@ Adobe Primetime is a multi-screen TV platform that helps broadcasters create eng
 
 | Core Service | Description |
 |--- |--- |
-|[Activation](activation/activation.md)|Tag management systems (Launch, by Adobe, and Dynamic Tag Management).<br>Triggers enable you to take real-time action in Adobe Campaign based on insights from Adobe Analytics.|
+|[Activation](activation/activation.md)|Tag management systems (Experience Platform Launch and Dynamic Tag Management).<br>Triggers enable you to take real-time action in Adobe Campaign based on insights from Adobe Analytics.|
 |[Administration](admin-getting-started/admin-getting-started.md)|Manage user and product entitlements across all your Adobe clouds and solutions.|
 |[Assets](experience-cloud-assets/experience-cloud-assets.md)|Easily store, sync, and share all your digital assets in a central location, to save time and deliver a more consistent customer experience.|
 |[Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html)|Launch is the next-generation of tag management capabilities from Adobe. Launch gives customers a simple way to deploy and manage all of the analytics, marketing, and advertising tags necessary to power relevant customer experiences. |

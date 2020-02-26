@@ -29,8 +29,8 @@ index: yes
     + [Enable privacy settings for browser cookies](cookies/browser-cookie-settings.md)
     + [How Changes to Third Party Cookie Support Impacts Customers](cookies/cookies-thirdparty.md)
 + User and product management {#manage-users-and-products}
-    + [Manage Experience Cloud users and products](admin-getting-started/admin-getting-started.md)
-    + [Admin Tool](admin-getting-started/admin-tool-experience-cloud.md)
+    + [Manage Experience Cloud users and products (Admin Console)](admin-getting-started/admin-getting-started.md)
+    + [View Experience Cloud user details (Admin Tool)](admin-getting-started/admin-tool-experience-cloud.md)
     + [Frequently asked questions](admin-getting-started/faq.md)
     + [Sign in and manage your profile settings](admin-getting-started/getting-started-experience-cloud.md)
     + [Organizations and account linking](admin-getting-started/organizations.md)

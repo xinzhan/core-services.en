@@ -82,9 +82,9 @@ A *tenant* in Campaign displays as a *product* in the Admin Console Products pag
 
 See [Managing groups and users](https://helpx.adobe.com/campaign/standard/administration/using/managing-groups-and-users.html) for information about security groups and assigning users to security groups. 
 
-## Launch, by Adobe {#section_F2DA6778DD2D48AA8F794041971EE6B1}
+## Experience Platform Launch {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-Launch, by Adobe displays on the Products page in the Admin Console. You can include other solutions and services in a Launch product profile. 
+Experience Platform Launch displays on the Products page in the Admin Console. You can include other solutions and services in a Launch product profile. 
 
 See [User Management](https://docs.adobelaunch.com/launch-reference/administration/user-permissions) for information about user permissions in the Admin Console and set up Launch-specific options, including assigning rights to profiles. 
 

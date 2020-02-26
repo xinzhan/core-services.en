@@ -1,7 +1,7 @@
 ---
-description: Activation includes the latest tag management product called Launch, by Adobe. Dynamic Tag Management (DTM);and Triggers.
+description: Activation includes the latest tag management product called Experience Platform Launch. Dynamic Tag Management (DTM);and Triggers.
 keywords: core services
-seo-description: Activation includes the latest tag management product called Launch, by Adobe. Dynamic Tag Management (DTM);and Triggers.
+seo-description: Activation includes the latest tag management product called Experience Platform Launch. Dynamic Tag Management (DTM);and Triggers.
 seo-title: Activation
 solution: Experience Cloud
 title: Activation
@@ -10,13 +10,13 @@ uuid: 54ada638-3592-49ee-930a-9f44bcc5e5d3
 
 # Activation
 
-Activation includes the latest tag management product called Launch, by Adobe, Dynamic Tag Management (DTM), and Triggers.
+Activation includes the latest tag management product called Experience Platform Launch, Dynamic Tag Management (DTM), and Triggers.
 
-## Launch, by Adobe {#section_05DF74E9EAC94518A155095C65F54568}
+## Experience Platform Launch {#section_05DF74E9EAC94518A155095C65F54568}
 
-Deploy and manage the analytics, marketing, and advertising tags necessary to power relevant customer experiences. 
+Deploy and manage the analytics, marketing, and advertising tags necessary to power relevant customer experiences.
 
-See [Launch, by Adobe](https://docs.adobelaunch.com/getting-started). 
+See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html).
 
 ## Dynamic Tag Management {#section_C7E000EEF3E6459FB4B6D4A8960DD8F0}
 
