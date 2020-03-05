@@ -1,18 +1,15 @@
 ---
-description: Publish an Analytics audience segment to the Experience Cloud and to Adobe Target, for audience marketing activities.
-keywords: core services
-seo-description: Publish an Analytics audience segment to the Experience Cloud and to Adobe Target, for audience marketing activities.
-seo-title: Publish an Analytics audience segment
-solution: Experience Cloud
 title: Publish an Analytics audience segment
-uuid: 4201dc22-4b79-457c-a614-949bba087617
+description: Publish an Analytics audience segment to the Experience Cloud and to Adobe Target, for audience marketing activities.
 ---
 
 # Publish an Analytics audience segment
 
 Publish an Analytics audience segment to the Experience Cloud and to Adobe Target, for audience marketing activities.
 
-1.  In Analytics, [build a segment](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html).
+Refer to the [Adobe Analytics documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html) for instructions.
+
+<!-->1.  In Analytics, [build a segment](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html).
 1.  On the Segment Builder, enable the **[!UICONTROL Publish this segment to the Experience Cloud]** option.
 
     ![](assets/ec_audience_example.png) 
@@ -26,4 +23,4 @@ Publish an Analytics audience segment to the Experience Cloud and to Adobe Targe
 1.  Access [!DNL Adobe Target], click [!UICONTROL Audiences].
 1.  On the [!UICONTROL Audiences] page, locate the audience sourced from the Experience Cloud.
 
-    These audiences are available for use in activities. 
+    These audiences are available for use in activities. <-->
