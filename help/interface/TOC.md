@@ -35,7 +35,6 @@ index: yes
     + [Sign in and manage your profile settings](admin-getting-started/getting-started-experience-cloud.md)
     + [Organizations and account linking](admin-getting-started/organizations.md)
     + [Upgrading to Analytics Premium and the Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
-    + [Embedding content](admin-getting-started/oembed.md)
 + Experience Cloud Activation {#activation}
     + [Activation overview](activation/activation.md)
     + [Launch user guide](https://docs.adobe.com/content/help/en/launch/using/overview.html)
