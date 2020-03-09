@@ -9,7 +9,8 @@ Publish an Analytics audience segment to the Experience Cloud and to Adobe Targe
 
 Refer to the [Adobe Analytics documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html) for instructions.
 
-<!-->1.  In Analytics, [build a segment](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html).
+<!--
+1.  In Analytics, [build a segment](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html).
 1.  On the Segment Builder, enable the **[!UICONTROL Publish this segment to the Experience Cloud]** option.
 
     ![](assets/ec_audience_example.png) 
@@ -23,4 +24,5 @@ Refer to the [Adobe Analytics documentation](https://docs.adobe.com/content/help
 1.  Access [!DNL Adobe Target], click [!UICONTROL Audiences].
 1.  On the [!UICONTROL Audiences] page, locate the audience sourced from the Experience Cloud.
 
-    These audiences are available for use in activities. <-->
+    These audiences are available for use in activities
+-->
