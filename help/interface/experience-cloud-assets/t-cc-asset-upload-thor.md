@@ -12,5 +12,5 @@ uuid: 88e97e4d-cf9e-4b26-923b-ee60583cae1a
 
 1. Enable sharing.
 1. Launch the [!DNL Creative Cloud] desktop and navigate to [!UICONTROL Assets].
-1. Click **[!UICONTROL Open Folder]**.
+1. Click **[!UICONTROL Open Folder].**
 1. Use your operating system's file browsing to select or move assets.
