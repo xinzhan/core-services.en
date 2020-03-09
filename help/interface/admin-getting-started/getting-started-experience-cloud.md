@@ -59,7 +59,7 @@ Help for non-administrative users signing in to the Experience Cloud.
 
    Your Experience Cloud administrator can help you determine the type of account (Adobe ID or Enterprise ID). 
 
-1. On the Feed page (or your default landing page), click the selector icon  ![](assets/menu-icon.png) to access the pull-down menu.
+1. On your landing page, click the selector icon  ![](assets/menu-icon.png) to access the pull-down menu.
 
    ![](assets/experience-cloud-core-services.png) 
 

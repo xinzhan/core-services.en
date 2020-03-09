@@ -31,7 +31,6 @@ In [!UICONTROL Experience Cloud Assets], you can:
 * [Edit assets](../experience-cloud-assets/experience-cloud-assets.md#section_CD3C55A9D4574455B94D0955391C8FEC)
 * [Search for Assets](../experience-cloud-assets/experience-cloud-assets.md#section_50FE049010B446FC9640AA6A30E5A730)
 * [Annotate Assets](../experience-cloud-assets/experience-cloud-assets.md#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A)
-* [Share an Asset to your Feed](../experience-cloud-assets/experience-cloud-assets.md#section_2CD53A99600D4A3D9AA82C3CDA666E6B)
 * [View Full-Screen Assets, and Zoom](../experience-cloud-assets/experience-cloud-assets.md#section_A9F50D7D6BE341A2AB8244A4E42A4EF7)
 * [View Asset Properties](../experience-cloud-assets/experience-cloud-assets.md#section_FED28711DAB14E1BBEEA7CA890EE9573)
 * [Run Usage reports](../experience-cloud-assets/experience-cloud-assets.md#section_15D782FFB8D74CF4A735116CC03AD902)
@@ -70,16 +69,6 @@ You can search by keyword, file type, size, last modified, publish status, orien
 Click **[!UICONTROL Annotate]** by drawing circles or arrows on an image, and annotate the asset for review by coworkers. 
 
 ![](assets/assets-annotate.png) 
-
-<!-- ## Share an asset to your feed {#section_2CD53A99600D4A3D9AA82C3CDA666E6B}
-
-**Experience Cloud Feed will no longer be supported starting Nov 01, 2019 and shall be deprecated by Dec, 2019.**
-
-Click **[!UICONTROL Share]** from the toolbar to share the asset as [feed](../feed.md#concept_9256B8768A294009A777282DD8719213) to other Experience Cloud users. 
-
-![](assets/assets-share-card.png) 
-
-Sharing displays the image on your Feed page and with whomever you have shared the card.  -->
 
 ## View full-screen assets, and zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 
