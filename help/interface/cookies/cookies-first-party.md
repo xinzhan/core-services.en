@@ -22,7 +22,7 @@ Two options are available to implement first-party cookies:
 
 Even when using the first option with the Experience Cloud ID Service, Apple's ITP will make the first-party cookies short-lived, so it is best used in conjunction with the second option.
 
-For the second option using a CNAME, if your site has secure pages using the `https:` protocol, you can work with Adobe to obtain an SSL certificate in order to implement first-party cookies. Adobe strongly recommends that you exclusively use HTTPS for data collection as we will be dropping support for HTTP collection in the second half of 2020.
+For the second option using a CNAME, if your site has secure pages using the HTTPS protocol, you can work with Adobe to obtain an SSL certificate in order to implement first-party cookies. Adobe strongly recommends that you exclusively use HTTPS for data collection as we will be dropping support for HTTP collection in the second half of 2020.
 
 The SSL certificate issuance process can often be confusing and time consuming. As a result, Adobe established a partnership with DigiCert, an industry leading Certificate Authority (CA), and developed an integrated process by which the purchase and management of these certificates is automated.
 
@@ -32,21 +32,29 @@ With your permission, we will work with our CA to issue, deploy, and manage a ne
 
 The Adobe Managed Certificate Program is the recommended process for implementing a new first-party SSL certificate for first-party cookies.
 
-The Adobe Managed Certificate program lets you implement a new first-party SSL certificate for first-party cookies at no additional cost. If you currently have your own Customer Managed SSL certificate, speak with Adobe Customer Care about migrating to the Adobe Managed Certificate Program. 
+The Adobe Managed Certificate program lets you implement a new first-party SSL certificate for first-party cookies at no additional cost. If you currently have your own Customer Managed SSL certificate, speak with Adobe Customer Care about migrating to the Adobe Managed Certificate Program.
 
 ### Implement
 
-Here is how you implement a new first-party SSL certificate for first-party cookies: 
+Here is how you implement a new first-party SSL certificate for first-party cookies:
 
 1. Fill out the [First-party cookie request form](/help/interface/cookies/assets/FPC_Request_Form.xlsx) and open a ticket with Customer Care requesting to set up first-party cookies on the Adobe Managed program. Each field is described within the document with examples.
 
-1. Create CNAME records (see instructions below). Upon receiving the ticket, a customer care representative should provide you with a pair of CNAME records. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAMES will be similar to the following: **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.ssl.d1.omtrdc.net`. **Non-secure** - For example, the hostname `metrics.example.com` points to: `example.com.d1.omtrdc.net`.  
+1. Create CNAME records (see instructions below).
 
-1. When these CNAMES are in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers. If you have an existing implementation, you should consider Visitor Migration to maintain your existing visitors. After the certificate has been pushed live to Adobe’s production environment, you will be able to update your tracking server variables to the new hostnames. Meaning, if the site is not secure (https), update the `s.trackingServer`. If the site is secure (https), update both `s.trackingServer` and `s.trackingServerSecure` variables.
+    Upon receiving the ticket, a customer care representative should provide you with a pair of CNAME records. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAMES will be similar to the following: 
+    
+    **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.ssl.d1.omtrdc.net`.
 
-1. Validate hostname forwarding (see below).
+    **Non-secure** - For example, the hostname `metrics.example.com` points to: `example.com.d1.omtrdc.net`.  
 
-1. Update Implementation Code (see below).
+1. When these CNAMES are in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers. 
+
+    If you have an existing implementation, you should consider visitor migration to maintain your existing visitors. After the certificate has been pushed live to Adobe’s production environment, you can update your tracking server variables to the new hostnames. Meaning, if the site is not secure (HTTP), update the `s.trackingServer`. If the site is secure (HTTPS), update both `s.trackingServer` and `s.trackingServerSecure` variables.
+
+1. [Validate hostname forwarding](#validate) (see below).
+
+1. [Update Implementation Code](#update) (see below).
 
 ### Maintenance and Renewals
 
@@ -75,47 +83,44 @@ The FPC specialist provides you with the configured hostnames and what CNAMEs th
 
 As long as implementation code is not altered, this step will not affect data collection and can be done at any time after updating implementation code.
 
->[!Note:] The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies, but because of recent Apple ITP changes, it is still recommended to allocate a CNAME even when using the Experience Cloud ID Service. 
+>[!Note:] 
+>The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies, but because of recent Apple ITP changes, it is still recommended to allocate a CNAME even when using the Experience Cloud ID Service.
 
-## Validate hostname forwarding
+## Validate hostname forwarding {#validate}
 
-From the browser, click <https://sstats.adobe.com/_check>.
+You can validate the hostname using <https://sstats.adobe.com/_check>. If you have a CNAME set up and the certificate installed, you can use the browser for validation. However, you will see a security warning if a certificate is not installed. 
 
-You should see `SUCCESS` returned. You will see errors if the certificate has not been purchased.
+**Validate using curl**
 
-You can also use [!DNL curl] as a command line tool for validation:
+Adobe recommends using [!DNL curl] from the command line. (If you are on windows you will need to install [!DNL curl] from: <https://curl.haxx.se/windows/>)
 
-1. If using [!DNL Windows], install curl (<https://curl.haxx.se/windows/>).
-1. If the CNAME still needs a certificate, type `curl -k https://sstats.adobe.com/_check` in the command line.
-1. If the certificate is completed, type `curl https://sstats.adobe.com/_check`.
+If you have a CNAME but no certificate is installed, run: 
+`curl -k https://sstats.adobe.com/_check`
+Response: `SUCCESS` 
 
-You should see `SUCCESS` returned.
+(**Note:** The `-k` value disables the security warning.)
 
-<!-- ## Ping the hostname
+If you have a CNAME set up and the certificate is installed, run:
+`curl https://sstats.adobe.com/_check`
+Response: SUCCESS 
 
-Ping the hostname to ensure correct forwarding. All hostnames must respond to a ping to prevent data loss.
+**Validate using nslookup**
 
-After CNAME records are properly configured, and Adobe has confirmed installation of the certificate, open a command prompt and ping your hostname(s). Using `mysite.com` as an example: `ping metrics.mysite.com`
+You can use nslookup for validation. Using `mysite.com`as an example: 
 
-If everything is successfully set up, it will return something similar to the following:
+Open a command prompt and type `nslookup metrics.mysite.com`
 
-```Pinging mysite.com.112.2o7.net [66.235.132.232] with 32 bytes of data:
-Reply from 66.235.132.232: bytes=32 time=19ms TTL=246
-Reply from 66.235.132.232: bytes=32 time=19ms TTL=246
-Reply from 66.235.132.232: bytes=32 time=19ms TTL=246
-Reply from 66.235.132.232: bytes=32 time=19ms TTL=246
+If everything is successfully set up, you'll see a return similar to:
 
-Ping statistics for 66.235.132.232: Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds: Minimum = 19ms, Maximum = 19ms, Average = 19ms
-```
+nslookup metrics.mysite.com
+Server:  hiodsibxvip01.corp.adobe.com
+Address:  10.50.112.247
 
-If the CNAME records are not correctly set up or not active, it will return the following:
+Non-authoritative answer:
+Name:    metrics.mysite.com
+Address:  64.136.20.37
 
-`Ping request could not find the host. Please check the name and try again.`
-
->[!Note:] If you are using `https:// protocol`, ping will only respond after the upload date specified by the FPC specialist. In addition, be sure to ping the secure hostname and non-secure hostname to ensure that both are working correctly before updating your implementation. -->
-
-## Update implementation code
+## Update implementation code {#update}
 
 Before you edit code on your site to utilize first-party cookies, complete these prerequisites:
 
