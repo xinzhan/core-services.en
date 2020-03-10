@@ -44,7 +44,7 @@ Here is how you implement a new first-party SSL certificate for first-party cook
 
 1. When these CNAMES are in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers. If you have an existing implementation, you should consider Visitor Migration to maintain your existing visitors. After the certificate has been pushed live to Adobe’s production environment, you will be able to update your tracking server variables to the new hostnames. Meaning, if the site is not secure (https), update the `s.trackingServer`. If the site is secure (https), update both `s.trackingServer` and `s.trackingServerSecure` variables.
 
-1. Ping the hostname (see below).
+1. Validate hostname forwarding (see below).
 
 1. Update Implementation Code (see below).
 
@@ -77,7 +77,21 @@ As long as implementation code is not altered, this step will not affect data co
 
 >[!Note:] The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies, but because of recent Apple ITP changes, it is still recommended to allocate a CNAME even when using the Experience Cloud ID Service. 
 
-## Ping the hostname
+## Validate hostname forwarding
+
+From the browser, click <https://sstats.adobe.com/_check>.
+
+You should see `SUCCESS` returned. You will see errors if the certificate has not been purchased.
+
+You can also use [!DNL curl] as a command line tool for validation:
+
+1. If using [!DNL Windows], install curl (<https://curl.haxx.se/windows/>).
+1. If the CNAME still needs a certificate, type `curl -k https://sstats.adobe.com/_check` in the command line.
+1. If the certificate is completed, type `curl https://sstats.adobe.com/_check`.
+
+You should see `SUCCESS` returned.
+
+<!-- ## Ping the hostname
 
 Ping the hostname to ensure correct forwarding. All hostnames must respond to a ping to prevent data loss.
 
@@ -99,7 +113,7 @@ If the CNAME records are not correctly set up or not active, it will return the 
 
 `Ping request could not find the host. Please check the name and try again.`
 
->[!Note:] If you are using `https:// protocol`, ping will only respond after the upload date specified by the FPC specialist. In addition, be sure to ping the secure hostname and non-secure hostname to ensure that both are working correctly before updating your implementation.
+>[!Note:] If you are using `https:// protocol`, ping will only respond after the upload date specified by the FPC specialist. In addition, be sure to ping the secure hostname and non-secure hostname to ensure that both are working correctly before updating your implementation. -->
 
 ## Update implementation code
 
@@ -107,7 +121,7 @@ Before you edit code on your site to utilize first-party cookies, complete these
 
 * Request an SSL certificate, by following the steps described above in the *Implement* section of the [Adobe Managed Certificate Program](#adobe-managed-certificate-program).
 * Create CNAME records (see above).
-* Ping the hostname(s) (see above).
+* Validate the hostname(s) (see above).
 
 After you have verified your hostname(s) are responding and forwarding to Adobe data collection servers, you can alter your implementation to point to your own data collection hostnames.
 
