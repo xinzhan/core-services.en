@@ -114,18 +114,22 @@ Response: `SUCCESS`
 
 ### Validate using [!DNL nslookup]
 
-You can use `nslookup` for validation. Using `mysite.com`as an example, open a command prompt and type `nslookup metrics.mysite.com`
+You can use `nslookup` for validation. Using `sstats.adobe.com`as an example, open a command prompt and type `nslookup sstats.adobe.com`
 
 If everything is successfully set up, you will see a return similar to:
 
 ```
-nslookup metrics.mysite.com
-Server:  hiodsibxvip01.corp.adobe.com
-Address:  10.50.112.247
+nslookup sstats.adobe.com
+Server:             10.30.7.247
+Address:     10.30.7.247#53
 
-Non-authoritative answer:
-Name:    metrics.mysite.com
-Address:  64.136.20.37
+sstats.adobe.com    canonical name = adobe.com.ssl.d1.sc.omtrdc.net.
+Name:  adobe.com.ssl.d1.sc.omtrdc.net
+Address: 54.218.180.161
+Name:  adobe.com.ssl.d1.sc.omtrdc.net
+Address: 52.39.8.230
+Name:  adobe.com.ssl.d1.sc.omtrdc.net
+Address: 54.187.216.46
 ```
 
 ## Update implementation code {#update}
