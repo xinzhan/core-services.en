@@ -10,7 +10,7 @@ uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 
 # Documentation updates - Experience Cloud
 
-Information about updates to the Experience Cloud help.
+Information about updates to the Experience Cloud product documentation.
 
 **Updated: 3/10/2020**
 
