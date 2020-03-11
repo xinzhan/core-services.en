@@ -90,15 +90,15 @@ As long as implementation code is not altered, this step will not affect data co
 
 The following methods are available for validation:
 
-**Browser validation**
+### Validate using a browser
 
 If you have a CNAME set up and the certificate installed, you can use the browser for validation:
 
-<https://sstats.adobe.com/_check>.
+`https://sstats.adobe.com/_check`
 
-Note: You will see a security warning if a certificate is not installed.
+**Note:** You will see a security warning if a certificate is not installed.
 
-**Validate using [!DNL curl]**
+### Validate using [!DNL curl]
 
 Adobe recommends using [!DNL [curl](https://curl.haxx.se/)] from the command line. ([!DNL Windows] users can install [!DNL curl] from: <https://curl.haxx.se/windows/>)
 
@@ -112,7 +112,7 @@ If you have a CNAME set up and the certificate is installed, run:
 `curl https://sstats.adobe.com/_check`
 Response: `SUCCESS`
 
-**Validate using [!DNL nslookup]**
+### Validate using [!DNL nslookup]
 
 You can use `nslookup` for validation. Using `mysite.com`as an example, open a command prompt and type `nslookup metrics.mysite.com`
 
