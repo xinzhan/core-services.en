@@ -12,6 +12,14 @@ uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 
 Information about updates to the Experience Cloud help.
 
+**Updated: 3/10/2020**
+
+Updated [Validate hostname forwarding](cookies/cookies-first-party.md#validate) in the first-party cookies section.
+
+**Updated: 2/20/2020**
+
+Added [View Experience Cloud user details (Admin Tool)](admin-getting-started/admin-tool-experience-cloud.md).
+
 **Updated: 9/5/2018**
 
 Added how to delete a customer attribute. See [(Optional) Update the schema (delete attributes)](attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
