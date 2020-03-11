@@ -88,30 +88,37 @@ As long as implementation code is not altered, this step will not affect data co
 
 ## Validate hostname forwarding {#validate}
 
-You can validate the hostname using <https://sstats.adobe.com/_check>. If you have a CNAME set up and the certificate installed, you can use the browser for validation. However, you will see a security warning if a certificate is not installed. 
+The following methods are available for validation:
 
-**Validate using curl**
+**Browser validation**
 
-Adobe recommends using [!DNL curl] from the command line. (If you are on windows you will need to install [!DNL curl] from: <https://curl.haxx.se/windows/>)
+If you have a CNAME set up and the certificate installed, you can use the browser for validation:
+
+<https://sstats.adobe.com/_check>.
+
+Note: You will see a security warning if a certificate is not installed.
+
+**Validate using [!DNL curl]**
+
+Adobe recommends using [!DNL [curl](https://curl.haxx.se/)] from the command line. ([!DNL Windows] users can install [!DNL curl] from: <https://curl.haxx.se/windows/>)
 
 If you have a CNAME but no certificate is installed, run: 
 `curl -k https://sstats.adobe.com/_check`
 Response: `SUCCESS` 
 
-(**Note:** The `-k` value disables the security warning.)
+(The `-k` value disables the security warning.)
 
 If you have a CNAME set up and the certificate is installed, run:
 `curl https://sstats.adobe.com/_check`
-Response: SUCCESS 
+Response: `SUCCESS`
 
-**Validate using nslookup**
+**Validate using [!DNL nslookup]**
 
-You can use nslookup for validation. Using `mysite.com`as an example: 
+You can use `nslookup` for validation. Using `mysite.com`as an example, open a command prompt and type `nslookup metrics.mysite.com`
 
-Open a command prompt and type `nslookup metrics.mysite.com`
+If everything is successfully set up, you will see a return similar to:
 
-If everything is successfully set up, you'll see a return similar to:
-
+```
 nslookup metrics.mysite.com
 Server:  hiodsibxvip01.corp.adobe.com
 Address:  10.50.112.247
@@ -119,6 +126,7 @@ Address:  10.50.112.247
 Non-authoritative answer:
 Name:    metrics.mysite.com
 Address:  64.136.20.37
+```
 
 ## Update implementation code {#update}
 
