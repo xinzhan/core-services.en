@@ -29,12 +29,10 @@ If you capture enterprise customer data in a customer relationship management (C
 
   Users that are added to the Customer Attributes group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface. 
 
-* **Target mbox:** mbox.js version 58 or higher is required for customer attributes. 
+* **Adobe Target** [!DNL at.js] (any version) or [!DNL mbox.js] version 58 or later is required for customer attributes. 
 
 
-  See [Mbox.js Implementation](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/mbox-download.html). 
-
-* **at.js:** Any version.
+  See [How to deploy at.js](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/how-to-deployatjs.html or [Mbox.js Implementation](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/mbox-download.html). 
 
 ## What is enterprise customer data? {#section_6F34C29F11414842AA57D2B1248FA3C6}
 
