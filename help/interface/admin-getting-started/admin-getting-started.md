@@ -12,9 +12,11 @@ uuid: aea4e4c3-f543-4e8d-b553-d838418477d6
 
 Learn about signing in to the Admin Console, managing Experience Cloud user permissions and product profiles, and browser support.
 
+<!-- Beginning April 16, 2020, new organizations created in the Admin Console will block Adobe ID (type 1) identity types. Starting 16 Apr 2020 , newly created orgs will block the addition of Adobe ID/Type1 accounts.Migration for Orgs that have CCE/DX overlapping contracts will happen starting on  26 Apr 2020 (Gov't & Commercial Orgs) (~600 Orgs) Majority of EC customers will be migrated after July 2020. (~15k Orgs)https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=engage&title=Type2e+DX+GTM-->
+
 >[!IMPORTANT]
 >
->Managing users in the Admin Console introduces new terms, interfaces, and navigation. The following information describes these changes and provides links to additional help resources. This help supplements the information in the [Enterprise Administration User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html) for all Adobe cloud products. 
+>Managing users in the Admin Console introduces new terms, interfaces, and navigation. The following information describes these changes and provides links to additional help resources. This help supplements the information in the [Enterprise Administration User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html) for all Adobe cloud products.
 
 ## What's new in Experience Cloud user management {#concept_06A0A13362F644FB90F947238407637A}
 
