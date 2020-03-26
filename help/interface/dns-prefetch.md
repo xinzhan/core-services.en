@@ -44,7 +44,7 @@ The following examples show you how to make DNS prefetch calls to different [!DN
     * `<link rel="dns-prefetch" href="//cm.everesttechnet">`    
     
     
-* **Target:** `<link rel="dns-prefetch" href="//insert customer code here.tt.omtrdc.net">` 
+* **[!DNL Target]:** `<link rel="dns-prefetch" href="//insert customer code here.tt.omtrdc.net">`
 
 >[!MORE_LIKE_THIS]
 >

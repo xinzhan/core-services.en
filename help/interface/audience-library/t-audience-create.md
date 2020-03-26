@@ -83,4 +83,4 @@ The resulting rule is a defined audience comprising Chrome & Safari users who vi
 
 After the data collection completes for the specified period, the circles combine to show a defined audience.
 
-After the audience is saved, it is available for other solutions. For example, you can include a shared audience in a Target activity.
+After the audience is saved, it is available for other solutions. For example, you can include a shared audience in a Adobe Target activity.

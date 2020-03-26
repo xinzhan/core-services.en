@@ -3,7 +3,7 @@ description: Maintaining customer privacy and data security are top priorities a
 keywords: cookies;privacy
 seo-description: Maintaining customer privacy and data security are top priorities at Adobe. Adobe participates in multiple privacy organizations and cooperates with privacy regulators and self-regulatory principles (such as the Digital Advertising Alliance AdChoices program) to provide customers with information about how their information is used, and choices about its use.
 seo-title: About Cookies and Privacy
-solution: Marketing Cloud,Analytics,Target,Social
+solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: About Cookies and Privacy
 uuid: 7fb36845-6282-438a-bbc6-0c3cf95de1c9
 ---

@@ -21,59 +21,54 @@ For existing customers, learn how to modernize your solution implementations and
 1. [Manage users and products](#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
 1. [Begin using core services](#section_960C06093623462E8EA247B3E97274A1)
 
-<!-- <p>https://marketing-beta.adobe.com/resources/help/core/core-services.html </p> 
-<p>https://adobe.sharepoint.com/sites/AGSConsulting/CoreServices/PA/_layouts/15/start.aspx#/ </p> -->
-
-<!-- Core services architecture and data flow wiki: https://wiki.corp.adobe.com/pages/viewpage.action?pageId=1004285689 -->
-
 ## Step 1. Join the Experience Cloud and become an administrator {#section_2423F0BD3DF642658103310EE5EA6154}
 
 What you need to do to join the Experience Cloud: 
 
 ![](assets/step1_icon.png) Ensure that you have the appropriate Adobe Analytics or Adobe Target SKUs. 
 
-* **Adobe Analytics:** Standard or Premium (not the legacy SiteCatalyst SKU).
+* **Adobe Analytics:** Standard or Premium (not the legacy [!DNL SiteCatalyst] SKU).
 * **Adobe Target:** Standard or Premium.
 
 >[!NOTE]
 >
->For Target, migrate to at.js from mbox.js. See [Upgrading from at.js 1. x to at.js 2. x](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/upgrading-from-atjs-1x-to-atjs-20.html). 
+>For [!DNL Target], migrate to at.js from [!DNL mbox.js]. See [Upgrading from at.js 1. x to at.js 2. x](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/upgrading-from-atjs-1x-to-atjs-20.html).
 
 ![](assets/step2_icon.png) Modernize your implementation and get provisioned an administrator. 
 
-1. Follow the steps below in [Deploy the Experience Cloud ID Service](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
+1. Follow the steps below in [Deploy the [!UICONTROL Experience Cloud ID Service]](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
 1. Contact your Account Manager and start the provisioning process for the Experience Cloud.
 
 ![](assets/step3_icon.png) Manage users and products in the [!UICONTROL Admin Console]. 
 
-**Administrator Access** 
+### Administrator login
 
-After you are an administrator, you can log in at [experiencecloud.adobe.com](https://experiencecloud.adobe.com). 
+After you are an administrator, you can log in at [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
 
-You will see the **[!UICONTROL Administration]** link in the Experience Cloud menu navigation. 
+You will see the **[!UICONTROL Administration]** link in the Experience Cloud menu navigation.
 
-See [Experience Cloud user and product administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for help. 
+See [Experience Cloud user and product administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for help.
 
-**User Access** 
+### User login
 
-To log in to the Experience Cloud, your users must: 
+To log in to the Experience Cloud, your users must:
 
-1. Have an Adobe ID.
+1. Have an Adobe ID (or Enterprise ID for your company).
 1. Sign in at [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
 1. Belong to a solution group that is mapped to an enterprise group.
 1. If necessary, link their solution accounts to their Adobe ID (described below).
 
 ![](assets/step4_icon.png) Optional: Link existing user accounts. 
 
-Most likely, you have users who are already members of solution groups, such an Analytics group that you previously managed in [!UICONTROL Analytics] > [!UICONTROL Admin Tools]. 
+Most likely, you have users who are already members of solution groups, such an Analytics group that you previously managed in [!UICONTROL Analytics] > [!UICONTROL Admin Tools].
 
-When you map these groups to Experience Cloud enterprise groups, those users must manually link their solution account credentials to their Adobe ID. 
+When you map these groups to Experience Cloud enterprise groups, those users must manually link their solution account credentials to their Adobe ID.
 
-See [Link accounts in the Experience Cloud](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) 
+See [Link accounts in the Experience Cloud](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
 
-> [!NOTE]
-> 
-> After enterprise and solution groups are mapped, new users are automatically linked. (Solution credentials are automatically created and linked to their Adobe ID.) 
+>[!NOTE]
+>
+>After enterprise and solution groups are mapped, new users are automatically linked. (Solution credentials are automatically created and linked to their Adobe ID.) 
 
 The following sections describe how to modernize your implementation. Modernizing your implementation enables core services in the Experience Cloud. 
 
@@ -81,13 +76,13 @@ The following sections describe how to modernize your implementation. Modernizin
 
 The [!UICONTROL Experience Cloud ID Service] provides a common ID for cross-solution integration. It provides cross-domain visitor identification and a path for cross-device/browser targeting and personalization based on CRM data uploaded via [!UICONTROL Customer Attributes].
 
-The simplest method for enabling Experience Cloud core services is to activate it automatically for Analytics and Target via the [Experience Cloud ID Service extension](https://docs.adobe.com/content/help/en/launch/using/implement/solutions/idservice-save.html) in [!UICONTROL Experience Platform Launch], or via the ECID tool in [!UICONTROL Dynamic Tag Management]. (Experience Platform Launch is strongly recommended.) 
+The simplest method for enabling Experience Cloud core services is to activate it automatically for Analytics and Adobe Target via the [Experience Cloud ID Service extension](https://docs.adobe.com/content/help/en/launch/using/implement/solutions/idservice-save.html) in [!UICONTROL Experience Platform Launch], or via the ECID tool in [!UICONTROL Dynamic Tag Management]. (Experience Platform Launch is strongly recommended.) 
 
-![](assets/menu-activation-shell.png) 
+![](assets/menu-activation-shell.png)
 
-For complete Experience Cloud ID Service help (formerly, visitor ID), go [here](https://docs.adobe.com/content/help/en/id-service/using/home.html). 
+For complete Experience Cloud ID Service help (formerly, visitor ID), go [here](https://docs.adobe.com/content/help/en/id-service/using/home.html).
 
-**Not Using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management]?** 
+**Not Using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management]?**
 
 If you are not using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management], manually implement the ID service via the JavaScript Deployment ([!DNL VisitorAPI.js]), as follows:
 
@@ -97,7 +92,7 @@ If you are not using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dyna
 | Update your existing [!DNL s_code] to version H.27.3 or later, or your existing [!DNL AppMeasurement.js] to version 1.4 or later.  | These files are available for download in the [Code Manager](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/code-manager-admin.html) in Analytics Admin Tools.  (The [JavaScript Implementation](https://docs.adobe.com/content/help/en/analytics/implementation/javascript-implementation/javascript-implementation-overview.html) guide is available if you need more information about [!DNL AppMeasurement.js].) |
 | Synchronize the customer ID for Analytics  | See [Analytics - synching the customer ID](../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437) (below). |
 
-## Analytics & Target - synching the customer ID {#section_AD473A6A21C1446498E700363F9A8437}
+## Analytics & Adobe Target - synching the customer ID {#section_AD473A6A21C1446498E700363F9A8437}
 
 As a part of setting up the Experience Cloud ID Service, Adobe recommends for Analytics and [!DNL Target] that you synchronize your [customer IDs](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) with the Experience Cloud. 
 
@@ -112,15 +107,15 @@ For example, assume that Bob has Customer ID `52mc210tr42` in your CRM system. W
 
 The Customer ID must be set on each [!DNL Analytics] server call where the Customer ID is known. 
 
-### Mobile SDKs 
+### Mobile SDKs
 
-See the *Experience Cloud ID Service* section for syntax examples about how to set additional customer IDs in [Android](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html) and [iOS](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html) Mobile applications. 
+See the *Experience Cloud ID Service* section for syntax examples about how to set additional customer IDs in [Android](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html) and [iOS](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html) Mobile applications.
 
 ### Enabling Attributes for Historical Data
 
-Customer attribute data is made available after visitors log in. If you have not yet implemented the latest Experience Cloud ID Service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to the Experience Cloud. This process lets you begin using customer attributes immediately. 
+Customer attribute data is made available after visitors log in. If you have not yet implemented the latest Experience Cloud ID Service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to the Experience Cloud. This process lets you begin using customer attributes immediately.
 
-Contact Customer Care to enable historical data. 
+Contact Customer Care to enable historical data.
 
 ## Step 3. Map report suites to an Experience Cloud Organization {#section_7B08516B01BA421681DF03D0E86CE3BA}
 
@@ -138,7 +133,7 @@ In [!UICONTROL Dynamic Tag Management], click **[!UICONTROL <Web Property Name>]
 
 ## Step 5. (Adobe Target) Update your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
 
-* It is recommended that you add an [Adobe Target extension](https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/targetv2-extension/adobe-target-extension-v2.html) in [!UICONTROL Experience Platform Launch], so that your library retrieval is automatic. You can also set up the [Experience Cloud ID Service extension](https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/id-service-extension/overview.html) for Target (and other solutinos) using [!UICONTROL Experience Platform Launch]. The [!UICONTROL Experience Cloud ID Service] update **is required** for [!UICONTROL Target] to use core services. (If you use [!UICONTROL Dynamic Tag Management], add an [Adobe Target tool](https://docs.adobe.com/content/help/en/dtm/using/tools/target.html). You can also use [!UICONTROL Dynamic Tag Management] to deploy the Experience Cloud ID Service for Target.)
+* It is recommended that you add an [Adobe Target extension](https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/targetv2-extension/adobe-target-extension-v2.html) in [!UICONTROL Experience Platform Launch], so that your library retrieval is automatic. You can also set up the [Experience Cloud ID Service extension](https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/id-service-extension/overview.html) for Adobe Target (and other solutinos) using [!UICONTROL Experience Platform Launch]. The [!UICONTROL Experience Cloud ID Service] update **is required** for Adobe Target to use core services. (If you use [!UICONTROL Dynamic Tag Management], add an [Adobe Target tool](https://docs.adobe.com/content/help/en/dtm/using/tools/target.html). You can also use [!UICONTROL Dynamic Tag Management] to deploy the Experience Cloud ID Service for Adobe Target.)
 * If you are not using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management], [update your mbox library](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/target-download-config-mbox.html) manually.
 * Request access to use Adobe Analytics as the reporting source for [!DNL Adobe Target]. [!DNL Target] and [!DNL Analytics] data are combined on the same server call during processing so that visitors are connected between the two solutions. See [Analytics for Target Implementation](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html).
  
@@ -167,7 +162,7 @@ Experience Cloud ID in the mbox request:
 
 ![](assets/mbox_request.png)
 
-**What Is the Grace Period?**
+### What Is the Grace Period?
 
 After you deploy the Experience Cloud ID Service, new visitors no longer receive an Analytics Experience Cloud ID from your data collection server. If sections of your site have not yet implemented the Experience Cloud ID Service, when visitors browse to these sections, the Experience Cloud ID is not recognized and visitors are assigned a legacy Analytics visitor ID. This can cause potential problems, including duplicate visits and incorrect attribution. 
 
@@ -183,16 +178,16 @@ Once you are up and running, navigate to the [Admin Console](https://adminconsol
 
 See [Experience Cloud user and product management](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 
-**Customer Attributes** 
+### Customer Attributes
 
 <!-- <p> 
  <note type="important">
   To use the Customer Attributes feature, users must belong to the 
-  <span class="term"> Adobe Customer Attributes</span> group, and to solution-level groups (Analytics or Target). 
+  <span class="term"> Adobe Customer Attributes</span> group, and to solution-level groups (Analytics or Adobe Target). 
  </note> </p> 
  -->
  
-Users that are added to the [!UICONTROL Customer Attributes] group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface 
+Users that are added to the [!UICONTROL Customer Attributes] group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
 ## Step 8. Begin using core services {#section_960C06093623462E8EA247B3E97274A1}
 
@@ -200,19 +195,17 @@ Take advantage of the following core service features.
 
 ![](assets/menu-audiences-shell.png) 
 
-**[!UICONTROL People] > [!UICONTROlCustomer Attributes]** 
+### [!UICONTROL People] > [!UICONTROl Customer Attributes]
 
-If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, leverage the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
+If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, leverage the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
 
 See [Customer Attributes](../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
 
-**[!UICONTROL People] > [!UICONTROL Audience Library]** 
+### [!UICONTROL People] > [!UICONTROL Audience Library] 
 
 Experience Cloud [!UICONTROL Audiences] is the interface that lets you create audiences, combine existing audiences to create composite audiences, and view all shared audiences. 
 
 See [Audiences](../audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
-
-<!-- aam_mc.xml -->
 
 ## Data storage and privacy disclosure 
 
@@ -222,13 +215,13 @@ When leveraging core services made available via the [!UICONTROL People] service
 
 * [!DNL Analytics] key/value pairs (props, eVars, list vars, and so on). By default, the log lines include IP address, including the last octet of the IP (assuming that the IP address was not modified by IP obfuscation settings within Adobe [!DNL Analytics]).
 * Traits and segments that visitors qualify for based on rules set up in Audience Manager.
-* (Optional) One or more of your IDs. Depending on your implementation of the ID service, you might also be sending in one or more of your IDs, such as CRM IDs or hashed email addresses. If this data is sent into Adobe [!DNL Analytics], it is transferred to Adobe audience management. Adobe recommends against providing personal data to Adobe [!DNL Analytics]. Rather, use a one-way hash to pseudonymize the data before it is sent to Adobe. 
+* (Optional) One or more of your IDs. Depending on your implementation of the ID service, you might also be sending in one or more of your IDs, such as CRM IDs or hashed email addresses. If this data is sent into Adobe [!DNL Analytics], it is transferred to Adobe audience management. Adobe recommends against providing personal data to Adobe [!DNL Analytics]. Rather, use a one-way hash to mask the data before it is sent to Adobe. 
 * Segments originating in [!DNL Analytics] via the back-end segment sharing capability.
 * The demdex.net cookie is set if third-party cookies are not blocked. The `AMCV_###@AdobeOrg` first-party cookie is always set with the Experience Cloud ID Service.
 
-All these data elements are delivered to Adobe Audience Manager in the form of log files. Audience Manager processes and stores this data within the United States. Audience Manager does not provide an option to store or process this data outside of the United States. 
+All these data elements are delivered to Adobe Audience Manager in the form of log files. Audience Manager processes and stores this data within the United States. Audience Manager does not provide an option to store or process this data outside of the United States.
 
-**Cookies and Opt-Outs** 
+### Cookies and Opt-Outs 
 
 Use of real-time audience profiling leverages the Audience Manager cookie, in addition to the cookies used for [!DNL Analytics] and [!DNL Target]. 
 

@@ -35,14 +35,13 @@ After the data source is active, you can:
 >
 >Solution group membership is also required. 
 
-To use the Customer Attributes feature, users must belong to the Adobe Customer Attributes group in user management, and to solution-level groups (Analytics or Target). 
+To use the Customer Attributes feature, users must belong to the Adobe Customer Attributes group in user management, and to solution-level groups (Analytics or [!DNL Target]). 
 
 See [Users and Groups](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). 
 
 ## Create a data file {#task_B5FB8C0649374C7A94C45DCF2878EA1A}
 
 This data is enterprise customer data from your CRM. The data might include subscriber data for products, including member IDs, entitled products, most-launched products, and so on.
-
 
 1. Create a `.csv`.
 
@@ -64,11 +63,9 @@ This data is enterprise customer data from your CRM. The data might include subs
 
 Perform these steps on the Create New Customer Attribute Source page in the Experience Cloud.
 
-
 >[!IMPORTANT]
 >
 >When creating, modifying, or deleting customer attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source. You must have administrative rights in Audience Manager to create or modify customer attribute sources. Contact Audience Manager Customer Care or consulting to obtain administrative rights.
-
 
 1. In the [!DNL Experience Cloud], click the Menu  ![](assets/menu-icon.png) icon.
 1. Under **[!DNL Experience Platform]**, click **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**.
@@ -195,4 +192,4 @@ In Target, you can select a customer attribute from the Visitor Profile section 
 
 ![](assets/crs-add-attribute-target.png) 
 
-See [Creating a New Audience](https://docs.adobe.com/content/help/en/target/using/audiences/create-audiences/audiences.html) in Target help. 
+See [Creating a New Audience](https://docs.adobe.com/content/help/en/target/using/audiences/create-audiences/audiences.html) in [!DNL Target] help. 

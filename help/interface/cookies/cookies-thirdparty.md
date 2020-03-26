@@ -3,12 +3,12 @@ description: As the support for third-party cookies has become more and more lim
 keywords: cookies;privacy
 seo-description: As the support for third-party cookies has become more and more limited across browsers, Adobe has been working on new solutions that carefully balance customer requirements with the consumer's right to privacy across the Adobe Experience Cloud solutions.
 seo-title: How Changes to Third Party Cookie Support Impacts Customers
-solution: Marketing Cloud,Analytics,Target,Social
+solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: How Changes to Third Party Cookie Support Impacts Customers
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
 ---
 
-# How Changes to Third-Party Cookie Support Impact Customers{#how-changes-to-third-party-cookie-support-impacts-customers}
+# How changes to third-party cookie support impact customers{#how-changes-to-third-party-cookie-support-impacts-customers}
 
 As the support for third-party cookies has become more and more limited across browsers, Adobe has been working on new solutions that carefully balance customer requirements with the consumer's right to privacy across the Adobe Experience Cloud solutions.
 
@@ -31,18 +31,17 @@ The following list outlines how third-party cookie support impacts current imple
 
 * Search:
 
-    * Where search is optimized based on Adobe Analytics data, search would be impacted in the same way as Adobe Analytics. 
-    * Collection of conversion data should be unaffected.
+  * Where search is optimized based on Adobe Analytics data, search would be impacted in the same way as Adobe Analytics.
+  * Collection of conversion data should be unaffected.
 
 * Display:
 
-    * Display remarketing today is entirely dependent upon the usage of third-party cookies. 
-    * Display is also heavily dependent on the availabil­ity of various advertising network cookies for synchronization. 
-    * Overall impact is unknown. However, per the first point, display is affected more than other services. 
-    * We are working internally and with our advertising partners to evaluate the full extent to the impact on ad delivery.
+  * Display remarketing today is entirely dependent upon the usage of third-party cookies.
+  * Display is also heavily dependent on the availabil­ity of various advertising network cookies for synchronization.
+  * Overall impact is unknown. However, per the first point, display is affected more than other services.
+  * We are working internally and with our advertising partners to evaluate the full extent to the impact on ad delivery.
 
 * Social:
 
-    * There is no impact to Facebook market­place ads. 
-    * Facebook Exchange (FBX) will be affected the same as display ad delivery.
-
+  * There is no impact to Facebook market­place ads.
+  * Facebook Exchange (FBX) will be affected the same as display ad delivery.

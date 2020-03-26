@@ -82,14 +82,14 @@ After the migration, users sign in using their Adobe ID (or Enterprise ID) and a
 
 [Analytics User ID Migration](https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html) 
 
-## Target - product profiles vs workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
+## Adobe Target - product profiles vs workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
 
-In Target, a workspace is a product profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics. 
+In Adobe Target, a workspace is a product profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics. 
 
 See: 
 * [Enterprise User Permissions](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html)
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
-* Video: [How to Configure Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
+* Video: [How to Configure Adobe Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
 ## Campaign - product profiles, tenants, and security groups {#section_09CDF75366444CF5810CF321B7C712F3}
 
@@ -131,8 +131,8 @@ When you invite a user to an organization, you can give the user access to produ
 More help is available at: 
 
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
-* [Enterprise User Permissions](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html) in Target help for more information.
-* Video: [How to Configure Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
+* [Enterprise User Permissions](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html) in Adobe Target help for more information.
+* Video: [How to Configure Adobe Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
 ## Assign Analytics access permissions to a product profile {#task_040673FE3E3E429B9531FBCB8B6A4391}
 
@@ -148,7 +148,7 @@ For example, you can create a product profile that contains multiple Analytics t
 |--- |--- |
 |Report Suites|Enable permissions to specific report suites.|
 |Metrics|Enable permissions for traffic, conversion, custom events, solution events, content aware, and so on.|
-|Dimensions|Customize user access at a granular level, including eVars, traffic reports, solution reports, and pathing reports.|
+|Dimensions|Customize user access at a granular level, including eVars, traffic reports, solution reports, and path reports.|
 |Report Suite Tools|Enable user permissions for Web Services, Report Suite Management, Tools and Reports, and Dashboard Items.|
 |Analytics Tools|Enable user permissions for General items (billing, logs, etc.), Company Management, Tools, Web Service Access, Report Builder, and Data Connectors integration. Company settings from the Customize Admin Console category have been moved to Analytics Tools.|
 
@@ -173,7 +173,7 @@ By using these roles, you can simultaneously delegate management to others witho
 
 Supported browsers in the Experience Cloud.
 
-Experience Cloud supported browsers incluce:
+Experience Cloud supported browsers include:
 
 * [!DNL Microsoft Edge] (Microsoft has [ended support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, Adobe will not fix issues reported against these specific versions of Internet Explorer.)
 * [!DNL Google Chrome]
@@ -181,7 +181,7 @@ Experience Cloud supported browsers incluce:
 * [!DNL Safari]
 * [!DNL Opera]
 
-**Note:** Although the Experience Cloud interface supports these browsers, individual solutions might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].)
+**Note:** Although the Experience Cloud interface supports these browsers, individual solutions might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Adobe Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].)
 
 **Solution and product requirements** 
 

@@ -32,7 +32,7 @@ Adobe realizes that these types of marketing and advertising decisions may have 
 
 **Best practices** 
 
-When uploading PII to Adobe Analytics or Target, Adobe recommends that the customer hashes PII prior to uploading it to Adobe. Hashed information can still be used for analysis and for marketing purposes. As a reminder, Adobe prohibits advertisers from sending sensitive personal information to Adobe Analytics and Target, such as medical records, financial account information, and information about minors. 
+When uploading PII to Adobe Analytics or Adobe Target, Adobe recommends that the customer hashes PII prior to uploading it to Adobe. Hashed information can still be used for analysis and for marketing purposes. As a reminder, Adobe prohibits advertisers from sending sensitive personal information to Adobe Analytics and Adobe Target, such as medical records, financial account information, and information about minors. 
 
 Adobe recommends its advertisers carefully consider which information is appropriate to use for marketing purposes and in which circumstances the advertiser has permission to use such information. 
 

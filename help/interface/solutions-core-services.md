@@ -69,9 +69,9 @@ See also:
 Adobe Target integrates with Analytics and other Experience Cloud core services. Useful getting started topics: 
 
 * [Setting up Target](https://docs.adobe.com/content/help/en/target/using/administer/administrating-target.html)
-* [How Target works](https://docs.adobe.com/content/help/en/target/using/introduction/how-target-works.html)
+* [How Adobe Target works](https://docs.adobe.com/content/help/en/target/using/introduction/how-target-works.html)
 * [Administrator first steps](https://docs.adobe.com/content/help/en/target/using/administer/start-target.html)
-* [Use Analytics as the reporting source for Target](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html)
+* [Use Analytics as the reporting source for Adobe Target](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html)
 
 ![](assets/mc_social_32.png) [Adobe Social](https://docs.adobe.com/content/help/en/social/using/home.html) 
 
@@ -110,9 +110,9 @@ Adobe Primetime is a multi-screen TV platform that helps broadcasters create eng
 |[Activation](activation/activation.md)|Tag management systems (Experience Platform Launch and Dynamic Tag Management).<br>Triggers enable you to take real-time action in Adobe Campaign based on insights from Adobe Analytics.|
 |[Administration](admin-getting-started/admin-getting-started.md)|Manage user and product entitlements across all your Adobe clouds and solutions.|
 |[Assets](experience-cloud-assets/experience-cloud-assets.md)|Easily store, sync, and share all your digital assets in a central location, to save time and deliver a more consistent customer experience.|
-|[Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html)|Launch is the next-generation of tag management capabilities from Adobe. Launch gives customers a simple way to deploy and manage all of the analytics, marketing, and advertising tags necessary to power relevant customer experiences. |
+|[Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html)|[!UICONTROL Experience Platform Launch] is the next-generation of tag management capabilities from Adobe. [!UICONTROL Experience Platform Launch] gives customers a simple way to deploy and manage all of the analytics, marketing, and advertising tags necessary to power relevant customer experiences. |
 |[Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)| Build real-time orchestration use cases leveraging contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|
-|[Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)|Adobe Experience Platform Location Service (Location Service) is a geo-location service that enables mobile apps with location awareness to understand the location context by using rich and easy-to-use SDK interfaces accompanied by a flexible database of points of interests (POIs).  |
+|[Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)|Adobe [!UICONTROL Experience Platform Location Service] (Location Service) is a geo-location service that enables mobile apps with location awareness to understand the location context by using rich and easy-to-use SDK interfaces accompanied by a flexible database of points of interests (POIs).  |
 |Offers|Offer Management provides offer creation, management, and decisioning across all channels in the Experience Cloud. |
 |[Exchange](exchange.md)|Search, browse, select, pay, and download Digital Marketing extensions via apps.|
 |[Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)|Adobe Mobile Services brings together mobile marketing capabilities for mobile applications from across the Experience Cloud, which allows you to understand and improve user engagement with your mobile applications.|

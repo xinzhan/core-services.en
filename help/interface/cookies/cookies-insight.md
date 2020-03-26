@@ -3,7 +3,7 @@ description: Data workbench uses cookies to analyze large volumes of rapidly evo
 keywords: cookies;privacy
 seo-description: Data workbench uses cookies to analyze large volumes of rapidly evolving data in real-time.
 seo-title: Data Workbench Cookies
-solution: Marketing Cloud,Analytics,Target,Social
+solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Data Workbench Cookies
 uuid: c15013f4-c47d-4950-aa19-be9afd25cd5f
 ---

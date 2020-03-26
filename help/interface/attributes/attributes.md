@@ -55,4 +55,4 @@ For example:
 | Solution | Advantages and Use Cases |
 |--- |--- |
 |Adobe Analytics|Marketers and analysts can understand:<ul><li>The online campaigns that are most effective with your gold-level customers.</li><li>The products that gold-level customers search for versus products that platinum-level customers search for.</li><li>Whether your site redesign is having a positive impact on conversion rates for older customers.</li><li>Which products do customers with a low lifetime value tend to research on my site.</li></ul>|
-|Adobe Target|Attribute data enables Target users to:<ul><li>Show loyalty club members special discounts and offers.</li><li>Recommend more expensive products to your luxury customers.</li><li>For customers who already receive emails, show an upsell offer in the space normally reserved for email signups</li></ul>|
+|Adobe Target|Attribute data enables Adobe Target users to:<ul><li>Show loyalty club members special discounts and offers.</li><li>Recommend more expensive products to your luxury customers.</li><li>For customers who already receive emails, show an upsell offer in the space normally reserved for email signups</li></ul>|

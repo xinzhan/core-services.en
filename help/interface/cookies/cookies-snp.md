@@ -3,7 +3,7 @@ description: Search&Promote uses cookies to understand and anticipate visitor se
 keywords: cookies;privacy
 seo-description: Search&Promote uses cookies to understand and anticipate visitor search intent.
 seo-title: Search and Promote Cookies
-solution: Marketing Cloud,Analytics,Target,Social
+solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Search and Promote Cookies
 uuid: 65bf24e0-0564-4dc2-b652-9fd9db57d23f
 ---

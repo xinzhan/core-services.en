@@ -8,15 +8,15 @@ title: Target Cookies
 uuid: 44f7e32e-8d99-4682-8b54-8364d001b403
 ---
 
-# Target Cookies{#target-cookies}
+# Adobe Target Cookies{#target-cookies}
 
-Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
+Adobe Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
 
 You can change these settings if needed, with the exception of the cookie duration. Consult your account representative when changing cookie settings.
 
 >[!NOTE]
 >
->Target users can also create customized third-party cookies.
+>Adobe Target users can also create customized third-party cookies.
 
 <table id="table_54B402C6E19C4A70B1E27BC9DFF776EB"> 
  <thead> 
@@ -36,7 +36,7 @@ You can change these settings if needed, with the exception of the cookie durati
   </tr> 
   <tr> 
    <td colname="col1"> <p>Server domain </p> </td> 
-   <td colname="col2"> <p> <span class="filepath"> clientcode.tt.omtrdc.net</span>, using the client code for your Target account. </p> </td> 
+   <td colname="col2"> <p> <span class="filepath"> clientcode.tt.omtrdc.net</span>, using the client code for your Adobe Target account. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Cookie duration </p> </td> 
@@ -49,7 +49,7 @@ You can change these settings if needed, with the exception of the cookie durati
 >
 >If any of your domain names include a country code, such as [!DNL mycompany.co.uk], work with your Client Services to configure your [!DNL mbox.js] to support this.
 
-The cookie keeps a number of values to manage how your visitors experience Target campaigns:
+The cookie keeps a number of values to manage how your visitors experience Adobe Target campaigns:
 
 <table id="table_5245F72A2D5A4322B40ABB10B7DFB338"> 
  <thead> 

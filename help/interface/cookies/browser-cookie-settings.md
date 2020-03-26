@@ -3,7 +3,7 @@ description: Remove users who blocked all cookies on desktop and mobile browsers
 keywords: cookies;privacy
 seo-description: Remove users who blocked all cookies on desktop and mobile browsers. This privacy setting excludes users who opt out of Analytics data collection.
 seo-title: Enable privacy settings for browser cookies
-solution: Marketing Cloud,Analytics,Target,Social
+solution: Marketing Cloud,Adobe Analytics,Adobe Target,Adobe Social
 title: Enable privacy settings for browser cookies
 uuid: f6a56e8b-b021-49db-8eb4-6c14af0c7243
 ---

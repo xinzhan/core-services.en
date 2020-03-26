@@ -20,7 +20,7 @@ If your implementation has not been provisioned for core services, see [Enable y
 1. [Implement the Experience Cloud ID Service using Dynamic Tag Manager](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354) (or the new [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html))
 1. [Map Report Suites to an Experience Cloud Organization](../core-services/core-services.md#concept_apg_zq2_rw)
 1. [(Analytics only) Modernize Your Analytics AppMeasurement Code](../core-services/core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
-1. [(Target only) Modernize Your Adobe Target Implementation](../core-services/core-services.md#section_C2F4493C7A36406DAE2266B429A4BD24)
+1. [(Adobe Target only) Modernize Your Adobe Target Implementation](../core-services/core-services.md#section_C2F4493C7A36406DAE2266B429A4BD24)
 1. [Verify the Core Services Implementation](../core-services/core-services.md#section_E641782A0F4F44AF8C9C91216BE330D5)
 1. [Manage users and products](../core-services/core-services.md#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
 1. [Start using core services](../core-services/core-services.md#section_960C06093623462E8EA247B3E97274A1)

@@ -84,4 +84,4 @@ This section displays a complete list of all product profiles membership for the
 |[!UICONTROL Instance] | Name of the instance (such as login company or tenant) associated with the product and product profile.|
 |[!UICONTROL Product Profile] | Unique name of the product profile.|
 |[!UICONTROL Assigned by Group] | Name of the User Group that associates the user to a product profile. Blank results indicate the user was assigned to the product profile directly, not through a group.|
-|[!UICONTROL Product Roles] | Role assignment of the user within the product profile. Currently, this information applies only to Target product profiles.|
+|[!UICONTROL Product Roles] | Role assignment of the user within the product profile. Currently, this information applies only to Adobe Target product profiles.|
