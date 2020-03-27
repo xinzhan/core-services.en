@@ -5,7 +5,7 @@ seo-description: Learn about signing in to the Admin Console, managing Experienc
 seo-title: Manage Experience Cloud users and products
 solution: Experience Cloud
 title: Manage Experience Cloud users and products
-uuid: aea4e4c3-f543-4e8d-b553-d838418477d6
+index: yes
 ---
 
 # Manage Experience Cloud users and products {#topic_3FCB4099640647E3B2411ADBFCE81909}
@@ -22,11 +22,11 @@ Learn about the latest features in Experience Cloud user management.
 
 <!-- ### Business ID type
 
-Adobe is now introducing a new identity type: **Business ID**. This identity type, improves the control of user and product management, and content, while increasing the flexibility of Experience Cloud and Creative Cloud storage usage among your team. With the introduction of this new identity type, Adobe is migrating all Adobe IDs (owned by the individual) used for business to the new Business IDs (owned by the organization).
+Adobe is introducing an identity type called _Business ID_. This identity type improves the control of user and product management while increasing the flexibility of Creative Cloud storage usage among your team (if applicable). Adobe is migrating all Adobe IDs (owned by individuals) that are used for business to the new enterprise Business IDs (owned by your organization).
 
-If you're an existing Creative Cloud for enterprise or teams customer, Adobe will migrate all your users on the Admin Console with Adobe IDs to Business IDs. If you're a new enterprise or teams customer, you will add users to the Admin Console using one of the available identity types: Business ID, Enterprise ID, or Federated ID. 
+If you're an existing Experience Cloud customer, Adobe will migrate all your users on the Admin Console with Adobe IDs to Business IDs. If you're a new enterprise or teams customer, you will add users to the Admin Console using one of the available identity types: Business ID, Enterprise ID, or Federated ID. 
 
-Beginning May 89, 2020, enterprise admins cannot use the Adobe ID for new organizations created in the Admin Console. Latest: https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=engage&title=Type2e+DX+GTM
+Beginning May 2020, enterprise admins cannot use the Adobe ID for new organizations created in the Admin Console. Latest: https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=engage&title=Type2e+DX+GTM
 
 What to do
 
@@ -41,7 +41,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
 Administrators no longer manage users in solutions. User and product management for Experience Cloud now occurs in the Admin Console. 
 
-**To sign in to the Admin Console** 
+To sign in to the Admin Console: 
 
 1. Navigate to [https://adminconsole.adobe.com/enterprise/](https://adminconsole.adobe.com/enterprise/#).
 1. Type your [Adobe ID or Enterprise ID](https://helpx.adobe.com/enterprise/help/identity.html) and password.
@@ -93,27 +93,27 @@ See:
 
 ## Campaign - product profiles, tenants, and security groups {#section_09CDF75366444CF5810CF321B7C712F3}
 
-A *tenant* in Campaign displays as a *product* in the Admin Console Products page. 
+A *tenant* in Campaign displays as a *product* in the Admin Console Products page.
 
-*Security group* displays as a product profile. 
+*Security group* displays as a product profile.
 
-See [Managing groups and users](https://helpx.adobe.com/campaign/standard/administration/using/managing-groups-and-users.html) for information about security groups and assigning users to security groups. 
+See [Managing groups and users](https://helpx.adobe.com/campaign/standard/administration/using/managing-groups-and-users.html) for information about security groups and assigning users to security groups.
 
 ## Experience Platform Launch {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-Experience Platform Launch displays on the Products page in the Admin Console. You can include other solutions and services in a Launch product profile. 
+Experience Platform Launch displays on the Products page in the Admin Console. You can include other solutions and services in a Launch product profile.
 
-See [User Management](https://docs.adobelaunch.com/launch-reference/administration/user-permissions) for information about user permissions in the Admin Console and set up Launch-specific options, including assigning rights to profiles. 
+See [User Management](https://docs.adobelaunch.com/launch-reference/administration/user-permissions) for information about user permissions in the Admin Console and set up Launch-specific options, including assigning rights to profiles.
 
 ## Dynamic Tag Manager {#section_3A41CF2BD5994B9891537D063571D4ED}
 
-Invite users to Dynamic Tag Management and assign user roles and add users to groups. 
+Invite users to Dynamic Tag Management and assign user roles and add users to groups.
 
-See [Users and Permissions](https://docs.adobe.com/content/help/en/dtm/using/admin/users.html) for information about how to invite users to Dynamic Tag Management and assign user roles and add users to groups. 
+See [Users and Permissions](https://docs.adobe.com/content/help/en/dtm/using/admin/users.html) for information about how to invite users to Dynamic Tag Management and assign user roles and add users to groups.
 
 ## Audience Manager {#section_C31E3FA8A1E14463B1B3E07235F1983C}
 
-Create Audience Manager users and assign them to groups. You can also view limits (traits, segments, destinations, and AlgoModel). 
+Create Audience Manager users and assign them to groups. You can also view limits (traits, segments, destinations, and [!DNL AlgoModel]).
 
 See [Administration](https://docs.adobe.com/content/help/en/dtm/using/admin/users.html) in Audience Manager help. 
 
@@ -121,14 +121,14 @@ See [Administration](https://docs.adobe.com/content/help/en/dtm/using/admin/user
 
 Create a product profile and assign it to a permission group.
 
-When you invite a user to an organization, you can give the user access to products and product profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a product profile to enable access. 
+When you invite a user to an organization, you can give the user access to products and product profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a product profile to enable access.
 
 1. In the [Admin Console](https://adminconsole.adobe.com/enterprise/), click **[!UICONTROL Products]**.
 1. Click **[!UICONTROL New Profile]**.
 1. Configure the profile details, then click **[!UICONTROL Next]**.
 1. Click **[!UICONTROL Done]**.
 
-More help is available at: 
+More help is available at:
 
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
 * [Enterprise User Permissions](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html) in Adobe Target help for more information.
@@ -173,8 +173,6 @@ By using these roles, you can simultaneously delegate management to others witho
 
 Supported browsers in the Experience Cloud.
 
-Experience Cloud supported browsers include:
-
 * [!DNL Microsoft Edge] (Microsoft has [ended support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, Adobe will not fix issues reported against these specific versions of Internet Explorer.)
 * [!DNL Google Chrome]
 * [!DNL Firefox]
@@ -183,7 +181,7 @@ Experience Cloud supported browsers include:
 
 **Note:** Although the Experience Cloud interface supports these browsers, individual solutions might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Adobe Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].)
 
-**Solution and product requirements** 
+### Solution and product requirements
 
 * [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html)
 * [Report Builder](https://docs.adobe.com/content/help/en/analytics/analyze/report-builder/report-builder-setup/system-requirements.html)

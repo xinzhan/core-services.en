@@ -101,19 +101,6 @@ Adobe Primetime is a multi-screen TV platform that helps broadcasters create eng
 
 ## What are core services? {#concept_38AC4888C3F84694AE4F60311C21B9C2}
 
-[Core services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) include features that simplify product implementation and enable cross-solution workflows, such as audience segmentation, customer attribute uploading, and collaboration tools. 
+[Core services](https://docs.adobe.com/content/help/en/core-services/interface/about-core-services/core-services-landing.html) include features that simplify product implementation and enable cross-solution workflows, such as audience segmentation, customer attribute uploading, and collaboration tools. 
 
 ![](assets/core-services.png) 
-
-| Core Service | Description |
-|--- |--- |
-|[Activation](activation/activation.md)|Tag management systems (Experience Platform Launch and Dynamic Tag Management).<br>Triggers enable you to take real-time action in Adobe Campaign based on insights from Adobe Analytics.|
-|[Administration](admin-getting-started/admin-getting-started.md)|Manage user and product entitlements across all your Adobe clouds and solutions.|
-|[Assets](experience-cloud-assets/experience-cloud-assets.md)|Easily store, sync, and share all your digital assets in a central location, to save time and deliver a more consistent customer experience.|
-|[Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html)|[!UICONTROL Experience Platform Launch] is the next-generation of tag management capabilities from Adobe. [!UICONTROL Experience Platform Launch] gives customers a simple way to deploy and manage all of the analytics, marketing, and advertising tags necessary to power relevant customer experiences. |
-|[Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)| Build real-time orchestration use cases leveraging contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|
-|[Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)|Adobe [!UICONTROL Experience Platform Location Service] (Location Service) is a geo-location service that enables mobile apps with location awareness to understand the location context by using rich and easy-to-use SDK interfaces accompanied by a flexible database of points of interests (POIs).  |
-|Offers|Offer Management provides offer creation, management, and decisioning across all channels in the Experience Cloud. |
-|[Exchange](exchange.md)|Search, browse, select, pay, and download Digital Marketing extensions via apps.|
-|[Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)|Adobe Mobile Services brings together mobile marketing capabilities for mobile applications from across the Experience Cloud, which allows you to understand and improve user engagement with your mobile applications.|
-|People|Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into audiences for targeted marketing efforts.<br>[Audiences](audience-library/audience-library.md) - Categorize different types of customers into audiences, then share those audiences across Marketing Cloud solutions.<br>[Customer attributes](attributes/attributes.md) - audience enrichment that lets you connect consumer information you have collected outside of the Marketing Cloud.<br>[Device graph](https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) - Collaborate with the world's most popular brands to recognize a familiar consumer behind an unfamiliar device. (In beta, for Marketing Cloud Device Co-op members only.)|

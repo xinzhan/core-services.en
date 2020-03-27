@@ -5,7 +5,6 @@ seo-description: Share folders and assets between the Experience Cloud and the C
 seo-title: Share Experience Cloud folders and assets with Creative Cloud
 solution: Experience Cloud
 title: Share Experience Cloud folders and assets with Creative Cloud
-uuid: 2bb002a6-e08e-402b-8df0-ecb21ab74490
 ---
 
 # Share Experience Cloud folders and assets with Creative Cloud

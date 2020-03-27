@@ -1,39 +1,33 @@
 ---
 description: Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
-keywords: core services
+keywords: core services, sign in to Experience Cloud
 seo-description: Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
 seo-title: Sign in and manage your profile settings
-solution: Marketing Cloud
-title: Sign in and manage your profile settings
+solution: Experience Cloud
+title: Sign in and manage your Experience Cloud profile settings
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 ---
 
-# Sign in and manage your profile settings
+# Sign in and manage your Experience Cloud profile settings
 
-Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and services that you own. Learn how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
-
-<!-- t_sign_in.xml -->
-
-<!-- notifications.xml -->
-
-<!-- t_get_access.xml -->
+Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and services that you own. This help describes how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
 
 >[!IMPORTANT]
 >
->Administrators, see [Administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about updates to user and product management. 
+>Administrators, see [Administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about updates to user and product management.
 
 ## Sign in to the Experience Cloud (administrators) {#task_034FC955031347F3B02B686A09801A08}
 
-Sign in and verify that you are in the right [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). 
+Sign in and verify that you are in the right [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1).
 
 1. Click the Experience Cloud pull-down menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
 
-   ![](assets/admin-link.png) 
+   ![](assets/admin-link.png)
 
-   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) (Adobe Corp, in this example). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company. 
+   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) (Adobe Corp, in this example). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company.
 1. Click **[!UICONTROL Administration]**.
 
-   ![](assets/admin-landing.png) 
+   ![](assets/admin-landing.png)
 1. Continue by clicking one of the following links:
 
 | Element | Description |

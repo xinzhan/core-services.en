@@ -58,7 +58,7 @@ A product profile is a set of permissions that can be combined to create a user 
 
 1. Click your proct (**[!UICONTROL Offers]**, for example).
 
-1. On the [!UICONTROL Product Pofiles] page, click **[!UICONTROL New Profile]**.
+1. On the [!UICONTROL Product Profiles] page, click **[!UICONTROL New Profile]**.
 
 1. Type a name and description for the product profile, then click **[!UICONTROL Done]**.
 

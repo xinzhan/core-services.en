@@ -14,9 +14,6 @@ The Exchange Marketplace is a single destination where you can search, browse, s
 
 **[!UICONTROL Experience Cloud]** > **[!UICONTROL Help]** > **[!UICONTROL Exchange]** 
 
-<!-- <p>https://wiki.corp.adobe.com/display/marketingcloud/Marketing+Cloud+Exchange </p> 
-<p>https://wiki.corp.adobe.com/display/marketingcloud/Marketplace+Implementation#MarketplaceImplementation-Anonymousvsauthenticatedexperience </p> -->
-
 * Download SDKs, read documentation, and submit applications to Digital Marketing for review. 
 
 * Customers can search, select, and install Digital Marketing extensions. 

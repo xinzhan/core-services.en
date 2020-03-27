@@ -72,7 +72,7 @@ This section displays a summary of the user account including:
 
 ## Solutions Summary
 
-This section displays a summary of Experience Cloud solutions that the user can access. Includes the product admintrative role when applicable
+This section displays a summary of Experience Cloud solutions that the user can access. Includes the product administrative role when applicable.
 
 ## Detailed Product Access List
 

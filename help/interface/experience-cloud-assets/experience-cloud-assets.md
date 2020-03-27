@@ -9,9 +9,8 @@ uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 
 # Assets
 
-Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a Photoshop file, slides in a PowerPoint file, pages in a PDF, files in a ZIP).
+Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
 
-<!-- asset.xml -->
 Asset services include: 
 
 * Asset storage, management interface, embedded selection interface (accessed through solutions).

@@ -46,6 +46,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] interface.
 | Feature | Description |
 |--- |--- |
 |New administration landing page|When you sign in to the Experience Cloud and navigate to the Administration page, a new intuitive interface is available to help you quickly access your Experience Cloud solutions and Core Services.|
+
 **Fixes** 
 
 * Fixed an issue where the image upload failed due to a Scene7 update. (CORE-12746)

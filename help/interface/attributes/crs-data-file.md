@@ -16,10 +16,7 @@ You will need access to CRM or similar data from your enterprise. The data you u
 
 Customer Attributes is designed to handle a few files per day. To mitigate the issue of having a large number of small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
 
-<!-- <p>Articulate difference between this and SAINT. </p> -->
-
 ## Allowed file types and naming requirements {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
-
 
 <table id="table_C27955F6B52A45B28BEEAAF14FFC86D8"> 
  <thead> 
@@ -44,22 +41,17 @@ Customer Attributes is designed to handle a few files per day. To mitigate the i
  </tbody> 
 </table>
 
-
 ## Requirements for the attribute data files {#section_169FBF5B7BBA47CE825B7A330CF3FE98}
-
-
 
 **Example CSV** 
 
-The CSV file must adhere to the following format: 
+The CSV file must adhere to the following format:
 
-Sample CSV: 
+![](assets/cvs.png)
 
-![](assets/cvs.png) 
+The same file viewed in a text editor:
 
-The same file viewed in a text editor: 
-
-![](assets/csv_txt.png) 
+![](assets/csv_txt.png)
 
 **Guidelines** 
 
@@ -138,16 +130,15 @@ The same file viewed in a text editor:
  </tbody> 
 </table>
 
-
 ## Leveraging multiple data sources {#section_76DEB6001C614F4DB8BCC3E5D05088CB}
 
-When creating, modifying, or deleting customer attribute sources, there is a delay around one hour before IDs begin synchronizing with the new data source. 
+When creating, modifying, or deleting customer attribute sources, there is a delay around one hour before IDs begin synchronizing with the new data source.
 
-The Alias ID for each customer attribute source must be unique. If you have multiple data sources that leverage the same ID, they should be set up as follows: 
+The Alias ID for each customer attribute source must be unique. If you have multiple data sources that leverage the same ID, they should be set up as follows:
 
-**In VisitorAPI.js or the Experience Cloud ID tool in dynamic tag management:** 
+**In VisitorAPI.js or the Experience Cloud ID tool in dynamic tag management:**
 
-Set two customer IDs that will correspond to the appropriate data sources: 
+Set two customer IDs that will correspond to the appropriate data sources:
 
 ```
 Visitor.setCustomerIDs({ 
@@ -156,8 +147,8 @@ Visitor.setCustomerIDs({
 });
 ```
 
-(See [Customer IDs and Authentication States](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) for more information.) 
+(See [Customer IDs and Authentication States](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) for more information.)
 
-In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**: 
+In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**:
 
-Create two customer attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources 
+Create two customer attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.

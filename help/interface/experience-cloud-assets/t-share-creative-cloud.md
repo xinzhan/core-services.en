@@ -44,6 +44,7 @@ Share an Experience Cloud asset folder with Creative Cloud users.
    ![](assets/asset_remove_user.png) 
 
    Once you have removed all Creative Cloud Users, the folder is un-shared and the Creative Cloud users no longer has access. 
+
 Additional ways to use a shared asset include: 
 
 * Use assets in the [!UICONTROL Asset Selector] in [!DNL Adobe Social] for social posts.

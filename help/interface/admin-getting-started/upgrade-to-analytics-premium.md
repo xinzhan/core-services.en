@@ -15,9 +15,9 @@ Administrators can learn about the requirements and what to expect when upgradin
 
 ## Analytics Premium {#section_7F50AD7906544F899B844BE31D3BB507}
 
-Upgrading to Adobe Analytics Premium gives you all the capabilities or products available Analytics Standard, including Data Warehouse, Ad Hoc Analysis, Report Builder, and Data Connectors. (These products were sold separately to customers using the point solution, SiteCatalyst.) 
+Upgrading to Adobe Analytics Premium gives you all the capabilities or products available Analytics Standard, including Data Warehouse, Ad Hoc Analysis, Report Builder, and Data Connectors. (These products were sold separately to customers using the point solution, SiteCatalyst.)
 
-Analytics Premium gives you: 
+Analytics Premium gives you:
 
 * Access to 250 conversion variables (eVars)
 * [Mobile App Analytics](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
@@ -25,14 +25,14 @@ Analytics Premium gives you:
 
 >[!NOTE]
 >
->No migration is necessary when upgrading, but there are a few considerations to be aware of: 
+>No migration is necessary when upgrading, but there are a few considerations to be aware of:
 >
 >* eVars 76-250 (SiteCatalyst) and 100-250 (Standard) will be visible in Admin Tools, but will not be enabled already.>
 >* Contribution Analysis is turned on by Adobe. It will not change location (it is still available on the Anomaly Detection page), but it will now automatically start analyzing all data points.>
 
 ## Analytics Premium Complete {#section_BFAD815EDF364845A52B340B2FD5B64C}
 
-In Analytics Premium Complete, you get all the capabilities of [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus the following upgrades: 
+In Analytics Premium Complete, you get all the capabilities of [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus the following upgrades:
 
 | Product | Upgrades |
 |--- |--- |
@@ -52,7 +52,7 @@ Upgrading to Predictive Intelligence enables [Analytics Premium](../admin-gettin
 
 ## Customer 360 {#section_3B2AC245388248688067DC9A48957AFB}
 
-Upgrading to Customer 360 offers [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus: 
+Upgrading to Customer 360 offers [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus:
 
 | Product | Upgrades |
 |--- |--- |
@@ -62,27 +62,27 @@ Upgrading to Customer 360 offers [Analytics Premium](../admin-getting-started/up
 
 ## Advanced Attribution {#section_9E4986A8389946CCAA7D003268343296}
 
-Advanced Attribution offers access to [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus Algorithmic Attribution in Data Workbench (25% server call volume). 
+Advanced Attribution offers access to [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus Algorithmic Attribution in Data Workbench (25% server call volume).
 
 ## Data Workbench Requirements {#section_D959CA68D6DB42C38707F8E0CA3654CC}
 
-The supported user(s) can request that all client licenses be updated to reflect the Premium by emailing `dwb@adobe.com`. This enables features like Algorithmic Attribution. 
+The supported user(s) can request that all client licenses be updated to reflect the Premium by emailing `dwb@adobe.com`. This enables features like Algorithmic Attribution.
 
-TechOps will review your contract commitment and determine the proper managed infrastructure, increasing or reducing capacity, and then they will coordinate with you, through the Account Manager or consulting, to deploy any changes. 
+TechOps will review your contract commitment and determine the proper managed infrastructure, increasing or reducing capacity, and then they will coordinate with you, through the Account Manager or consulting, to deploy any changes.
 
-Any software that is running on-premise must be deactivated. This includes Sensors, which means you will need to ensure proper tracking through Analytics tags. 
+Any software that is running on-premise must be deactivated. This includes Sensors, which means you will need to ensure proper tracking through Analytics tags.
 
 ## Experience Cloud - Administrate Users and Products {#section_6471C54454024301B2E0B687F79F6738}
 
-Experience Cloud and core services are available to Analytics Standard and Premium users, provided that you have followed the implementation modernization described in [Getting started - enable your solutions for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.) 
+Experience Cloud and core services are available to Analytics Standard and Premium users, provided that you have followed the implementation modernization described in [Getting started - enable your solutions for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.)
 
-After you join the Experience Cloud, you can log in via the Experience Cloud at [!DNL experiencecloud.adobe.com] and begin using core services (including customer attributes, audiences, and Mobile app analytics). 
+After you join the Experience Cloud, you can log in via the Experience Cloud at [!DNL experiencecloud.adobe.com] and begin using core services (including customer attributes, audiences, and Mobile app analytics).
 
 ### Administrate Users and Groups
 
-User management is performed in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/help/aedash.html) (product link). 
+User management is performed in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/help/aedash.html) (product link).
 
-You can set up a 1:1 map between a group created in the Adobe Admin Console and a solution group (such as Adobe Analytics). Thereafter, a new user added to the mapped Admin Console group will have an Analytics solution account automatically created and linked to the user's Adobe ID. (Existing users must manually link their solution account credentials to access solutions via the Experience Cloud login.) 
+You can set up a 1:1 map between a group created in the Adobe Admin Console and a solution group (such as Adobe Analytics). Thereafter, a new user added to the mapped Admin Console group will have an Analytics solution account automatically created and linked to the user's Adobe ID. (Existing users must manually link their solution account credentials to access solutions via the Experience Cloud login.)
 
 >[!NOTE]
 >

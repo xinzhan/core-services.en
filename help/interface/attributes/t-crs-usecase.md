@@ -78,7 +78,6 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
    ![Step Result](assets/04_crs_usecase.png) 
 1. On the [!UICONTROL Edit Customer Attribute Source] page, configure the following fields:
 
-    
     * **[!UICONTROL Name:]** A friendly name for the data attribute source. For [!DNL Adobe Target], attribute names cannot include spaces. If an attribute with a space is passed, [!DNL Target] ignores it. Other characters not supported include: `< , >, ', "`. 
     
     * **[!UICONTROL Description:]** (Optional) A description of the data attribute source. 
@@ -93,18 +92,15 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
         
           For example, *"crm_id"* in: 
         
-        
           ```
           "crm_id":"67312378756723456"
           ```
-
-        
+       
         * **iOS:** The Alias ID corresponds to *"idType"* in [visitorSyncIdentifiers:identifiers](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html). 
         
           For example: 
                
           `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];` 
- 
         
         * **Android:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html). 
         
@@ -114,12 +110,8 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
         
           See [Leveraging multiple data sources](../attributes/crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) for additional information about data processing regarding the Alias ID field and Customer IDs. 
         
-        
-        
-    
     * **[!UICONTROL File Upload:]** You can drag-and-drop the `.csv` data file, or upload the data via FTP. (Using FTP also requires a `.fin` file.) See [Upload the Data via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B). 
     
-
       >[!IMPORTANT]
       >
       >Specific data file requirements exist. See [Data File Requirements](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for more information. 
@@ -127,22 +119,16 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
       After uploading the file, table data is displayed under the [!UICONTROL File Upload] heading on this page. You can validate the schema, configure subscriptions, or set up the FTP. 
     
+      **File upload graphic** 
     
-    
-       **File upload graphic** 
-    
-       ![](assets/file_upload_attributes.png) 
+      ![](assets/file_upload_attributes.png) 
     
     * **[!UICONTROL Unique Customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     
     * **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
     
-    * **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. At that time, the system invalidates the customer-provided ID and no longer distributes associated attributes. 
+    * **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. At that time, the system invalidates the customer-provided ID and no longer distributes associated attributes.
     
-    
-    
-    
-
 ## Validate the schema {#task_404AAC411B0D4E129AB3AC8B7BE85859}
 
 The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). You can also delete attributes by updating the schema.
@@ -154,7 +140,6 @@ To delete attributes, see [(Optional) Update the schema (deletes attributes)](..
 ## (Optional) Update the schema (delete attributes) {#task_6568898BB7C44A42ABFB86532B89063C}
 
 How to delete attributes and replace attributes in the schema.
-
 
 1. On the [!UICONTROL Edit Customer Attribute Source] page, remove the **[!UICONTROL Target]** or **[!UICONTROL Analytics]** subscription (under [!UICONTROL Configure Subscriptions]).
 1. [Upload a new data file with updated fields](../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8).
@@ -178,7 +163,7 @@ With the data now available in solutions like
   Adobe Analytics 
 </keyword>, you can report on the data, analyze it, and take the appropriate action in your marketing campaigns.
 
-The following example shows an [!DNL Analytics] segment based on the uploaded attributes. This segment shows Photoshop Lightroom subscribers whose most-launched product is Photoshop. 
+The following example shows an [!DNL Analytics] segment based on the uploaded attributes. This segment shows [!DNL Photoshop Lightroom] subscribers whose most-launched product is Photoshop. 
 
 ![](assets/08_crs_usecase.png) 
 
@@ -188,8 +173,8 @@ See [Customer Attributes Report](https://docs.adobe.com/help/en/analytics/compon
 
 ## Use customer attributes in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
-In Target, you can select a customer attribute from the Visitor Profile section when creating an audience. All customer attributes will have the prefix [!DNL crs.] in the list. Combine these attributes as required with other data attributes to build audiences. 
+In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visitor Profile] section when creating an audience. All customer attributes will have the prefix [!DNL crs.] in the list. Combine these attributes as required with other data attributes to build audiences. 
 
 ![](assets/crs-add-attribute-target.png) 
 
-See [Creating a New Audience](https://docs.adobe.com/content/help/en/target/using/audiences/create-audiences/audiences.html) in [!DNL Target] help. 
+See [Creating a New Audience](https://docs.adobe.com/content/help/en/target/using/audiences/create-audiences/audiences.html) in [!DNL Target] help.
