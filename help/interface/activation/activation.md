@@ -40,39 +40,39 @@ To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a r
   </tr> 
   <tr> 
    <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html" format="https" scope="external"> Dynamic Tag Management Product Documentation </a> </p> </td> 
-   <td colname="col2"> <p>Learn more about deploying Experience Cloud solutions with Dynamic Tag Management. </p> </td> 
+   <td colname="col2"> <p>Learn more about deploying Experience Cloud solutions with Dynamic Tag Management. </p> </td>
   </tr> 
  </tbody> 
 </table>
 
-If you want help implementing dynamic tag management we encourage you to contact your Account Manager for information on Adobe Global Services offerings, or implementation partner offerings. Please also feel free to contact us at [@AdobeExpCare](https://twitter.com/AdobeExpCare) with hashtag #DTM. 
+If you want help implementing dynamic tag management we encourage you to contact your Account Manager for information on Adobe Global Services offerings, or implementation partner offerings. Please also feel free to contact us at [@AdobeExpCare](https://twitter.com/AdobeExpCare) with hashtag #DTM.
 
 ## Experience Cloud Triggers {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
-*Triggers* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization. 
+*Triggers* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization.
 
 <table id="table_AF6842470172429EA97C9B02163BD0C3"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Task </th> 
-   <th colname="col2" class="entry"> Description </th> 
+   <th colname="col1" class="entry"> Task </th>
+   <th colname="col2" class="entry"> Description </th>
   </tr> 
  </thead>
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <a href="../activation/triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB" format="dita" scope="local"> Create Experience Cloud Triggers </a> </p> </td> 
-   <td colname="col2"> <p> Step-by-step instructions to create Experience Cloud Triggers using Adobe Analytics data. </p> <p>Experience Cloud Triggers are available for use in Adobe Campaign. </p> </td> 
-  </tr> 
+   <td colname="col2"> <p> Step-by-step instructions to create Experience Cloud Triggers using Adobe Analytics data. </p> <p>Experience Cloud Triggers are available for use in Adobe Campaign. </p> </td>
+  </tr>
   <tr> 
    <td colname="col1"> <p>Using Triggers in Adobe Campaign </p> </td> 
-   <td colname="col2"> <p> Adobe Campaign Standard 16.7 introduces an integration with the new Trigger service. This service enables business users to easily define triggers based on online behavioral data captured in Adobe Analytics. Once the trigger is defined, it will be available in Adobe Campaign to support remarketing messages that drive engagement and conversions. This new out-of-the-box feature will allow marketers to trigger remarketing messages at the right time, based on online events like cart abandonment, pages views, videos watched, and so on. </p> </td> 
-  </tr> 
- </tbody> 
+   <td colname="col2"> <p> Adobe Campaign Standard 16.7 introduces an integration with the new Trigger service. This service enables business users to easily define triggers based on online behavioral data captured in Adobe Analytics. Once the trigger is defined, it will be available in Adobe Campaign to support remarketing messages that drive engagement and conversions. This new out-of-the-box feature will allow marketers to trigger remarketing messages at the right time, based on online events like cart abandonment, pages views, videos watched, and so on. </p> </td>
+  </tr>
+ </tbody>
 </table>
 
 
 ## Experience Cloud Debugger {#section_682FCF8A22ED47D0ACF94204AB94B444}
 
-The Adobe Experience Cloud Debugger extension for Chrome examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented. 
+The Adobe Experience Cloud Debugger extension for Chrome examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
 
-See [Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html) for help. 
+See [Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html) for help.
