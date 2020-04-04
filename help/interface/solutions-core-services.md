@@ -17,7 +17,7 @@ Learn about latest branding updates for the clouds, how to navigate the interfac
 
 The latest cloud names and the solutions in each cloud:
 
-![](assets/experience_cloud_appicon_32.png) [Experience Cloud](https://www.adobe.com/experience-cloud.html?promoid=FZPQZ2HS&mv=other)
+[Experience Cloud](https://www.adobe.com/experience-cloud.html?promoid=FZPQZ2HS&mv=other)
 
 Replaces *Marketing Cloud* as the parent cloud name for all Adobe's digital experience solutions and services.
 
@@ -25,7 +25,7 @@ Replaces *Marketing Cloud* as the parent cloud name for all Adobe's digital expe
 >
 >You might continue to see references to *Marketing Cloud* in its previous, broader context until all the solution interfaces are re-branded to *Enterprise Cloud.* 
 
-![](assets/marketingcloud_32.png) [Marketing Cloud](https://www.adobe.com/marketing-cloud.html) 
+[Marketing Cloud](https://www.adobe.com/marketing-cloud.html) 
 
 Includes the following solutions:
 
@@ -35,14 +35,14 @@ Includes the following solutions:
 * Adobe Primetime
 * Adobe Social
 
-![](assets/analyticscloud_appicon_32.png) [Analytics Cloud](https://www.adobe.com/data-analytics-cloud.html)
+[Analytics Cloud](https://www.adobe.com/data-analytics-cloud.html)
 
 Includes the following solutions:
 
 * Adobe Analytics
 * Adobe Audience Manager
 
-![](assets/advertisingcloud_appicon_32.png) [Advertising Cloud](https://www.adobe.com/advertising-cloud.html)
+[Advertising Cloud](https://www.adobe.com/advertising-cloud.html)
 
 Includes Media Optimizer and TubeMogul.
 
@@ -50,7 +50,7 @@ Includes Media Optimizer and TubeMogul.
 
 The following information briefly describes the solutions and provides links to help. [Use case recipes](https://helpx.adobe.com/marketing-cloud/how-to/use-cases.html) are also available to help you with digital marketing workflows.
 
-![](assets/mc_analytics_32.png) [Adobe Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
+[Adobe Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
 
 To get started in Analytics:
 
@@ -64,7 +64,7 @@ See also:
 * [Which Analytics products should I use?](https://docs.adobe.com/content/help/en/analytics/admin/admin-overview/which-analytics-tool.html)
 * [Analytics product comparison and requirements](https://docs.adobe.com/content/help/en/analytics/admin/admin-overview/analytics-product-comparison.html)
 
-![](assets/mc_target_32.png) [Adobe Target](https://docs.adobe.com/content/help/en/target/using/target-home.html)
+[Adobe Target](https://docs.adobe.com/content/help/en/target/using/target-home.html)
 
 Adobe Target integrates with Analytics and other Experience Cloud core services. Useful getting started topics:
 
@@ -73,29 +73,25 @@ Adobe Target integrates with Analytics and other Experience Cloud core services.
 * [Administrator first steps](https://docs.adobe.com/content/help/en/target/using/administer/start-target.html)
 * [Use Analytics as the reporting source for Adobe Target](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html)
 
-![](assets/mc_social_32.png) [Adobe Social](https://docs.adobe.com/content/help/en/social/using/home.html)
-
-Social provides a hosted, subscription-based solution to help you achieve your social media goals and improve your strategy and performance. You can manage social marketing with a comprehensive platform that enables social listening, publishing, and analytics.
-
-![](assets/mc_experiencemanager_32.png) [Adobe Experience Manager](https://helpx.adobe.com/support/experience-manager/6-5.html)
+[Adobe Experience Manager](https://helpx.adobe.com/support/experience-manager/6-5.html)
 
 As a content management solution, Adobe Experience Manager makes it easy to manage your assets and content for your websites, mobile apps, communities, and forms.
 
 See [Adobe Experience Manager 6.5](https://helpx.adobe.com/support/experience-manager/6-5.html) for help.
 
-![](assets/mc_audiencemanager_32.png) [Adobe Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)
+[Adobe Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)
 
 As a data management platform, Adobe Audience Manager helps you build unique audience profiles, so you can discover and target your most valuable customer segments on every channel.
 
-![](assets/mc_optimize_32.png) [Adobe Advertising Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud)
+[Adobe Advertising Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud)
 
 Adobe Advertising Cloud is a programmatic ad-buying solution. It helps you find and forecast the best mix of ad channels based on your budget, then automates the delivery of content right to your audience.
 
-![](assets/mc_campaign_32.png) [Adobe Campaign](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-adobe-campaign/campaign-orchestration.html) 
+[Adobe Campaign](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-adobe-campaign/campaign-orchestration.html) 
 
 Adobe Campaign lets you plan, deliver, and measure campaigns across all your online and offline channels. It helps increase your productivity and deliver relevant experiences to your customers.
 
-![](assets/primetime_app_32.png) [Adobe Primetime](https://help.adobe.com/en_US/primetime/)
+[Adobe Primetime](https://help.adobe.com/en_US/primetime/)
 
 Adobe Primetime is a multi-screen TV platform that helps broadcasters create engaging TV and film experiences that are personalized for any audience.
 

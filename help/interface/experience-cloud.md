@@ -10,7 +10,7 @@ uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 
 # Experience Cloud and Core Services Product Documentation
 
-![Experience Cloud](assets/banner.png)
+![Experience Cloud](assets/cloud-pulldown.png)
 
 This page provides self help, support, and technical and product documentation for the Adobe Experience Cloud solutions and services. The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
 
