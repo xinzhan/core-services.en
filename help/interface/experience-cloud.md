@@ -8,7 +8,7 @@ title: Experience Cloud and core services help
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 ---
 
-# Experience Cloud and Core Services Product Documentation
+# Experience Cloud and core services product documentation
 
 ![Experience Cloud](assets/cloud-pulldown.png)
 

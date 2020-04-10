@@ -7,7 +7,7 @@ index: yes
 
 # Core Services User Guide {#interface}
 
-+ [Experience Cloud and Core Services Product Documentation](experience-cloud.md)
++ [Experience Cloud and core services product documentation](experience-cloud.md)
 + Core services in Experience Cloud {#about-core-services}
     + [Core services overview](core-services-landing.md)
     + [Enable your solutions for core services](core-services/core-services.md)
