@@ -24,9 +24,8 @@ This page provides self help, support, and technical and product documentation f
 * [Customer Experience Blog](https://theblog.adobe.com/customer-experience/) - Read the Experience Cloud blog
 * [Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html) - Contact Adobe Customer Care
 
-## Core services product documentation
+## Experience Platform product documentation
 
-* [Core Services Overview](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
 * [Adobe Mobile](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 * [Audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html)
 * [Assets](experience-cloud-assets/experience-cloud-assets.md)

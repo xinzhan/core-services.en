@@ -1,7 +1,7 @@
 ---
-description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for core service features like customer attributes and audiences.
+description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like customer attributes and audiences.
 keywords: core services;customer attributes
-seo-description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for core service features like customer attributes and audiences.
+seo-description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like customer attributes and audiences.
 seo-title: Enable your Experience Cloud solutions for core services
 solution: Experience Cloud
 title: Enable your solutions for core services
@@ -191,7 +191,7 @@ Users that are added to the [!UICONTROL Customer Attributes] group will see the 
 
 ## Step 8. Begin using core services {#section_960C06093623462E8EA247B3E97274A1}
 
-Take advantage of the following core service features. 
+Take advantage of the following features. 
 
 ![](assets/menu-audiences-shell.png) 
 

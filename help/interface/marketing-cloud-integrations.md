@@ -1,7 +1,7 @@
 ---
-description: Learn about available solution and core service integrations in the Adobe Experience Cloud.
+description: Learn about available solution integrations in the Adobe Experience Cloud.
 keywords: integrations
-seo-description: Learn about available solution and core service integrations in the Adobe Experience Cloud.
+seo-description: Learn about available solution integrations in the Adobe Experience Cloud.
 seo-title: Experience Cloud Integrations
 solution: Experience Cloud
 title: Experience Cloud Integrations
@@ -10,11 +10,11 @@ uuid: a9893c6b-bccc-4fb5-b724-724644c7def5
 
 # Experience Cloud Integrations
 
-Adobe Experience Cloud is a comprehensive set of best-in-class, integrated solutions built on a common data platform with a common set of powerful core services.
+Adobe Experience Cloud is a comprehensive set of best-in-class, integrated solutions built on a common data platform with a common set of powerful features.
 
-## Core Services - Enable your solutions for core services {#section_A3D024994DA3492F8435CFCC4EF035C2}
+## Enable your Experience Cloud applications for Platform services {#section_A3D024994DA3492F8435CFCC4EF035C2}
 
-Help: [Enable your Solutions for Core Services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) 
+Help: [Enable your applications for Platform Services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) 
 
 Describes how to: 
 
@@ -183,7 +183,7 @@ Help (login required): [Integration with Adobe Experience Cloud Solutions and Co
 
 **Dynamic Tag Manager:** You can [use Dynamic Tag Manager to create Media Optimizer pixel-based conversion tracking tags](https://docs.adobe.com/content/help/en/dtm/using/tools/media-optimizer.html), as well as third-party tracking tags, for your search, social, and display ad landing pages. (You can also can create Media Optimizer tags directly within Media Optimizer.) 
 
-**Experience Cloud Audiences:** (Advertisers with display management) You can use any of your [Adobe Experience Cloud audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html) as targets for your display ads. You can automatically use audiences that you've created in Adobe Experience Cloud and audiences from Analytics that you've published to Adobe Experience Cloud, and you can use audiences from Audience Manager when the Media Optimizer account is configured to allow it. Contact your account manager for more information about access to Adobe Experience Cloud and its Profiles and Audiences core service, and about the initial setup between Media Optimizer and Adobe Experience Cloud audiences. **Note:** If you also use Adobe Target, any of the audiences you've published to Adobe Experience Cloud are also available for activities in Adobe Target. 
+**Experience Cloud Audiences:** (Advertisers with display management) You can use any of your [Adobe Experience Cloud audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html) as targets for your display ads. You can automatically use audiences that you've created in Adobe Experience Cloud and audiences from Analytics that you've published to Adobe Experience Cloud, and you can use audiences from Audience Manager when the Media Optimizer account is configured to allow it. Contact your account manager for more information about access to Adobe Experience Cloud and Profiles and Audiences, and about the initial setup between Media Optimizer and Adobe Experience Cloud audiences. **Note:** If you also use Adobe Target, any of the audiences you've published to Adobe Experience Cloud are also available for activities in Adobe Target. 
 
 **Experience Cloud Assets:** (Advertisers with display management) You can use any of your Adobe Experience Cloud assets as the creatives for your display ads, using the New Display Beta view. You must be [logged in to Media Optimizer through Adobe Experience Cloud](https://enterprise-test.efrontier.com/CMDashboard/help/internal/getting_started/t_log_in_from_adobe_marketing_cloud.htm)) to access your Adobe Experience Cloud assets. Contact your account manager for information about access to Adobe Experience Cloud. 
 

@@ -10,7 +10,7 @@ uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 
 Learn how to map one or multiple report suites to an organization.
 
-Experience Cloud services (such as Experience Cloud ID Service and the People core service) are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. The mapping process: 
+Experience Cloud services (such as Experience Cloud ID Service and [!UICONTROL People]) are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. The mapping process: 
 
 * Sets a Experience Cloud organization as the primary organization for the report suite.
 * Does not change who can access a report suite (access is still determined by the Adobe Analytics login account for each user)

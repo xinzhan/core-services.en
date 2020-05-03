@@ -241,7 +241,7 @@ No information available
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activation </p> </td> 
-   <td colname="col2"> <p> <a href="../activation/activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation</a> now displays in the left navigation in the <span class="keyword"> Experience Cloud</span>. <span class="wintitle"> Activation</span> is a <span class="keyword"> Experience Cloud</span> core service currently comprised of the dynamic tag management technology, and directs you there when clicked. </p> </td> 
+   <td colname="col2"> <p> <a href="../activation/activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation</a> now displays in the left navigation in the <span class="keyword"> Experience Cloud</span>. <span class="wintitle"> Activation</span> is a <span class="keyword"> Experience Cloud</span> service currently comprised of the dynamic tag management technology, and directs you there when clicked. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 

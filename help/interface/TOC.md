@@ -1,13 +1,13 @@
 ---
 audience: end-user
-user-guide-title: Core Services User Guide
+user-guide-title: Experience Cloud Interface User Guide
 user-guide-url: https://www.adobe.com
 index: yes
 ---
 
 # Core Services User Guide {#interface}
 
-+ [Experience Cloud and core services product documentation](experience-cloud.md)
++ [Experience Cloud and product documentation](experience-cloud.md)
 + Core services in Experience Cloud {#about-core-services}
     + [Core services overview](core-services-landing.md)
     + [Enable your solutions for core services](core-services/core-services.md)

@@ -1,15 +1,15 @@
 ---
-description: Learn about Adobe Experience Cloud user and product management, the People core service (audiences and customer attributes), Journey Orchestration, Offers, Places,45 Experience Platform Launch, and Mobile Services.
-seo-description: Learn about Adobe Experience Cloud user and product management, the People core service (audiences and customer attributes), Offers, Experience Platform Launch, and Mobile Services.
+description: Learn about Adobe Experience Cloud user and product management, People (audiences and customer attributes), Journey Orchestration, Offers, Places, Experience Platform Launch, and Mobile Services.
+seo-description: Learn about Adobe Experience Cloud user and product management, the People (audiences and customer attributes), Offers, Experience Platform Launch, and Mobile Services.
 seo-title: Experience Cloud core services and user management
 solution: Experience Cloud
 title: About Experience Cloud core services
 index: yes
 ---
 
-# About Experience Cloud core services {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
+# About Experience Cloud {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
 
-Adobe Experience Cloud core services include the People core service (audiences and customer attributes), Offers, Experience Platform Launch, and Mobile Services. You can also access help about user and product management in Experience Cloud.
+Adobe Experience Cloud services include the [!UICONTROL People] (audiences and customer attributes), Offers, Experience Platform Launch, and Mobile Services. You can also access help about user and product management in Experience Cloud.
 
 To access these services in the Experience Cloud, click the **[!UICONTROL Experience Platform]** menu ![](assets/menu-icon.png).
 
