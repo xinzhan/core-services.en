@@ -3,45 +3,46 @@ title: Customer Attributes Support for General Data Protection Regulation
 description: Customer Attributes Support for General Data Protection Regulation
 ---
 
-# Customer Attributes Support for General Data Protection Regulation
+# Customer attributes support for General Data Protection Regulation
 
+This page describes how customer attributes supports General Data Protection Regulation (GDPR).
 
 >[!IMPORTANT]
 >
->The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult with your legal counsel for advice concerning the General Data Protection Regulation.
+>The contents of this document are not legal advice or meant to substitute for legal advice. Consult with your legal counsel for advice concerning GDPR.
 
-The [General Data Protection Regulation](https://www.adobe.com/privacy/general-data-protection-regulation/what-is-gdpr.html) (GDPR), a law in effect May 25, 2018, gives all individuals (data subjects) within the borders of the European Union (EU) control of their personal data and simplifies the regulatory environment for international business. This law applies to all businesses (data controllers) that offer goods or services to, monitor the behavior of, or collect personal data from individuals within the borders of the EU at the time their personal data is processed, regardless of the data controller's business location.
+The [General Data Protection Regulation](https://www.adobe.com/privacy/general-data-protection-regulation/what-is-gdpr.html), a law in effect May 25, 2018, gives all individuals (data subjects) within the borders of the European Union (EU) control of their personal data. It also simplifies the regulatory environment for international business. This law applies to all businesses (data controllers) that offer goods or services to, monitor the behavior of, or collect personal data from individuals within the borders of the EU at the time their personal data is processed, regardless of the data controller's business location.
 
 Adobe Experience Cloud acts as a data processor for any personal data it receives and stores on behalf of its customers. As a data controller, you determine the personal data that Adobe Experience Cloud processes and stores on your behalf.
 
-This document describes how Customer Attributes supports your data subjects' GDPR data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
+This document describes how [!UICONTROL customer attributes] supports your data subjects' GDPR data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 
 For more information about what GDPR means for your business, see [GDPR and Your Business](https://www.adobe.com/privacy/general-data-protection-regulation.html).
 
-## Required Setup to Send Requests for Customer Attributes
+## Required Setup to send requests for [!UICONTROL customer attributes]
 
-To make requests to access and delete data for Customer Attributes, you'll need to:
+To make requests to access and delete data for [!UICONTROL customer attributes], you'll need to:
 
 1. Identify the following:
 
-  * IMS Org ID
-  * Alias ID of CRS Data Source you want to act on
-  * CRM ID of the profile you want to act on
+   * IMS Org ID
+   * Alias ID of CRS Data Source you want to act on
+   * CRM ID of the profile you want to act on
 
    An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
 
-2. Use the Privacy Service UI to submit access and delete requests to Customer Attributes, and to check the status of existing requests.
+1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to customer attributes, and check the status of existing requests.
 
-## Required Field Values in Customer Attributes JSON Requests
+## Required field values in [!UICONTROL customer attributes] JSON requests
 
-"company context": 
+"company context":
 
 * "namespace": **imsOrgID**
 * "value": <*your IMS Org ID value*>
 
-"users": 
+"users":
 
-* "key": <*usually the name of the customer*> 
+* "key": <*usually the name of the customer*>
 
 * "action": either **access** or **delete**
 
@@ -89,7 +90,7 @@ To make requests to access and delete data for Customer Attributes, you'll need 
 }
 ```
 
-## Data Fields returned for Access requests
+## Data Fields returned for access requests
 
 ```
 attributes:
