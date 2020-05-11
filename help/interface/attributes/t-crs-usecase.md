@@ -21,23 +21,18 @@ Create the customer attribute source (CSV and FIN files) and upload the data. Yo
 1. [Validate the schema](../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
 1. [Configure subscriptions and activate the attribute source](../attributes/t-crs-usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
 
-
 After the data source is active, you can: 
 
 * [Use Customer Attributes in Adobe Analytics](../attributes/t-crs-usecase.md#task_7EB0680540CE4B65911B2C779210915D)
 * [Use Customer Attributes in Adobe Target](../attributes/t-crs-usecase.md#task_FC5F9D9059114027B62DB9B1C7D9E257)
 
-
-
 >[!IMPORTANT]
 >
->To access this feature, users must be assigned to the Customer Attributes product profile (Customer Attributes - Default Access. ( **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Users]** > ). Users that are added to the Customer Attributes group will see the [!UICONTROL Customer Attributes] menu item in [!UICONTROL Audiences], on the left side of the Experience Cloud interface. 
+>To access this feature, users must be assigned to the Customer Attributes product profile (Customer Attributes - Default Access. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin. Users that are added to the Customer Attributes group will see the [!UICONTROL Customer Attributes] menu on the left side of the Experience Cloud interface. 
 >
->Solution group membership is also required. 
+>To use the Customer Attributes feature, users must also belong to solution-level groups (Analytics or [!DNL Target]). 
 
-To use the Customer Attributes feature, users must belong to the Adobe Customer Attributes group in user management, and to solution-level groups (Analytics or [!DNL Target]). 
-
-See [Users and Groups](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). 
+See [Manage Experience Cloud users and products](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). 
 
 ## Create a data file {#task_B5FB8C0649374C7A94C45DCF2878EA1A}
 
@@ -45,12 +40,9 @@ This data is enterprise customer data from your CRM. The data might include subs
 
 1. Create a `.csv`.
 
-
    >[!NOTE]
    >
    >Later in this process, you will drag-and-drop the `.csv` to upload the file. However, if you [upload via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a `.fin` file with the same name as the `.csv`. 
-
-
 
    Sample enterprise customer data file: 
 
