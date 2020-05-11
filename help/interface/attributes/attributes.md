@@ -20,11 +20,11 @@ If you capture enterprise customer data in a customer relationship management (C
 
 * **Solution enablement:** [Enable your solutions for Experience Platform services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C).
 
-* **Group membership:** To upload customer attribute data, users must be members of the [Customer Attributes group](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group.
+* **Group membership:** To upload Customer Attribute data, users must be members of the [Customer Attributes group](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
-  To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [!DNL Experience Cloud]. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Launch Admin Console]** > **[!UICONTROL Groups]**. If *Customer Attributes* displays as one of the groups, you are ready to begin.
+  To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin.
 
-  Users that are added to the Customer Attributes group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
+  Users that are added to the Customer Attributes will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
 * **Adobe Target** [!DNL at.js] (any version) or [!DNL mbox.js] version 58 or later is required for Customer Attributes.
 
