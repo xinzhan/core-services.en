@@ -36,7 +36,7 @@ To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a r
   </tr> 
   <tr> 
    <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html" format="html" scope="external"> Implementation Guides for Experience Cloud ID Service </a> </p> </td> 
-   <td colname="col2"> <p>The Experience Cloud ID Service enables core functionality across Experience Cloud solutions (including customer attributes, audience sharing, and triggers). Adobe strongly recommends implementing the ID service and take advantage of these features. </p> </td> 
+   <td colname="col2"> <p>The Experience Cloud ID Service enables core functionality across Experience Cloud solutions (including Customer Attributes, audience sharing, and triggers). Adobe strongly recommends implementing the ID service and take advantage of these features. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html" format="https" scope="external"> Dynamic Tag Management Product Documentation </a> </p> </td> 

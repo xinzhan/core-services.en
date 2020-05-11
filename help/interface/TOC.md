@@ -57,13 +57,13 @@ index: yes
 + Customer attributes in Experience Cloud {#customer-attributes}
     + [Customer attributes overview](attributes/attributes.md)
     + [Frequently asked questions, limitations, and best practices](attributes/faq-crs.md)
-    + [About data file and data sources for customer attributes](attributes/crs-data-file.md)
+    + [About data file and data sources for Customer Attributes](attributes/crs-data-file.md)
     + [Create a customer attribute source and upload the data file](attributes/t-crs-usecase.md)
     + [Optional - Upload the data file via FTP](attributes/t-upload-attributes-ftp.md)
     + [Validate the schema](attributes/validate-schema.md)
     + [Configure subscriptions](attributes/subscription.md)
     + [Update the schema](attributes/t-update-schema.md)
-    + [Privacy considerations - customer attributes](attributes/privacy-mac.md)
+    + [Privacy considerations - Customer Attributes](attributes/privacy-mac.md)
 + Offer Management {#offer-management}
     + [Getting started with Offer Management](offer-management/getting-started.md)
     + [Offer Management workflow](offer-management/offer-management-workflow.md)

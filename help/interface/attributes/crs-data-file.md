@@ -1,16 +1,16 @@
 ---
-description: Data file requirements and multiple data sources for uploading customer attributes to the Experience Cloud.
-keywords: customer attributes;core services
-seo-description: Data file requirements and multiple data sources for uploading customer attributes to the Experience Cloud.
-seo-title: About data file and data sources for customer attributes
+description: Data file requirements and multiple data sources for uploading Customer Attributes to the Experience Cloud.
+keywords: Customer Attributes;core services
+seo-description: Data file requirements and multiple data sources for uploading Customer Attributes to the Experience Cloud.
+seo-title: About data file and data sources for Customer Attributes
 solution: Experience Cloud
-title: About data file and data sources for customer attributes
+title: About data file and data sources for Customer Attributes
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 ---
 
-# About data file and data sources for customer attributes
+# About data file and data sources for Customer Attributes
 
-Data file requirements and multiple data sources for uploading customer attributes to the Experience Cloud.
+Data file requirements and multiple data sources for uploading Customer Attributes to the Experience Cloud.
 
 You will need access to CRM or similar data from your enterprise. The data you upload to the Experience Cloud must be a `.csv` file. If you upload via FTP or sFTP, you also upload a `.fin` file. 
 
@@ -32,7 +32,7 @@ Customer Attributes is designed to handle a few files per day. To mitigate the i
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .fin </span> </p> </td> 
-   <td colname="col2"> <p>(Required) The <span class="filepath"> .fin </span> file tells the system that you are finished uploading data. The name of the <span class="filepath"> .fin </span> file must match the name of the <span class="filepath"> .csv </span> file. </p> <p>Adobe recommends creating an empty text file with a <span class="filepath"> .fin </span> extension. An empty file saves space and upload time. </p> <p> <p>Note:  Renaming a <span class="filepath"> .fin </span> file is not allowed after it is uploaded. The <span class="filepath"> .fin </span> file must be uploaded separately and cannot be a renamed, previously uploaded file. </p> </p> <p>After you upload the <span class="filepath"> .fin </span> file in the customer attributes FTP, the system retrieves data quickly (within one minute). This differs from other Adobe FTP-based systems, which pick up data less frequently (around once per hour). </p> <p>The <span class="filepath"> .fin </span> file is not required when using the drag-and-drop upload method. </p> </td> 
+   <td colname="col2"> <p>(Required) The <span class="filepath"> .fin </span> file tells the system that you are finished uploading data. The name of the <span class="filepath"> .fin </span> file must match the name of the <span class="filepath"> .csv </span> file. </p> <p>Adobe recommends creating an empty text file with a <span class="filepath"> .fin </span> extension. An empty file saves space and upload time. </p> <p> <p>Note:  Renaming a <span class="filepath"> .fin </span> file is not allowed after it is uploaded. The <span class="filepath"> .fin </span> file must be uploaded separately and cannot be a renamed, previously uploaded file. </p> </p> <p>After you upload the <span class="filepath"> .fin </span> file in the Customer Attributes FTP, the system retrieves data quickly (within one minute). This differs from other Adobe FTP-based systems, which pick up data less frequently (around once per hour). </p> <p>The <span class="filepath"> .fin </span> file is not required when using the drag-and-drop upload method. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .gz </span> or <span class="filepath"> .zip </span> </p> </td> 
@@ -73,7 +73,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Subsequent headers and columns </p> </td> 
-   <td colname="col2"> <p>Subsequent headers should represent the name of each attribute. </p> <p> These columns should contain customer attributes that come from the CRM. </p> </td> 
+   <td colname="col2"> <p>Subsequent headers should represent the name of each attribute. </p> <p> These columns should contain Customer Attributes that come from the CRM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Attribute limits </p> </td> 
@@ -113,7 +113,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Multiple files </p> </td> 
-   <td colname="col2"> <p>When uploading customer attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your customer attributes FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure each file is completely processed before submitting the next. </p> </td> 
+   <td colname="col2"> <p>When uploading customer attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your Customer Attributes FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure each file is completely processed before submitting the next. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Character Encoding </p> </td> 
@@ -121,7 +121,7 @@ The same file viewed in a text editor:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
-   <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in Analytics. As such, customer attributes are associated with the visitor for the entire life of that visitor profile in Analytics. This includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the data warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> </td> 
+   <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in Analytics. As such, Customer Attributes are associated with the visitor for the entire life of that visitor profile in Analytics. This includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the data warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data feeds </p> </td> 
@@ -151,4 +151,4 @@ Visitor.setCustomerIDs({
 
 In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**:
 
-Create two customer attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.
+Create two Customer Attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.

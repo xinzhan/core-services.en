@@ -1,6 +1,6 @@
 ---
 description: The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). A schema is created based on these settings. The schema is used to validate all future data uploaded to this data source. This mapping process does not alter the original data.
-keywords: customer attributes;core services
+keywords: Customer Attributes;core services
 seo-description: The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). A schema is created based on these settings. The schema is used to validate all future data uploaded to this data source. This mapping process does not alter the original data.
 seo-title: Validate the schema
 solution: Experience Cloud
@@ -14,7 +14,7 @@ The validation process lets you map display names and descriptions to uploaded a
 
 >[!NOTE]
 >
->Updating the schema after validation deletes customer attributes. See [Update the schema (also deletes attributes)](../attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C). 
+>Updating the schema after validation deletes Customer Attributes. See [Update the schema (also deletes attributes)](../attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C). 
 
 **[!UICONTROL Customer Attribute Source]** > **[!UICONTROL Create New Customer Attribute Source]** > **[!UICONTROL View/Edit Schema]** 
 

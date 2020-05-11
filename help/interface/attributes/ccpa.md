@@ -5,7 +5,7 @@ description: Customer Attributes Support for California Consumer Privacy Act
 
 # Customer attributes support for California Consumer Privacy Act
 
-This page describes [!UICONTROL customer attributes'] support for the California Consumer Privacy Act (CCPA).
+This page describes [!UICONTROL Customer Attributes'] support for the California Consumer Privacy Act (CCPA).
 
 >[!IMPORTANT]
 >
@@ -17,13 +17,13 @@ As a business, you will determine the personal data that Adobe Experience Cloud 
 
 As your service provider, Adobe Experience Cloud provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Experience Cloud products and services, including managing requests to access and delete personal information.
 
-This document describes how [!UICONTROL customer attributes] supports your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
+This document describes how [!UICONTROL Customer Attributes] supports your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
-## Required setup to send requests for [!UICONTROL customer attributes]
+## Required setup to send requests for [!UICONTROL Customer Attributes]
 
-To make requests to access and delete data for [!UICONTROL customer attributes], you'll need to:
+To make requests to access and delete data for [!UICONTROL Customer Attributes], you'll need to:
 
 1. Identify the following:
 
@@ -33,9 +33,9 @@ To make requests to access and delete data for [!UICONTROL customer attributes],
 
     An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
 
-1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to customer attributes, and check the status of existing requests.
+1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to Customer Attributes, and check the status of existing requests.
 
-## Required field values in [!UICONTROL customer attributes] JSON Requests
+## Required field values in [!UICONTROL Customer Attributes] JSON Requests
 
 "company context": 
 

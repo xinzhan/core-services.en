@@ -76,7 +76,7 @@ Any software that is running on-premise must be deactivated. This includes Senso
 
 Experience Cloud and core services are available to Analytics Standard and Premium users, provided that you have followed the implementation modernization described in [Getting started - enable your solutions for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.)
 
-After you join the Experience Cloud, you can log in via the Experience Cloud at [!DNL experiencecloud.adobe.com] and begin using core services (including customer attributes, audiences, and Mobile app analytics).
+After you join the Experience Cloud, you can log in via the Experience Cloud at [!DNL experiencecloud.adobe.com] and begin using core services (including Customer Attributes, Audiences, and Mobile app analytics).
 
 ### Administrate Users and Groups
 

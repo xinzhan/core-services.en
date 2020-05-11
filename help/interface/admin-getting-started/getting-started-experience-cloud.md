@@ -73,7 +73,7 @@ You can edit personal details and specify a default [organization](../admin-gett
 
 ## Enable notifications {#concept_0105453AD71847B8BFCAF4A40915F157}
 
-Get notified (via email or in-product) about system updates, maintenance notices, posts, mentions, and assets shared. You can also specify the products and solutions for which you want notifications, including the upload status for customer attributes.
+Get notified (via email or in-product) about system updates, maintenance notices, posts, mentions, and assets shared. You can also specify the products and solutions for which you want notifications, including the upload status for Customer Attributes.
 
 To navigate to Notifications, click the **[!UICONTROL Notifications]** icon  ![](assets/notifications-icon.png), then click the **[!UICONTROL Settings]** icon  ![](assets/icon_edit_board.png). 
 

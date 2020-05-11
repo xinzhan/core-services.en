@@ -127,18 +127,18 @@ If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** >
 
 ## Release 15.9 - September 10 2015 {#section_BCCE3E7DF62A4FF5A57B9C8FE2A5F37B}
 
-* Fixed an Audience Manager API performance issue causing intermittent timeouts when uploading customer attributes data. (MAC-26305)
-* Fixed an issue that prevented users from adding up to 200 customer attributes to a subscription. (MAC-26188)
+* Fixed an Audience Manager API performance issue causing intermittent timeouts when uploading Customer Attributes data. (MAC-26305)
+* Fixed an issue that prevented users from adding up to 200 Customer Attributes to a subscription. (MAC-26188)
 * Fixed an Audience Library issue that prevented audience sharing from Analytics segmentation. This issue caused "Collecting Data" (0 audiences) to display. To prevent this issue, Adobe recommends keeping the segment sizes under 50k audience members per segment. (MAC-25788)
 * Fixed a previous known issue on the Customer attributes - Edit Schema page that was causing a Content Aware error that was issued when changing a display name. (MAC-25589, AN-103834)
 
 ## Release 15.7 - July 22 2015 {#section_2683A152176944E48EF6C943892975B7}
 
-* Fixed an issue that prevented attribute descriptions specified on the View/Edit Schema page (in customer attributes) from being updated in Analytics reports. (MAC-25985)
+* Fixed an issue that prevented attribute descriptions specified on the View/Edit Schema page (in Customer Attributes) from being updated in Analytics reports. (MAC-25985)
 * Fixed an issue preventing the thumbnails from rendering for uploaded assets. (MAC-25863)
 * Fixed an issue that prevented new segments created in reports & analytics from being available in Experience Cloud Audiences. (MAC-25817)
 * Fixed an issue that prevented audience sharing from Analytics, when using the visitor ID service. (MAC-25788, MAC-25747)
-* Added support for multibyte characters in customer attributes. (MAC-25552)
+* Added support for multibyte characters in Customer Attributes. (MAC-25552)
 
 **Known Issue** 
 
@@ -170,7 +170,7 @@ No information available
  </tbody> 
 </table>
 
-* Fixed an issue preventing customer attributes from syncing for some customers.
+* Fixed an issue preventing Customer Attributes from syncing for some customers.
 * Fixed an issue preventing [Adobe Target Product Documentation](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html) page from displaying in Japanese.
 * Fixed an issue preventing the use of Japanese text in comments between the [!DNL Creative Cloud] and the [!DNL Experience Cloud].
 

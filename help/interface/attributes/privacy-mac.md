@@ -1,14 +1,14 @@
 ---
 description: Considerations and best practices regarding personally identifiable information (PII) uploaded and used in the Adobe Experience Cloud.
-keywords: customer attributes;core services
+keywords: Customer Attributes;core services
 seo-description: Considerations and best practices regarding personally identifiable information (PII) uploaded and used in the Adobe Experience Cloud.
-seo-title: Privacy considerations - customer attributes
+seo-title: Privacy considerations - Customer Attributes
 solution: Experience Cloud
-title: Privacy considerations - customer attributes
+title: Privacy considerations - Customer Attributes
 uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247
 ---
 
-# Privacy considerations - customer attributes
+# Privacy considerations - Customer Attributes
 
 Considerations and best practices regarding personally identifiable information (PII) uploaded and used in the Adobe Experience Cloud.
 

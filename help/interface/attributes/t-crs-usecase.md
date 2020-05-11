@@ -1,6 +1,6 @@
 ---
 description: Create the customer attribute source and upload the data.
-keywords: customer attributes;core services
+keywords: Customer Attributes;core services
 seo-description: Create the customer attribute source and upload the data.
 seo-title: Create a customer attribute source and upload the data file
 solution: Experience Cloud
@@ -24,8 +24,8 @@ Create the customer attribute source (CSV and FIN files) and upload the data. Yo
 
 After the data source is active, you can: 
 
-* [Use customer attributes in Adobe Analytics](../attributes/t-crs-usecase.md#task_7EB0680540CE4B65911B2C779210915D)
-* [Use customer attributes in Adobe Target](../attributes/t-crs-usecase.md#task_FC5F9D9059114027B62DB9B1C7D9E257)
+* [Use Customer Attributes in Adobe Analytics](../attributes/t-crs-usecase.md#task_7EB0680540CE4B65911B2C779210915D)
+* [Use Customer Attributes in Adobe Target](../attributes/t-crs-usecase.md#task_FC5F9D9059114027B62DB9B1C7D9E257)
 
 
 
@@ -156,7 +156,7 @@ On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate 
 
    ![Step Result](assets/activate_attribute_source.png) 
 
-## Use customer attributes in Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
+## Use Customer Attributes in Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
 
 With the data now available in solutions like 
 <keyword>
@@ -167,13 +167,13 @@ The following example shows an [!DNL Analytics] segment based on the uploaded at
 
 ![](assets/08_crs_usecase.png) 
 
-When you publish a segment to the Experience Cloud, it becomes available in Experience Cloud audiences and Audience Manager. 
+When you publish a segment to the Experience Cloud, it becomes available in Experience Cloud Audiences and Audience Manager. 
 
 See [Customer Attributes Report](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-customer-attributes.html) in Analytics help for more information. 
 
-## Use customer attributes in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
+## Use Customer Attributes in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
-In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visitor Profile] section when creating an audience. All customer attributes will have the prefix [!DNL crs.] in the list. Combine these attributes as required with other data attributes to build audiences. 
+In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visitor Profile] section when creating an audience. All Customer Attributes will have the prefix [!DNL crs.] in the list. Combine these attributes as required with other data attributes to build audiences. 
 
 ![](assets/crs-add-attribute-target.png) 
 

@@ -1,7 +1,7 @@
 ---
-description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like customer attributes and audiences.
-keywords: core services;customer attributes
-seo-description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like customer attributes and audiences.
+description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like Customer Attributes and audiences.
+keywords: core services;Customer Attributes
+seo-description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like Customer Attributes and audiences.
 seo-title: Enable your Experience Cloud solutions for core services
 solution: Experience Cloud
 title: Enable your solutions for core services
@@ -10,7 +10,7 @@ index: yes
 
 # Enable your solutions for core services
 
-For existing customers, learn how to modernize your solution implementations and implement the Experience Cloud so that you can use features like customer attributes and audiences. To accomplish this, you will:
+For existing customers, learn how to modernize your solution implementations and implement the Experience Cloud so that you can use features like Customer Attributes and audiences. To accomplish this, you will:
 
 1. [Join the Experience Cloud and become an administrator](#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implement the Experience Cloud ID Service](#section_3C9F6DF37C654D939625BB4D485E4354)
@@ -113,7 +113,7 @@ See the *Experience Cloud ID Service* section for syntax examples about how to s
 
 ### Enabling Attributes for Historical Data
 
-Customer attribute data is made available after visitors log in. If you have not yet implemented the latest Experience Cloud ID Service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to the Experience Cloud. This process lets you begin using customer attributes immediately.
+Customer attribute data is made available after visitors log in. If you have not yet implemented the latest Experience Cloud ID Service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to the Experience Cloud. This process lets you begin using Customer Attributes immediately.
 
 Contact Customer Care to enable historical data.
 
@@ -139,7 +139,7 @@ In [!UICONTROL Dynamic Tag Management], click **[!UICONTROL <Web Property Name>]
  
   >[!IMPORTANT]
   >
-  >All Analytics customers are already provisioned for core services like customer attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
+  >All Analytics customers are already provisioned for core services like Customer Attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
 
 ## Step 6. Verify the core services implementation {#section_E641782A0F4F44AF8C9C91216BE330D5}
 

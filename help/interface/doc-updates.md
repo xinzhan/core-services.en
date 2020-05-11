@@ -26,7 +26,7 @@ Added how to delete a customer attribute. See [(Optional) Update the schema (del
 
 **Updated: 6/8/20118**
 
-Updated [About data file and data sources for customer attributes](attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) with information about uploading multiple files.
+Updated [About data file and data sources for Customer Attributes](attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) with information about uploading multiple files.
 
 **Updated: 6/6/2018**
 

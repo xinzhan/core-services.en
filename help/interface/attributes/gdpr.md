@@ -5,7 +5,7 @@ description: Customer Attributes Support for General Data Protection Regulation
 
 # Customer attributes support for General Data Protection Regulation
 
-This page describes how customer attributes supports General Data Protection Regulation (GDPR).
+This page describes how Customer Attributes supports General Data Protection Regulation (GDPR).
 
 >[!IMPORTANT]
 >
@@ -15,13 +15,13 @@ The [General Data Protection Regulation](https://www.adobe.com/privacy/general-d
 
 Adobe Experience Cloud acts as a data processor for any personal data it receives and stores on behalf of its customers. As a data controller, you determine the personal data that Adobe Experience Cloud processes and stores on your behalf.
 
-This document describes how [!UICONTROL customer attributes] supports your data subjects' GDPR data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
+This document describes how [!UICONTROL Customer Attributes] supports your data subjects' GDPR data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 
 For more information about what GDPR means for your business, see [GDPR and Your Business](https://www.adobe.com/privacy/general-data-protection-regulation.html).
 
-## Required Setup to send requests for [!UICONTROL customer attributes]
+## Required Setup to send requests for [!UICONTROL Customer Attributes]
 
-To make requests to access and delete data for [!UICONTROL customer attributes], you'll need to:
+To make requests to access and delete data for [!UICONTROL Customer Attributes], you'll need to:
 
 1. Identify the following:
 
@@ -31,9 +31,9 @@ To make requests to access and delete data for [!UICONTROL customer attributes],
 
    An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
 
-1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to customer attributes, and check the status of existing requests.
+1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to Customer Attributes, and check the status of existing requests.
 
-## Required field values in [!UICONTROL customer attributes] JSON requests
+## Required field values in [!UICONTROL Customer Attributes] JSON requests
 
 "company context":
 
