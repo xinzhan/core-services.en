@@ -3,7 +3,7 @@ title: Customer Attributes Support for General Data Protection Regulation
 description: Customer Attributes Support for General Data Protection Regulation
 ---
 
-# Customer attributes support for General Data Protection Regulation
+# Customer Attributes support for General Data Protection Regulation
 
 This page describes how Customer Attributes supports General Data Protection Regulation (GDPR).
 

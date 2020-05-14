@@ -3,7 +3,7 @@ title: Customer Attributes Support for California Consumer Privacy Act
 description: Customer Attributes Support for California Consumer Privacy Act
 ---
 
-# Customer attributes support for California Consumer Privacy Act
+# Customer Attributes support for California Consumer Privacy Act
 
 This page describes [!UICONTROL Customer Attributes'] support for the California Consumer Privacy Act (CCPA).
 

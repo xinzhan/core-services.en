@@ -63,6 +63,8 @@ index: yes
     + [Validate the schema](attributes/validate-schema.md)
     + [Configure subscriptions](attributes/subscription.md)
     + [Update the schema](attributes/t-update-schema.md)
+    + [Support for General Data Protection Regulation](attributes/gdpr.md)
+    + [Support for California Consumer Privacy Act](attributes/ccpa.md)
     + [Privacy considerations - Customer Attributes](attributes/privacy-mac.md)
 + Offer Management {#offer-management}
     + [Getting started with Offer Management](offer-management/getting-started.md)
