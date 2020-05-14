@@ -105,6 +105,12 @@ Experience Platform Launch displays on the Products page in the Admin Console. Y
 
 See [User Management](https://docs.adobelaunch.com/launch-reference/administration/user-permissions) for information about user permissions in the Admin Console and set up Launch-specific options, including assigning rights to profiles.
 
+## Experience Manager as a Cloud Service
+
+Adobe Enterprise customers are represented as IMS Organizations in the Adobe Admin Console. This is the portal used by Adobe customers to manage their product entitlements for their users and groups. AEM customers can use the Adobe Admin Console to manage their product entitlements and IMS authentication to AEM as a Cloud Service.  
+
+See [IMS Support for AEM as a Cloud Service](https://youtu.be/EuUAVLZMdDA).
+
 ## Dynamic Tag Manager {#section_3A41CF2BD5994B9891537D063571D4ED}
 
 Invite users to Dynamic Tag Management and assign user roles and add users to groups.
