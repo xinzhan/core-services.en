@@ -16,6 +16,22 @@ For a list of documentation updates, see [Experience Cloud](../doc-updates.md#co
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html). 
 
+## April - 2020
+
+* Experience Cloud [!UICONTROL Feed] page was deprecated. (EXC-8505)
+* Experience Cloud login page was updated to reflect new branding elements. (EXC-10747)
+
+## February - 2020
+
+| Feature    | Description  |
+| -----------| ---------- |
+|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user’s product access, roles, and last accessed information. See [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) help for details.|
+
+**Fixes**
+
+* **Customer Attributes:** Customer Attributes UI now displays additional statuses of profiles synced in Target. (MCUI-10231)
+* **Triggers Core Service:** Due to lack of use, the propensity score "Likelihood to Return in 30 days" when creating an Abandonment type trigger has been removed. (MCUI-10056)
+
 ## January - 2020
 
 * The Feed page was deprecated in December, 2019. Look for an in-product deprecation notice. (MCUI-10039)
