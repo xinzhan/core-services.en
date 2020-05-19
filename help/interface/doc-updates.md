@@ -12,6 +12,17 @@ uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 
 Information about updates to the Experience Cloud product documentation.
 
+**Updated: 5/19/2020**
+
+Depcrecated Offer Management documentation.
+
+**Updated: 5/15/2020**
+
+Added the following pages:
+
+* [Support for General Data Protection Regulation](attributes/gdpr.md)
+* [Support for California Consumer Privacy Act](attributes/ccpa.md)
+
 **Updated: 3/10/2020**
 
 Updated [Validate hostname forwarding](cookies/cookies-first-party.md#validate) in the first-party cookies section.
