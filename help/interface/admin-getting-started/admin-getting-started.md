@@ -109,7 +109,7 @@ See [User Management](https://docs.adobelaunch.com/launch-reference/administrati
 
 Adobe Enterprise customers are represented as IMS Organizations in the Adobe Admin Console. This is the portal used by Adobe customers to manage their product entitlements for their users and groups. AEM customers can use the Adobe Admin Console to manage their product entitlements and IMS authentication to AEM as a Cloud Service.  
 
-See [IMS Support for AEM as a Cloud Service](https://youtu.be/EuUAVLZMdDA).
+See [IMS Support for AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/security/ims-support.html#managing-products-and-user-access-in-admin-console).
 
 ## Dynamic Tag Manager {#section_3A41CF2BD5994B9891537D063571D4ED}
 
