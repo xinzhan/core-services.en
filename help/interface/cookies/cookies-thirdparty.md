@@ -17,7 +17,7 @@ The following list outlines how third-party cookie support impacts current imple
 ## Adobe Analytics and Adobe Target
 
 * Customers with a [first-party implementation](/help/interface/cookies/cookies-first-party.md) would remain largely unaffected. 
-* Customers that are not using first-party implementation can implement the [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html) to store the ID cookie as a first-party cookie without a first-party implementation.
+* Customers that are not using first-party implementation can implement the [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation/implementation-guides.html) to store the ID cookie as a first-party cookie without a first-party implementation.
 
 ## Adobe Experience Manager
 
@@ -25,7 +25,7 @@ The following list outlines how third-party cookie support impacts current imple
 
 ## Adobe Social
 
-* Social would not be impacted as long as the cus­tomer has the newest ver­sion of the code.
+* Social would not be impacted as long as the customer has the newest ver­sion of the code.
 
 ## Adobe Advertising Cloud
 
@@ -37,7 +37,7 @@ The following list outlines how third-party cookie support impacts current imple
 * Display:
 
   * Display remarketing today is entirely dependent upon the usage of third-party cookies.
-  * Display is also heavily dependent on the availabil­ity of various advertising network cookies for synchronization.
+  * Display is also heavily dependent on the availability of various advertising network cookies for synchronization.
   * Overall impact is unknown. However, per the first point, display is affected more than other services.
   * We are working internally and with our advertising partners to evaluate the full extent to the impact on ad delivery.
 
