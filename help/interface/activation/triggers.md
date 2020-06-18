@@ -54,7 +54,7 @@ Create a trigger and configure the conditions for the trigger. For example, you 
     |Start new session after|Create a trigger for session start and session end events.|
 
 5. Click **[!UICONTROL Save]**.
-6. Use triggers for [real-time remarketing](https://docs.campaign.adobe.com/doc/standard/en/EMA_Transactional_messaging_Marketing_Cloud_Triggers.html) in [!DNL Adobe Campaign].
+6. Use triggers for [real-time remarketing](https://docs.adobe.com/content/help/en/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html) in [!DNL Adobe Campaign].
 
 ### Example triggers
 

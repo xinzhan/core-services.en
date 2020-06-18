@@ -25,7 +25,7 @@ Organizations are grayed out if you do not have Analytics administrator permissi
 
 ## Map a report suite to an organization {#task_23993FE78DF6455FA8D7BE60686EA16C}
 
-1. Click **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administration]** > **[!UICONTROL Report Suite Mapping]**
+1. Navigate to Report Suites for Data Governance at [!DNL Analytics] > **[!UICONTROL Admin]** > **[!UICONTROL Data Governance]** (see [View/Manage Report Suite's Data Governance Setting](https://docs.adobe.com/help/en/analytics/admin/data-governance/gdpr-view-settings.html)
 
 1. To see the login companies that have access to each report suite, click **[!UICONTROL Visible to Login Companies]**.
 
