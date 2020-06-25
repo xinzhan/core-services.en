@@ -48,7 +48,6 @@ index: yes
     + [Share an Experience Cloud asset folder](experience-cloud-assets/t-share-creative-cloud.md)
     + [Upload an asset to a shared folder from the Creative Cloud browser](experience-cloud-assets/t-upload-asset-cc.md)
     + [Upload an asset to a shared folder from the Creative Cloud desktop](experience-cloud-assets/t-cc-asset-upload-thor.md)
-    + [Disable synchronization of shared folders](experience-cloud-assets/t-disable-asset-sync.md)
     + [Asset file requirements for sharing](experience-cloud-assets/assets-file-reqs.md)
     + [Behavior of shared folders](experience-cloud-assets/asset-behavior.md)
 + Audiences in Experience Cloud {#audiences}
