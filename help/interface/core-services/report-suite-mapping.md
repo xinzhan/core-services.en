@@ -8,6 +8,10 @@ uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 
 # Map report suites to an organization {#topic_7C4740559EAC4E0FA5F8DEF886B580DA}
 
+>[!NOTE]
+>
+>Report Suite Mapping functionality will be deprecated in November 2020. Please map any outstanding report suites in >preparation for this. Reach out to client care with any questions.
+
 Learn how to map one or multiple report suites to an organization.
 
 <!-- May 5 2020: This feature will likely be deprecated in Nov 2020. Any users with outstanding report suites that are not mapped will have 6 months to map their RS. -->
@@ -25,7 +29,7 @@ Organizations are grayed out if you do not have Analytics administrator permissi
 
 ## Map a report suite to an organization {#task_23993FE78DF6455FA8D7BE60686EA16C}
 
-1. Click **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administration]** > **[!UICONTROL Report Suite Mapping]**
+1. Navigate to Report Suites for Data Governance at [!DNL Analytics] > **[!UICONTROL Admin]** > **[!UICONTROL Data Governance]** (see [View/Manage Report Suite's Data Governance Setting](https://docs.adobe.com/help/en/analytics/admin/data-governance/gdpr-view-settings.html)
 
 1. To see the login companies that have access to each report suite, click **[!UICONTROL Visible to Login Companies]**.
 
