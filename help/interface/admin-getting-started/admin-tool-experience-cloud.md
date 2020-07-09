@@ -1,16 +1,16 @@
 ---
-description: Learn about the Experience Cloud Admin Tool, to  view a sortable and filterable list of all Experience Cloud users.
+description: Learn about the Experience Cloud Admin Tool, to  view a sortable and filterable list of all Experience Cloud users and policies.
 keywords: core services
-seo-description: Learn about the Experience Cloud Admin Tool, to  view a sortable and filterable list of all Experience Cloud users.
+seo-description: Learn about the Experience Cloud Admin Tool, to  view a sortable and filterable list of all Experience Cloud users and policies.
 seo-title: View Experience Cloud users and user details
 solution: Experience Cloud
 title: View Experience Cloud users and user details 
 index: yes
 ---
  
-# View Experience Cloud users in the Admin Tool
+# View Experience Cloud users and policies in the Admin Tool
 
-Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the Admin Tool. User details include a user’s product access, roles, and last accessed information. (**Note:** User and product management is configured in the [Admin Console](admin-getting-started.md).)
+Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the Admin Tool. User details include a user’s product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. (**Note:** User and product management is configured in the [Admin Console](admin-getting-started.md).)
 
 1. Log in to `https://experience.adobe.com/.`
 
@@ -85,3 +85,66 @@ This section displays a complete list of all product profiles membership for the
 |[!UICONTROL Product Profile] | Unique name of the product profile.|
 |[!UICONTROL Assigned by Group] | Name of the User Group that associates the user to a product profile. Blank results indicate the user was assigned to the product profile directly, not through a group.|
 |[!UICONTROL Product Roles] | Role assignment of the user within the product profile. Currently, this information applies only to Adobe Target product profiles.|
+
+## Policies page
+
+This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, developers, integrations, and groups. You can search, sort, and filter for custom views of the policy list.
+
+|Element | Description|
+|---|---|
+|[!UICONTROL Product Profile] |The name of the product profile. Column can be sorted A->Z, Z->A. Click a product profile's name to see more details about the policy.|
+|[!UICONTROL Product] |The product associated with the product profile. Column can be sorted A->Z, Z->A.|
+|[!UICONTROL Instance] |The instance (e.g. tenant or login company) associated with product profile. Products that do not have unique instances or tenants will display a " - " for the value. Column can be sorted A->Z, Z->A.|
+|[!UICONTROL Number of Users] |Unique count of users associated with the product profile including direct assignment and group assignment. Column can be sorted smallest to largest or largest to smallest.|
+|[!UICONTROL Number of Developers] |Count of developer roles associated with the product profile. Column can be sorted smallest to largest or largest to smallest. |
+|[!UICONTROL Number of Integrations] |Count of integrations associated with the product profile. Column can be sorted smallest to largest or largest to smallest. |
+|[!UICONTROL Groups Associated] |List of any groups that used to assign users to the product profile. Multiple values are separated by a comma. Filter can be applied to view specific groups. |
+
+## Customize the policies list view
+
+You can search, sort, or filter the columns to customize the policies list.
+
+* Search for product profiles by name. Searches match the text string you type.
+* Sort column by ascending or descending values. This applies to [!UICONTROL Product Profile,] [!UICONTROL Product,] [!UICONTROL Instance,] [!UICONTROL Number of users,] [!UICONTROL Number of Developers,] and [!UICONTROL Number of Integrations] Columns.
+* Click the **[!UICONTROL Filter By]** icon to apply multiple filters to list product profiles with specific criteria. When multiple filter categories are applied, searches contain Groups associated `AND` Instance `AND` Solution.
+
+|Element | Description|
+|---------|----------|
+|[!UICONTROL Groups associated] filter | Search for character strings in the groups associated column to narrow results to one or multiple groups. Add multiple filters by pressing enter after each search term.|
+|[!UICONTROL Instance] filter | Search for character strings in the instance column to narrow results to one or multiple instances. Add multiple filters by pressing enter after each search term.|
+|[!UICONTROL Solution] filter | Choose from available solutions. Multiple solution filters search for results containing Solution 1 `OR` Solution 2.|
+
+## View policy details
+
+On the [!UICONTROL Policies] page, to view a policy's details, click the product profile name.
+
+A detailed view of each product profile displays important details about the product profile’s subjects (users, groups, etc.), and permissions and resources enabled by the product profile.  Details of the product profile can be exported to CSV files.  The [!UICONTROL Export CSV] option will produce 2 CSV files: Subject Details (Users, User Groups, Developers, Integrations, Administrators) and Permissions and Resources items.
+
+## Summary Section
+
+This section displays a summary of the product profile including:
+
+* Product profile name
+* Number of users
+* Number of developers
+* Number of integrations
+* Products Associated
+* Instance
+
+
+## Detailed Subject List
+
+This section displays a complete list of all users, user groups, developers, integrations, and administrators assigned to the product profile.
+
+|Tab | Description|
+|---------|----------|
+|[!UICONTROL Users] | List of Users included in the product profile. User group association will appear in [!UICONTROL Assigned by group] column.
+|[!UICONTROL User Groups] | List of user groups associated with the product profile.|
+|[!UICONTROL Developers] | List of developers associated with the product profile.|
+|[!UICONTROL Integrations] | List of integrations associated with the product profile.|
+|[!UICONTROL Administrators] | List of administrators associated with the product profile.|
+
+## Detailed Permissions and Resources Lists
+
+This section displays a complete list of permissions and resources available for the product profile. Permissions and resources that have been included in the product profile have been marked with a "✔".  The lists of permissions and resources have been categorized into tabs and columns for easier viewing.
+
