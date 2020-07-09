@@ -78,8 +78,6 @@ The [!UICONTROL Experience Cloud ID Service] provides a common ID for cross-solu
 
 The simplest method for enabling Experience Cloud core services is to activate it automatically for Analytics and Adobe Target via the [Experience Cloud ID Service extension](https://docs.adobe.com/content/help/en/launch/using/implement/solutions/idservice-save.html) in [!UICONTROL Experience Platform Launch], or via the ECID tool in [!UICONTROL Dynamic Tag Management]. (Experience Platform Launch is strongly recommended.) 
 
-![](assets/menu-activation-shell.png)
-
 For complete Experience Cloud ID Service help (formerly, visitor ID), go [here](https://docs.adobe.com/content/help/en/id-service/using/home.html).
 
 **Not Using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management]?**
@@ -180,20 +178,11 @@ See [Experience Cloud user and product management](../admin-getting-started/admi
 
 ### Customer Attributes
 
-<!-- <p> 
- <note type="important">
-  To use the Customer Attributes feature, users must belong to the 
-  <span class="term"> Adobe Customer Attributes</span> group, and to solution-level groups (Analytics or Adobe Target). 
- </note> </p> 
- -->
- 
 Users that are added to the [!UICONTROL Customer Attributes] group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
 ## Step 8. Begin using core services {#section_960C06093623462E8EA247B3E97274A1}
 
 Take advantage of the following features. 
-
-![](assets/menu-audiences-shell.png) 
 
 ### [!UICONTROL People] > [!UICONTROL Customer Attributes]
 

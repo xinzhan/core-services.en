@@ -32,7 +32,7 @@ With your permission, we will work with our CA to issue, deploy, and manage a ne
 
 The Adobe Managed Certificate Program is the recommended process for implementing a new first-party SSL certificate for first-party cookies.
 
-The Adobe Managed Certificate program lets you implement a new first-party SSL certificate for first-party cookies at no additional cost. If you currently have your own Customer Managed SSL certificate, speak with Adobe Customer Care about migrating to the Adobe Managed Certificate Program.
+The Adobe Managed Certificate program lets you implement a new first-party SSL certificate for first-party cookies at no additional cost (for your first 100 CNAMEs). If you currently have your own Customer Managed SSL certificate, speak with Adobe Customer Care about migrating to the Adobe Managed Certificate Program.
 
 ### Implement
 
@@ -65,7 +65,7 @@ SSL certificates expire each year, meaning Adobe must purchase a new certificate
 |Question|Answer|
 |---|---|
 |**Is this process secure?**|Yes, the Adobe Managed program is more secure than our legacy method as no certificate or private key changes hands outside of Adobe and the issuing certificate authority.|
-|**How can Adobe purchase a certificate for our domain?**|The certificate can only be purchased when you have pointed the specified hostname (for example, smetrics.example.com) to an Adobe owned hostname. This is essentially delegating this hostname to Adobe and allows Adobe to purchase the certificate on your behalf.|
+|**How can Adobe purchase a certificate for our domain?**|The certificate can only be purchased when you have pointed the specified hostname (for example, `smetrics.example.com`) to an Adobe owned hostname. This is essentially delegating this hostname to Adobe and allows Adobe to purchase the certificate on your behalf.|
 |**Can I request that the certificate be revoked?**|Yes, as the owner of the domain, you are entitled to request we have the certificate revoked. You will only need to open a ticket with Customer Care to have this completed.|
 |**Will this certificate be using SHA-2 encryption?**|Yes, Adobe will work with DigiCert to issue a SHA-2 certificate.|
 |**Does this incur any additional cost?**|No, Adobe is offering this service to all current Adobe Digital Experience customers at no additional cost.|

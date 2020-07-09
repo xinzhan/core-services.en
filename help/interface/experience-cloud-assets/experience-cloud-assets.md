@@ -23,7 +23,7 @@ Using assets improves consistency and brand compliance, and speeds time to marke
 * **[!DNL Media Optimizer]**: Develop ad units across different channels and campaigns
 * **[!DNL Campaign]**: Place assets into email newsletters and campaigns.
 
-In [!UICONTROL Experience Cloud Assets], you can: 
+In [!UICONTROL Experience Cloud Assets], you can:
 
 * [Navigate to Experience Cloud Assets](../experience-cloud-assets/experience-cloud-assets.md#section_3657039DD3524F2AA88753BFF4781125)
 * [Access the Toolbar](../experience-cloud-assets/experience-cloud-assets.md#section_EC2E401D225148818F3753248556BE6B)
