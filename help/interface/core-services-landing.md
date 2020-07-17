@@ -9,13 +9,15 @@ index: yes
 
 # About Experience Cloud {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
 
-Adobe Experience Cloud services include the [!UICONTROL People] (Audiences and Customer Attributes), Offers, Experience Platform Launch, and Mobile Services. You can also access help about user and product management in Experience Cloud.
+Adobe Experience Cloud services include the [!UICONTROL People] (Audiences and Customer Attributes), Experience Platform Launch, and Mobile Services. You can also find help on Experience Cloud user and product management.
 
 To access these services in the Experience Cloud, click the **[!UICONTROL Application Selector]** ![](assets/menu-icon.png).
 
 ![](assets/platform-core-services.png)
 
-Adobe Experience Platform centralizes and standardizes data and content across your enterprise. Product documentation for [!UICONTROL Experience Platform] developers is located on [Adobe.io](https://www.adobe.io/apis/experienceplatform/home/services.html).
+>[!NOTE]
+>
+>Product documentation for Experience Platform is located [here](https://docs.adobe.com/content/help/en/experience-platform/landing/home.html). Technical documentation for [!UICONTROL Experience Platform] developers is located on [Adobe.io](https://www.adobe.io/apis/experienceplatform/home/services.html).
 
 This help describes the following products and services:
 

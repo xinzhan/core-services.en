@@ -139,7 +139,7 @@ In [!UICONTROL Dynamic Tag Management], click **[!UICONTROL <Web Property Name>]
   >
   >All Analytics customers are already provisioned for core services like Customer Attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
 
-## Step 6. Verify the core services implementation {#section_E641782A0F4F44AF8C9C91216BE330D5}
+## Step 6. Verify the implementation {#section_E641782A0F4F44AF8C9C91216BE330D5}
 
 Use the following process to ensure the Experience Cloud ID Service is implemented correctly on your site. 
 
