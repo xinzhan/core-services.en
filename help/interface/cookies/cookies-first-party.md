@@ -83,7 +83,7 @@ The FPC specialist provides you with the configured hostnames and what CNAMEs th
 
 As long as implementation code is not altered, this step will not affect data collection and can be done at any time after updating implementation code.
 
->[!Note:]
+>[!NOTE]
 >
 >The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies, but because of recent Apple ITP changes, it is still recommended to allocate a CNAME even when using the Experience Cloud ID Service.
 
@@ -97,7 +97,7 @@ If you have a CNAME set up and the certificate installed, you can use the browse
 
 `https://sstats.adobe.com/_check`
 
->[!Note:]
+>[!NOTE]
 >
 >You will see a security warning if a certificate is not installed.
 
