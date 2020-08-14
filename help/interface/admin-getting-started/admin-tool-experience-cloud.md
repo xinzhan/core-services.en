@@ -88,7 +88,7 @@ This section displays a complete list of all product profiles membership for the
 
 ## Policies page
 
-This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, developers, integrations, and groups. You can search, sort, and filter for custom views of the policy list.
+This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, and developers. You can search, sort, and filter for custom views of the policy list.
 
 |Element | Description|
 |---|---|
@@ -97,20 +97,17 @@ This page displays complete list of Experience Cloud policies in your organizati
 |[!UICONTROL Instance] |The instance (e.g. tenant or login company) associated with product profile. Products that do not have unique instances or tenants will display a " - " for the value. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL Number of Users] |Unique count of users associated with the product profile including direct assignment and group assignment. Column can be sorted smallest to largest or largest to smallest.|
 |[!UICONTROL Number of Developers] |Count of developer roles associated with the product profile. Column can be sorted smallest to largest or largest to smallest. |
-|[!UICONTROL Number of Integrations] |Count of integrations associated with the product profile. Column can be sorted smallest to largest or largest to smallest. |
-|[!UICONTROL Groups Associated] |List of any groups that used to assign users to the product profile. Multiple values are separated by a comma. Filter can be applied to view specific groups. |
 
 ## Customize the policies list view
 
 You can search, sort, or filter the columns to customize the policies list.
 
 * Search for product profiles by name. Searches match the text string you type.
-* Sort column by ascending or descending values. This applies to [!UICONTROL Product Profile,] [!UICONTROL Product,] [!UICONTROL Instance,] [!UICONTROL Number of users,] [!UICONTROL Number of Developers,] and [!UICONTROL Number of Integrations] Columns.
+* Sort column by ascending or descending values. This applies to [!UICONTROL Product Profile,] [!UICONTROL Product,] [!UICONTROL Instance,] [!UICONTROL Number of users,] and [!UICONTROL Number of Developers,] Columns.
 * Click the **[!UICONTROL Filter By]** icon to apply multiple filters to list product profiles with specific criteria. When multiple filter categories are applied, searches contain Groups associated `AND` Instance `AND` Solution.
 
 |Element | Description|
 |---------|----------|
-|[!UICONTROL Groups associated] filter | Search for character strings in the groups associated column to narrow results to one or multiple groups. Add multiple filters by pressing enter after each search term.|
 |[!UICONTROL Instance] filter | Search for character strings in the instance column to narrow results to one or multiple instances. Add multiple filters by pressing enter after each search term.|
 |[!UICONTROL Solution] filter | Choose from available solutions. Multiple solution filters search for results containing Solution 1 `OR` Solution 2.|
 
@@ -146,5 +143,5 @@ This section displays a complete list of all users, user groups, developers, int
 
 ## Detailed Permissions and Resources Lists
 
-This section displays a complete list of permissions and resources available for the product profile. Permissions and resources that have been included in the product profile have been marked with a "✔".  The lists of permissions and resources have been categorized into tabs and columns for easier viewing.
+This section displays a complete list of permissions and resources available for the product profile. Permissions and resources that have been included in the product profile have been marked with a "✔".  The lists of permissions and resources have been categorized into tabs and columns for easier viewing.  Tabs and columns display the list of sections that apply to the current product.
 
