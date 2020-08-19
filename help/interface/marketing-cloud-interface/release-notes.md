@@ -14,7 +14,13 @@ Features, release notes, and known issues for the Experience Cloud interface.
 
 For a list of documentation updates, see [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
-For release notes covering all solutions, see [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html). 
+For release notes covering all solutions, see [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html).
+
+## August - 2020
+
+| Feature    | Description  |
+| -----------| ---------- |
+|Admin Tool - policies |This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, and developers. You can search, sort, and filter for custom views of the policy list. See [Experience Cloud Admin Tool](../admin-getting-started/admin-tool-experience-cloud.md) help for details.|
 
 ## April - 2020
 
@@ -25,7 +31,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user’s product access, roles, and last accessed information. See [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) help for details.|
+|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user’s product access, roles, and last accessed information. See [Experience Cloud Admin Tool](../admin-getting-started/admin-tool-experience-cloud.md) help for details.|
 
 **Fixes**
 

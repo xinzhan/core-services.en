@@ -10,13 +10,17 @@ index: yes
  
 # View Experience Cloud users and policies in the Admin Tool
 
-Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the Admin Tool. User details include a user’s product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. (**Note:** User and product management is configured in the [Admin Console](admin-getting-started.md).)
+Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the Admin Tool. User details include a user’s product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 
+
+>[!NOTE]
+>
+>User and product management is configured in the [Admin Console](admin-getting-started.md).
 
 1. Log in to `https://experience.adobe.com/.`
 
    ![](assets/admin-tool.png)
 
-1. From the Experience Cloud Home, click **[!UICONTROL Admin Tool.]**
+1. Under [!UICONTROL Quick Access], click **[!UICONTROL Admin Tool.]**
 
     (Alternatively, in the home page URL you can replace _home_ with _admin._)
 
@@ -58,7 +62,7 @@ On the [!UICONTROL Users] page, to view a user's details, click the user's email
 
 A detailed view of each user displays important details about the user’s solution access, admin and product roles, and last accessed information.
 
-## About Section
+## About section
 
 This section displays a summary of the user account including:
 
@@ -70,11 +74,11 @@ This section displays a summary of the user account including:
 * Country
 * Last Login
 
-## Solutions Summary
+## Solutions summary
 
 This section displays a summary of Experience Cloud solutions that the user can access. Includes the product administrative role when applicable.
 
-## Detailed Product Access List
+## Detailed product access list
 
 This section displays a complete list of all product profiles membership for the user.
 
@@ -89,6 +93,8 @@ This section displays a complete list of all product profiles membership for the
 ## Policies page
 
 This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, and developers. You can search, sort, and filter for custom views of the policy list.
+
+![](assets/admin-tool-policies.png)
 
 |Element | Description|
 |---|---|
@@ -115,9 +121,16 @@ You can search, sort, or filter the columns to customize the policies list.
 
 On the [!UICONTROL Policies] page, to view a policy's details, click the product profile name.
 
-A detailed view of each product profile displays important details about the product profile’s subjects (users, groups, etc.), and permissions and resources enabled by the product profile.  Details of the product profile can be exported to CSV files.  The [!UICONTROL Export CSV] option will produce 2 CSV files: Subject Details (Users, User Groups, Developers, Integrations, Administrators) and Permissions and Resources items.
+![](assets/admin-tool-policy-detail.png)
 
-## Summary Section
+A detailed view of each product profile displays important details about the product profile’s subjects (users, groups, and so on). It also displays permissions and resources enabled by the product profile.
+
+Details of the product profile can be exported to CSV files. The [!UICONTROL Export CSV] option produces two CSV files:
+
+* Subject Details (Users, User Groups, Developers, Integrations, Administrators)
+* Permissions and resources items
+
+## Summary section
 
 This section displays a summary of the product profile including:
 
@@ -128,8 +141,7 @@ This section displays a summary of the product profile including:
 * Products Associated
 * Instance
 
-
-## Detailed Subject List
+## Detailed subject list
 
 This section displays a complete list of all users, user groups, developers, integrations, and administrators assigned to the product profile.
 
@@ -141,7 +153,6 @@ This section displays a complete list of all users, user groups, developers, int
 |[!UICONTROL Integrations] | List of integrations associated with the product profile.|
 |[!UICONTROL Administrators] | List of administrators associated with the product profile.|
 
-## Detailed Permissions and Resources Lists
+## Detailed permissions and resources lists
 
-This section displays a complete list of permissions and resources available for the product profile. Permissions and resources that have been included in the product profile have been marked with a "✔".  The lists of permissions and resources have been categorized into tabs and columns for easier viewing.  Tabs and columns display the list of sections that apply to the current product.
-
+This section displays a complete list of permissions and resources available for the product profile. Permissions and resources that have been included in the product profile have been marked with a "✔". The lists of permissions and resources have been categorized into tabs and columns for easier viewing. Tabs and columns display the list of sections that apply to the current product.
