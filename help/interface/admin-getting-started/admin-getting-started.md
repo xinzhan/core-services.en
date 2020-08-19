@@ -86,7 +86,8 @@ After the migration, users sign in using their Adobe ID (or Enterprise ID) and a
 
 In Adobe Target, a workspace is a product profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics.
 
-See: 
+See:
+
 * [Enterprise User Permissions](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html)
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
 * Video: [How to Configure Adobe Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)

@@ -10,7 +10,7 @@ index: yes
  
 # View Experience Cloud users in the Admin Tool
 
-Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the Admin Tool. User details include a user’s product access, roles, and last accessed information. (**Note:** User and product management is configured in the [Admin Console](admin-getting-started.md).)
+Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the [!UICONTROL Admin Tool]. User details include a user’s product access, roles, and last accessed information. (**Note:** User and product management is configured in the [Admin Console](admin-getting-started.md).)
 
 1. Log in to `https://experience.adobe.com/.`
 

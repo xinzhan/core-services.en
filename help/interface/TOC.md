@@ -38,7 +38,7 @@ index: yes
     + [Upgrading to Analytics Premium and the Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
 + Experience Cloud Activation {#activation}
     + [Activation overview](activation/activation.md)
-    + [Launch user guide](https://docs.adobe.com/content/help/en/launch/using/overview.html)
+    + [Experience Platform Launch user guide](https://docs.adobe.com/content/help/en/launch/using/overview.html)
     + [Dynamic Tag Manager user guide](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
     + [Triggers](activation/triggers.md)
 + Experience Cloud assets {#assets}

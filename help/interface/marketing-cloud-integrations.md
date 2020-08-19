@@ -112,7 +112,7 @@ Help: [Getting Started](https://docs.adobelaunch.com/getting-started)
 
 Use the Experience Cloud Activation solutions to set up and debug your Experience Cloud solutions. 
 
-1. Use [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) or [Dynamic Tag Management](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud solutions](solutions-core-services.md#topic_BD726D3A649E4FC49063029E86B70C62) on your pages.
+1. Use [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) or [Dynamic Tag Management](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud solutions](solutions-core-services.md#topic_BD726D3A649E4FC49063029E86B70C62) on your pages.
 1. Use [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) to test your implementations.
 
 Use the Adobe Experience Cloud Debugger extension to debug issues found by Auditor or to examine other information about your implementations. 

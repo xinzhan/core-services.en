@@ -19,7 +19,7 @@ For existing customers, you may need to modernize your solution implementations 
 1. [Map report suites to an Experience Cloud organization](#section_7B08516B01BA421681DF03D0E86CE3BA)
 1. [Update your Analytics AppMeasurement code](#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [Update your Adobe Target implementation](#section_C2F4493C7A36406DAE2266B429A4BD24)
-1. [Verify the implementation](#section_E641782A0F4F44AF8C9C91216BE330D5)
+1. [Verify the  implementation](#section_E641782A0F4F44AF8C9C91216BE330D5)
 1. [Manage users and products](#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
 1. [Begin Begin sharing attribute and audience data](#section_960C06093623462E8EA247B3E97274A1)
 
