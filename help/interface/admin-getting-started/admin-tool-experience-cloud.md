@@ -147,7 +147,7 @@ This section displays a complete list of all users, user groups, developers, int
 
 |Tab | Description|
 |---------|----------|
-|[!UICONTROL Users] | List of Users included in the product profile. User group association will appear in [!UICONTROL Assigned by group] column.
+|[!UICONTROL Users] | List of Users included in the product profile. User group association will appear in [!UICONTROL Assigned by group] column.|
 |[!UICONTROL User Groups] | List of user groups associated with the product profile.|
 |[!UICONTROL Developers] | List of developers associated with the product profile.|
 |[!UICONTROL Integrations] | List of integrations associated with the product profile.|
