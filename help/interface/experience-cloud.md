@@ -19,7 +19,7 @@ This page provides access to product documentation for the following features an
 * [[!UICONTROL Audience Library]](audience-library/audience-library.md)
 * [[!UICONTROL Customer Attributes]](attributes/attributes.md)
 * [[!UICONTROL Triggers]](activation/triggers.md)
-* [Experience Cloud assets](experience-cloud-assets/experience-cloud-assets.md)
+* [Experience Cloud [!UICONTROL Assets]](experience-cloud-assets/experience-cloud-assets.md)
 * [Experience Cloud cookies](cookies/cookies-privacy.md)
 
 ## User and product administration
@@ -30,8 +30,7 @@ This page provides access to product documentation for the following features an
 * [Organizations and account linking](admin-getting-started/organizations.md)
 * [Integrations](marketing-cloud-integrations.md)
 * [Integrating Adobe Target with the Experience Cloud](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html)
-* [Experience Cloud privacy and security Overview](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
-* [Profile Management in Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
+* [Experience Cloud privacy and security overview](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [DNS prefetch](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
 ## Related Experience Cloud help
@@ -48,14 +47,11 @@ This page provides access to product documentation for the following features an
 
 * [Adobe Mobile](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 * [[!UICONTROL Audiences]](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html)
-* [Assets](experience-cloud-assets/experience-cloud-assets.md)
-* [Customer Attributes](https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/attributes.html)
+* [[!UICONTROL Customer Attributes]](https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/attributes.html)
 * [Device Co-op](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)
-* [Dynamic Tag Management](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
 * [Exchange](https://experiencecloud.adobeexchange.com/)
 * [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 * [Experience Platform Launch](https://docs.adobelaunch.com/)
 * [Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html)
 * [General Data Protection Regulation (GDPR) API](https://www.adobe.io/apis/experiencecloud/gdpr.html)
-
-
+* [[!UICONTROL Dynamic Tag Management]](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
