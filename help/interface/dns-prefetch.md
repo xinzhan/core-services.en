@@ -46,6 +46,6 @@ The following examples show you how to make DNS prefetch calls to different [!DN
     
 * **[!DNL Target]:** `<link rel="dns-prefetch" href="//insert customer code here.tt.omtrdc.net">`
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [DNS Prefetching](https://www.chromium.org/developers/design-documents/dns-prefetching)
