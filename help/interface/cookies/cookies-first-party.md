@@ -103,7 +103,7 @@ If you have a CNAME set up and the certificate installed, you can use the browse
 
 ### Validate using [!DNL curl]
 
-Adobe recommends using [!DNL [curl](https://curl.haxx.se/)] from the command line. ([!DNL Windows] users can install [!DNL curl] from: <https://curl.haxx.se/windows/>)
+Adobe recommends using [[!DNL curl]](https://curl.haxx.se/) from the command line. ([!DNL Windows] users can install [!DNL curl] from: <https://curl.haxx.se/windows/>)
 
 If you have a CNAME but no certificate is installed, run: 
 `curl -k https://sstats.adobe.com/_check`
