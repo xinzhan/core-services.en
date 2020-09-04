@@ -150,10 +150,7 @@ On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate 
 
 ## Use Customer Attributes in Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
 
-With the data now available in solutions like 
-<keyword>
-  Adobe Analytics 
-</keyword>, you can report on the data, analyze it, and take the appropriate action in your marketing campaigns.
+With the data now available in solutions like Adobe Analytics, you can report on the data, analyze it, and take the appropriate action in your marketing campaigns.
 
 The following example shows an [!DNL Analytics] segment based on the uploaded attributes. This segment shows [!DNL Photoshop Lightroom] subscribers whose most-launched product is Photoshop. 
 
