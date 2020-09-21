@@ -1,6 +1,6 @@
 ---
 audience: end-user
-user-guide-title: Experience Cloud Interface User Guide
+user-guide-title: Experience Cloud Interface Guide
 breadcrumb-title: Interface Guide
 user-guide-description: Adobe Experience Cloud services include the People (Audiences and Customer Attributes), Offers, Experience Platform Launch, and Mobile Services.
 user-guide-url: https://www.adobe.com
@@ -51,8 +51,8 @@ index: yes
     + [Upload an asset to a shared folder from the Creative Cloud desktop](experience-cloud-assets/t-cc-asset-upload-thor.md)
     + [Asset file requirements for sharing](experience-cloud-assets/assets-file-reqs.md)
     + [Behavior of shared folders](experience-cloud-assets/asset-behavior.md)
-+ Audiences in Experience Cloud {#audiences}
-    + [Audiences overview](audience-library/audience-library.md)
++ Experience Cloud Audiences {#audiences}
+    + [Experience Cloud Audiences overview](audience-library/audience-library.md)
     + [Create an audience](audience-library/t-audience-create.md)
     + [Publish an Analytics audience segment](audience-library/t-publish-audience-segment.md)
 + Customer Attributes in Experience Cloud {#customer-attributes}
