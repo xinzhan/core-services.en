@@ -2,14 +2,14 @@
 audience: end-user
 user-guide-title: Experience Cloud Interface Guide
 breadcrumb-title: Interface Guide
-user-guide-description: Adobe Experience Cloud services include the People (Audiences and Customer Attributes), Offers, Experience Platform Launch, and Mobile Services.
+user-guide-description: Adobe Experience Cloud services include the People (Audiences and Customer Attributes), Offers, Experience Platform Launch, and user and product management.
 user-guide-url: https://www.adobe.com
 index: yes
 ---
 
-# Experience Cloud interface help {#interface}
+# Experience Cloud Interface Guide {#interface}
 
-+ [Experience Cloud and product documentation](experience-cloud.md)
++ [Experience Cloud Interface Guide](experience-cloud.md)
 + Application services in Experience Cloud {#about-core-services}
     + [Application services overview](core-services-landing.md)
     + [Enable your implementation for cross-solution services](core-services/core-services.md)
