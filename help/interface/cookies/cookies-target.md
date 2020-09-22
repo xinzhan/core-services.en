@@ -3,7 +3,7 @@ description: Target uses cookies to give website operators the ability to test w
 keywords: cookies;privacy
 seo-description: Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
 seo-title: Target Cookies
-solution: Marketing Cloud,Analytics,Target,Social
+solution: Experience Cloud,Analytics,Target,Social
 title: Target Cookies
 uuid: 44f7e32e-8d99-4682-8b54-8364d001b403
 ---

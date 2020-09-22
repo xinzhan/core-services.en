@@ -3,7 +3,7 @@ description: Scene7 uses cookies to store helpful information that can be used t
 keywords: cookies;privacy
 seo-description: Scene7 uses cookies to store helpful information that can be used to delivery dynamic media to the browser.
 seo-title: Scene7 Cookies
-solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
+solution: Experience Cloud,Analytics,Target
 title: Scene7 Cookies
 uuid: f9b9d13a-17e5-4139-8c84-6fe5d22c4196
 ---

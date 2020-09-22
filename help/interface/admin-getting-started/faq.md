@@ -3,7 +3,7 @@ description: Common questions and answers for administrators in the Experience C
 keywords: core services, Experience Cloud, Experience Platform, Analytics, Target, user management.
 seo-description: Common questions and answers for administrators in the Experience Cloud.
 seo-title: Frequently asked questions about Experience Cloud core services.
-solution: Adobe Experience Cloud
+solution: Experience Cloud
 title: Frequently asked questions
 index: yes
 ---
