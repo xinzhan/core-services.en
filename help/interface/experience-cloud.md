@@ -14,7 +14,7 @@ The Experience Cloud is Adobe's integrated family of digital marketing solutions
 
 ![Experience Cloud](assets/cloud-pulldown.png)
 
-This guide provides product documentation for user and product management in Experience Cloud, as well as Customer Attributes and Experience Cloud Audiences (Audience Library). Articles in this guide include:
+Adobe Experience Cloud Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, and Experience Cloud assets. Articles in this guide include:
 
 * [[!UICONTROL Audience Library]](audience-library/audience-library.md)
 * [[!UICONTROL Customer Attributes]](attributes/attributes.md)
