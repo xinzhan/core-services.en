@@ -3,7 +3,7 @@ description: Self help, product documentation, and technical documentation for t
 keywords: platform services
 seo-description: Help about user and product administration in the Admin Console, enabling solutions for platform services, and help on the Audience Library, Customer Attributes, Experience Cloud Assets, and more.
 seo-title: Adobe Experience Cloud and platform services help and product documentation.
-solution: Adobe Experience Cloud
+solution: Experience Cloud
 title: Experience Cloud and platform services help
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 ---
