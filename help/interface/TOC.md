@@ -1,7 +1,7 @@
 ---
 audience: admin
 user-guide-title: Experience Cloud Administration, Audiences, and Customer Attributes
-breadcrumb-title: Experience Cloud Administration Guide
+breadcrumb-title: Experience Cloud Administration, Audiences, and Customer Attributes
 user-guide-description: Adobe Experience Cloud Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, and Experience Cloud assets.
 user-guide-url: https://www.adobe.com
 index: yes
@@ -51,7 +51,7 @@ index: yes
     + [Upload an asset to a shared folder from the Creative Cloud desktop](experience-cloud-assets/t-cc-asset-upload-thor.md)
     + [Asset file requirements for sharing](experience-cloud-assets/assets-file-reqs.md)
     + [Behavior of shared folders](experience-cloud-assets/asset-behavior.md)
-+ Experience Cloud Audiences {#audiences}
++ Experience Cloud Audience Library {#audiences}
     + [Experience Cloud Audiences overview](audience-library/audience-library.md)
     + [Create an audience](audience-library/t-audience-create.md)
     + [Publish an Analytics audience segment](audience-library/t-publish-audience-segment.md)

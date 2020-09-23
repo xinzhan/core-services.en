@@ -1,20 +1,20 @@
 ---
-description: Self help, product documentation, and technical documentation for the Adobe Experience Cloud. The Experience Cloud is Adobe's integrated family of digital marketing solutions and services.
-keywords: core services
-seo-description: This page provides self help, product documentation, and technical documentation for the Experience Cloud.
-seo-title: Adobe Experience Cloud and core services help and product documentation.
+description: Self help, product documentation, and technical documentation for the Adobe Experience Cloud. Includes user and product administration in the Admin Console, enabling solutions for platform services, and help on the Audience Library, Customer Attributes, Experience Cloud Assets, and more.
+keywords: platform services
+seo-description: Help about user and product administration in the Admin Console, enabling solutions for platform services, and help on the Audience Library, Customer Attributes, Experience Cloud Assets, and more.
+seo-title: Adobe Experience Cloud and platform services help and product documentation.
 solution: Adobe Experience Cloud
-title: Experience Cloud and core services help
+title: Experience Cloud and platform services help
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 ---
 
-# Experience Cloud Interface Guide
+# Experience Cloud Administration, Audiences, and Customer Attributes
 
 The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
 
 ![Experience Cloud](assets/cloud-pulldown.png)
 
-Adobe Experience Cloud Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, and Experience Cloud assets. Articles in this guide include:
+This guide provides access to help on Experience Cloud user and product administration in the Admin Console, enabling solutions for platform services. You can also access help on the Audience Library, Customer Attributes, Experience Cloud Assets, and more:
 
 * [[!UICONTROL Audience Library]](audience-library/audience-library.md)
 * [[!UICONTROL Customer Attributes]](attributes/attributes.md)
