@@ -3,7 +3,7 @@ description: As the support for third-party cookies has become more and more lim
 keywords: cookies;privacy
 seo-description: As the support for third-party cookies has become more and more limited across browsers, Adobe has been working on new solutions that carefully balance customer requirements with the consumer's right to privacy across the Adobe Experience Cloud solutions.
 seo-title: How Changes to Third Party Cookie Support Impacts Customers
-solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
+solution: Experience Cloud,Analytics,Target
 title: How Changes to Third Party Cookie Support Impacts Customers
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
 ---

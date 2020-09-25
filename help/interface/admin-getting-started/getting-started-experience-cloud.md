@@ -20,14 +20,11 @@ Signing in to the Experience Cloud (rather than signing into a single solution) 
 
 Sign in and verify that you are in the right [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1).
 
-1. Click the Experience Cloud pull-down menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
+1. Click the Experience Cloud menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
 
-   ![](assets/admin-link.png)
-
-   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) (Adobe Corp, in this example). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company.
+   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company.
 1. Click **[!UICONTROL Administration]**.
 
-   ![](assets/admin-landing.png)
 1. Continue by clicking one of the following links:
 
 | Element | Description |

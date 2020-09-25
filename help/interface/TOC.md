@@ -1,17 +1,18 @@
 ---
-audience: end-user
-user-guide-title: Experience Cloud Interface User Guide
-user-guide-description: Adobe Experience Cloud services include the People (Audiences and Customer Attributes), Offers, Experience Platform Launch, and Mobile Services.
+audience: admin
+user-guide-title: Experience Cloud Administration, Audiences, and Customer Attributes
+breadcrumb-title: Experience Cloud Administration, Audiences, and Customer Attributes
+user-guide-description: Adobe Experience Cloud Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, and Experience Cloud assets.
 user-guide-url: https://www.adobe.com
 index: yes
 ---
 
-# Core Services User Guide {#interface}
+# Experience Cloud Administration, Audiences, and Customer Attributes {#interface}
 
-+ [Experience Cloud and product documentation](experience-cloud.md)
-+ Core services in Experience Cloud {#about-core-services}
-    + [Core services overview](core-services-landing.md)
-    + [Enable your solutions for core services](core-services/core-services.md)
++ [Experience Cloud Admin, Audiences, and Customer Attributes](experience-cloud.md)
++ Application services in Experience Cloud {#about-core-services}
+    + [Application services overview](core-services-landing.md)
+    + [Enable your implementation for cross-solution services](core-services/core-services.md)
     + [Map report suites to an organization](core-services/report-suite-mapping.md)
     + [About the new cloud names in Experience Cloud](solutions-core-services.md)
 + [Experience Cloud Integrations](marketing-cloud-integrations.md)
@@ -38,7 +39,7 @@ index: yes
     + [Upgrading to Analytics Premium and the Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
 + Experience Cloud Activation {#activation}
     + [Activation overview](activation/activation.md)
-    + [Launch user guide](https://docs.adobe.com/content/help/en/launch/using/overview.html)
+    + [Experience Platform Launch user guide](https://docs.adobe.com/content/help/en/launch/using/overview.html)
     + [Dynamic Tag Manager user guide](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
     + [Triggers](activation/triggers.md)
 + Experience Cloud assets {#assets}
@@ -50,8 +51,8 @@ index: yes
     + [Upload an asset to a shared folder from the Creative Cloud desktop](experience-cloud-assets/t-cc-asset-upload-thor.md)
     + [Asset file requirements for sharing](experience-cloud-assets/assets-file-reqs.md)
     + [Behavior of shared folders](experience-cloud-assets/asset-behavior.md)
-+ Audiences in Experience Cloud {#audiences}
-    + [Audiences overview](audience-library/audience-library.md)
++ Experience Cloud Audience Library {#audiences}
+    + [Experience Cloud Audiences overview](audience-library/audience-library.md)
     + [Create an audience](audience-library/t-audience-create.md)
     + [Publish an Analytics audience segment](audience-library/t-publish-audience-segment.md)
 + Customer Attributes in Experience Cloud {#customer-attributes}

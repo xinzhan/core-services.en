@@ -3,7 +3,7 @@ description: Audience Manager relies on a few simple cookies to perform differen
 keywords: cookies
 seo-description: Audience Manager relies on a few simple cookies to perform different functions. These include things like assigning IDs, recording data calls, error tracking, and testing to see if cookies can be set. This section lists and describes the various cookies set by Audience Manager.
 seo-title: Audience Manager Cookies
-solution: Marketing Cloud,Audience Manager
+solution: Experience Cloud, Audience Manager
 title: Audience Manager Cookies
 uuid: 8b384c38-b85a-4e93-b00e-41a9d3ae2b21
 ---

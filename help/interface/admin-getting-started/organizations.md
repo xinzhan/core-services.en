@@ -3,7 +3,7 @@ description: Learn about organizations and linking solution accounts to Experien
 keywords: core services
 seo-description: Learn about organizations and linking solution accounts to Experience Cloud.
 seo-title: Organizations and account linking
-solution: Marketing Cloud
+solution: Experience Cloud
 title: Organizations and account linking
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
 ---

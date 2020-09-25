@@ -2,24 +2,26 @@
 description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like Customer Attributes and audiences.
 keywords: core services;Customer Attributes
 seo-description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like Customer Attributes and audiences.
-seo-title: Enable your Experience Cloud solutions for core services
+seo-title: Enable your Experience Cloud solutions for customer attributes and audiences
 solution: Experience Cloud
 title: Enable your solutions for core services
 index: yes
 ---
 
-# Enable your solutions for core services
+# Enable your implementation for cross-solution services
 
-For existing customers, learn how to modernize your solution implementations and implement the Experience Cloud so that you can use features like Customer Attributes and audiences. To accomplish this, you will:
+If you recently implemented Experience Cloud using Experience Platform Launch, you're already set up for Customer Attributes and Experience Cloud Audiences. You can also manage users and products in the Admin Console.
+
+For existing customers, you may need to modernize your solution implementations and implement the Experience Cloud. Doing so enables you to leverage Customer Attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target. To accomplish this, you will:
 
 1. [Join the Experience Cloud and become an administrator](#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implement the Experience Cloud ID Service](#section_3C9F6DF37C654D939625BB4D485E4354)
 1. [Map report suites to an Experience Cloud organization](#section_7B08516B01BA421681DF03D0E86CE3BA)
 1. [Update your Analytics AppMeasurement code](#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [Update your Adobe Target implementation](#section_C2F4493C7A36406DAE2266B429A4BD24)
-1. [Verify the core services implementation](#section_E641782A0F4F44AF8C9C91216BE330D5)
+1. [Verify the  implementation](#section_E641782A0F4F44AF8C9C91216BE330D5)
 1. [Manage users and products](#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
-1. [Begin using core services](#section_960C06093623462E8EA247B3E97274A1)
+1. [Begin Begin sharing attribute and audience data](#section_960C06093623462E8EA247B3E97274A1)
 
 ## Step 1. Join the Experience Cloud and become an administrator {#section_2423F0BD3DF642658103310EE5EA6154}
 
@@ -78,8 +80,6 @@ The [!UICONTROL Experience Cloud ID Service] provides a common ID for cross-solu
 
 The simplest method for enabling Experience Cloud core services is to activate it automatically for Analytics and Adobe Target via the [Experience Cloud ID Service extension](https://docs.adobe.com/content/help/en/launch/using/implement/solutions/idservice-save.html) in [!UICONTROL Experience Platform Launch], or via the ECID tool in [!UICONTROL Dynamic Tag Management]. (Experience Platform Launch is strongly recommended.) 
 
-![](assets/menu-activation-shell.png)
-
 For complete Experience Cloud ID Service help (formerly, visitor ID), go [here](https://docs.adobe.com/content/help/en/id-service/using/home.html).
 
 **Not Using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dynamic Tag Management]?**
@@ -129,7 +129,7 @@ Verify that you are on regional data collection (RDC). If your data collection d
 
 It is recommended that you modernize your Analytics implementation by updating your JavaScript libraries, including the Visitor API. The simple way to accomplish this is to add an [!DNL Adobe Analytics] tool in Dynamic Tag Management, specifying *`Automatic`* as the configuration method.
 
-In [!UICONTROL Dynamic Tag Management], click **[!UICONTROL <Web Property Name>]** > **[!UICONTROL Overview]** > **[!UICONTROL Add a Tool]** > **[!UICONTROL Adobe Analytics]**. See [Adobe Analytics Settings](https://docs.adobe.com/content/help/en/dtm/using/tools/analytics-dtm.html) in Dynamic Tag Management for deployment information. 
+In [!UICONTROL Dynamic Tag Management], click **`<Web Property Name>`** > **[!UICONTROL Overview]** > **[!UICONTROL Add a Tool]** > **[!UICONTROL Adobe Analytics]**. See [Adobe Analytics Settings](https://docs.adobe.com/content/help/en/dtm/using/tools/analytics-dtm.html) in Dynamic Tag Management for deployment information. 
 
 ## Step 5. (Adobe Target) Update your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
 
@@ -141,7 +141,7 @@ In [!UICONTROL Dynamic Tag Management], click **[!UICONTROL <Web Property Name>]
   >
   >All Analytics customers are already provisioned for core services like Customer Attributes. If you are not an Analytics customer, contact Customer Care to request to be provisioned.
 
-## Step 6. Verify the core services implementation {#section_E641782A0F4F44AF8C9C91216BE330D5}
+## Step 6. Verify the implementation {#section_E641782A0F4F44AF8C9C91216BE330D5}
 
 Use the following process to ensure the Experience Cloud ID Service is implemented correctly on your site. 
 
@@ -180,20 +180,11 @@ See [Experience Cloud user and product management](../admin-getting-started/admi
 
 ### Customer Attributes
 
-<!-- <p> 
- <note type="important">
-  To use the Customer Attributes feature, users must belong to the 
-  <span class="term"> Adobe Customer Attributes</span> group, and to solution-level groups (Analytics or Adobe Target). 
- </note> </p> 
- -->
- 
 Users that are added to the [!UICONTROL Customer Attributes] group will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
-## Step 8. Begin using core services {#section_960C06093623462E8EA247B3E97274A1}
+## Step 8. Begin sharing attribute and audience data {#section_960C06093623462E8EA247B3E97274A1}
 
 Take advantage of the following features. 
-
-![](assets/menu-audiences-shell.png) 
 
 ### [!UICONTROL People] > [!UICONTROL Customer Attributes]
 

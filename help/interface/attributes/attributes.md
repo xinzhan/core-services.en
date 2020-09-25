@@ -8,7 +8,7 @@ title: Customer attributes
 uuid: 1621402d-990f-46f9-981a-473280559069
 ---
 
-# Customer Attributes
+# Customer Attributes overview
 
 Navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**
 

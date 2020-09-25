@@ -10,11 +10,9 @@ uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 
 >[!NOTE]
 >
->Report Suite Mapping functionality will be deprecated in November 2020. Please map any outstanding report suites in >preparation for this. Reach out to client care with any questions.
+>Report Suite Mapping functionality will be deprecated in November 2020. Please map any outstanding report suites in preparation for this. Reach out to client care with any questions.
 
 Learn how to map one or multiple report suites to an organization.
-
-<!-- May 5 2020: This feature will likely be deprecated in Nov 2020. Any users with outstanding report suites that are not mapped will have 6 months to map their RS. -->
 
 Experience Cloud services (such as Experience Cloud ID Service and [!UICONTROL People]) are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. The mapping process: 
 

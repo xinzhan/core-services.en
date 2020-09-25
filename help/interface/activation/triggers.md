@@ -3,7 +3,7 @@ description: How to configure Experience Cloud Triggers.
 keywords: integrations;Triggers
 seo-description: How to configure Experience Cloud Triggers.
 seo-title: Triggers
-solution: Marketing Cloud
+solution: Experience Cloud
 title: Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
 ---

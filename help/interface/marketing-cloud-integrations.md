@@ -8,7 +8,7 @@ title: Experience Cloud Integrations
 uuid: a9893c6b-bccc-4fb5-b724-724644c7def5
 ---
 
-# Experience Cloud Integrations
+# Experience Cloud integrations
 
 Adobe Experience Cloud is a comprehensive set of best-in-class, integrated solutions built on a common data platform with a common set of powerful features.
 
@@ -16,7 +16,7 @@ Adobe Experience Cloud is a comprehensive set of best-in-class, integrated solut
 
 Help: [Enable your applications for Platform Services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) 
 
-Describes how to: 
+Describes how to:
 
 * Provision your company in the Experience Cloud.
 * Enable you to become an administrator.
@@ -26,16 +26,16 @@ Describes how to:
 
 Solutions or services: 
 
-* Activation - Dynamic Tag Management or Experience Platform Launch
+* Activation - Experience Platform Launch (recommended) or Dynamic Tag Management 
 * Analytics
 * Target
 * [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 
 ## Experience Cloud ID Service {#section_6ECCCFA2D84D4D4F88C879C799CA9D78}
 
-Help: [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) 
+The ID service provides a universal, persistent ID that identifies your visitors across all the solutions in the Experience Cloud. It can replace ID generation code for services such as Analytics, Audience Manager, Adobe Target, video heartbeat, and other Experience Cloud solutions or features.
 
-The ID service provides a universal, persistent ID that identifies your visitors across all the solutions in the Experience Cloud. It can replace ID generation code for services such as Analytics, Audience Manager, Adobe Target, video heartbeat, and other Experience Cloud solutions or features. 
+See [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) 
 
 **Applicable solutions or services** 
 
@@ -112,7 +112,7 @@ Help: [Getting Started](https://docs.adobelaunch.com/getting-started)
 
 Use the Experience Cloud Activation solutions to set up and debug your Experience Cloud solutions. 
 
-1. Use [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) or [Dynamic Tag Management](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud solutions](solutions-core-services.md#topic_BD726D3A649E4FC49063029E86B70C62) on your pages.
+1. Use [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) or [Dynamic Tag Management](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud solutions](solutions-core-services.md#topic_BD726D3A649E4FC49063029E86B70C62) on your pages.
 1. Use [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) to test your implementations.
 
 Use the Adobe Experience Cloud Debugger extension to debug issues found by Auditor or to examine other information about your implementations. 
@@ -175,7 +175,7 @@ Synchronize your assets within Adobe Experience Manager (AEM) Assets with Adobe 
 
 ## Advertising Cloud {#section_9B1935F8BBC147C89C6DB68A35CB1BAB}
 
-Help (login required): [Integration with Adobe Experience Cloud Solutions and Core Services](https://enterprise.efrontier.com/CMDashboard/help/internal/concepts_and_features/media_optimizer_integration_with_adobe_marketing_cloud.htm) 
+Help (login required): [Integration with Adobe Experience Cloud Solutions and Services](https://enterprise.efrontier.com/CMDashboard/help/internal/concepts_and_features/media_optimizer_integration_with_adobe_marketing_cloud.htm) 
 
 **Applicable solutions or services** 
 

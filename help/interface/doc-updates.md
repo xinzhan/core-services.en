@@ -12,6 +12,10 @@ uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 
 Information about updates to the Experience Cloud product documentation.
 
+**Updated: 8/19/2020**
+
+Updated [View Experience Cloud user details (Admin Tool)](admin-getting-started/admin-tool-experience-cloud.md) with Policies information.
+
 **Updated: 5/19/2020**
 
 Depcrecated Offer Management documentation.
