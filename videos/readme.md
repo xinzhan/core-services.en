@@ -1,3 +1,0 @@
-# KT node 
-
-readme placeholder
