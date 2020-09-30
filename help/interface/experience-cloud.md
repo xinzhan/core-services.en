@@ -35,7 +35,7 @@ This guide provides access to help on Experience Cloud user and product administ
 Related Experience Cloud guides include:
 
 * [Adobe Mobile](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
-* [Device Co-op](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)
+* [Experience Platform Co-op Graph](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)
 * [Exchange](https://experiencecloud.adobeexchange.com/)
 * [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 * [Experience Platform Launch](https://docs.adobelaunch.com/)
