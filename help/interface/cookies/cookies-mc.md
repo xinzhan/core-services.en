@@ -42,6 +42,10 @@ Adobe Experience Cloud uses cookies to store a visitor ID that is used across Ex
    <td colname="col1"> <p> Size </p> </td> 
    <td colname="col2"> <p>45 bytes </p> </td> 
   </tr> 
+  <tr> 
+   <td colname="col1"> <p> SameSite=Lax </p> </td> 
+   <td colname="col2"> <p>Cookies with this setting are only sent when the domain displayed in the URL of the browser matches the domain of the cookie. This is the new default for cookies in Chrome.</p> </td> 
+  </tr> 
  </tbody> 
 </table>
 
@@ -78,6 +82,10 @@ See also, [Cookies and the ID Service](https://docs.adobe.com/content/help/en/id
   <tr> 
    <td colname="col1"> <p> Size </p> </td> 
    <td colname="col2"> <p> Varies, most customers can expect this cookie to be around 200 bytes in length. </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>No value added. Chrome will default to Lax. </p> </td> 
+   <td colname="col2"> <p> Cookies with this setting are only sent when the domain displayed in the URL of the browser matches the domain of the cookie. This is the new default for cookies in Chrome. </p> </td> 
   </tr> 
  </tbody> 
 </table>
