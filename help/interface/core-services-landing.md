@@ -1,9 +1,9 @@
 ---
 description: Learn about Adobe Experience Cloud user and product management, People (Audiences and Customer Attributes), Journey Orchestration, Offers, Places, Experience Platform Launch, and Mobile Services.
 seo-description: Learn about Adobe Experience Cloud user and product management, the People (Audiences and Customer Attributes), Offers, Experience Platform Launch, and Mobile Services.
-seo-title: Experience Cloud core services and user management
+seo-title: Experience Cloud services and user management
 solution: Experience Cloud
-title: About Experience Cloud core services
+title: About Experience Cloud services
 index: yes
 ---
 
@@ -31,4 +31,4 @@ This help describes the following products and services:
 |[Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)|Adobe [!UICONTROL Experience Platform Location Service] (Location Service) is a geo-location service that enables mobile apps with location awareness to understand the location context by using rich and easy-to-use SDK interfaces accompanied by a flexible database of points of interests (POIs).  |
 |[Exchange](exchange.md)|Search, browse, select, pay, and download Digital Marketing extensions via apps.|
 |[Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)|Adobe Mobile Services brings together mobile marketing capabilities for mobile applications from across the Experience Cloud, which allows you to understand and improve user engagement with your mobile applications.|
-|People|Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into Audiences for targeted marketing efforts.<br>[Audiences](audience-library/audience-library.md) - Categorize different types of customers into Audiences, then share those Audiences across Marketing Cloud solutions.<br>[Customer Attributes](attributes/attributes.md) - audience enrichment that lets you connect consumer information you have collected outside of the Marketing Cloud.<br>[Device graph](https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) - Collaborate with the world's most popular brands to recognize a familiar consumer behind an unfamiliar device. (In beta, for Marketing Cloud Device Co-op members only.)|
+|People|Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into Audiences for targeted marketing efforts.<br>[Audiences](audience-library/audience-library.md) - Categorize different types of customers into Audiences, then share those Audiences across Marketing Cloud solutions.<br>[Customer Attributes](attributes/attributes.md) - audience enrichment that lets you connect consumer information you have collected outside of the Marketing Cloud.<br>[Device graph](https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) - Collaborate with the world's most popular brands to recognize a familiar consumer behind an unfamiliar device.|

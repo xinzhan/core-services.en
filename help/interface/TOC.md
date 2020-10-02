@@ -1,17 +1,17 @@
 ---
 audience: admin
-user-guide-title: Experience Cloud Application Services and Administration
-breadcrumb-title: Experience Cloud Application Services and Administration
-user-guide-description: Adobe Experience Cloud Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, and Experience Cloud assets.
+user-guide-title: Experience Cloud Services and Administration
+breadcrumb-title: Experience Cloud Services and Administration
+user-guide-description: Adobe Experience Cloud Services and Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, cookies, and Experience Cloud assets.
 user-guide-url: https://www.adobe.com
 index: yes
 ---
 
-# Experience Cloud Application Services and Administration {#interface}
+# Experience Cloud Services and Administration {#interface}
 
-+ [Experience Cloud Admin, Audiences, and Customer Attributes](experience-cloud.md)
-+ Application services in Experience Cloud {#about-core-services}
-    + [Application services overview](core-services-landing.md)
++ [Experience Cloud Services and Administration](experience-cloud.md)
++ Experience Cloud services {#about-core-services}
+    + [Experience Cloud services overview](core-services-landing.md)
     + [Enable your implementation for cross-solution services](core-services/core-services.md)
     + [Map report suites to an organization](core-services/report-suite-mapping.md)
     + [About the new cloud names in Experience Cloud](solutions-core-services.md)

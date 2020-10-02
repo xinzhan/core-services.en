@@ -8,7 +8,7 @@ title: Experience Cloud and platform services help
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 ---
 
-# Experience Cloud Application Services and Administration
+# Experience Cloud Services and Administration
 
 The Experience Cloud is Adobe's integrated family of digital marketing solutions and services. It's also an intuitive interface that lets you quickly access your cloud solutions and core services.
 

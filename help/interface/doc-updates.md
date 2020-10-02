@@ -1,6 +1,6 @@
 ---
 description: Information about updates to the Experience Cloud help.
-keywords: core services
+keywords: Experience Cloud services
 seo-description: Information about updates to the Experience Cloud help.
 seo-title: Documentation updates - Experience Cloud
 solution: Experience Cloud
