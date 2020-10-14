@@ -1,13 +1,13 @@
 ---
-description: Manage the translation of visitor data into audience segmentation in Experience Cloud Audience Library.
-seo-description: Manage the translation of visitor data into audience segmentation in Experience Cloud Audience Library.
-seo-title: Experience Cloud Audiences overview
+description: Manage the translation of visitor data into audience segmentation in Experience Cloud Audience service.
+seo-description: Manage the translation of visitor data into audience segmentation in Experience Cloud Audience service.
+seo-title: Experience Cloud Audiences service
 solution: Experience Cloud
-title: Experience Cloud Audiences overview
+title: Experience Cloud Audiences 
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 ---
 
-# Experience Cloud Audiences overview {#topic_679810123CAA4E0CA4FA3417FB0100C7}
+# Experience Cloud Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
 Audiences are collections of visitors (a list of visitor IDs). Adobe's Audience Library lets you manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to products and services in [!DNL Experience Cloud]. 
 

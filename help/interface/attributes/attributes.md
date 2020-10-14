@@ -2,13 +2,13 @@
 description: Overview and prerequisites about uploading Customer Attributes to the Experience Cloud.
 keywords: core services;Customer Attributes
 seo-description: Overview and prerequisites about uploading Customer Attributes to the Experience Cloud.
-seo-title: Customer attributes
+seo-title: Experience Cloud Customer Attributes service
 solution: Experience Cloud
-title: Customer attributes
+title: Experience Cloud Customer Attributes service
 uuid: 1621402d-990f-46f9-981a-473280559069
 ---
 
-# Customer Attributes overview
+# Experience Cloud Customer Attributes service 
 
 Navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**
 
