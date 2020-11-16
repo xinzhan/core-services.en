@@ -19,7 +19,7 @@ Audiences can be created or derived from various sources, such as:
 * From [!DNL Analytics] segments published to the [!DNL Experience Cloud]
 * From [!DNL Audience Manager]
 
-**Real-Time vs. Historical Audiences**
+**Real-Time versus Historical Audiences**
 
 All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. However, audiences shared from Analytics to Audience Manager are not accessible for real-time targeting. The system evaluates audiences in two ways: 
 
