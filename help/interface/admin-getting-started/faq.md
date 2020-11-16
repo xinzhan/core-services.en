@@ -1,7 +1,7 @@
 ---
-description: Common questions and answers for administrators in the Experience Cloud.
+description: Browser support, common questions and answers for administrators in the Experience Cloud.
 keywords: core services, Experience Cloud, Experience Platform, Analytics, Target, user management.
-seo-description: Common questions and answers for administrators in the Experience Cloud.
+seo-description: Browser support, common questions and answers for administrators in the Experience Cloud.
 seo-title: Frequently asked questions about Experience Cloud core services.
 solution: Experience Cloud
 title: Frequently asked questions
@@ -10,7 +10,15 @@ index: yes
 
 # Frequently asked questions about Experience Cloud
 
-Common questions and answers for administrators in the Experience Cloud.
+Learn about browser support and common questions and answers for administrators in the Experience Cloud.
+
+## What browsers are supported in Experience Cloud?
+
+* Microsoft Edge (current and back two versions)
+* Google Chrome (current and back two versions)
+* Mozilla Firefox (current and back two versions)
+* Safari (current and back two versions)
+* Opera (current and back two versions)
 
 ## How do I know if my solutions are enabled for core services?
 
