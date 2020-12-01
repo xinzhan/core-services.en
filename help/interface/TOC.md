@@ -54,9 +54,9 @@ index: yes
 + Experience Cloud Audience Library {#audiences}
     + [Experience Cloud Audiences service](audience-library/audience-library.md)
     + [Create an audience](audience-library/t-audience-create.md)
-    + [Publish an Analytics audience segment](audience-library/t-publish-audience-segment.md)
+    + [Publish an Analytics audience segment](audience-library/t-publish-audience-segment.md) 
 + Experience Cloud Customer Attributes {#customer-attributes}
-    + [Customer Attributes service](attributes/attributes.md)
+    + [Customer Attributes in Adobe Experience Cloud](attributes/attributes.md)
     + [Frequently asked questions, limitations, and best practices](attributes/faq-crs.md)
     + [About data file and data sources for Customer Attributes](attributes/crs-data-file.md)
     + [Create a Customer Attribute source and upload the data file](attributes/t-crs-usecase.md)

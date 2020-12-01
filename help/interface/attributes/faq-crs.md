@@ -1,10 +1,10 @@
 ---
-description: FAQ and best practices for Customer Attributes in Analytics and Target.
+description: Customer attributes - frequently asked question and best practices for Adobe Analytics and Adobe Target.
 keywords: Customer Attributes
 seo-description: FAQ and best practices for Customer Attributes in Analytics and Target.
 seo-title: Frequently asked questions, limitations, and best practices
 solution: Experience Cloud
-title: Frequently asked questions, limitations, and best practices
+title: Customer Attributes - frequently asked questions for Adobe Experience Cloud
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 ---
 

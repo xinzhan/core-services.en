@@ -1,14 +1,14 @@
 ---
-description: Overview and prerequisites about uploading Customer Attributes to the Experience Cloud.
-keywords: core services;Customer Attributes
+description: An overview and prerequisites about uploading Customer Attributes to the Adobe Experience Cloud.
+keywords: core services;Customer Attributes; Adobe Experience Cloud; Analytics; Target
 seo-description: Overview and prerequisites about uploading Customer Attributes to the Experience Cloud.
 seo-title: Experience Cloud Customer Attributes service
 solution: Experience Cloud
-title: Experience Cloud Customer Attributes service
+title: Adobe Experience Cloud - Customer Attributes service
 uuid: 1621402d-990f-46f9-981a-473280559069
 ---
 
-# Experience Cloud Customer Attributes service 
+# Customer Attributes in Adobe Experience Cloud 
 
 Navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**
 
