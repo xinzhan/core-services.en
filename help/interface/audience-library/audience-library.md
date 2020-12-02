@@ -1,29 +1,29 @@
 ---
-description: Manage the translation of visitor data into audience segmentation in Experience Cloud Audience service.
+description: Learn how to manage the translation of visitor data into audience segmentation in Adobe Experience Cloud Audience service.
 seo-description: Manage the translation of visitor data into audience segmentation in Experience Cloud Audience service.
 seo-title: Experience Cloud Audiences service
 solution: Experience Cloud
-title: Experience Cloud Audiences 
+title: Adobe Experience Cloud Audiences 
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 ---
 
 # Experience Cloud Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
-Audiences are collections of visitors (a list of visitor IDs). Adobe's Audience Library lets you manage the translation of visitor data into audience segmentation. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to products and services in [!DNL Experience Cloud]. 
+Audiences are collections of visitors (a list of visitor IDs). Adobe's Audience Library lets you manage the translation of visitor data into audience segmentation. As such, creating, and managing audiences is similar to creating and using segments. You can also share the audience segment to products and services in [!DNL Experience Cloud]. 
 
 ![](assets/audiences.png) 
 
 Audiences can be created or derived from various sources, such as: 
 
 * New ones created in the [!DNL Experience Cloud]
-* From [!DNL Analytics] segments published to the [!DNL Experience Cloud]
-* From [!DNL Audience Manager]
+* [!DNL Analytics] segments published to the [!DNL Experience Cloud]
+* [!DNL Audience Manager]
 
 **Real-Time versus Historical Audiences**
 
 All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. However, audiences shared from Analytics to Audience Manager are not accessible for real-time targeting. The system evaluates audiences in two ways: 
 
-* Historical audiences from Analytics are evaluated every 4 hours. Total time to process and share may take up to 8 hours.  Historical audiences always include return visitors.
+* Historical audiences from Analytics are evaluated every 4 hours. Total time to process and share may take up to 8 hours. Historical audiences always include return visitors.
 * Real-time audiences are sourced in the Experience Cloud Audiences and evaluated in real time.
 
 ## How solutions use audiences {#concept_01EB9345C5344597BC94A864EDD38EE1}
