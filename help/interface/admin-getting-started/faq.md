@@ -1,10 +1,8 @@
 ---
-description: Browser support, common questions and answers for administrators in the Experience Cloud.
+description: Learn about browser support and get common questions answered for administrators in the Adobe Experience Cloud.
 keywords: core services, Experience Cloud, Experience Platform, Analytics, Target, user management.
-seo-description: Browser support, common questions and answers for administrators in the Experience Cloud.
-seo-title: Frequently asked questions about Experience Cloud core services.
-solution: Experience Cloud
-title: Frequently asked questions
+solution: Adobe Experience Cloud
+title: Frequently asked questions about Experience Cloud | Adobe Experience Cloud
 index: yes
 ---
 

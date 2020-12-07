@@ -1,10 +1,8 @@
 ---
-description: Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions.
+description: Learn how Adobe Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions.
 keywords: cookies;privacy
-seo-description: Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions.
-seo-title: First-Party Cookies
 solution: Experience Cloud,Analytics
-title: First-Party Cookies
+title: How to use first-party cookies | Adobe Experience Cloud
 index: y
 snippet: y
 ---

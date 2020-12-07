@@ -1,13 +1,11 @@
 ---
-description: Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a Photoshop file, slides in a PowerPoint file, pages in a PDF, files in a ZIP).
-seo-description: Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a Photoshop file, slides in a PowerPoint file, pages in a PDF, files in a ZIP).
-seo-title: Assets
+description: Learn about Experience Cloud Assets.
 solution: Experience Cloud
-title: Assets
+title: Overview of Experience Cloud Assets | Adobe Experience Cloud
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 ---
 
-# Assets
+# Overview of Experience Cloud Assets
 
 Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
 

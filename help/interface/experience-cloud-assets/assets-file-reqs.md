@@ -1,16 +1,14 @@
 ---
-description: Allowed file types and size limitations for sharing assets between the Experience Cloud and Creative Cloud.
+description: Learn about allowed file types and size limitations for sharing assets between Adobe Experience Cloud and Creative Cloud.
 keywords: asset sharing;Creative Cloud;core services
-seo-description: Allowed file types and size limitations for sharing assets between the Experience Cloud and Creative Cloud.
-seo-title: Asset file requirements for sharing
 solution: Experience Cloud
-title: Asset file requirements for sharing
+title: File requirements for sharing assets | Adobe Experience Cloud
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
 ---
 
-# Asset file requirements for sharing
+# File requirements for sharing assets
 
-Allowed file types and size limitations for sharing assets between the Experience Cloud and Creative Cloud.
+Allowed file types and size limitations for sharing assets between Experience Cloud and Creative Cloud.
 
 ## File types allowed for upload {#section_52B6A40BB00B45BC944C01C49B4BB590}
 

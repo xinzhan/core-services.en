@@ -1,6 +1,6 @@
 ---
-title: Customer Attributes Support for General Data Protection Regulation
-description: Customer Attributes Support for General Data Protection Regulation
+title: Customer Attributes Support for General Data Protection Regulation | Adobe Experience Cloud
+description: Learn about Customer Attributes Support for General Data Protection Regulation
 ---
 
 # Customer Attributes support for General Data Protection Regulation

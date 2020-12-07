@@ -1,10 +1,8 @@
 ---
-description: Data file requirements and multiple data sources for uploading Customer Attributes to the Experience Cloud.
+description: Data file requirements and multiple data sources for uploading Customer Attributes to the Adobe Experience Cloud.
 keywords: Customer Attributes;core services
-seo-description: Data file requirements and multiple data sources for uploading Customer Attributes to the Experience Cloud.
-seo-title: About data file and data sources for Customer Attributes
 solution: Experience Cloud
-title: About data file and data sources for Customer Attributes
+title: Learn about data file and data sources for Customer Attributes | Adobe Experience Cloud
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 ---
 

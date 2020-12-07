@@ -1,10 +1,10 @@
 ---
-description: null
+description: Learn about terms in Adobe Experience Cloud and how they're different in Creative Cloud.
 keywords: asset sharing;audience services;Creative Cloud;core services
 seo-description: null
 seo-title: Terminology
 solution: Experience Cloud
-title: Terminology
+title: Terminology | Adobe Experience Cloud
 uuid: 30253c0d-944b-4e15-b9af-093afa3ddc17
 ---
 

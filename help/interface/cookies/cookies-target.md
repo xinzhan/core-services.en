@@ -1,10 +1,8 @@
 ---
-description: Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
+description: Learn how Adobe Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
 keywords: cookies;privacy
-seo-description: Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
-seo-title: Target Cookies
 solution: Experience Cloud,Analytics,Target,Social
-title: Target Cookies
+title: How to use Adobe Target Cookies | Adobe Experience Cloud
 uuid: 44f7e32e-8d99-4682-8b54-8364d001b403
 ---
 

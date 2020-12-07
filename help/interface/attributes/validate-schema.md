@@ -1,10 +1,8 @@
 ---
-description: The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). A schema is created based on these settings. The schema is used to validate all future data uploaded to this data source. This mapping process does not alter the original data.
-keywords: Customer Attributes;core services
-seo-description: The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). A schema is created based on these settings. The schema is used to validate all future data uploaded to this data source. This mapping process does not alter the original data.
-seo-title: Validate the schema
+description: Learn how to validate the customer attribute schema in Adobe Experience Cloud.
+keywords: Customer Attributes;Experience Cloud services
 solution: Experience Cloud
-title: Validate the schema
+title: How to validate the customer attribute schema | Adobe Experience Cloud
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 ---
 

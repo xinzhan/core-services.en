@@ -1,15 +1,13 @@
 ---
-description: Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like Adobe Social and Adobe Target. The shared folder must originate from the Experience Cloud.
+description: Learn how to share folders and assets between Experience Cloud and Creative Cloud. 
 keywords: asset sharing;Creative Cloud;core services
-seo-description: Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like Adobe Social and Adobe Target. The shared folder must originate from the Experience Cloud.
-seo-title: Share Experience Cloud folders and assets with Creative Cloud
 solution: Experience Cloud
-title: Share Experience Cloud folders and assets with Creative Cloud
+title: Share Experience Cloud folders and assets with Creative Cloud | Adobe Experience Cloud
 ---
 
 # Share Experience Cloud folders and assets with Creative Cloud
 
-Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like Adobe Social and Adobe Target. The shared folder must originate from the Experience Cloud.
+Share folders and assets between Experience Cloud and Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like Adobe Social and Adobe Target. The shared folder must originate from Experience Cloud.
 
 ## Benefits of sharing {#section_4AA9939F38064280BB181D5F9E1FDEEE}
 

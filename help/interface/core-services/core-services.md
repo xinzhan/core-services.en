@@ -1,10 +1,8 @@
 ---
-description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like Customer Attributes and audiences.
+description: Learn how to implement the Adobe Experience Cloud and become an administrator.
 keywords: core services;Customer Attributes
-seo-description: Implement the Experience Cloud and become an administrator. This process modernizes your solutions for features like Customer Attributes and audiences.
-seo-title: Enable your Experience Cloud solutions for customer attributes and audiences
 solution: Experience Cloud
-title: Enable your solutions for core services
+title: Enable your solutions for core services | Adobe Experience Cloud
 index: yes
 ---
 

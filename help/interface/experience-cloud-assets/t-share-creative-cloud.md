@@ -1,10 +1,8 @@
 ---
-description: Share an Experience Cloud asset folder with Creative Cloud users.
+description: How to share an Experience Cloud asset folder with Creative Cloud users.
 keywords: asset sharing;Creative Cloud;core services
-seo-description: Share an Experience Cloud asset folder with Creative Cloud users.
-seo-title: Share an Experience Cloud asset folder
 solution: Experience Cloud
-title: Share an Experience Cloud asset folder
+title: Share an Experience Cloud asset folder | Adobe Experience Cloud
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
 ---
 

@@ -1,10 +1,8 @@
 ---
-description: Rules for how shared folders behave when moved, deleted, and restored.
+description: Learn about rules for how shared folders behave when moved, deleted, and restored in Experience Cloud.
 keywords: asset sharing;Creative Cloud;core services
-seo-description: Rules for how shared folders behave when moved, deleted, and restored.
-seo-title: Behavior of shared folders
 solution: Experience Cloud
-title: Behavior of shared folders
+title: Behavior of shared folders | Adobe Experience Cloud
 uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf
 ---
 

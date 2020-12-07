@@ -1,10 +1,8 @@
 ---
-description: An overview and prerequisites about uploading Customer Attributes to the Adobe Experience Cloud.
+description: Learn Customer Attributes in the Adobe Experience Cloud.
 keywords: core services;Customer Attributes; Adobe Experience Cloud; Analytics; Target
-seo-description: Overview and prerequisites about uploading Customer Attributes to the Experience Cloud.
-seo-title: Experience Cloud Customer Attributes service
 solution: Experience Cloud
-title: Adobe Experience Cloud - Customer Attributes service
+title: Customer Attributes service | Adobe Experience Cloud
 uuid: 1621402d-990f-46f9-981a-473280559069
 ---
 

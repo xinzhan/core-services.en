@@ -1,10 +1,8 @@
 ---
-description: Audience Manager relies on a few simple cookies to perform different functions. These include things like assigning IDs, recording data calls, error tracking, and testing to see if cookies can be set. This section lists and describes the various cookies set by Audience Manager.
+description: Learn about Audience Manager cookies in Adobe Experience Cloud.
 keywords: cookies
-seo-description: Audience Manager relies on a few simple cookies to perform different functions. These include things like assigning IDs, recording data calls, error tracking, and testing to see if cookies can be set. This section lists and describes the various cookies set by Audience Manager.
-seo-title: Audience Manager Cookies
 solution: Experience Cloud, Audience Manager
-title: Audience Manager Cookies
+title: Audience Manager Cookies | Adobe Experience Cloud
 uuid: 8b384c38-b85a-4e93-b00e-41a9d3ae2b21
 ---
 

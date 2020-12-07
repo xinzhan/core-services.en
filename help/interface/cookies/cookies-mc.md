@@ -1,10 +1,8 @@
 ---
 description: Adobe Experience Cloud uses cookies to store a visitor ID that is used across Experience Cloud Solutions.
 keywords: cookies;privacy
-seo-description: Adobe Experience Cloud uses cookies to store a visitor ID that is used across Experience Cloud Solutions.
-seo-title: Experience Cloud Cookies
 solution: Experience Cloud,Analytics,Target
-title: Experience Cloud Cookies
+title: Experience Cloud Cookies | Adobe Experience Cloud
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
 ---
 

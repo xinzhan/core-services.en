@@ -4,7 +4,7 @@ keywords: integrations;Triggers
 seo-description: How to configure Experience Cloud Triggers.
 seo-title: Triggers
 solution: Experience Cloud
-title: Triggers
+title: Overview of Triggers | Adobe Experience Cloud
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
 ---
 

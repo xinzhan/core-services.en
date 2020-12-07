@@ -1,14 +1,12 @@
 ---
 description: Learn about solution data sources and configuring subscriptions. Subscriptions enable the customer attribute data flow between the Experience Cloud and solutions (Analytics and Target).
 keywords: Customer Attributes;core services
-seo-description: Learn about solution data sources and configuring subscriptions. Subscriptions enable the customer attribute data flow between the Experience Cloud and solutions (Analytics and Target).
-seo-title: Configure subscriptions
 solution: Experience Cloud
-title: Configure subscriptions
+title: How to configure subscriptions | Adobe Experience Cloud
 uuid: f74a8155-0a21-46b3-9b1e-4c838f72f24f
 ---
 
-# Configure subscriptions
+# How to configure subscriptions in Experience Cloud
 
 Learn about solution data sources and configuring subscriptions. Subscriptions enable the customer attribute data flow between the Experience Cloud and solutions (Analytics and [!DNL Target]).
 

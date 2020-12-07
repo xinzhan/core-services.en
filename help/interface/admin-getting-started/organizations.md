@@ -1,10 +1,8 @@
 ---
 description: Learn about organizations and linking solution accounts to Experience Cloud.
-keywords: core services
-seo-description: Learn about organizations and linking solution accounts to Experience Cloud.
-seo-title: Organizations and account linking
-solution: Experience Cloud
-title: Organizations and account linking
+keywords: Adobe Experience Cloud services
+solution: Adobe Experience Cloud
+title: Organizations and account linking | Adobe Experience Cloud
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
 ---
 

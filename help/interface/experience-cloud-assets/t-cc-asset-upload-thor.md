@@ -1,10 +1,8 @@
 ---
-description: Upload an asset to a shared folder from the Creative Cloud desktop.
+description: Learn how to upload an asset to a shared folder from the Creative Cloud desktop to Experience Cloud.
 keywords: asset sharing;Creative Cloud;core services
-seo-description: Upload an asset to a shared folder from the Creative Cloud desktop.
-seo-title: Upload an asset to a shared folder from the Creative Cloud desktop
 solution: Experience Cloud
-title: Upload an asset to a shared folder from the Creative Cloud desktop
+title: Upload an asset to a shared folder from the Creative Cloud desktop | Adobe Experience Cloud
 uuid: 88e97e4d-cf9e-4b26-923b-ee60583cae1a
 ---
 

@@ -1,10 +1,8 @@
 ---
 description: Features, release notes, and known issues for the Experience Cloud interface.
 keywords: core services
-seo-description: Features, release notes, and known issues for the Experience Cloud interface.
-seo-title: Cumulative release notes
 solution: Experience Cloud
-title: Cumulative release notes
+title: Cumulative release notes | Adobe Experience Cloud
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 ---
 

@@ -1,10 +1,8 @@
 ---
 description: Learn about available solution integrations in the Adobe Experience Cloud.
 keywords: integrations
-seo-description: Learn about available solution integrations in the Adobe Experience Cloud.
-seo-title: Experience Cloud Integrations
 solution: Experience Cloud
-title: Experience Cloud Integrations
+title: Experience Cloud Integrations | Adobe Experience Cloud
 uuid: a9893c6b-bccc-4fb5-b724-724644c7def5
 ---
 

@@ -1,10 +1,8 @@
 ---
-description: Learn how to use attribute rules to create an audience and define a composite audience in the Experience Cloud.
+description: Learn how to use attribute rules to create an audience and define a composite audience in Adobe Experience Cloud.
 keywords: core services
-seo-description: Learn how to use attribute rules to create an audience and define a composite audience in the Experience Cloud.
-seo-title: Create an audience
-solution: Experience Cloud
-title: Create an audience
+solution: Adobe Experience Cloud
+title: Create an audience | Adobe Experience Cloud
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
 ---
 
