@@ -8,7 +8,9 @@ title: Overview of Experience Cloud services | Adobe Experience Cloud
 
 Adobe Experience Cloud services include the [!UICONTROL People] (Audiences and Customer Attributes), Experience Platform Launch, and Mobile Services. You can also find help on Experience Cloud user and product management.
 
-To access these services in the Experience Cloud, click the **[!UICONTROL Application Selector]** ![](assets/menu-icon.png).
+To access these services in the Experience Cloud, click the **[!UICONTROL Application Selector]**
+
+![](assets/menu-icon.png).
 
 ![](assets/platform-core-services.png)
 

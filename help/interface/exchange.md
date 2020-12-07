@@ -1,10 +1,8 @@
 ---
-description: The Exchange Marketplace is a single destination where you can search, browse, select, pay, and download Digital Marketing extensions via apps. Apps include data connectors, custom configurations to Adobe's core product, 3rd party applications, and reports.
+description: Learn about the Exchange Marketplace, a single destination where you can search, browse, select, pay, and download Digital Marketing extensions via apps.
 keywords: core services
-seo-description: The Exchange Marketplace is a single destination where you can search, browse, select, pay, and download Digital Marketing extensions via apps. Apps include data connectors, custom configurations to Adobe's core product, 3rd party applications, and reports.
-seo-title: Exchange Marketplace
 solution: Experience Cloud
-title: Exchange Marketplace
+title: Exchange Marketplace | Adobe Experience Cloud
 uuid: 73db5cc5-5fb2-43a2-a164-5cbca9e9a206
 ---
 
