@@ -1,7 +1,7 @@
 ---
 description: Frequently asked questions about Customer attributes in Adobe Experience Cloud, for Adobe Analytics and Adobe Target.
 keywords: Customer Attributes
-solution: Adobe Experience Cloud
+solution: Experience Cloud
 title: Get answers to frequently asked questions about Customer Attributes | Adobe Experience Cloud
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 ---

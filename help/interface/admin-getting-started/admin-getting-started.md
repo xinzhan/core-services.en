@@ -1,7 +1,7 @@
 ---
 description: Learn about signing in to the Adobe Admin Console, managing Experience Cloud user permissions and product profiles, and browser support.
 keywords: Experience Cloud services
-solution: Adobe Experience Cloud
+solution: Experience Cloud
 title: Learn how to manage users and products | Adobe Experience Cloud
 index: yes
 ---
