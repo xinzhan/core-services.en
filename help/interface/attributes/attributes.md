@@ -1,16 +1,16 @@
 ---
-description: Learn Customer Attributes in the Adobe Experience Cloud.
+description: Learn about the Customer Attributes service in Adobe Experience Cloud and how to upload the data for use in Analytic and Target.
 keywords: core services;Customer Attributes; Adobe Experience Cloud; Analytics; Target
 solution: Experience Cloud
-title: Customer Attributes service | Adobe Experience Cloud
+title: How to use Customer Attributes | Adobe Experience Cloud
 uuid: 1621402d-990f-46f9-981a-473280559069
 ---
 
-# Customer Attributes in Adobe Experience Cloud 
+# How to use Customer Attributes in Adobe Experience Cloud 
 
-Navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**
+Customer Attributes in Adobe Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a customer attribute data source in the Experience Cloud, then use the data in Adobe Analytics and Adobe Target.
 
-If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, leverage the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
+To locate this feature, navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**
 
 ![](assets/custom_reports.png)
 
@@ -24,7 +24,7 @@ If you capture enterprise customer data in a customer relationship management (C
 
   Users that are added to the Customer Attributes will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
-* **Adobe Target** [!DNL at.js] (any version) or [!DNL mbox.js] version 58 or later is required for Customer Attributes.
+* **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for Customer Attributes.
 
   See [How to deploy at.js](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/how-to-deployatjs.html) or [Mbox.js Implementation](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/mbox-download.html).
 
@@ -40,7 +40,7 @@ After you create the data file, you can upload it to the customer attribute sour
 
 See [Upload Customer Attribute Data](../attributes/t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) to learn this workflow.
 
-## Solution use cases {#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9}
+## Examples of Customer Attributes in Analytics and Target {#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9}
 
 After the data resides in the Experience Cloud, you can customize it and share it to solutions for reporting, segmentation, activities, and campaigns.
 
