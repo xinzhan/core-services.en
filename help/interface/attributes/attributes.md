@@ -6,7 +6,7 @@ title: How to use Customer Attributes | Adobe Experience Cloud
 uuid: 1621402d-990f-46f9-981a-473280559069
 ---
 
-# How to use Customer Attributes in Adobe Experience Cloud 
+# How to Use Customer Attributes in Adobe Experience Cloud 
 
 Customer Attributes in Adobe Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a customer attribute data source in the Experience Cloud, then use the data in Adobe Analytics and Adobe Target.
 
