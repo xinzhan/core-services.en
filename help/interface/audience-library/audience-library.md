@@ -1,8 +1,7 @@
 ---
 description: Learn how to manage the translation of visitor data into audience segmentation in Adobe Experience Cloud Audience service.
-seo-description: Manage the translation of visitor data into audience segmentation in Experience Cloud Audience service.
-seo-title: Experience Cloud Audiences service
 solution: Experience Cloud
+type: Documentation
 title: Adobe Experience Cloud Audiences 
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 ---
