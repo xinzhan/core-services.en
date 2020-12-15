@@ -1,5 +1,5 @@
 ---
-title: Publish an Analytics audience segment | Adobe Experience Cloud
+title: Publish an Analytics audience segment 
 description: How to publish an Adobe Analytics audience segment to the Experience Cloud and to Adobe Target for audience marketing activities.
 ---
 

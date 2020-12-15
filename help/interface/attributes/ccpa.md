@@ -1,5 +1,5 @@
 ---
-title: Customer Attributes Support for California Consumer Privacy Act | Adobe Experience Cloud
+title: Customer Attributes Support for California Consumer Privacy Act 
 description: Customer Attributes Support for California Consumer Privacy Act
 ---
 

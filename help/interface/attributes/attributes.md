@@ -2,7 +2,7 @@
 description: Learn about the Customer Attributes service in Adobe Experience Cloud and how to upload the data for use in Analytic and Target.
 keywords: core services;Customer Attributes; Adobe Experience Cloud; Analytics; Target
 solution: Experience Cloud
-title: How to use Customer Attributes | Adobe Experience Cloud
+title: How to use Customer Attributes 
 uuid: 1621402d-990f-46f9-981a-473280559069
 ---
 

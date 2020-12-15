@@ -2,7 +2,7 @@
 description: Learn how to sign in to the Adobe Experience Cloud, manage passwords and notifications, and specify a default landing page.
 keywords: core services, sign in to Experience Cloud
 solution: Experience Cloud
-title: Sign in and manage your Experience Cloud profile settings | Adobe Experience Cloud
+title: Sign in and manage your Experience Cloud profile settings 
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 ---
 

@@ -2,7 +2,7 @@
 description: How Adobe Scene7 uses cookies to store helpful information that can be used to delivery dynamic media to the browser.
 keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
-title: Scene7 Cookies | Adobe Experience Cloud
+title: Scene7 Cookies 
 uuid: f9b9d13a-17e5-4139-8c84-6fe5d22c4196
 ---
 

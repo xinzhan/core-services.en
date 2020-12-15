@@ -2,7 +2,7 @@
 description: Learn how Adobe Data Connectors uses cookies to provide advertisers with optimized campaign and conversion performance metrics across multiple advertising channels.
 keywords: cookies;privacy
 solution: Experience Cloud, Analytics, Target
-title: Data Connectors Cookies | Adobe Experience Cloud
+title: Data Connectors Cookies 
 uuid: 5d27ba66-e640-4513-befc-69e8502de941
 ---
 

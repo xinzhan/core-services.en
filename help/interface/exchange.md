@@ -2,7 +2,7 @@
 description: Learn about the Exchange Marketplace, a single destination where you can search, browse, select, pay, and download Digital Marketing extensions via apps.
 keywords: core services
 solution: Experience Cloud
-title: Exchange Marketplace | Adobe Experience Cloud
+title: Exchange Marketplace 
 uuid: 73db5cc5-5fb2-43a2-a164-5cbca9e9a206
 ---
 

@@ -1,7 +1,7 @@
 ---
 description: How to implement DNS prefetch to help reduce page load times with different solutions and services in Adobe Experience Cloud.
 solution: Experience Cloud
-title: Using DNS prefetch with different solutions and services | Adobe Experience Cloud
+title: Using DNS prefetch with different solutions and services 
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
 ---
 

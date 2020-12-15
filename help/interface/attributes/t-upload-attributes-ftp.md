@@ -2,7 +2,7 @@
 description: If you do not upload using drag-and-drop, you can upload customer attribute data via FTP to the Experience Cloud.
 keywords: Customer Attributes;core services
 solution: Experience Cloud
-title: Upload the customer attribute data file via FTP | Adobe Experience Cloud
+title: Upload the customer attribute data file via FTP 
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
 ---
 
@@ -16,7 +16,7 @@ You can upload the data after you create a customer attribute source and an FTP 
 >
 >Review [Data file requirements for uploading Customer Attributes](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) before uploading the file. 
 
-File uploads to the Customer Attributes FTP site can be done via FTP or SFTP. 
+File uploads to the Customer Attributes FTP site can be done via FTP or SFTP: 
 
 * You need a client that supports SFTP connections.
 * You can connect with SFTP using either username/password or using no password, as described [here](https://docs.adobe.com/help/en/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).

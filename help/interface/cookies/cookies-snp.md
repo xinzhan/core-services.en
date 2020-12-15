@@ -2,7 +2,7 @@
 description: Learn how Search&Promote uses cookies to understand and anticipate visitor search intent.
 keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
-title: Search and Promote Cookies | Adobe Experience Cloud
+title: Search and Promote Cookies 
 uuid: 65bf24e0-0564-4dc2-b652-9fd9db57d23f
 ---
 

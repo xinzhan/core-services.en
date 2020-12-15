@@ -1,6 +1,6 @@
 ---
 description: Learn how solutions and services in Adobe Experience Cloud use cookies.
-title: How cookies are used in Experience Cloud | Adobe Experience Cloud
+title: How cookies are used in Experience Cloud 
 uuid: 4255a13a-917b-4b5f-a7d4-4b2e7521d189
 ---
 

@@ -2,7 +2,7 @@
 description: Learn how to create the customer attribute source and upload it to the Adobe Experience Cloud.
 keywords: Customer Attributes;core services
 solution: Experience Cloud
-title: Create a customer attribute source and upload the data file | Adobe Experience Cloud
+title: Create a customer attribute source and upload the data file 
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 ---
 

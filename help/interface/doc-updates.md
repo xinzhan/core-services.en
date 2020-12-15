@@ -2,7 +2,7 @@
 description: Information about updates to Adobe Experience Cloud help.
 keywords: Experience Cloud services
 solution: Experience Cloud
-title: Documentation updates - Experience Cloud | Adobe Experience Cloud
+title: Documentation updates - Experience Cloud 
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 ---
 

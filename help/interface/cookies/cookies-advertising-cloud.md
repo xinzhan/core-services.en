@@ -1,6 +1,6 @@
 ---
 description: Learn about Adobe Ad Cloud cookies for mapping ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.
-title: Advertising Cloud Cookies | Adobe Experience Cloud
+title: Advertising Cloud Cookies 
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 ---
 

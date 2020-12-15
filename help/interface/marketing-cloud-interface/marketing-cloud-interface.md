@@ -4,7 +4,7 @@ keywords: core services
 seo-description: An overview of new features and updates in the Experience Cloud.
 seo-title: What's new in the Experience Cloud
 solution: Experience Cloud
-title: What's new in the Experience Cloud | Adobe Experience Cloud
+title: What's new in the Experience Cloud 
 uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
 ---
 

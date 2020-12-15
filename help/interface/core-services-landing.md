@@ -1,7 +1,7 @@
 ---
 description: Learn about Adobe Experience Cloud user and product management, People (Audiences and Customer Attributes), Journey Orchestration, Offers, Places, Experience Platform Launch, and Mobile Services.
 solution: Experience Cloud
-title: Overview of Experience Cloud services | Adobe Experience Cloud
+title: Overview of Experience Cloud services 
 ---
 
 # About Experience Cloud {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}

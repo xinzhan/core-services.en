@@ -2,7 +2,7 @@
 description: Remove users who blocked all cookies on desktop and mobile browsers. This privacy setting excludes users who opt out of Analytics data collection.
 keywords: cookies;privacy
 solution: Experience Cloud, Analytics, Target, Social
-title: How to enable privacy settings for browser cookies | Adobe Experience Cloud
+title: How to enable privacy settings for browser cookies 
 uuid: f6a56e8b-b021-49db-8eb4-6c14af0c7243
 ---
 
