@@ -25,21 +25,21 @@ For existing customers, you may need to modernize your solution implementations 
 
 What you must do to join the Experience Cloud: 
 
-![](assets/step1_icon.png) Ensure that you have the appropriate Adobe Analytics or Adobe Target SKUs. 
+1. Ensure that you have the appropriate Adobe Analytics or Adobe Target SKUs. 
 
-* **Adobe Analytics:** Standard or Premium (not the legacy [!DNL SiteCatalyst] SKU).
-* **Adobe Target:** Standard or Premium.
+    * **Adobe Analytics:** Standard or Premium (not the legacy [!DNL SiteCatalyst] SKU).
+    * **Adobe Target:** Standard or Premium.
 
->[!NOTE]
->
->For [!DNL Target], migrate to at.js from [!DNL mbox.js]. See [Upgrading from at.js 1. x to at.js 2. x](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/upgrading-from-atjs-1x-to-atjs-20.html).
+    >[!NOTE]
+    >
+    >For [!DNL Target], migrate to at.js from [!DNL mbox.js]. See [Upgrading from at.js 1. x to at.js 2. x](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/upgrading-from-atjs-1x-to-atjs-20.html).
 
-![](assets/step2_icon.png) Modernize your implementation and get provisioned an administrator. 
+1. Modernize your implementation and get provisioned an administrator. 
 
-1. Follow the steps below in [Deploy the [!UICONTROL Experience Cloud ID Service]](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
-1. Contact your Account Manager and start the provisioning process for the Experience Cloud.
+    * Follow the steps below in [Implement the [!UICONTROL Experience Cloud ID Service]](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
+    * Contact your Account Manager and start the provisioning process for the Experience Cloud.
 
-![](assets/step3_icon.png) Manage users and products in the [!UICONTROL Admin Console]. 
+1. Manage users and products in the [!UICONTROL Admin Console]. 
 
 ### Administrator login
 
@@ -47,18 +47,18 @@ After you are an administrator, you can log in at [experiencecloud.adobe.com](ht
 
 You will see the **[!UICONTROL Administration]** link in the Experience Cloud menu navigation.
 
-See [Experience Cloud user and product administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for help.
+See [Experience Cloud user and product administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for more information.
 
 ### User login
 
 To log in to the Experience Cloud, your users must:
 
-1. Have an Adobe ID (or Enterprise ID for your company).
-1. Sign in at [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
-1. Belong to a solution group that is mapped to an enterprise group.
-1. If necessary, link their solution accounts to their Adobe ID (described below).
+* Have an Adobe ID (or Enterprise ID for your company).
+* Sign in at [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
+* Belong to a solution group that is mapped to an enterprise group.
+* If necessary, link their solution accounts to their Adobe ID (described below).
 
-![](assets/step4_icon.png) Optional: Link existing user accounts. 
+### Optional: Link existing user accounts. 
 
 Most likely, you have users who are already members of solution groups, such an Analytics group that you previously managed in [!UICONTROL Analytics] > [!UICONTROL Admin Tools].
 
