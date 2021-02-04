@@ -1,8 +1,7 @@
 ---
-description: Learn about signing in to the Adobe Admin Console, managing Experience Cloud user permissions and product profiles, and browser support.
-keywords: Experience Cloud services
-solution: Experience Cloud
-title: Learn how to manage users and products 
+description: Find out how to manage Adobe Experience Cloud user permissions and product profiles. Learn about signing in to the Adobe Admin Console and browser support for Experience Cloud.
+solution: Admin
+title: How to manage users and products 
 index: yes
 ---
 
@@ -16,7 +15,7 @@ Learn about signing in to the Admin Console, managing Experience Cloud user perm
 
 ## What's new in Experience Cloud user management {#concept_06A0A13362F644FB90F947238407637A}
 
-Learn about the latest features in Experience Cloud user management.
+Learn about the latest features in Experience Cloud user and product management.
 
 <!-- ### Business ID type
 
@@ -37,7 +36,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
 ## Signing in to the Admin Console {#section_705072FD4EBE4B70BC69EC81F2BB8669}
 
-Administrators no longer manage users in solutions. User and product management for Experience Cloud now occurs in the Admin Console.
+Administrators no longer manage users in specific product solutions. User and product management for Experience Cloud now occurs in the Admin Console.
 
 To sign in to the Admin Console:
 
@@ -50,17 +49,17 @@ Alternatively, from the Experience Cloud menu ( ![](assets/menu-icon.png)), clic
 
 [Administration User Guide](https://helpx.adobe.com/enterprise/using/users.html) for the Creative Cloud and Document Cloud. Some information is relevant to Experience Cloud user management, such as [managing identity types](https://helpx.adobe.com/enterprise/help/identity.html).
 
-[Sign in and manage your profile settings](../admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) to manage passwords, organizations, and notifications.
+[Sign in and manage your profile settings](../admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0).
 
 ## Product profiles and groups {#section_AB50558124D541CF80A0D3D76D35A4BF}
 
 The addition of product profiles marks a shift from how solution products and services were previously managed (by using groups). In the Admin Console, permissions are based on product profiles, which are groups of products and services that you can assign to users.
 
-For example in Analytics, you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, dimensions, and so on. You can permission users to a product profile by adding them to the profile. See [Assign Analytics access permissions to a product profile](../admin-getting-started/admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391).
+For example in Analytics, you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, dimensions, and so on. You can permission users to a product profile by adding them to the profile. See [Assign Analytics access permissions to a product profile](../admin-getting-started/admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) on this page.
 
-**Related help** 
+**Delegating administrative rights** 
 
-[Delegate limited administration privileges](../admin-getting-started/admin-getting-started.md#task_3A072C4AA9734BC59FFA7E015271BC7E)
+See [Delegate limited administration privileges](../admin-getting-started/admin-getting-started.md#task_3A072C4AA9734BC59FFA7E015271BC7E) on this page.
 
 ## Analytics {#section_97DE101F92CD494AB073893680992F1A}
 
@@ -110,11 +109,11 @@ Adobe Enterprise customers are represented as IMS Organizations in the Adobe Adm
 
 See [IMS Support for AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/security/ims-support.html#managing-products-and-user-access-in-admin-console).
 
-## Dynamic Tag Manager {#section_3A41CF2BD5994B9891537D063571D4ED}
+## Experience Platform Launch {#section_3A41CF2BD5994B9891537D063571D4ED}
 
-Invite users to Dynamic Tag Management and assign user roles and add users to groups.
+Invite users to [!UICONTROL Platform Launch] and assign user roles and rights.
 
-See [Users and Permissions](https://docs.adobe.com/content/help/en/dtm/using/admin/users.html) for information about how to invite users to Dynamic Tag Management and assign user roles and add users to groups.
+See [User permissions](https://experienceleague.adobe.com/docs/launch/using/admin/user-permissions.html?lang=en#admin).
 
 ## Audience Manager {#section_C31E3FA8A1E14463B1B3E07235F1983C}
 
