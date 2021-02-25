@@ -90,7 +90,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
-   <td colname="col2"> <p>2 years </p> </td> 
+   <td colname="col2"> <p>Cookies set on 24 February 2021 or earlier expire after 730 days. Cookies set on 25 February 2021 or later expire after 364 days.</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Usage </p> </td> 
