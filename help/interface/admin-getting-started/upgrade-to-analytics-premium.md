@@ -1,10 +1,13 @@
 ---
-description: Administrators can learn about the requirements and what to expect when upgrading to Analytics Premium, and where to find help as an Experience Cloud administrator.
+description: Learn about the requirements and what to expect when upgrading to Analytics Premium.
 keywords: Adobe Analytics Premium upgrade
 solution: Experience Cloud
-title: How to upgrade to Analytics Premium and the Experience Cloud 
-topic: Premium
+title: Upgrade to Analytics Premium and the Experience Cloud 
+topic: Administration
 uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
+feature: Admin Console
+role: Administrator
+level: Experienced
 ---
 
 # Upgrading to Analytics Premium and the Experience Cloud

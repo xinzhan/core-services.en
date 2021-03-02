@@ -1,9 +1,13 @@
 ---
-description: Learn about the Experience Cloud Admin Tool, to  view a sortable and filterable list of all Experience Cloud users and policies.
+description: Learn about the Experience Cloud Admin Tool. View a sortable and filterable list of all Experience Cloud users and policies.
 keywords: core services
 solution: Experience Cloud
 title: View Experience Cloud users and user details 
 index: yes
+feature: Admin Console
+topic: Administration
+role: Administrator
+level: Experienced
 ---
  
 # View Experience Cloud users and policies in the Admin Tool

@@ -3,8 +3,12 @@ description: Learn about latest branding updates for the clouds, how to navigate
 seo-description: Learn about latest branding updates for the clouds, how to navigate the interface, and where to find help for solutions and core services.
 seo-title: About the new cloud names in Experience Cloud
 solution: Experience Cloud
-title: About the new cloud names in Experience Cloud 
+title: About the cloud names in Experience Cloud 
 uuid: 27d022ad-50fa-485e-8f94-0959112cf3d0
+feature: Admin Console
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # About the new cloud names in Experience Cloud {#topic_BD726D3A649E4FC49063029E86B70C62}

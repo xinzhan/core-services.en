@@ -4,6 +4,10 @@ keywords: Customer Attributes;core services
 solution: Experience Cloud
 title: How to configure subscriptions 
 uuid: f74a8155-0a21-46b3-9b1e-4c838f72f24f
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # How to configure subscriptions in Experience Cloud

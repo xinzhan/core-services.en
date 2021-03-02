@@ -4,6 +4,11 @@ solution: Experience Cloud
 type: Documentation
 title: Adobe Experience Cloud Audiences 
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
+description: Learn how to manage the translation of visitor data into audience segmentation in Experience Cloud Audience service.
+feature: Audience Library
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Experience Cloud Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}

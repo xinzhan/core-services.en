@@ -4,6 +4,10 @@ keywords: core services, Experience Cloud, Experience Platform, Analytics, Targe
 solution: Experience Cloud
 title: Frequently asked questions about Experience Cloud 
 index: yes
+feature: Admin Console
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Frequently asked questions about Experience Cloud

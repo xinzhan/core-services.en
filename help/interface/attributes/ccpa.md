@@ -1,6 +1,10 @@
 ---
 title: Customer Attributes Support for California Consumer Privacy Act 
-description: Customer Attributes Support for California Consumer Privacy Act
+description: Learn about Customer Attributes support for California Consumer Privacy Act
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Customer Attributes support for California Consumer Privacy Act

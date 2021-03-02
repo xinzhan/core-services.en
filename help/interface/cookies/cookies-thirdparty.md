@@ -4,6 +4,10 @@ keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: How changes to third-party cookie support impacts customers 
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
+feature: Cookies
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # How changes to third-party cookie support impact customers{#how-changes-to-third-party-cookie-support-impacts-customers}

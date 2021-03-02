@@ -4,6 +4,10 @@ keywords: Customer Attributes;core services
 solution: Experience Cloud
 title: Create a customer attribute source and upload the data file 
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Create a customer attribute source and upload the data file

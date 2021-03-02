@@ -1,8 +1,12 @@
 ---
 description: Learn about Experience Cloud Assets that you can share across solutions.
 solution: Experience Cloud
-title: Overview of Experience Cloud Assets 
+title: Overview of assets
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
+feature: Assets
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Overview of Experience Cloud Assets

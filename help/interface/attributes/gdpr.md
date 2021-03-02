@@ -1,6 +1,10 @@
 ---
 title: Customer Attributes Support for General Data Protection Regulation 
 description: Learn about Customer Attributes Support for General Data Protection Regulation
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Customer Attributes support for General Data Protection Regulation

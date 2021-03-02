@@ -4,6 +4,10 @@ keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: Share an Experience Cloud asset folder 
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
+feature: Assets
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Share an Experience Cloud asset folder
