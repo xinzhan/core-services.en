@@ -37,7 +37,7 @@ The following table describes how audiences are used in Experience Cloud solutio
 |[!DNL Target]|The [ID service](https://docs.adobe.com/content/help/en/id-service/using/home.html) unifies visitor IDs and data into a single, actionable profile for use across solutions. The [Publish to the Experience Cloud](../audience-library/audience-library.md) checkbox during the segment creation process in Adobe Analytics allows the segment to be available within the Adobe Target's custom audience library. A segment created in Analytics or Audience Manager can be used for activities in [!DNL Target]. For example, you can create campaign activities based on [!DNL Analytics] conversion metrics and audience segments created in [!DNL Analytics].|
 |Audience Manager|Shared audiences are available in Audience Manager segmentation. All Experience Cloud audiences are available natively in Audience Manager, which provides:<ul><li>Built-in automation regarding how they are shared and consumed in solution workflows</li><li>Offsite destinations</li><li>Look-alike modeling</li></ul>|
 |Campaign|<ul><li>Import shared audiences from different Adobe Experience Cloud solutions into Adobe Campaign.</li><li>Export recipient lists in the form of shared audiences. These shared audiences can be used in the different Adobe Experience Cloud solutions that you use.</li></ul>|
-|Media Optimizer|Use the audience as targets.|
+|Advertising Cloud|Use the audience as targets.|
 
 >[!IMPORTANT]
 >

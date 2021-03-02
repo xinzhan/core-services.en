@@ -7,7 +7,7 @@ uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 
 # Overview of Experience Cloud Assets
 
-Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
+Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have subassets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
 
 Asset services include: 
 
@@ -57,7 +57,7 @@ Editing an asset enables features, including:
 
 ## Search for assets {#section_50FE049010B446FC9640AA6A30E5A730}
 
-You can search by keyword, file type, size, last modified, publish status, orientation and style. 
+You can search by keyword, file type, size, last modified, publish status, orientation, and style. 
 
 ![](assets/asset-search.png) 
 

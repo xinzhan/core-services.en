@@ -37,13 +37,13 @@ Share an Experience Cloud asset folder with Creative Cloud users.
 
    ![](assets/asset_comment_mac.png) 
 
- 1. To un-share a folder, click **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](../experience-cloud-assets/t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), then remove users by clicking X, then click **[!UICONTROL Share]**.
+ 1. To unshare a folder, click **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](../experience-cloud-assets/t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), then remove users by clicking X, then click **[!UICONTROL Share]**.
 
    ![](assets/asset_remove_user.png) 
 
-   Once you have removed all Creative Cloud Users, the folder is un-shared and the Creative Cloud users no longer has access. 
+   Once you have removed all Creative Cloud Users, the folder is unshared and the Creative Cloud users no longer has access. 
 
-Additional ways to use a shared asset include: 
+More ways to use a shared asset include: 
 
 * Use assets in the [!UICONTROL Asset Selector] in [!DNL Adobe Social] for social posts.
 * Load or swap assets in the [Offers Library](https://docs.adobe.com/help/en/target/using/experiences/offers/manage-content.html) in [!DNL Adobe Target] for images in activities.
