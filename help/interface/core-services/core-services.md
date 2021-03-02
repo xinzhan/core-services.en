@@ -10,7 +10,7 @@ index: yes
 
 If you recently implemented Experience Cloud using Experience Platform Launch, you're already set up for Customer Attributes and Experience Cloud Audiences. You can also manage users and products in the Admin Console.
 
-For existing customers, you may need to modernize your solution implementations and implement the Experience Cloud. Doing so enables you to leverage Customer Attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target. To accomplish this, you will:
+For existing customers, you may need to modernize your solution implementations and implement the Experience Cloud. Doing so enables you to leverage Customer Attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target. To accomplish this implementation, you will:
 
 1. [Join the Experience Cloud and become an administrator](#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implement the Experience Cloud ID Service](#section_3C9F6DF37C654D939625BB4D485E4354)

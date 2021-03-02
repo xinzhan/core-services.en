@@ -19,7 +19,7 @@ Fixes and improvements for August, 2018.
 * Made improvements on assets comment sync across Creative Cloud and Experience Cloud. (CORE-15971)
 * Added feature flag to control Experience Cloud-Creative Cloud asset sync. (CORE-15938)
 * Made improvements to Audience segments creation, including better search and listing experience. (CORE-5833, CORE-14278)
-* Fixed a high priority issue that blocked folder sharing from MAC to Creative Cloud. (CORE-16677)
+* Fixed a high priority issue that blocked folder sharing from Experience Cloud to Creative Cloud. (CORE-16677)
 
 ## July 19, 2018 {#section_EBB549EBABB7480884A180237ADCCD02}
 
