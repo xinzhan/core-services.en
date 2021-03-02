@@ -1,8 +1,12 @@
 ---
 description: Find out how to manage Adobe Experience Cloud user permissions and product profiles. Learn about signing in to the Adobe Admin Console and browser support for Experience Cloud.
 solution: Admin
-title: How to manage users and products 
+title: User and product management 
 index: yes
+feature: Admin Console
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Manage Experience Cloud users and products {#topic_3FCB4099640647E3B2411ADBFCE81909}

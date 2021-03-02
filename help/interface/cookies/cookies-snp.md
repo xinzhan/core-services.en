@@ -4,6 +4,10 @@ keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: Search and Promote Cookies 
 uuid: 65bf24e0-0564-4dc2-b652-9fd9db57d23f
+feature: Cookies
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Search and Promote Cookies{#search-and-promote-cookies}

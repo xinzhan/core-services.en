@@ -4,6 +4,10 @@ keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: Upload an asset to a shared folder from the Creative Cloud desktop 
 uuid: 88e97e4d-cf9e-4b26-923b-ee60583cae1a
+feature: Assets
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Upload an asset to a shared folder from the Creative Cloud desktop

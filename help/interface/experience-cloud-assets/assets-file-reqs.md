@@ -4,6 +4,10 @@ keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: File requirements for sharing assets 
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
+feature: Assets
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # File requirements for sharing assets

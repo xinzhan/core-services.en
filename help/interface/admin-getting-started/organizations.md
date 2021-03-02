@@ -4,6 +4,10 @@ keywords: Adobe Experience Cloud services
 solution: Experience Cloud
 title: Organizations and account linking 
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
+feature: Admin Console
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Organizations and account linking

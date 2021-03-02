@@ -4,6 +4,10 @@ keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: Behavior of shared folders 
 uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf
+feature: Assets
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Behavior of shared folders

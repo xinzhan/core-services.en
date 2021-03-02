@@ -1,9 +1,13 @@
 ---
-description: If you do not upload using drag-and-drop, you can upload customer attribute data via FTP to the Experience Cloud.
+description: Learn how to upload customer attribute data via FTP to the Experience Cloud.
 keywords: Customer Attributes;core services
 solution: Experience Cloud
 title: Upload the customer attribute data file via FTP 
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Optional - Upload the data file via FTP

@@ -4,6 +4,10 @@ keywords: Customer Attributes
 solution: Experience Cloud
 title: Get answers to frequently asked questions about Customer Attributes 
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Frequently asked questions, limitations, and best practices

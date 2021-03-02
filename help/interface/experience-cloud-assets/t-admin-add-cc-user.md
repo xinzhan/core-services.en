@@ -4,6 +4,10 @@ keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: Manage Creative Cloud users 
 uuid: 11c4de67-40c5-4438-92fc-e23761be3f18
+feature: Assets
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Manage Creative Cloud users

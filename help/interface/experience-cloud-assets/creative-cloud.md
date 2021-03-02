@@ -3,6 +3,10 @@ description: Learn how to share folders and assets between Experience Cloud and 
 keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: Share Experience Cloud folders and assets with Creative Cloud 
+feature: Assets
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Share Experience Cloud folders and assets with Creative Cloud

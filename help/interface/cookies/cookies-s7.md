@@ -4,6 +4,10 @@ keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: Scene7 Cookies 
 uuid: f9b9d13a-17e5-4139-8c84-6fe5d22c4196
+feature: Cookies
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Scene7 Cookies{#scene-cookies}

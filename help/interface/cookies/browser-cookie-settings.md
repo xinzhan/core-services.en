@@ -1,9 +1,13 @@
 ---
-description: Remove users who blocked all cookies on desktop and mobile browsers. This privacy setting excludes users who opt out of Analytics data collection.
+description: Learn how to enable privacy settings for browser cookies. You can remove users who blocked all cookies on desktop and mobile browsers.
 keywords: cookies;privacy
 solution: Experience Cloud, Analytics, Target, Social
-title: How to enable privacy settings for browser cookies 
+title: Privacy settings for browser cookies 
 uuid: f6a56e8b-b021-49db-8eb4-6c14af0c7243
+feature: Cookies
+topic: Administration
+role: Administrator
+level: Experienced
 ---
 
 # Enable privacy settings for browser cookies{#enable-privacy-settings-for-browser-cookies}
