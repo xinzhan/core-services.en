@@ -10,7 +10,7 @@ role: Administrator
 level: Experienced
 ---
 
-# Frequently asked questions, limitations, and best practices
+# Frequently asked questions about Customer Attributes
 
 Frequently asked questions and best practices for Customer Attributes in Adobe Analytics and Adobe Target.
 

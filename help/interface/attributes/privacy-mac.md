@@ -10,7 +10,7 @@ role: Administrator
 level: Experienced
 ---
 
-# Privacy considerations for Customer Attributes in Experience Cloud
+# Privacy considerations for Customer Attributes
 
 Considerations and best practices regarding personally identifiable information (PII) uploaded and used in the Adobe Experience Cloud.
 
