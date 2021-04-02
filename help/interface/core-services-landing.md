@@ -2,7 +2,7 @@
 description: Learn about Adobe Experience Cloud user and product management, People (Audiences and Customer Attributes), Journey Orchestration, Offers, Places, Experience Platform Launch, and Mobile Services.
 solution: Experience Cloud
 title: Overview of Experience Cloud services 
-feature: "Customer Attributes, Audience Library"
+feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
