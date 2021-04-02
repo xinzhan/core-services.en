@@ -102,7 +102,3 @@ See [Audiences](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3
 **Updated: 5/22/2014**
 
 Updated [Manage Experience Cloud users and products](admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about becoming an administrator in the Experience Cloud.
-
-**Updated: 5/22/2014**
-
-Added [Exchange Marketplace](exchange.md#concept_E07F16F070544B82B56527A845C41D59).
