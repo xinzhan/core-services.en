@@ -22,7 +22,9 @@ Two options are available to implement first-party cookies:
 * The Experience Platform ID Service. The ID Service can set the cookie in the first-party context using JavaScript.
 * DNS entries on your company's DNS server to configure a CNAME alias to an Adobe hosted domain. Please note that while various Adobe products support using a CNAME, in all cases the CNAME is used to a create a trusted first-party endpoint for a specific customer and is owned by that customer. If that customer controls multiple domains, they may use a single CNAME endpoint to track users across their domains, but as this requires third-party cookies for all domains outside of the CNAME’s domain, it does not work when third-party cookies are blocked and so is not recommended. Adobe CNAMEs are never used to track an individual or device across domains owned by different customers.
 
-Even when using the first option with the Experience Cloud ID Service, Apple's ITP will make the first-party cookies short-lived, so it is best used in conjunction with the second option.
+>[!NOTE]
+>
+>For both options, Apple's Intelligent Tracking Prevention (ITP) program will make the first-party cookies short-lived on browsers that are governed by ITP, which include Safari on MacOS and all browsers on iOS and iPadOS. As of November 2020, both types of cookies have a seven-day expiry. This expiry is subject to change.
 
 For the second option using a CNAME, if your site has secure pages using the HTTPS protocol, you can work with Adobe to obtain an SSL certificate in order to implement first-party cookies. Adobe strongly recommends that you exclusively use HTTPS for data collection as we will be dropping support for HTTP collection in the second half of 2020.
 
@@ -87,7 +89,7 @@ As long as implementation code is not altered, this step will not affect data co
 
 >[!NOTE]
 >
->The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies, but because of recent Apple ITP changes, it is still recommended to allocate a CNAME even when using the Experience Cloud ID Service.
+>The Experience Cloud Visitor ID service provides an alternative to configuring a CNAME to enable first-party cookies.
 
 ## Validate hostname forwarding {#validate}
 
