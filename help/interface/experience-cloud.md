@@ -4,7 +4,7 @@ keywords: Adobe Experience Cloud services, customer attributes, audiences, user 
 solution: Experience Cloud
 title: Experience Cloud services and administration 
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-feature: "Customer Attributes, Audience Library, Admin Console"
+feature: "Customer Attributes"
 topic: Administration
 role: Administrator
 level: Experienced
