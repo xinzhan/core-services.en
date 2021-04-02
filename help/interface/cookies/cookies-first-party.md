@@ -47,12 +47,12 @@ Here is how you implement a new first-party SSL certificate for first-party cook
 1. Create CNAME records (see instructions below).
 
     Upon receiving the ticket, a customer care representative should provide you with a pair of CNAME records. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAMES will be similar to the following: 
-    
+
     **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.ssl.d1.omtrdc.net`.
 
     **Non-secure** - For example, the hostname `metrics.example.com` points to: `example.com.d1.omtrdc.net`.  
 
-1. When these CNAMES are in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers. 
+1. When these CNAMES are in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers.
 
     If you have an existing implementation, you should consider visitor migration to maintain your existing visitors. After the certificate has been pushed live to Adobe’s production environment, you can update your tracking server variables to the new hostnames. Meaning, if the site is not secure (HTTP), update the `s.trackingServer`. If the site is secure (HTTPS), update both `s.trackingServer` and `s.trackingServerSecure` variables.
 
@@ -62,7 +62,7 @@ Here is how you implement a new first-party SSL certificate for first-party cook
 
 ### Maintenance and Renewals
 
-SSL certificates expire each year, meaning Adobe must purchase a new certificate for each implementation on a yearly basis. All supported users within your organization will receive an email notification each time an implementation is close to expiration. For Adobe to renew your hostname, one supported user must reply to the email from Adobe and indicate that you plan to continue using the expiring hostname for data collection. At that point, Adobe automatically purchases and installs a new certificate. 
+SSL certificates expire each year, meaning Adobe must purchase a new certificate for each implementation on a yearly basis. All supported users within your organization will receive an email notification each time an implementation is close to expiration. For Adobe to renew your hostname, one supported user must reply to the email from Adobe and indicate that you plan to continue using the expiring hostname for data collection. At that point, Adobe automatically purchases and installs a new certificate.
 
 ### Frequently Asked Questions
 
