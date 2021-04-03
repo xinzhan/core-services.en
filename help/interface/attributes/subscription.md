@@ -8,8 +8,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: cfa2aa5c-337f-401e-80eb-cbe36cb1d41e
 ---
-
 # How to configure subscriptions in Experience Cloud
 
 Learn about solution data sources and configuring subscriptions. Subscriptions enable the customer attribute data flow between the Experience Cloud and solutions (Analytics and [!DNL Target]).

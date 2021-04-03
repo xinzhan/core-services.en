@@ -8,8 +8,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 ---
-
 # Documentation updates - Experience Cloud
 
 Information about updates to the Experience Cloud product documentation.

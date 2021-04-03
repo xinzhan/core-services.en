@@ -5,8 +5,8 @@ feature: Audience Library
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 6d097492-864b-412c-bfd6-f97be4a03558
 ---
-
 # Publish an Analytics audience segment
 
 Publish an Analytics audience segment to the Experience Cloud and to Adobe Target for audience marketing activities.

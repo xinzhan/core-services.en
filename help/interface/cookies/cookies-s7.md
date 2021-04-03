@@ -8,8 +8,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: ecb8d17f-f752-44ca-8877-44752c28dc70
 ---
-
 # Scene7 Cookies{#scene-cookies}
 
 Scene7 uses cookies to store helpful information that can be used to delivery dynamic media to the browser.
@@ -78,4 +78,3 @@ Browser cookies are used by legacy DHTML viewers for storing state information a
   </tr> 
  </tbody> 
 </table>
-

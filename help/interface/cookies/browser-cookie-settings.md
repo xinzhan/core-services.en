@@ -8,8 +8,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 5d852e0e-4004-4f94-a6f7-3a14a96cd42f
 ---
-
 # Enable privacy settings for browser cookies{#enable-privacy-settings-for-browser-cookies}
 
 You can remove users who blocked all cookies on desktop and mobile browsers. This feature is a privacy setting that excludes users who opt out of data collection, enabling you to respect a user's intention to stop Analtyics processing.

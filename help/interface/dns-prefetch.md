@@ -7,8 +7,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: caf2ff76-2076-436d-a5a7-aff531464480
 ---
-
 # Using DNS prefetch with different solutions and services
 
 Implement DNS prefetch to help reduce page load times with different solutions and services.

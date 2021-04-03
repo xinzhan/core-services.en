@@ -8,8 +8,8 @@ feature: Assets
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 61bc8f52-a77e-4e85-939b-6f29963334a1
 ---
-
 # File requirements for sharing assets
 
 Allowed file types and size limitations for sharing assets between Experience Cloud and Creative Cloud.

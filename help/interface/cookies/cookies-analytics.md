@@ -8,8 +8,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: bc8ce894-f98c-4475-8a07-d74ae76f7451
 ---
-
 # Analytics Cookies{#analytics-cookies}
 
 Adobe Analytics uses cookies to differentiate requests from different browsers and to store helpful information that an application can use later. They may also be used to associate browsing information to customer records.
@@ -101,4 +101,4 @@ The following table describes the flags for Analytics cookies:
 
 Additional cookies can be set depending on the use of Analytics plug-ins. These cookies are snippets of code available to the client for use in a variety of circumstances. These circumstances include: retrieving values from the URL; concatenating values to pass to Analytics; capturing form abandonment, and so on. For specifics on cookies that are set by each plug-in, contact ClientCare. An example would be the [!DNL s_vh] cookie used with the *Set Once Per* and *Set and Get Last Value* plug-ins.
 
-Conversion variables (eVarX) passed in on a image request without JavaScript, such as code placed within an email, are attributed properly only if the email client and web browser share the same cookie space. 
+Conversion variables (eVarX) passed in on a image request without JavaScript, such as code placed within an email, are attributed properly only if the email client and web browser share the same cookie space.

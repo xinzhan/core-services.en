@@ -10,8 +10,8 @@ feature: "Customer Attributes"
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
 ---
-
 # Terminology
 
 A terminology reference for Experience Cloud users, and how those terms are used in Creative Cloud (where applicable).

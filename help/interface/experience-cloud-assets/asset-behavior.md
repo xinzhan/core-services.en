@@ -8,8 +8,8 @@ feature: Assets
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 5ddcb2f0-b491-466d-b357-aeacbfcf0b8e
 ---
-
 # Behavior of shared folders
 
 Rules for how shared folders behave when moved, deleted, and restored.
@@ -98,4 +98,4 @@ You restore content from an archive that belonged to a shared folder. You owned 
 
 ![](assets/12_assets_move.png) 
 
-**Result:** The content is restored to the shared folder and all collaborators can access it again. If the shared folder no longer exists, the content is put into an unshared copy of its original parent folder(s). 
+**Result:** The content is restored to the shared folder and all collaborators can access it again. If the shared folder no longer exists, the content is put into an unshared copy of its original parent folder(s).

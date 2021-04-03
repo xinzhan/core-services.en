@@ -8,8 +8,8 @@ feature: Admin Console
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 ---
-
 # Frequently asked questions about Experience Cloud
 
 Learn about browser support and common questions and answers for administrators in the Experience Cloud.

@@ -5,8 +5,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
 ---
-
 # Customer Attributes support for California Consumer Privacy Act
 
 This page describes [!UICONTROL Customer Attributes'] support for the California Consumer Privacy Act (CCPA).

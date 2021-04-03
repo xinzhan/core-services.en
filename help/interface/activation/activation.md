@@ -10,8 +10,8 @@ feature: Admin Console
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: d57f168b-6beb-48f2-b0d2-92593ceee62e
 ---
-
 # Activation
 
 Activation includes the latest tag management product called Experience Platform Launch, Dynamic Tag Management (DTM), and Triggers.

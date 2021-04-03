@@ -8,8 +8,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: f00cbf4d-ece0-4827-a65f-e3b7068d680c
 ---
-
 # Data Workbench Cookies{#data-workbench-cookies}
 
 Data workbench uses cookies to analyze large volumes of rapidly evolving data in real-time.
@@ -23,4 +23,3 @@ Data workbench uses cookies to analyze large volumes of rapidly evolving data in
 |  Usage  | This cookie is used to identify a unique visitor.  |
 |  Location  | This cookie is stored at the domain of the page.  |
 |  Size  | 8 bytes, or 13 bytes if including the "name =" portion (v1st=)  |
-

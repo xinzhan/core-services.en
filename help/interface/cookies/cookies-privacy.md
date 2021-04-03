@@ -8,8 +8,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 169b5c67-aab6-4b2a-832e-c5998d796bf7
 ---
-
 # About Cookies and Privacy{#about-cookies-and-privacy}
 
 Maintaining customer privacy and data security are top priorities at Adobe. Adobe participates in multiple privacy organizations and cooperates with privacy regulators and self-regulatory principles (such as the Digital Advertising Alliance AdChoices program) to provide customers with information about how their information is used, and choices about its use.
@@ -29,4 +29,3 @@ The following diagram illustrates cookie usage for a standard image request:
 The following diagram illustrates cookie usage for a straight image request (used in scenarios where a JS file is not loaded): 
 
 ![](assets/CookiesProcessGraphic2.png)
-

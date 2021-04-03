@@ -8,8 +8,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: c4399cc0-8333-47b8-b830-2ba7359f464a
 ---
-
 # Adobe Target Cookies{#target-cookies}
 
 Adobe Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
@@ -79,4 +79,3 @@ The cookie keeps a number of values to manage how your visitors experience Adobe
   </tr> 
  </tbody> 
 </table>
-

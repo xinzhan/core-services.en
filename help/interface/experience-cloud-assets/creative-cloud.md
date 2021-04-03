@@ -7,8 +7,8 @@ feature: Assets
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 41290ea3-86ce-4e9d-8c3c-bbe30c337c4c
 ---
-
 # Share Experience Cloud folders and assets with Creative Cloud
 
 Share folders and assets between Experience Cloud and Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like Adobe Social and Adobe Target. The shared folder must originate from Experience Cloud.
@@ -27,4 +27,4 @@ Before Creative Cloud users have access to assets, they must be whitelisted in t
 
 When creating activities in [!DNL Adobe Target], you can use a shared image asset when swapping images in the [!UICONTROL Offers Library].
 
-See [Offers Library](https://docs.adobe.com/help/en/target/using/experiences/offers/manage-content.html) in [!DNL Target] Help. 
+See [Offers Library](https://docs.adobe.com/help/en/target/using/experiences/offers/manage-content.html) in [!DNL Target] Help.

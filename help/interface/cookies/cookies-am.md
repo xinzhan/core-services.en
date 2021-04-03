@@ -8,8 +8,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: ab6de845-99ea-4cd8-b7cd-012fb641403f
 ---
-
 # Audience Manager Cookies{#audience-manager-cookies}
 
 Audience Manager relies on a few simple cookies to perform different functions. These include things like assigning IDs, recording data calls, error tracking, and testing to see if cookies can be set. This section lists and describes the various cookies set by Audience Manager.

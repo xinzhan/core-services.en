@@ -8,8 +8,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 776d1fd3-c733-4970-a76b-4c3c0119ee77
 ---
-
 # Validate the schema
 
 The validation process lets you map display names and descriptions to uploaded attributes (strings, integers, numbers, and so on). A schema is created based on these settings. The schema is used to validate all future data uploaded to this data source. This mapping process does not alter the original data.
@@ -56,4 +56,4 @@ The names you apply to strings, integers, and numbers are used to create [!DNL A
     
 * **[!UICONTROL Display Name:]** A friendly name for the attribute. For example, you might change an attribute *customer age* to *Customer Since*. 
 
-* **[!UICONTROL Description:]** A friendly description of the attribute. 
+* **[!UICONTROL Description:]** A friendly description of the attribute.

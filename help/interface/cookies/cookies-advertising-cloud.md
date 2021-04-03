@@ -6,8 +6,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
 ---
-
 # Advertising Cloud Cookies{#advertising-cloud-cookies}
 
 Advertising Cloud uses cookies to map ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.

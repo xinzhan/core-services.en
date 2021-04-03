@@ -8,8 +8,8 @@ feature: Admin Console
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 7f8fa610-32f0-4b18-8054-3ba05436a10e
 ---
-
 # Experience Cloud integrations
 
 Adobe Experience Cloud is a comprehensive set of best-in-class, integrated solutions built on a common data platform with a common set of powerful features.
@@ -189,4 +189,4 @@ Help (login required): [Integration with Adobe Experience Cloud Solutions and Se
 
 **Experience Cloud Assets:** (Advertisers with display management) You can use any of your Adobe Experience Cloud assets as the creatives for your display ads, using the New Display Beta view. You must be [logged in to Media Optimizer through Adobe Experience Cloud](https://enterprise-test.efrontier.com/CMDashboard/help/internal/getting_started/t_log_in_from_adobe_marketing_cloud.htm)) to access your Adobe Experience Cloud assets. Contact your account manager for information about access to Adobe Experience Cloud. 
 
-**Experience Cloud Notifications:** From the notifications link at the top of each page, you can view all alerts generated from your search beta alerts templates, as well as Adobe Experience Cloud system updates, posts, mentions, and assets shared. You must be [logged in to Media Optimizer through Adobe Experience Cloud](https://enterprise-test.efrontier.com/CMDashboard/help/internal/getting_started/t_log_in_from_adobe_marketing_cloud.htm)) to access your notifications. Contact your account manager for information about access to Adobe Experience Cloud. 
+**Experience Cloud Notifications:** From the notifications link at the top of each page, you can view all alerts generated from your search beta alerts templates, as well as Adobe Experience Cloud system updates, posts, mentions, and assets shared. You must be [logged in to Media Optimizer through Adobe Experience Cloud](https://enterprise-test.efrontier.com/CMDashboard/help/internal/getting_started/t_log_in_from_adobe_marketing_cloud.htm)) to access your notifications. Contact your account manager for information about access to Adobe Experience Cloud.

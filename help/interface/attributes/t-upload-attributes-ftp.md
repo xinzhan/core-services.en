@@ -8,8 +8,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
 ---
-
 # Optional - Upload the data file via FTP
 
 If you do not upload using drag-and-drop, you can upload customer attribute data via FTP to the Experience Cloud.
@@ -39,4 +39,4 @@ File uploads to the Customer Attributes FTP site can be done via FTP or SFTP:
 
    If the upload is successful, both files are moved to a folder called **processed**. 
 
-   See [Data file requirements for uploading Customer Attributes](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for important information about file names and structure. 
+   See [Data file requirements for uploading Customer Attributes](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for important information about file names and structure.

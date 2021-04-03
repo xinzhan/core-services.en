@@ -8,8 +8,8 @@ feature: Assets
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: f94e8b8f-d666-4aa1-a3b7-246026035b78
 ---
-
 # Manage Creative Cloud users
 
 The Experience Cloud provides administrative tools for managing approved Creative Cloud users. These users can be invited on an ad-hoc basis to a campaign folder. Only users that have been added to the list by an administrator can be invited to a campaign. The added users will display in the auto-complete user list in the Experience Cloud.

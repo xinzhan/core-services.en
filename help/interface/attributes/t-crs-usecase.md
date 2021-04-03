@@ -8,8 +8,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
 ---
-
 # Create a customer attribute source and upload the data file
 
 Create the customer attribute source (CSV and FIN files) and upload the data. You can activate the data source when you are ready. After the data source is active, share the attribute data to Analytics and Target. 

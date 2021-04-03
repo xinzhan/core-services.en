@@ -8,8 +8,8 @@ feature: Admin Console
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
 ---
- 
 # View Experience Cloud users and policies in the Admin Tool
 
 Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the Admin Tool. User details include a user’s product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 

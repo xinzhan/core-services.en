@@ -5,8 +5,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
 ---
-
 # Customer Attributes support for General Data Protection Regulation
 
 This page describes how Customer Attributes supports General Data Protection Regulation (GDPR).

@@ -8,8 +8,8 @@ uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
 feature: Admin Console
 role: Administrator
 level: Experienced
+exl-id: 746d396d-9629-42db-8c55-07d2d24e4611
 ---
-
 # Upgrading to Analytics Premium and the Experience Cloud
 
 Administrators can learn about the requirements and what to expect when upgrading to Analytics Premium, and where to find help as an Experience Cloud administrator.

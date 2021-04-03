@@ -8,8 +8,8 @@ feature: "Customer Attributes"
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 ---
-
 # Cumulative release notes
 
 Features, release notes, and known issues for the Experience Cloud interface.

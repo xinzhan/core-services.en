@@ -8,8 +8,8 @@ feature: Assets
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 3fd747e5-38f8-40cc-a255-7a0130b1e32f
 ---
-
 # Upload an asset to a shared folder from the Creative Cloud desktop
 
 1. Enable sharing.

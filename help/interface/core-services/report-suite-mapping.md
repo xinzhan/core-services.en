@@ -6,8 +6,8 @@ feature: Admin Console
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 4e9f0f7a-8e16-4473-af4a-3e74ad50c044
 ---
-
 # Map report suites to an organization {#topic_7C4740559EAC4E0FA5F8DEF886B580DA}
 
 >[!NOTE]
@@ -109,4 +109,4 @@ You can find your organization name in [Organizations and Account Settings](http
 
 ### I see a date in the “Date Mapped” column. Who did that mapping?
 
-You can refer to the Report Suite Change Log in the Analytics interface to check the user ID that made the change. Look for the event “Suite associated to IMS Organization”. 
+You can refer to the Report Suite Change Log in the Analytics interface to check the user ID that made the change. Look for the event “Suite associated to IMS Organization”.

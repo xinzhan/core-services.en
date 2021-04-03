@@ -9,8 +9,8 @@ feature: Admin Console
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 180a0f66-3d80-48b5-9829-18c5c31d312c
 ---
-
 # About the new cloud names in Experience Cloud {#topic_BD726D3A649E4FC49063029E86B70C62}
 
 Learn about latest branding updates for the clouds, how to navigate the interface, and where to find help for solutions and core services.

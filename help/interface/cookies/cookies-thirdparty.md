@@ -8,8 +8,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 3d12a1b1-c952-4b42-815d-f64b31429cec
 ---
-
 # How changes to third-party cookie support impact customers{#how-changes-to-third-party-cookie-support-impacts-customers}
 
 As the support for third-party cookies has become more and more limited across browsers, Adobe has been working on new solutions that carefully balance customer requirements with the consumer's right to privacy across the Adobe Experience Cloud solutions.

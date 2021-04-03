@@ -8,8 +8,8 @@ feature: Assets
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 32f4723e-0e66-46b6-b0c2-ae47b9a06a87
 ---
-
 # Share an Experience Cloud asset folder
 
 Share an Experience Cloud asset folder with Creative Cloud users.

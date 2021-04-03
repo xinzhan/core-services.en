@@ -8,8 +8,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: bd9bea58-9987-40d6-84e0-da185388bbbb
 ---
-
 # Experience Cloud Cookies{#experience-cloud-cookies}
 
 Adobe Experience Cloud uses cookies to store a visitor ID that is used across Experience Cloud Solutions.

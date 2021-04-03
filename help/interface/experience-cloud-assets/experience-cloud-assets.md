@@ -7,8 +7,8 @@ feature: Assets
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
 ---
-
 # Overview of Experience Cloud Assets
 
 Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have subassets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
@@ -91,4 +91,4 @@ See the number of users, storage used, and total assets.
 
 Click **[!UICONTROL Tools]** > **[!UICONTROL Reports]** > **[!UICONTROL Usage Report]** 
 
-![](assets/assets-usage-report.png) 
+![](assets/assets-usage-report.png)

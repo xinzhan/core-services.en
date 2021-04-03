@@ -8,8 +8,8 @@ feature: Audience Library
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: b65a12f5-fa89-400a-b279-13c381cd6c22
 ---
-
 # Create an audience
 
 Learn how to use attribute rules to create an audience and define a composite audience in the Experience Cloud.

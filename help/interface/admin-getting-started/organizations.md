@@ -8,8 +8,8 @@ feature: Admin Console
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 ---
-
 # Organizations and account linking
 
 Learn about managing organizations and linking solution accounts to Experience Cloud.

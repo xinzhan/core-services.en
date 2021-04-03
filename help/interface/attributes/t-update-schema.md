@@ -6,8 +6,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 08713a68-8a24-4f18-9d77-c332f434eea6
 ---
-
 # Update the schema (delete an attribute)
 
 How to delete and replace attributes in the schema.

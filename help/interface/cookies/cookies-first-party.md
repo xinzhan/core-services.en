@@ -9,8 +9,8 @@ feature: Cookies
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
 ---
-
 # About first-party cookies
 
 Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions. These harmless cookies, which originate from a domain hosted by Adobe, are known as third-party cookies.

@@ -8,8 +8,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 27c026ff-198b-4f49-9718-f25f77a9e716
 ---
-
 # Privacy considerations for Customer Attributes
 
 Considerations and best practices regarding personally identifiable information (PII) uploaded and used in the Adobe Experience Cloud.
@@ -39,4 +39,4 @@ As consumer privacy law remains in flux, Adobe recommends that advertisers respe
 1. Say what you do (in your privacy policy).
 1. Do not surprise your consumers.
 
-With these expectations in mind, Adobe recommends that when an advertiser associates browsing activities to PII, the advertiser provides notices or personalization indicating that the consumer is authenticated. An example of this is including a greeting within the header of the website. Adobe also recommends that advertisers describe in its privacy policy what type of browsing information it associates with PII and under what circumstances browsing information is associated with PII. Lastly, Adobe strongly recommends advertisers review the opt-out choices they provide their consumers to understand whether and how they can use unauthenticated profile information post opt out. 
+With these expectations in mind, Adobe recommends that when an advertiser associates browsing activities to PII, the advertiser provides notices or personalization indicating that the consumer is authenticated. An example of this is including a greeting within the header of the website. Adobe also recommends that advertisers describe in its privacy policy what type of browsing information it associates with PII and under what circumstances browsing information is associated with PII. Lastly, Adobe strongly recommends advertisers review the opt-out choices they provide their consumers to understand whether and how they can use unauthenticated profile information post opt out.

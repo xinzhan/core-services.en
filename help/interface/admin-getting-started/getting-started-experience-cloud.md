@@ -8,8 +8,8 @@ feature: Admin Console
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 12addbb6-a29b-4d20-ac8f-77e0846150b5
 ---
-
 # Sign in and manage your Experience Cloud profile settings
 
 Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and services that you own. This help describes how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.

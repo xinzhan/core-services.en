@@ -8,8 +8,8 @@ feature: Customer Attributes
 topic: Administration
 role: Administrator
 level: Experienced
+exl-id: 6031e544-822b-4843-b3d8-98a36a3c40e8
 ---
-
 # Frequently asked questions about Customer Attributes
 
 Frequently asked questions and best practices for Customer Attributes in Adobe Analytics and Adobe Target.
