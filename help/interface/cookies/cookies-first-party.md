@@ -42,23 +42,25 @@ The Adobe Managed Certificate program lets you implement a new first-party SSL c
 
 Here is how you implement a new first-party SSL certificate for first-party cookies:
 
-1. Fill out the [First-party cookie request form](/help/interface/cookies/assets/FPC_Request_Form.xlsx) and open a ticket with Customer Care requesting to set up first-party cookies on the Adobe Managed program. Each field is described within the document with examples.
+1. Fill out the [First-party cookie request form](/help/interface/cookies/assets/First_Part_Domain_Request_Form.xlsx) and open a ticket with Customer Care requesting to set up first-party cookies on the Adobe Managed program. Each field is described within the document with examples.
 
-1. Create CNAME records (see instructions below).
+2. Create CNAME records (see instructions below).
 
-    Upon receiving the ticket, a customer care representative should provide you with a pair of CNAME records. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAMES will be similar to the following: 
+    Upon receiving the ticket, a customer care representative should provide you with a  CNAME record. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAME will be similar to the following: 
 
-    **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.ssl.d1.omtrdc.net`.
+    **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.adobedc.net`.
 
-    **Non-secure** - For example, the hostname `metrics.example.com` points to: `example.com.d1.omtrdc.net`.  
+>[!NOTE]
+> In the past we recommended customers setup two CNAME one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic and most browsers are strongly discouraging HTTP we no longer recommend setting up a CNAME for HTTP. If you need to it would look like this: 
+>    **Non-secure** -- the hostname `metrics.example.com` points to: `example.com.adobedc.net`.  
 
-1. When these CNAMES are in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers.
+1. When the CNAME is in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers.
 
     If you have an existing implementation, you should consider visitor migration to maintain your existing visitors. After the certificate has been pushed live to Adobe’s production environment, you can update your tracking server variables to the new hostnames. Meaning, if the site is not secure (HTTP), update the `s.trackingServer`. If the site is secure (HTTPS), update both `s.trackingServer` and `s.trackingServerSecure` variables.
 
-1. [Validate hostname forwarding](#validate) (see below).
+2. [Validate hostname forwarding](#validate) (see below).
 
-1. [Update Implementation Code](#update) (see below).
+3. [Update Implementation Code](#update) (see below).
 
 ### Maintenance and Renewals
 
@@ -78,12 +80,15 @@ SSL certificates expire each year, meaning Adobe must purchase a new certificate
 
 Your organization's network operations team should configure your DNS servers by creating new CNAME record(s). Each hostname forwards data to Adobe's data collection servers.
 
-The FPC specialist provides you with the configured hostnames and what CNAMEs they are to be pointed to. For example:
+The FPC specialist provides you with the configured hostname and what CNAME they are to be pointed to. For example:
 
 * **SSL Hostname**:`smetrics.mysite.com`
-* **SSL CNAME**:`mysite.com.ssl.sc.omtrdc.net`
-* **Non-SSL Hostname**:`metrics.mysite.com`
-* **Non-SSL CNAME**:`mysite.com.sc.omtrdc.net`
+* **SSL CNAME**:`mysite.com.adobedc.net`
+
+>[!NOTE]
+> If you still use non-secure the will look like this.
+> * **Non-SSL Hostname**:`metrics.mysite.com`
+> * **Non-SSL CNAME**:`mysite.com.adobedc.net`
 
 As long as implementation code is not altered, this step will not affect data collection and can be done at any time after updating implementation code.
 
