@@ -65,6 +65,10 @@ Create and manage Audiences in the Experience Cloud Audience Library. Audiences 
 
 Help: [Customer Attributes](attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
 
+>[!NOTE]
+>
+>Customer Attributes is a legacy core service, now under sustenance.
+
 If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, leverage the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 
 **Applicable solutions or services** 
@@ -75,6 +79,10 @@ If you capture enterprise customer data in a customer relationship management (C
 ## Experience Cloud Assets {#section_92BC5DFDB0E0499CB0DD34B85E06F79A}
 
 Help: [Share Experience Cloud Folders with Creative Cloud](https://docs.adobe.com/content/help/en/core-services/interface/assets/creative-cloud.html) 
+
+>[!NOTE]
+>
+>Assets is a legacy core service, now under sustenance.
 
 Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like [!DNL Social] and [!DNL Target]. 
 
