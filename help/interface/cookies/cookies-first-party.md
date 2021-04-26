@@ -42,23 +42,25 @@ The Adobe Managed Certificate program lets you implement a new first-party SSL c
 
 Here is how you implement a new first-party SSL certificate for first-party cookies:
 
-1. Fill out the [First-party cookie request form](/help/interface/cookies/assets/FPC_Request_Form.xlsx) and open a ticket with Customer Care requesting to set up first-party cookies on the Adobe Managed program. Each field is described within the document with examples.
+1. Fill out the [First-party cookie request form](/help/interface/cookies/assets/First_Part_Domain_Request_Form.xlsx) and open a ticket with Customer Care requesting to set up first-party cookies on the Adobe Managed program. Each field is described within the document with examples.
 
-1. Create CNAME records (see instructions below).
+2. Create CNAME records (see instructions below).
 
-    Upon receiving the ticket, a customer care representative should provide you with a pair of CNAME records. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAMES will be similar to the following: 
+    Upon receiving the ticket, a customer care representative should provide you with a  CNAME record. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAME will be similar to the following: 
 
-    **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.ssl.d1.omtrdc.net`.
+    **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.adobedc.net`.
 
-    **Non-secure** - For example, the hostname `metrics.example.com` points to: `example.com.d1.omtrdc.net`.  
+>[!NOTE]
+> In the past we recommended customers setup two CNAME one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic and most browsers are strongly discouraging HTTP we no longer recommend setting up a CNAME for HTTP. If you need to it would look like this: 
+>    **Non-secure** -- the hostname `metrics.example.com` points to: `example.com.adobedc.net`.  
 
-1. When these CNAMES are in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers.
+1. When the CNAME is in place, Adobe will work with DigiCert to purchase and install a certificate on Adobe's production servers.
 
     If you have an existing implementation, you should consider visitor migration to maintain your existing visitors. After the certificate has been pushed live to Adobe’s production environment, you can update your tracking server variables to the new hostnames. Meaning, if the site is not secure (HTTP), update the `s.trackingServer`. If the site is secure (HTTPS), update both `s.trackingServer` and `s.trackingServerSecure` variables.
 
-1. [Validate hostname forwarding](#validate) (see below).
+2. [Validate hostname forwarding](#validate) (see below).
 
-1. [Update Implementation Code](#update) (see below).
+3. [Update Implementation Code](#update) (see below).
 
 ### Maintenance and Renewals
 
@@ -69,7 +71,7 @@ SSL certificates expire each year, meaning Adobe must purchase a new certificate
 |Question|Answer|
 |---|---|
 |**Is this process secure?**|Yes, the Adobe Managed program is more secure than our legacy method as no certificate or private key changes hands outside of Adobe and the issuing certificate authority.|
-|**How can Adobe purchase a certificate for our domain?**|The certificate can only be purchased when you have pointed the specified hostname (for example, `smetrics.example.com`) to an Adobe owned hostname. This is essentially delegating this hostname to Adobe and allows Adobe to purchase the certificate on your behalf.|
+|**How can Adobe purchase a certificate for our domain?**|The certificate can only be purchased when you have pointed the specified hostname (for example, `telemetry.example.com`) to an Adobe owned hostname. This is essentially delegating this hostname to Adobe and allows Adobe to purchase the certificate on your behalf.|
 |**Can I request that the certificate be revoked?**|Yes, as the owner of the domain, you are entitled to request we have the certificate revoked. You will only need to open a ticket with Customer Care to have this completed.|
 |**Will this certificate be using SHA-2 encryption?**|Yes, Adobe will work with DigiCert to issue a SHA-2 certificate.|
 |**Does this incur any additional cost?**|No, Adobe is offering this service to all current Adobe Digital Experience customers at no additional cost.|
@@ -78,12 +80,15 @@ SSL certificates expire each year, meaning Adobe must purchase a new certificate
 
 Your organization's network operations team should configure your DNS servers by creating new CNAME record(s). Each hostname forwards data to Adobe's data collection servers.
 
-The FPC specialist provides you with the configured hostnames and what CNAMEs they are to be pointed to. For example:
+The FPC specialist provides you with the configured hostname and what CNAME they are to be pointed to. For example:
 
 * **SSL Hostname**:`smetrics.mysite.com`
-* **SSL CNAME**:`mysite.com.ssl.sc.omtrdc.net`
-* **Non-SSL Hostname**:`metrics.mysite.com`
-* **Non-SSL CNAME**:`mysite.com.sc.omtrdc.net`
+* **SSL CNAME**:`mysite.com.adobedc.net`
+
+>[!NOTE]
+> If you still use non-secure the will look like this.
+> * **Non-SSL Hostname**:`metrics.mysite.com`
+> * **Non-SSL CNAME**:`mysite.com.adobedc.net`
 
 As long as implementation code is not altered, this step will not affect data collection and can be done at any time after updating implementation code.
 
@@ -99,7 +104,7 @@ The following methods are available for validation:
 
 If you have a CNAME set up and the certificate installed, you can use the browser for validation:
 
-`https://sstats.adobe.com/_check`
+`https://smetrics.adobe.com/_check`
 
 >[!NOTE]
 >
@@ -110,27 +115,27 @@ If you have a CNAME set up and the certificate installed, you can use the browse
 Adobe recommends using [[!DNL curl]](https://curl.haxx.se/) from the command line. ([!DNL Windows] users can install [!DNL curl] from: <https://curl.haxx.se/windows/>)
 
 If you have a CNAME but no certificate is installed, run: 
-`curl -k https://sstats.adobe.com/_check`
+`curl -k https://smetrics.adobe.com/_check`
 Response: `SUCCESS` 
 
 (The `-k` value disables the security warning.)
 
 If you have a CNAME set up and the certificate is installed, run:
-`curl https://sstats.adobe.com/_check`
+`curl https://smetrics.adobe.com/_check`
 Response: `SUCCESS`
 
 ### Validate using [!DNL nslookup]
 
-You can use `nslookup` for validation. Using `sstats.adobe.com`as an example, open a command prompt and type `nslookup sstats.adobe.com`
+You can use `nslookup` for validation. Using `smetrics.adobe.com`as an example, open a command prompt and type `nslookup smetrics.adobe.com`
 
 If everything is successfully set up, you will see a return similar to:
 
 ```
-nslookup sstats.adobe.com
+nslookup smetrics.adobe.com
 Server:             10.30.7.247
 Address:     10.30.7.247#53
 
-sstats.adobe.com    canonical name = adobe.com.ssl.d1.sc.omtrdc.net.
+smetrics.adobe.com    canonical name = adobe.com.ssl.d1.sc.omtrdc.net.
 Name:  adobe.com.ssl.d1.sc.omtrdc.net
 Address: 54.218.180.161
 Name:  adobe.com.ssl.d1.sc.omtrdc.net
