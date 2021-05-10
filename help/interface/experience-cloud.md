@@ -49,9 +49,9 @@ Related Experience Cloud guides include:
 
 Take advantage of self-help tutorials and quick how-tos in Experience League:
 
-* [All tutorials in Experience League](https://experienceleague.corp.adobe.com/?lang=en#quick-how-tos)
-* [Experience Platform tutorials](https://experienceleague.corp.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=en)
-* [Real-time Customer Data Platform](https://experienceleague.corp.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=en)
+* [All tutorials in Experience League](https://experienceleague.adobe.com/?lang=en#quick-how-tos)
+* [Experience Platform tutorials](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=en)
+* [Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=en)
 
 ## Release notes and related Experience Cloud help
 
