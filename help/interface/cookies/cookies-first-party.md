@@ -13,14 +13,16 @@ exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
 ---
 # About first-party cookies
 
-Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions. These harmless cookies, which originate from a domain hosted by Adobe, are known as third-party cookies.
+Analytics uses cookies to provide information on variables and components that do not persist between image requests and browser sessions. Where possible Adobe uses first-party cookies to record activities on your site. To record activity on different sites such as other domains you may own, third-party cookies are required.
 
-Many browsers and anti-spyware applications are designed to reject and delete third-party cookies, including those used in Analytics data collection. To support your tracking of how your visitors interact with your website, you can implement first-party cookies.
+Many browsers and anti-spyware applications are designed to reject and delete third-party cookies, including those used in Analytics data collection. To support your tracking of how your visitors interact with your website, you should ensure you have configured your data collection to use first-party cookies:
 
 Two options are available to implement first-party cookies:
 
-* The Experience Platform ID Service. The ID Service can set the cookie in the first-party context using JavaScript.
-* DNS entries on your company's DNS server to configure a CNAME alias to an Adobe hosted domain. Please note that while various Adobe products support using a CNAME, in all cases the CNAME is used to a create a trusted first-party endpoint for a specific customer and is owned by that customer. If that customer controls multiple domains, they may use a single CNAME endpoint to track users across their domains, but as this requires third-party cookies for all domains outside of the CNAME’s domain, it does not work when third-party cookies are blocked and so is not recommended. Adobe CNAMEs are never used to track an individual or device across domains owned by different customers.
+* If you are using the Experience Platform Identity Service (aka the ECID Service) then it will automatically set cookies in the first-party context using JavaScript.
+* If you are using Analytics legacy identifiers (aka the "s_vi" cookie) it will depend on how you have configured your data collection server. If the data collection server matches your site's domain then cookeis will be set as first-party. If the collection server does not match your current domain then cookies will be set as third-party. In this case, if third-party cookies are blocked Analytics will set a first party [fallback id ("s_fid")](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-analytics.html?lang=en#section-65e33f9bfc264959ac1513e2f4b10ac7) instead of the standard "s_vi" cookie.
+
+To ensure your collection server matches your site's domain you can use a CNAME implementation to which will allow cookies to be set in a first-party context. This involves changes to your company's DNS settings to configure a CNAME alias to pointing to an Adobe hosted domain. Please note that while various Adobe products support using a CNAME, in all cases the CNAME is used to a create a trusted first-party endpoint for a specific customer and is owned by that customer. If you control multiple domains, they may use a single CNAME endpoint to track users across their domains, but wherever the site domain does not match the CNAME domain cookies will be set as third party.
 
 >[!NOTE]
 >
