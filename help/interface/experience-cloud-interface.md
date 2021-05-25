@@ -38,7 +38,7 @@ The [!UICONTROL Help] menu also gives you access to:
 * **[!UICONTROL Support]:** Create a support ticket or contact [!UICONTROL Support] using Twitter.
 * **[!UICONTROL Feedback]:** Contact Adobe using Feedback and let us know what you think.
 * **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
-* **[!UICONTROL Developer Connection]:** Navigation to [Adobe I/O](adobe.io) and find developer documentation.
+* **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
 
 ## ![](assets/preferences-icon.png) Account preferences {#account-menu}
 
