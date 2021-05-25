@@ -10,6 +10,7 @@ index: yes
 # Experience Cloud Services and Administration {#interface}
 
 + [Experience Cloud Services and Administration](experience-cloud.md)
++ [Experience Cloud central interface components](experience-cloud-interface.md)
 + Experience Cloud services {#about-core-services}
   + [Experience Cloud services overview](core-services-landing.md)
   + [Enable your implementation for cross-solution services](core-services/core-services.md)
