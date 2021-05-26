@@ -14,6 +14,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Information about updates to the Experience Cloud product documentation.
 
+**Updated: 5/26/2021**
+
+Added [Experience Cloud interface](experience-cloud-interface.md) for help on accessing Experience Cloud, global search, preferences, and notifications.
+
 **Updated: 8/19/2020**
 
 Updated [View Experience Cloud user details (Admin Tool)](admin-getting-started/admin-tool-experience-cloud.md) with Policies information.
@@ -48,10 +52,6 @@ Updated [About data file and data sources for Customer Attributes](attributes/cr
 **Updated: 6/6/2018**
 
 General updates to content and screens.
-
-**Updated: 2/6/2018**
-
-Updates to [Manage Experience Cloud users and products](admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909).
 
 **Updated: 1/17/2018**
 
@@ -98,7 +98,3 @@ Added [Experience Cloud FAQ](admin-getting-started/faq.md#concept_13219B4E517845
 Added documentation for Audiences
 
 See [Audiences](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7)
-
-**Updated: 5/22/2014**
-
-Updated [Manage Experience Cloud users and products](admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about becoming an administrator in the Experience Cloud.

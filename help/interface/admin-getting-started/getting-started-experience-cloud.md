@@ -44,7 +44,7 @@ Sign in and verify that you are in the right [organization](../admin-getting-sta
 Help for non-administrative users signing in to the Experience Cloud.
 
 
-1. Verify with your administrator that your [organization](../admin-getting-started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) has been provisioned in the Experience Cloud.
+1. Verify with your administrator that your [organization](../admin-getting-started/organizations.md) has been provisioned in the Experience Cloud.
 
 
 1. Navigate to the [Adobe Experience Cloud](https://experiencecloud.adobe.com) ([!DNL experiencecloud.adobe.com]).
@@ -108,9 +108,9 @@ You can sort the Notifications display based on the message types that are impor
 
 You can edit your Experience Cloud profile, specify a default organization and landing page, and more. 
 
-1. [Sign in to the Experience Cloud](../admin-getting-started/getting-started-experience-cloud.md#task_1BFE87E20DCB44078CAC82F3CD44B985).
+1. Sign in to Experience Cloud.
 
-1. From the Experience Cloud menu, click your profile picture.
+1. On Experience Cloud, click your profile picture.
 
    ![](assets/edit-profile.png) 
 1. Click **[!UICONTROL Edit Profile]**.
