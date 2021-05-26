@@ -11,6 +11,7 @@ index: yes
 
 + [Experience Cloud Services and Administration](experience-cloud.md)
 + [Experience Cloud central interface components](experience-cloud-interface.md)
+  + [Sign in and manage your profile settings](admin-getting-started/getting-started-experience-cloud.md)
 + Experience Cloud services {#about-core-services}
   + [Experience Cloud services overview](core-services-landing.md)
   + [Enable your implementation for cross-solution services](core-services/core-services.md)
@@ -35,7 +36,7 @@ index: yes
   + [Manage Experience Cloud user identity and products (Admin Console)](admin-getting-started/admin-getting-started.md)
   + [View Experience Cloud user details (Admin Tool)](admin-getting-started/admin-tool-experience-cloud.md)
   + [Frequently asked questions](admin-getting-started/faq.md)
-  + [Sign in and manage your profile settings](admin-getting-started/getting-started-experience-cloud.md)
+
   + [Organizations and account linking](admin-getting-started/organizations.md)
   + [Upgrading to Analytics Premium and the Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
 + Experience Cloud Activation {#activation}

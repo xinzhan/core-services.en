@@ -7,15 +7,27 @@ topic: Administration
 role: Administrator, User
 level: Beginner, Intermediate, Experienced
 ---
-# Experience Cloud central interface components
+# Experience Cloud interface
 
-Central interface components in Experience Cloud include features that enable you to:
+Experience Cloud's central interface components include features that enable you to:
 
-* Access your applications and services
+* Sign in and access your applications and services
 * Find product help and business objects using a global search
 * Manage your account preferences (alerts, notifications, and subscriptions)
 
-## ![](assets/menu-icon.png) Access Experience Cloud applications {#navigation}
+## Sign in to Experience Cloud
+
+Sign in and verify that you are in the right [organization](admin-getting-started/organizations.md).
+
+1. Navigate to [Adobe Experience Cloud](https://experiencecloud.adobe.com/exc-content/login.html).
+1. Click **[!UICONTROL Sign in with an Adobe ID]**.
+1. On Adobe Experience Cloud, click your organization.
+
+    ![](assets/organizations-menu.png)
+
+    Your administrator can help you verify that you are in the right [organization](admin-getting-started/organizations.md).
+
+## Access Experience Cloud applications {#navigation}
 
 After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
 
@@ -23,7 +35,7 @@ Click the application selector ![](assets/menu-icon.png) to access Experience Cl
 
 ![](assets/platform-core-services.png)
 
-## ![](assets/help-icon.png) Search and support in Experience Cloud {#search}
+## Search and support in Experience Cloud {#search}
 
 Experience Cloud search allows you to search for help (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home). You can also search for business objects, such as segments, data sets, schemas, and more.
 
@@ -40,7 +52,7 @@ The [!UICONTROL Help] menu also gives you access to:
 * **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
 
-## ![](assets/preferences-icon.png) Account preferences {#account-menu}
+## Account preferences {#account-menu}
 
 In the account preferences menu, you can:
 
@@ -67,6 +79,10 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 |[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
 |Emails|Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)|
 
-## ![](assets/notifications.png) Notifications and Announcements
+## Notifications and Announcements
 
-**[!UICONTROL Notifications]** and **[!UICONTROL Announcements]:** See notifications that are important to you, and announcements from Adobe. You can configure notifications in [Experience Cloud preferences](#preferences).
+Click **[!UICONTROL Notifications]** to see notifications that are important to you, and announcements from Adobe.
+
+![](assets/notifications-menu-small.png)
+
+You can configure notifications in [Experience Cloud preferences](#preferences).
