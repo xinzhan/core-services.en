@@ -35,7 +35,6 @@ index: yes
   + [Manage Experience Cloud user identity and products (Admin Console)](admin-getting-started/admin-getting-started.md)
   + [View Experience Cloud user details (Admin Tool)](admin-getting-started/admin-tool-experience-cloud.md)
   + [Frequently asked questions](admin-getting-started/faq.md)
-
   + [Organizations and account linking](admin-getting-started/organizations.md)
   + [Upgrading to Analytics Premium and the Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
 + Experience Cloud Activation {#activation}
