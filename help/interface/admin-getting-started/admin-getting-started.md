@@ -53,8 +53,6 @@ Alternatively, from the Experience Cloud menu ( ![](assets/menu-icon.png)), clic
 
 [Administration User Guide](https://helpx.adobe.com/enterprise/using/users.html) for the Creative Cloud and Document Cloud. Some information is relevant to Experience Cloud user management, such as [managing identity types](https://helpx.adobe.com/enterprise/help/identity.html).
 
-[Sign in and manage your profile settings](../admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0).
-
 ## Product profiles and groups {#section_AB50558124D541CF80A0D3D76D35A4BF}
 
 The addition of product profiles marks a shift from how solution products and services were previously managed (by using groups). In the Admin Console, permissions are based on product profiles, which are groups of products and services that you can assign to users.
