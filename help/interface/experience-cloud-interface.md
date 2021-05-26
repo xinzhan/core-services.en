@@ -7,7 +7,7 @@ topic: Administration
 role: Administrator, User
 level: Beginner, Intermediate, Experienced
 ---
-# Experience Cloud interface
+# Experience Cloud interface help
 
 Experience Cloud's central interface components include features that enable you to:
 
@@ -37,11 +37,7 @@ Click the application selector ![](assets/menu-icon.png) to access Experience Cl
 
 ## Search and support in Experience Cloud {#search}
 
-Experience Cloud search allows you to search for help (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home). You can also search for business objects, such as segments, data sets, schemas, and more.
-
->[!NOTE]
->
->Business objects search is available only to Experience Platform users.
+Experience Cloud search allows you to search for help (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home). 
 
 ![](assets/search-menu.png) 
 
@@ -63,7 +59,7 @@ In the account preferences menu, you can:
 
 ### Manage Experience Cloud [!UICONTROL Preferences] {#preferences}
 
-Experience Cloud preferences include notifications, subscriptions, and alerts. You can configure how 
+Experience Cloud preferences include notifications, subscriptions, and alerts. 
 
 Click **[!UICONTROL Preferences]** from your account menu ![](assets/preferences-icon-sm.png) to manage preferences.
 
