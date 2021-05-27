@@ -389,7 +389,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 **Fixes and Improvements** 
 
-* When you navigate to [!DNL experiencecloud.adobe.com], the login experience is now consistent with Adobe's Creative Cloud login.
+* When you navigate to [!DNL experience.adobe.com], the login experience is now consistent with Adobe's Creative Cloud login.
 * On the Manage Organizations page, the linking experience (after an invite is received) is now consistent for each solution.
 
 **Known Issues** 
