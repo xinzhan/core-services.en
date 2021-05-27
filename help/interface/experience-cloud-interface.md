@@ -19,7 +19,7 @@ Experience Cloud's central interface components include features that enable you
 
 Sign in and verify that you are in the right [organization](admin-getting-started/organizations.md).
 
-1. Navigate to [Adobe Experience Cloud](https://experiencecloud.adobe.com/exc-content/login.html).
+1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
 1. Click **[!UICONTROL Sign in with an Adobe ID]**.
 1. On Adobe Experience Cloud, click your organization.
 

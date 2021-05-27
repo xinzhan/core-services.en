@@ -47,9 +47,9 @@ What you must do to join the Experience Cloud:
 
 ### Administrator login
 
-After you are an administrator, you can log in at [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
+After you are an administrator, you can log in at [experience.adobe.com](https://experience.adobe.com).
 
-You will see the **[!UICONTROL Administration]** link in the Experience Cloud menu navigation.
+You will see the **[!UICONTROL Admin Console]** link in the Experience Cloud menu navigation.
 
 See [Experience Cloud user and product administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for more information.
 
@@ -58,7 +58,7 @@ See [Experience Cloud user and product administration](../admin-getting-started/
 To log in to the Experience Cloud, your users must:
 
 * Have an Adobe ID (or Enterprise ID for your company).
-* Sign in at [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
+* Sign in at [experience.adobe.com](https://experience.adobe.com).
 * Belong to a solution group that is mapped to an enterprise group.
 * If necessary, link their solution accounts to their Adobe ID (described below).
 
