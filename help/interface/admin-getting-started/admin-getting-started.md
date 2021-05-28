@@ -145,9 +145,9 @@ See [User permissions](https://experienceleague.adobe.com/docs/launch/using/admi
 
 ## Experience Manager as a Cloud Service
 
-Adobe Enterprise customers are represented as Organizations in the Adobe [!UICONTROL Admin Console]. Experience Manager (AEM) customers can use the Adobe [!UICONTROL Admin Console] to manage product entitlements and IMS authentication to Experience Manager as a [!UICONTROL Cloud Service].
+Adobe Enterprise customers are represented as Organizations in the Adobe [!UICONTROL Admin Console]. Experience Manager customers can use the Adobe [!UICONTROL Admin Console] to manage product entitlements and IMS authentication to Experience Manager as a [!UICONTROL Cloud Service].
 
-See [IMS Support for AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=en).
+See [IMS Support for Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=en).
 
 ## Audience Manager {#section_C31E3FA8A1E14463B1B3E07235F1983C}
 
