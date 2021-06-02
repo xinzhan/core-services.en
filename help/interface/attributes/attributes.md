@@ -10,11 +10,11 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 ---
 # Customer Attributes overview 
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Customer Attributes is a legacy core service, now under sustenance.
+>[!UICONTROL Customer Attributes] is a legacy service, now under sustenance.
 
-Customer Attributes in Adobe Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a customer attribute data source in the Experience Cloud, then use the data in Adobe Analytics and Adobe Target.
+[!UICONTROL Customer Attributes] in Experience Cloud enables you to upload your captured enterprise data from a customer relationship management (CRM) database. You can upload the data into a customer attribute data source in the Experience Cloud, then use the data in Adobe Analytics and Adobe Target.
 
 To locate this feature, navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**
 
@@ -28,11 +28,11 @@ To locate this feature, navigate to **[!DNL Experience Platform]** > **[!UICONTR
 
   To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin.
 
-  Users that are added to the Customer Attributes will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
+  Users that are added to the Customer Attributes see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
 
 * **Adobe Target** `at.js` (any version) or `mbox.js` version 58 or later is required for Customer Attributes.
 
-  See [How to deploy at.js](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/how-to-deployatjs.html) or [Mbox.js Implementation](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/mbox-download.html).
+  See [How to deploy at.js](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/deploy-at-js/how-to-deployatjs.html?lang=en) or [Mbox.js Implementation](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/mbox-implement/mbox-download.html?lang=en).
 
 ## What is enterprise customer data? {#section_6F34C29F11414842AA57D2B1248FA3C6}
 
@@ -54,5 +54,5 @@ For example:
 
 | Solution | Advantages and Use Cases |
 |--- |--- |
-|Adobe Analytics|Marketers and analysts can understand:<ul><li>The online campaigns that are most effective with your gold-level customers.</li><li>The products that gold-level customers search for versus products that platinum-level customers search for.</li><li>Whether your site redesign is having a positive impact on conversion rates for older customers.</li><li>Which products do customers with a low lifetime value tend to research on my site.</li></ul>|
+|Adobe Analytics|Marketers and analysts can understand:<ul><li>The online campaigns that are most effective with your gold-level customers.</li><li>The products that gold-level customers search for versus products that platinum-level customers search for.</li><li>Whether your site redesign is having a positive impact on conversion rates for older customers.</li><li>The products that customers with a low lifetime value tend to research on my site.</li></ul>|
 |Adobe Target|Attribute data enables Adobe Target users to:<ul><li>Show loyalty club members special discounts and offers.</li><li>Recommend more expensive products to your luxury customers.</li><li>For customers who already receive emails, show an up-sell offer in the space normally reserved for email sign-ups</li></ul>|

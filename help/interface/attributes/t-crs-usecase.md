@@ -30,7 +30,7 @@ After the data source is active, you can:
 
 >[!IMPORTANT]
 >
->To access this feature, users must be assigned to the Customer Attributes product profile (Customer Attributes - Default Access. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin. Users that are added to the Customer Attributes group will see the [!UICONTROL Customer Attributes] menu on the left side of the Experience Cloud interface. 
+>To access this feature, users must be assigned to the Customer Attributes product profile (Customer Attributes - Default Access. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin. Users that are added to the Customer Attributes group sees the [!UICONTROL Customer Attributes] menu on the left side of the Experience Cloud interface. 
 >
 >To use the Customer Attributes feature, users must also belong to solution-level groups (Analytics or [!DNL Target]). 
 
@@ -44,7 +44,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 
    >[!NOTE]
    >
-   >Later in this process, you will drag-and-drop the `.csv` to upload the file. However, if you [upload via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a `.fin` file with the same name as the `.csv`. 
+   >Later in this process, you drag-and-drop the `.csv` to upload the file. However, if you [upload via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), you also need a `.fin` file with the same name as the `.csv`. 
 
    Sample enterprise customer data file: 
 
@@ -80,9 +80,9 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
       The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
     
-        * **Dynamic tag management:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/dtm/using/tools/macid.html) tool. 
+        * **Dynamic tag management:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/dtm/using/tools/macid.html?lang=en) tool. 
         
-        * **Visitor API:** The Alias ID corresponds to the additional [Customer IDs](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) that you can associate with each visitor. 
+        * **Visitor API:** The Alias ID corresponds to the additional [Customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en) that you can associate with each visitor. 
         
           For example, *"crm_id"* in: 
         
@@ -90,13 +90,13 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
           "crm_id":"67312378756723456"
           ```
        
-        * **iOS:** The Alias ID corresponds to *"idType"* in [visitorSyncIdentifiers:identifiers](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html). 
+        * **iOS:** The Alias ID corresponds to *"idType"* in [visitorSyncIdentifiers:identifiers](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en). 
         
           For example: 
                
           `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];` 
         
-        * **Android:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html). 
+        * **Android™:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en). 
         
           For example: 
         
@@ -121,7 +121,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
     * **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Displays how many IDs have been aliased to Experience Cloud Visitor IDs. 
     
-    * **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. At that time, the system invalidates the customer-provided ID and no longer distributes associated attributes.
+    * **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Displays the count of customer-provided IDs with 500 or more aliased Experience Cloud Visitor IDs. These customer-provided IDs most likely do not represent individuals but rather some sort of shared login. The system distributes the attributes associated with these IDs to the 500 most recent aliased Experience Cloud Visitor IDs, until the alias count reaches 10,000. Then, the system invalidates the customer-provided ID and no longer distributes associated attributes.
     
 ## Validate the schema {#task_404AAC411B0D4E129AB3AC8B7BE85859}
 
@@ -160,7 +160,7 @@ The following example shows an [!DNL Analytics] segment based on the uploaded at
 
 When you publish a segment to the Experience Cloud, it becomes available in Experience Cloud Audiences and Audience Manager. 
 
-See [Customer Attributes Report](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-customer-attributes.html) in Analytics help for more information. 
+See [Customer Attributes Report](https://experienceleague.adobe.com/docs/analytics/components/variables/dimensions-reports/reports-customer-attributes.html?lang=en) in Analytics help for more information. 
 
 ## Use Customer Attributes in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
@@ -168,4 +168,4 @@ In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visit
 
 ![](assets/crs-add-attribute-target.png) 
 
-See [Creating a New Audience](https://docs.adobe.com/content/help/en/target/using/audiences/create-audiences/audiences.html) in [!DNL Target] help.
+See [Creating a New Audience](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=en) in [!DNL Target] help.

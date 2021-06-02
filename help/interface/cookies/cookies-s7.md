@@ -24,7 +24,7 @@ For AS2 viewers, cookies:
 For AS2 Flash eCatalog viewer, cookies:
 
 * Store user-generated content (most notably content entered by the user in the "sticky notes" feature of the ecatalog viewer). This content is restored when the user resumes a session. 
-* When the user initiates an email to share the ecatalog with another user, the sticky notes content from the second AS2 viewers bullet is copied to our servers to provide it to the recipient. When the recipient initiates the viewer session, the sticky notes content is retrieved from the server and copied to a cookie. This feature is little-used, so it does not expire and stale content is not removed. At this time it persists on the servers indefinitely.
+* When the user initiates an email to share the ecatalog with another user, the sticky notes content from the second AS2 viewers bullet is copied to our servers to provide it to the recipient. When the recipient initiates the viewer session, the sticky notes content is retrieved from the server and copied to a cookie. This feature is little-used, so it does not expire and stale content is not removed. Currently, it persists on the servers indefinitely.
 
 The newer AS3 viewers do not implement session persistence.
 

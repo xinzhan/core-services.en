@@ -12,11 +12,11 @@ exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
 ---
 # About data file and data sources for Customer Attributes
 
-Data file requirements and multiple data sources for uploading Customer Attributes to the Experience Cloud.
+Data file requirements and multiple data sources for uploading Customer Attributes to Experience Cloud.
 
-You will need access to CRM or similar data from your enterprise. The data you upload to the Experience Cloud must be a `.csv` file. If you upload via FTP or sFTP, you also upload a `.fin` file. 
+You need access to CRM or similar data from your enterprise. The data you upload to the Experience Cloud must be a `.csv` file. If you upload via FTP or sFTP, you also upload a `.fin` file. 
 
-Customer Attributes is designed to handle a few files per day. To mitigate the issue of having a large number of small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
+Customer Attributes is designed to handle a few files per day. To mitigate the issue of having many small files delaying processing, files sent within 30 minutes of a previous batch from the same organization are routed to a lower-priority queue.
 
 ## Allowed file types and naming requirements {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
 
@@ -30,7 +30,7 @@ Customer Attributes is designed to handle a few files per day. To mitigate the i
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .csv </span> </p> </td> 
-   <td colname="col2"> <p>A comma-separated values file (such as one created in Excel). This is the file that contains the customer attribute data. </p> <p> <b>Naming requirements:</b> Ensure that file name extensions do not contain white spaces. </p> </td> 
+   <td colname="col2"> <p>A comma-separated values file (such as one created in Excel). This file contains the customer attribute data. </p> <p> <b>Naming requirements:</b> Ensure that file name extensions do not contain white spaces. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .fin </span> </p> </td> 
@@ -67,11 +67,11 @@ The same file viewed in a text editor:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Drag-and-drop </p> </td> 
-   <td colname="col2"> <p>The drag-and-drop file should be less than 100 megabytes. </p> <p>The <span class="filepath"> .fin </span> file is not required when using the drag-and-drop upload method. </p> </td> 
+   <td colname="col2"> <p>The drag-and-drop file should be less than 100 MB. </p> <p>The <span class="filepath"> .fin </span> file is not required when using the drag-and-drop upload method. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Customer ID column </p> </td> 
-   <td colname="col2"> <p> The first column must be a unique customer ID. The ID used should correspond to the ID that is being passed to the Experience Cloud ID Service. </p> <p>For Analytics, the ID being stored in a prop or eVar. </p> <p>For Target, the setCustomerID value. (See <a href="../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Adobe Target - synching the customer ID </a>) </p> <p> This customer ID is the unique identifier your CRM uses for each person in your database. The remaining columns are attributes that come from your CRM. You will choose how many attributes to upload. </p> <p>Friendly, readable names are recommended for the column headings, but not required. When you validate the schema after upload, you can map friendly names to the uploaded rows and columns. </p> <p> <b>About Customer IDs</b> </p> <p>Typically, an enterprise uses a customer ID from a CRM system. This ID is set using the <span class="codeph"> setCustomerIDs </span> call when a person logs in. This ID is also used as the key in the CRM file that is uploaded to the Experience Cloud. An <a href="../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local"> Alias ID </a> is a friendly name for a data store in Audience Manager, where the alias data is stored. The system sends aliases to this data store (via setCustomerIDs). The CRM file is applied to the data in that data store. </p> <p>For <span class="codeph"> setCustomerIDs </span> information, see <a href="https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html" format="https" scope="external"> Customer IDs and Authentication States </a>. </p> </td> 
+   <td colname="col2"> <p> The first column must be a unique customer ID. The ID used should correspond to the ID that is being passed to the Experience Cloud ID Service. </p> <p>For Analytics, the ID being stored in a prop or eVar. </p> <p>For Target, the setCustomerID value. (See <a href="../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Adobe Target - synching the customer ID </a>) </p> <p> This customer ID is the unique identifier your CRM uses for each person in your database. The remaining columns are attributes that come from your CRM. You choose how many attributes to upload. </p> <p>Friendly, readable names are recommended for the column headings, but not required. When you validate the schema after upload, you can map friendly names to the uploaded rows and columns. </p> <p> <b>About Customer IDs</b> </p> <p>Typically, an enterprise uses a customer ID from a CRM system. This ID is set using the <span class="codeph"> setCustomerIDs </span> call when a person logs in. This ID is also used as the key in the CRM file that is uploaded to the Experience Cloud. An <a href="../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local"> Alias ID </a> is a friendly name for a data store in Audience Manager, where the alias data is stored. The system sends aliases to this data store (via setCustomerIDs). The CRM file is applied to the data in that data store. </p> <p>For <span class="codeph"> setCustomerIDs </span> information, see <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en" format="https" scope="external"> Customer IDs and Authentication States </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Subsequent headers and columns </p> </td> 
@@ -115,7 +115,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Multiple files </p> </td> 
-   <td colname="col2"> <p>When uploading customer attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your Customer Attributes FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure each file is completely processed before submitting the next. </p> </td> 
+   <td colname="col2"> <p>When uploading customer attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your [!UICONTROL Customer Attributes] FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure that each file is processed before submitting the next. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Character Encoding </p> </td> 
@@ -123,7 +123,7 @@ The same file viewed in a text editor:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
-   <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in Analytics. As such, Customer Attributes are associated with the visitor for the entire life of that visitor profile in Analytics. This includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the data warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> </td> 
+   <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!UICONTROL Customer Attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data feeds </p> </td> 
@@ -132,15 +132,15 @@ The same file viewed in a text editor:
  </tbody> 
 </table>
 
-## Leveraging multiple data sources {#section_76DEB6001C614F4DB8BCC3E5D05088CB}
+## Using multiple data sources {#section_76DEB6001C614F4DB8BCC3E5D05088CB}
 
 When creating, modifying, or deleting customer attribute sources, there is a delay around one hour before IDs begin synchronizing with the new data source.
 
-The Alias ID for each customer attribute source must be unique. If you have multiple data sources that leverage the same ID, they should be set up as follows:
+The Alias ID for each customer attribute source must be unique. If you have multiple data sources that use the same ID, they can be set up as follows:
 
 **In VisitorAPI.js or the Experience Cloud ID tool in dynamic tag management:**
 
-Set two customer IDs that will correspond to the appropriate data sources:
+Set two customer IDs that correspond to the appropriate data sources:
 
 ```
 Visitor.setCustomerIDs({ 
@@ -149,7 +149,7 @@ Visitor.setCustomerIDs({
 });
 ```
 
-(See [Customer IDs and Authentication States](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) for more information.)
+(See [Customer IDs and Authentication States](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en) for more information.)
 
 In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**:
 

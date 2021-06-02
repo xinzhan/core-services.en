@@ -31,7 +31,7 @@ Adobe realizes that these types of marketing and advertising decisions may have 
 
 When uploading PII to Adobe Analytics or Adobe Target, Adobe recommends that the customer hashes PII prior to uploading it to Adobe. Hashed information can still be used for analysis and for marketing purposes. As a reminder, Adobe prohibits advertisers from sending sensitive personal information to Adobe Analytics and Adobe Target, such as medical records, financial account information, and information about minors. 
 
-Adobe recommends its advertisers carefully consider which information is appropriate to use for marketing purposes and in which circumstances the advertiser has permission to use such information. 
+Adobe recommends that its advertisers carefully consider which information is appropriate to use for marketing purposes and in which circumstances the advertiser has permission to use such information. 
 
 As consumer privacy law remains in flux, Adobe recommends that advertisers respect three common tenets: 
 
@@ -39,4 +39,4 @@ As consumer privacy law remains in flux, Adobe recommends that advertisers respe
 1. Say what you do (in your privacy policy).
 1. Do not surprise your consumers.
 
-With these expectations in mind, Adobe recommends that when an advertiser associates browsing activities to PII, the advertiser provides notices or personalization indicating that the consumer is authenticated. An example of this is including a greeting within the header of the website. Adobe also recommends that advertisers describe in its privacy policy what type of browsing information it associates with PII and under what circumstances browsing information is associated with PII. Lastly, Adobe strongly recommends advertisers review the opt-out choices they provide their consumers to understand whether and how they can use unauthenticated profile information post opt out.
+With these expectations in mind, Adobe recommends that when an advertiser associates browsing activities to PII, the advertiser provides notices or personalization indicating that the consumer is authenticated. An example of this is including a greeting within the header of the website. Adobe also recommends that advertisers describe in its privacy policy what type of browsing information it associates with PII and under what circumstances browsing information is associated with PII. Lastly, Adobe strongly recommends advertisers review the opt-out choices they provide their consumers to understand whether and how they can use unauthenticated profile information post opt-out.

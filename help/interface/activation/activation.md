@@ -14,15 +14,15 @@ exl-id: d57f168b-6beb-48f2-b0d2-92593ceee62e
 ---
 # Activation
 
-Activation includes the latest tag management product called Experience Platform Launch, Dynamic Tag Management (DTM), and Triggers.
+Activation includes the latest tag management product called Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) and Experience Cloud [!UICONTROL Triggers].
 
 ## Experience Platform Launch {#section_05DF74E9EAC94518A155095C65F54568}
 
 Deploy and manage the analytics, marketing, and advertising tags necessary to power relevant customer experiences.
 
-See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html).
+See [Experience Platform Launch Quickstart Guide](https://experienceleague.adobe.com/docs/launch/using/get-started/quick-start.html?lang=en).
 
-## Dynamic Tag Management {#section_C7E000EEF3E6459FB4B6D4A8960DD8F0}
+<!-- ## Dynamic Tag Management {#section_C7E000EEF3E6459FB4B6D4A8960DD8F0}
 
 To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a request to the Adobe provisioning team. You should receive your login credentials within one to two business days. 
 
@@ -49,11 +49,11 @@ To launch Dynamic Tag Management, click **[!UICONTROL Activation]** and send a r
  </tbody> 
 </table>
 
-If you want help implementing dynamic tag management we encourage you to contact your Account Manager for information on Adobe Global Services offerings, or implementation partner offerings. Please also feel free to contact us at [@AdobeExpCare](https://twitter.com/AdobeExpCare) with hashtag #DTM.
+If you want help implementing dynamic tag management we encourage you to contact your Account Manager for information on Adobe Global Services offerings, or implementation partner offerings. Please also feel free to contact us at [@AdobeExpCare](https://twitter.com/AdobeExpCare) with hashtag #DTM. -->
 
-## Experience Cloud Triggers {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
+## Experience Cloud [!UICONTROL Triggers] {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
-*Triggers* enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization.
+[!UICONTROL Experience Cloud Triggers] enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization.
 
 <table id="table_AF6842470172429EA97C9B02163BD0C3"> 
  <thead> 
@@ -69,7 +69,7 @@ If you want help implementing dynamic tag management we encourage you to contact
   </tr>
   <tr> 
    <td colname="col1"> <p>Using Triggers in Adobe Campaign </p> </td> 
-   <td colname="col2"> <p> Adobe Campaign Standard 16.7 introduces an integration with the new Trigger service. This service enables business users to easily define triggers based on online behavioral data captured in Adobe Analytics. Once the trigger is defined, it will be available in Adobe Campaign to support remarketing messages that drive engagement and conversions. This new out-of-the-box feature will allow marketers to trigger remarketing messages at the right time, based on online events like cart abandonment, pages views, videos watched, and so on. </p> </td>
+   <td colname="col2"> <p> Adobe Campaign Standard 16.7 introduces an integration with the new Trigger service. This service enables business users to easily define triggers based on online behavioral data captured in Adobe Analytics. Once the trigger is defined, it is available in Adobe Campaign to support remarketing messages that drive engagement and conversions. This new out-of-the-box feature allows marketers to trigger remarketing messages at the right time, based on online events like cart abandonment, pages views, and videos watched. </p> </td>
   </tr>
  </tbody>
 </table>
@@ -79,4 +79,4 @@ If you want help implementing dynamic tag management we encourage you to contact
 
 The Adobe Experience Cloud Debugger extension for Chrome examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
 
-See [Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html) for help.
+See [Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en) for help.

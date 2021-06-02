@@ -12,7 +12,7 @@ exl-id: 12addbb6-a29b-4d20-ac8f-77e0846150b5
 ---
 # Sign in and manage your Experience Cloud profile settings
 
-Signing in to the Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and services that you own. This help describes how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
+Signing in to Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and services that you own. This help describes how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
 
 >[!IMPORTANT]
 >
@@ -31,11 +31,11 @@ Sign in and verify that you are in the right [organization](../admin-getting-sta
 
 | Element | Description |
 |--- |--- |
-|[Admin Console Basics](https://helpx.adobe.com/marketing-cloud/how-to/first-time-setup.html)|Learn about the initial steps you need to take to get started using Experience Cloud solutions.|
+|[Admin Console Basics](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html)|Learn about the initial steps you must take to get started using Experience Cloud solutions.|
 |[Set up Identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html)|Define and set up an identity system against which your end users will be authenticated.|
 |[User Management](https://helpx.adobe.com/enterprise/using/users.html)|Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.|
 |[Launch Admin Console](../admin-getting-started/admin-getting-started.md)|The Admin Console is the central location for managing your Adobe users and product entitlements across your entire organization.<br>You can also sign in to the Admin Console using a [direct link](https://adminconsole.adobe.com).|
-|[Manage Creative Cloud Users](../experience-cloud-assets/t-admin-add-cc-user.md)|Experience Cloud Assets allows marketers to share, sync and collaborate on folders with designers and other creative assets using the Creative Cloud. You can manage the Creative Cloud users approved to collaborate with your organization here.|
+|[Manage Creative Cloud Users](../experience-cloud-assets/t-admin-add-cc-user.md)|Experience Cloud Assets allows marketers to share, sync, and collaborate on folders with designers and other creative assets using the Creative Cloud. You can manage the Creative Cloud users approved to collaborate with your organization here.|
 |[Map Your Report Suites](../core-services/core-services.md)|(Analytics only) Experience Cloud core services are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. (This task is part of a broader workflow to [enable Analytics for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)).|
 |[Organization ID](../admin-getting-started/organizations.md)|The *Organization ID* is found on the bottom of the Administration page. This ID is the associated ID with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg.|
 
@@ -145,5 +145,5 @@ Sample URL:
 | Parameter | Description | Example | Required / Optional |
 |--- |--- |--- |--- |
 |tenantId|Name of the tenant the user should log into.|aem62tenant|Optional|
-|destURL|The complete URL to the place where the user should be taken to.|https://sc.omniture.com/x/1_7xxzf|Optional|
-|solutionname|Name of the MAC Solution that is the owner of destURL parameter. It is used to verify that the user has access to the solution which is the owner of the URL.  It is the responsibility of the solutions to make sure that the solutionname is in Sync with the destURL parameter.  For example : If the URL contains solutionname as social and the destURL provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify weather the owner of the destURL is in sync with the solution name.|analytics|Required if destURL param is used.|
+|destURL|The complete URL to the place where the user should be taken to.|https://sc.omniture.com/login?r=%2Fx%2F1_7xxzf&tenantId=obuengsc&company=OBU+Eng+SC|Optional|
+|solutionname|Name of the MAC Solution that is the owner of destURL parameter. It is used to verify that the user has access to the solution which is the owner of the URL.  It is the responsibility of the solutions to make sure that the solutionname is in Sync with the destURL parameter.  For example : If the URL contains solutionname as social and the destURL provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify whether the owner of the destURL is in sync with the solution name.|analytics|Required if destURL param is used.|

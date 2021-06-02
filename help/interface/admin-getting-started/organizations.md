@@ -66,5 +66,5 @@ Help on problems that arise from account linking.
 
 Typically, account linking fails because the Adobe ID is linked to a previous user. When account linking fails, you can:
 
-* [Contact Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html).
+* [Contact Adobe Support](https://helpx.adobe.com/contact/enterprise-support.ec.html).
 * Access your solution using the standard login while the issue is being solved.

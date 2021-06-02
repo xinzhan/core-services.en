@@ -15,19 +15,19 @@ This page describes [!UICONTROL Customer Attributes'] support for the California
 >
 >The contents of this document are not legal advice and are not meant to substitute for legal advice. Consult with your legal counsel for advice concerning the (CCPA).
 
-The CCPA is California’s new privacy law, which is effective January 1, 2020. CCPA provides California residents new rights regarding their personal information and imposes data protection responsibilities on certain entities who conduct business in California. CCPA provides consumers with the right to access and delete their personal information as well as the right to opt out of certain activities that qualify as “selling” personal information to a third party.
+The CCPA is California’s new privacy law, which is effective January 1, 2020. CCPA provides California residents new rights regarding their personal information and imposes data protection responsibilities on certain entities who conduct business in California. CCPA provides consumers with the right to access and delete their personal information and the right to opt out of certain activities that qualify as “selling” personal information to a third party.
 
-As a business, you will determine the personal data that Adobe Experience Cloud processes and stores on your behalf.
+As a business, you determine the personal data that Adobe Experience Cloud processes and stores on your behalf.
 
-As your service provider, Adobe Experience Cloud provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Experience Cloud products and services, including managing requests to access and delete personal information.
+As your service provider, Adobe Experience Cloud provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Experience Cloud products and services. This support includes managing requests to access and delete personal information.
 
-This document describes how [!UICONTROL Customer Attributes] supports your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
+This document describes how [!UICONTROL Customer                   your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
 ## Required setup to send requests for [!UICONTROL Customer Attributes]
 
-To make requests to access and delete data for [!UICONTROL Customer Attributes], you'll need to:
+To make requests to access and delete data for [!UICONTROL Customer Attributes], you must:
 
 1. Identify the following:
 
@@ -35,7 +35,7 @@ To make requests to access and delete data for [!UICONTROL Customer Attributes],
    * Alias ID of CRS Data Source you want to act on
    * CRM ID of the profile you want to act on
 
-    An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
+    An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, contact Adobe Customer Care at gdprsupport@adobe.com. You will need the IMS Org ID to submit requests to the Privacy API.
 
 1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to Customer Attributes, and check the status of existing requests.
 

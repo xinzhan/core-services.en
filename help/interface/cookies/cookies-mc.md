@@ -53,9 +53,9 @@ Adobe Experience Cloud uses cookies to store a visitor ID that is used across Ex
 
 **Cookie Name: AMCV_###@AdobeOrg**
 
-The [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) uses JavaScript to store a unique visitor ID in an `AMCV_###@AdobeOrg` cookie on the domain of the current website, where `###` represents a random string of characters, such as `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.` 
+The [Experience Platform ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en) uses JavaScript to store a unique visitor ID in an `AMCV_###@AdobeOrg` cookie on the domain of the current website, where `###` represents a random string of characters, such as `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.` 
 
-See also, [Cookies and the ID Service](https://docs.adobe.com/content/help/en/id-service/using/intro/cookies.html).
+See also, [Cookies and the ID Service](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html?lang=en).
 
 <table id="table_1883C0836C1E4AF5A262FBF5000C1B11"> 
  <thead> 
@@ -86,7 +86,7 @@ See also, [Cookies and the ID Service](https://docs.adobe.com/content/help/en/id
    <td colname="col2"> <p> Varies, most customers can expect this cookie to be around 200 bytes in length. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>No value added. Chrome will default to Lax. </p> </td> 
+   <td colname="col1"> <p>No value added. Chrome defaults to Lax. </p> </td> 
    <td colname="col2"> <p> Cookies with this setting are only sent when the domain displayed in the URL of the browser matches the domain of the cookie. This is the new default for cookies in Chrome. </p> </td> 
   </tr> 
  </tbody> 

@@ -12,9 +12,9 @@ exl-id: bc8ce894-f98c-4475-8a07-d74ae76f7451
 ---
 # Analytics Cookies{#analytics-cookies}
 
-Adobe Analytics uses cookies to differentiate requests from different browsers and to store helpful information that an application can use later. They may also be used to associate browsing information to customer records.
+Adobe Analytics uses cookies to differentiate requests from different browsers and to store helpful information that an application can use later. They can also be used to associate browsing information to customer records.
 
-In particular, Analytics uses cookies to anonymously define new visitors, help analyze clickstream data, and track historical activity on the website, such as response to particular campaigns or the length of the sales cycle.
+Analytics uses cookies to anonymously define new visitors, help analyze clickstream data, and track historical activity on the website, such as response to particular campaigns or the length of the sales cycle.
 
 * [Cookie Name: s_ecid](../cookies/cookies-mc.md#section-32fd753c3fa54452acd62b021434919a) 
 * [Cookie Name: AMCV_###@AdobeOrg](../cookies/cookies-mc.md#section-a12aa2a9296940ae82d8921b381b8fb0) 
@@ -41,7 +41,7 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 
 | Attribute  | Description  |
 |--- |--- |
-|Information Stored|This cookie is set and read by the JavaScript code to determine if cookies are enabled (simply set to "True")|
+|Information Stored|This cookie is set and read by the JavaScript code to determine if cookies are enabled (set to "True")|
 |Expiration|This cookie is a session cookie and expires when the browser is closed|
 |Usage|Only one cookie for all accounts|
 |Location|This cookie is stored at the domain of the page|
@@ -95,10 +95,10 @@ The following table describes the flags for Analytics cookies:
 
 >[!NOTE]
 >
->If using a single CNAME to track across multiple domains or properties, SameSite should be set to "None" for `s_vi`. For help changing Analytics cookie settings, contact Customer Care.
+>If using a single CNAME to track across multiple domains or properties, SameSite should be set to "None" for `s_vi`. For help with changing Analytics cookie settings, contact Customer Care.
 
 ## Cookies Set By Plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}
 
-Additional cookies can be set depending on the use of Analytics plug-ins. These cookies are snippets of code available to the client for use in a variety of circumstances. These circumstances include: retrieving values from the URL; concatenating values to pass to Analytics; capturing form abandonment, and so on. For specifics on cookies that are set by each plug-in, contact ClientCare. An example would be the [!DNL s_vh] cookie used with the *Set Once Per* and *Set and Get Last Value* plug-ins.
+Additional cookies can be set depending on the use of Analytics plug-ins. These cookies are snippets of code available to the client for use in various circumstances. These circumstances include: retrieving values from the URL; concatenating values to pass to Analytics; capturing form abandonment, and so on. For specifics on cookies that are set by each plug-in, contact ClientCare. An example would be the [!DNL s_vh] cookie used with the *Set Once Per* and *Set and Get Last Value* plug-ins.
 
-Conversion variables (eVarX) passed in on a image request without JavaScript, such as code placed within an email, are attributed properly only if the email client and web browser share the same cookie space.
+Conversion variables (eVarX) passed in on an image request without JavaScript, such as code placed within an email, are attributed properly only if the email client and web browser share cookie space.

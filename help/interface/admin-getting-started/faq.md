@@ -16,7 +16,7 @@ Learn about browser support and common questions and answers for administrators 
 
 ## What browsers are supported in Experience Cloud?
 
-* Microsoft Edge (current and back two versions)
+* Microsoft® Edge (current and back two versions)
 * Google Chrome (current and back two versions)
 * Mozilla Firefox (current and back two versions)
 * Safari (current and back two versions)
@@ -27,7 +27,7 @@ Learn about browser support and common questions and answers for administrators 
 If your implementation has not been provisioned for core services, see [Enable your solutions for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C), which describes how to: 
 
 1. [Join the Experience Cloud and become an administrator](../core-services/core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
-1. [Implement the Experience Cloud ID Service using Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html).
+1. [Implement the Experience Cloud ID Service using Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/intro/get-started/quick-start.html?lang=en).
 1. [Map Report Suites to an Experience Cloud Organization](../core-services/core-services.md#concept_apg_zq2_rw)
 1. [(Analytics only) Modernize Your Analytics AppMeasurement Code](../core-services/core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [(Adobe Target only) Modernize Your Adobe Target Implementation](../core-services/core-services.md#section_C2F4493C7A36406DAE2266B429A4BD24)
@@ -35,7 +35,7 @@ If your implementation has not been provisioned for core services, see [Enable y
 1. [Manage users and products](../core-services/core-services.md#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
 1. [Start using core services](../core-services/core-services.md#section_960C06093623462E8EA247B3E97274A1)
 
-For more assistance, [Contact Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html).
+For more assistance, [Contact Adobe Support](https://helpx.adobe.com/contact/enterprise-support.ec.html).
 
 ## Does Adobe charge my company for Experience Cloud access?
 
@@ -43,11 +43,11 @@ No. The Experience Cloud is included at no additional charge. However, certain c
 
 ## Why does my company need to log in through the Experience Cloud interface?
 
-The functionality provided by the Experience Cloud interface adds new value to your business. It also will be the standard path for accessing solutions going forward, eventually replacing other individual solution login flows. Logging in through the Experience Cloud will facilitate a smoother transition later.
+The functionality provided by the Experience Cloud interface adds new value to your business. It also is the standard path for accessing solutions going forward, eventually replacing other individual solution login flows. Logging in through Experience Cloud facilitates a smoother transition later.
 
 ## How do I resolve concerns about migrating my company?
 
-[Contact Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html). 
+[Contact Adobe Support](https://helpx.adobe.com/contact/enterprise-support.ec.html). 
 
 ## What is _provisioning?_
 
@@ -60,17 +60,17 @@ Provisioning in the Experience Cloud means:
 
 ## How do I manage users and product profiles?
 
-* See the [Admin Console User Guide](https://helpx.adobe.com/enterprise/administering/user-guide.html) for help.
+* See the [Admin Console User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html) for help.
 
-* User entitlements and product management is performed in the [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (product link).
+* User entitlements and product management are performed in the [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (product link).
 
-* **Important:** Analytics administrators, see [Manage Analytics Users in the Admin Console](https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html) about migrating user IDs from Analytics Admin Tools to the Admin Console. 
+* **Important:** Analytics administrators, see [Manage Analytics Users in the Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=en) about migrating user IDs from Analytics Admin Tools to the Admin Console. 
 
 ## What do I do if someone cannot log in to the Experience Cloud?
 
 Admin Console administrators can grant access to users. Users are sent emails with sign-in instructions. 
 
-You might need to [Contact Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html) to verify that your company has been fully provisioned.
+You might need to [Contact Adobe Support](https://helpx.adobe.com/contact/enterprise-support.ec.html) to verify that your company has been fully provisioned.
 
 ## Where can a user go to manage account linking?
 
@@ -92,13 +92,13 @@ See [Finding your Organization ID](organizations.md).
 
 The Organization ID is displayed on the Experience Cloud landing page and the [Admin Console landing page](https://adminconsole.adobe.com). 
 
-Alternatively, administrators can log into the Admin console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com#)) for a specific organization, and you will be able to see your IMS org ID in the URL. 
+Alternatively, administrators can log into the Admin Console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com#)) for a specific organization, and you are able to see your IMS org ID in the URL. 
 
 For example, in the following URL: 
 
 `https://adminconsole.adobe.com/C538193582390300A495CC9@AdobeOrg/overview` 
 
-the ID is: 
+The ID is: 
 
 `C538193582390300A495CC9@AdobeOrg`
 
@@ -108,7 +108,7 @@ Their access should be removed from the solution itself. They will not be able t
 
 ## What is an Adobe ID?
 
-See [Identity Types](https://helpx.adobe.com/enterprise/help/identity.html).
+See [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html).
 
 ## Can I link solution accounts for my users?
 

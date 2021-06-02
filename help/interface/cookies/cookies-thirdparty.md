@@ -12,13 +12,13 @@ exl-id: 3d12a1b1-c952-4b42-815d-f64b31429cec
 ---
 # How changes to third-party cookie support impact customers{#how-changes-to-third-party-cookie-support-impacts-customers}
 
-As the support for third-party cookies has become more and more limited across browsers, Adobe has been working on new solutions that carefully balance customer requirements with the consumer's right to privacy across the Adobe Experience Cloud solutions.
+Support for third-party cookies has become more limited across browsers. As such, Adobe has been working on new solutions that carefully balance customer requirements with the consumer's right to privacy across Experience Cloud applications.
 
-The following list outlines how third-party cookie support impacts current implementations of the Adobe Experience Cloud solutions:
+The following list outlines how third-party cookie support impacts current implementations of Experience Cloud applications:
 
 ## Adobe Analytics and Adobe Target
 
-* Analytics and Target will be largely unaffected since same site activity relies only on first-party cookies. Third-party cookies are required to understand user activity on across domains. For browsers where third-party cookies are blocked, cross-domain tracking will not be possible using cookies.
+* Analytics and Target are largely unaffected since same site activity relies only on first-party cookies. Third-party cookies are required to understand user activity on across domains. For browsers where third-party cookies are blocked, cross-domain tracking is not possible using cookies.
 
 ## Adobe Experience Manager
 
@@ -40,4 +40,4 @@ The following list outlines how third-party cookie support impacts current imple
   * Display remarketing today is entirely dependent upon the usage of third-party cookies.
   * Display is also heavily dependent on the availability of various advertising network cookies for synchronization.
   * Overall impact is unknown. However, per the first point, display is affected more than other services.
-  * We are working internally and with our advertising partners to evaluate the full extent to the impact on ad delivery.
+  * Adobe is working internally and with our advertising partners to evaluate the full extent to the impact on ad delivery.

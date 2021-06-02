@@ -14,7 +14,7 @@ exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
 
 If you do not upload using drag-and-drop, you can upload customer attribute data via FTP to the Experience Cloud.
 
-You can upload the data after you create a customer attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate the upload is complete. 
+You can upload the data after you create a customer attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete. 
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ You can upload the data after you create a customer attribute source and an FTP 
 File uploads to the Customer Attributes FTP site can be done via FTP or SFTP: 
 
 * You need a client that supports SFTP connections.
-* You can connect with SFTP using either username/password or using no password, as described [here](https://docs.adobe.com/help/en/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
+* You can connect with SFTP using either username/password or using no password, as described [here](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html?lang=en).
 
 **To upload the data file via FTP** 
 

@@ -125,11 +125,11 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>The date when synchronization will be performed, in the format yyyymmdd </p> </td> 
+   <td colname="col2"> <p>The date when synchronization is performed, in the format yyyymmdd </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
-   <td colname="col2"> <p>The date when synchronization will be performed, in the format yyyymmdd </p> </td> 
+   <td colname="col2"> <p>The date when synchronization is performed, in the format yyyymmdd </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Usage </p> </td> 

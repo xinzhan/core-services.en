@@ -12,7 +12,7 @@ exl-id: 54f77e67-1bcf-4d01-b70b-af85bac3f449
 ---
 # Data Connectors Cookies{#data-connectors-cookies}
 
-Data connectors uses cookies to provide advertisers with optimized campaign and conversion performance metrics across multiple advertising channels.
+[!UICONTROL Data Connectors] uses cookies to provide advertisers with optimized campaign and conversion performance metrics across multiple advertising channels.
 
 <table id="table_54B402C6E19C4A70B1E27BC9DFF776EB"> 
  <thead> 

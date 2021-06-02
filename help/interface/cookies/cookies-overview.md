@@ -12,6 +12,6 @@ Many services within the Adobe Experience Cloud use cookies. A cookie is a small
 
 >[!NOTE]
 >
->Laws, regulations, and self-regulatory principles may require you to obtain consent from visitors before you can store or retrieve information on a computer or other web connected device. We suggest you review with your counsel what laws, regulations, and principles control your use of cookies.
+>Laws, regulations, and self-regulatory principles may require you to obtain consent from visitors before you can store or retrieve information on a computer or other web connected device. Adobe suggests that you review with your counsel what laws, regulations, and principles control your use of cookies.
 
 This documentation describes the cookies used by the Suite and has been prepared to assist you with understanding your consent obligations. 

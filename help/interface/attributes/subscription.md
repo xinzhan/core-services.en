@@ -12,7 +12,7 @@ exl-id: cfa2aa5c-337f-401e-80eb-cbe36cb1d41e
 ---
 # How to configure subscriptions in Experience Cloud
 
-Learn about solution data sources and configuring subscriptions. Subscriptions enable the customer attribute data flow between the Experience Cloud and solutions (Analytics and [!DNL Target]).
+Learn about solution data sources and configuring subscriptions. Subscriptions enable the customer attribute data flow between Experience Cloud and solutions ([!DNL Analytics] and [!DNL Target]).
 
 For example, an Adobe Analytics subscription enables attribute data in reports. If you use Adobe Target, you can upload Customer Attributes for targeting and segmentation. 
 

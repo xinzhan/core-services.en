@@ -26,11 +26,11 @@ Audience Manager relies on a few simple cookies to perform different functions. 
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Purpose</b> </p> </td> 
-   <td colname="col2"> <p> <span class="keyword"> Audience Manager </span> sets this cookie to assign a unique ID to a site visitor. The <span class="wintitle"> demdex </span> cookie helps <span class="keyword"> Audience Manger </span> perform basic functions such as visitor identification, ID synchronization, segmentation, modeling, reporting, etc. </p> </td> 
+   <td colname="col2"> <p> <span class="keyword"> Audience Manager </span> sets this cookie to assign a unique ID to a site visitor. The <span class="wintitle"> demdex </span> cookie helps <span class="keyword"> Audience Manger </span> perform basic functions, such as visitor identification, ID synchronization, segmentation, modeling, reporting, and so on. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Content</b> </p> </td> 
-   <td colname="col2"> <p>The <span class="wintitle"> demdex </span> cookie contains a Unique User ID (UUID) as shown in the example below: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>See also, <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html" format="https" scope="external"> Index of IDs in Audience Manager </a>. </p> </td> 
+   <td colname="col2"> <p>The <span class="wintitle"> demdex </span> cookie contains a Unique User ID (UUID) as shown in the example below: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>See also, <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html?lang=en" format="https" scope="external"> Index of IDs in Audience Manager </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Other Attributes</b> </p> </td> 
@@ -78,7 +78,7 @@ Audience Manager relies on a few simple cookies to perform different functions. 
 
 dextp Cookie Data Syntax:
 
-The following table lists and defines the elements in a [!DNL dextp] cookie by location in the data string.
+The following table lists and defines the elements in a `dextp` cookie by location in the data string.
 
 <table id="table_BE00604B97F24F5A94AA4F566063D785"> 
  <thead> 
@@ -123,7 +123,7 @@ The following table lists and defines the elements in a [!DNL dextp] cookie by l
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Purpose</b> </p> </td> 
-   <td colname="col2"> <p> <span class="keyword"> Audience Manager </span> sets this cookie when there's an error sending data to a <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html#purposes" format="https" scope="external"> destination </a>. </p> </td> 
+   <td colname="col2"> <p> <span class="keyword"> Audience Manager </span> sets this cookie when there's an error sending data to a <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=en" format="https" scope="external"> destination </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Content</b> </p> </td> 
@@ -146,4 +146,4 @@ The following table lists and defines the elements in a [!DNL dextp] cookie by l
 
 **_dp Cookie**
 
-This is a temporary cookie. [!DNL Audience Manager] tries to set the [!DNL _dp] cookie to determine if it can set other cookies in the demdex.net domain in a third-party context. When [!DNL _dp] is set it contains a value of 1. [!DNL Audience Manager] reads this value and immediately removes the cookie. If the [!DNL _dp] cookie is not present, [!DNL Audience Manager] knows it cannot set cookies.
+This cookie is temporary. [!DNL Audience Manager] tries to set the `_dp` cookie to determine if it can set other cookies in the demdex.net domain in a third-party context. When `_dp` is set it contains a value of 1. [!DNL Audience Manager] reads this value and immediately removes the cookie. If the `_dp` cookie is not present, [!DNL Audience Manager] knows it cannot set cookies.

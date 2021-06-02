@@ -57,11 +57,13 @@ The [!UICONTROL Help] menu also gives you access to:
 
 ## Globally search for objects and entities
 
-The global search enables you to find any searchable business object or entity in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects.
+The global search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects.
 
 ![](assets/platform-search.png)
 
-This search is available only to Experience Platform users.
+>![NOTE]
+>
+>The global search is available only to Experience Platform users.
 
 ## Manage account preferences {#preferences}
 
@@ -116,9 +118,9 @@ Related Experience Cloud guides include:
 
 * [Adobe Mobile](https://experienceleague.adobe.com/docs/mobile-services/using/home.html?lang=en)
 * [Experience Platform Co-op Graph](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=en)
-* [Exchange](https://www.adobeexchange.com/experiencecloud)
+* [Exchange](https://exchange.adobe.com/experiencecloud)
 * [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en)
-* [Experience Platform Data Collection/Launch](https://experienceleague.corp.adobe.com/docs/launch.html?lang=en)
+* [Experience Platform Data Collection/Launch](https://experienceleague.adobe.com/docs/launch.html?lang=en)
 * [Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en)
 * [General Data Protection Regulation (GDPR) API](https://www.adobe.io/apis/experiencecloud/gdpr.html)
 * [[!UICONTROL Dynamic Tag Management]](https://experienceleague.adobe.com/docs/dtm/using/dtm-home.html?lang=en)
@@ -133,10 +135,10 @@ Take advantage of self-help tutorials and quick how-tos in Experience League:
 
 ## Release notes and related Experience Cloud help
 
-* [Product documentation for all Experience Cloud solutions](https://experienceleague.adobe.com/docs/experience-cloud/user-guides/home.html?lang=en) - Browse for help at Experience Cloud Learn & Support
+* [Product documentation for all Experience Cloud solutions](https://experienceleague.adobe.com/docs/home.html?lang=en) - Browse for help at Experience Cloud Learn & Support
 * [Release notes and product updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) - What's new in the Experience Cloud, and subscribe to get updates
-* [Tutorials for implementing core services](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=en) - Explore videos and tutorials about core services
+* [Tutorials for implementing core services](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=en) - Explore videos and tutorials about core services
 * [Expert help at Experience League](https://experienceleague.adobe.com/) - Get guided learning from experts and the community
 * [Education and training](https://helpx.adobe.com/learning.html?promoid=KAUDK) - Engage with Adobe to ensure that you get the most out of Adobe's products
-* [Customer Experience Blog](https://blog.adobe.com/customer-experience/) - Read the Experience Cloud blog
+* [Customer Experience Blog](https://blog.adobe.com/en/topics/digital-transformation.html) - Read the Experience Cloud blog
 * [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support) - Contact Adobe Customer Care
