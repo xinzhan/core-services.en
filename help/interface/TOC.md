@@ -28,7 +28,7 @@ index: yes
   + [[!DNL Search and Promote] cookies](cookies/cookies-snp.md)
   + [[!DNL Target] cookies](cookies/cookies-target.md)
   + [Enable privacy settings for browser cookies](cookies/browser-cookie-settings.md)
-  + [How changes to third party cookie support impacts customers](cookies/cookies-thirdparty.md)
+  + [How changes to third party cookie support impact customers](cookies/cookies-thirdparty.md)
 + User and product management {#manage-users-and-products}
   + [Manage Experience Cloud user identity and products (Admin Console)](admin-getting-started/admin-getting-started.md)
   + [View Experience Cloud user details (Admin Tool)](admin-getting-started/admin-tool-experience-cloud.md)
@@ -37,8 +37,8 @@ index: yes
   + [Upgrading to Analytics Premium and the Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
 + Experience Cloud Activation {#activation}
   + [Activation overview](activation/activation.md)
-  + [Experience Platform Launch user guide](https://docs.adobe.com/content/help/en/launch/using/overview.html)
-  + [Dynamic Tag Manager user guide](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
+  + [Experience Platform Launch user guide](https://experienceleague.adobe.com/docs/launch/using/overview.html?lang=en)
+  + [Dynamic Tag Manager user guide](https://experienceleague.adobe.com/docs/dtm/using/dtm-home.html?lang=en)
   + [Triggers](activation/triggers.md)
 + Experience Cloud assets {#assets}
   + [Experience Cloud assets overview](experience-cloud-assets/experience-cloud-assets.md)
@@ -66,10 +66,10 @@ index: yes
   + [Support for California Consumer Privacy Act](attributes/ccpa.md)
   + [Privacy considerations for Customer Attributes](attributes/privacy-mac.md)
 + Release notes for Experience Cloud {#release-notes}
-  + [What's new in the Experience Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
+  + [What's new in the Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
   + [Cumulative release notes](marketing-cloud-interface/release-notes.md)
 + More Resources {#more-resources}
-  + [Forum](https://forums.adobe.com/community/experience-cloud)
+  + [Forum](https://experienceleaguecommunities.adobe.com/)
   + [Terminology](terms.md)
   + [Using DNS prefetch with different solutions and services](dns-prefetch.md)
   + [Documentation updates](doc-updates.md)
