@@ -14,9 +14,9 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Information about updates to the Experience Cloud product documentation.
 
-**Updated: 5/26/2021**
+**Updated: 6/1/2021**
 
-Added [Experience Cloud interface](experience-cloud-interface.md) for help on accessing Experience Cloud, global search, preferences, and notifications.
+Updated [landing page](experience-cloud.md) with new help on accessing Experience Cloud, global search, preferences, and notifications.
 
 **Updated: 8/19/2020**
 
