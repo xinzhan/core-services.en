@@ -11,11 +11,11 @@ exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 ---
 # Experience Cloud Central Interface Components
 
-Experience Cloud is Adobe's integrated family of digital marketing applications, products, and services. It's also an intuitive interface that lets you quickly access your cloud applications, product features, and services.
+[Experience Cloud](https://experience.adobe.com) is Adobe's integrated family of digital marketing applications, products, and services. From its intuitive interface, you can quickly access your cloud applications, product features, and services.
 
 ![Experience Cloud](assets/landing.png)
 
-The header at the top of Experience Cloud behaves like an operating system of applications accessed at https://experience.adobe.com. You can
+From Experience Cloud's header, you can:
 
 * Access your applications and services
 * Search for product documentation, tutorials, and community posts
@@ -92,7 +92,7 @@ Click **[!UICONTROL Notifications]** to be alerted about relevant and actionable
 
 ![](assets/notifications-menu-small.png)
 
-## Help on administration and cross-application services
+## Get help on administration and cross-application services
 
 This guide provides access to help on Experience Cloud user and product administration in the Admin Console, enabling solutions for platform services. You can also access help on the Audience Library, Customer Attributes, Experience Cloud Assets, and more:
 
