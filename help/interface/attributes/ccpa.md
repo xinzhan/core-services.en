@@ -21,7 +21,7 @@ As a business, you determine the personal data that Adobe Experience Cloud proce
 
 As your service provider, Adobe Experience Cloud provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Experience Cloud products and services. This support includes managing requests to access and delete personal information.
 
-This document describes how [!UICONTROL Customer                   your data subjects' CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
+This document describes how [!UICONTROL Customer Attributes] supports your data subjects’ CCPA data access and deletion rights using the Adobe Experience Platform Privacy Service API and Privacy Service UI.
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
