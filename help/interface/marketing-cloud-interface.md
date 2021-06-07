@@ -14,7 +14,7 @@ An overview of new features and updates in the Experience Cloud.
 
 ## August 2018 {#section_7388CDAB723B49809AABEFEE85CF6378}
 
-Fixes and improvements for August, 2018. 
+Fixes and improvements for August  2018. 
 
 * Made improvements on assets comment sync across Creative Cloud and Experience Cloud. (CORE-15971)
 * Added feature flag to control Experience Cloud-Creative Cloud asset sync. (CORE-15938)
@@ -23,7 +23,7 @@ Fixes and improvements for August, 2018.
 
 ## July 19, 2018 {#section_EBB549EBABB7480884A180237ADCCD02}
 
-Fixes and improvements for July, 2018. 
+Fixes and improvements for July  2018. 
 
 * Deployed a back-end capability to control asset sharing between Marketing Cloud-to-AEM and Marketing Cloud-to-Creative Cloud. (CORE-14386)
 * Fixed an issue that blocked provisioning of new tenants on some environments. (CORE-15509)
@@ -32,7 +32,7 @@ Fixes and improvements for July, 2018.
 
 ## June 14, 2018 {#section_7ABC327992CB46B0B8E4A631B8B68899}
 
-Fixes and improvements for June, 2018. 
+Fixes and improvements for June 2018. 
 
 * Enabled a link to GDPR access for Administrators. (CORE-11731)
 * Updated Beta Feedback feature to restrict file types that can be attached to feedback. (CORE-10474)
@@ -56,7 +56,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] interface.
 
 **Known Issue** 
 
-Many of the maintenance notifications around scheduled maintenance / product updates are missing from the notifications email digest. We are working to ensure all maintenance notifications are included in the email digest. 
+Many of the maintenance notifications around scheduled maintenance / product updates are missing from the notifications email digest. We are working to ensure that all maintenance notifications are included in the email digest. 
 
 ## August 8, 2017 {#section_2313A875454044F490B418506DD24593}
 
@@ -64,7 +64,7 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 |--- |--- |
 |Notifications - Granular settings|You can enable notifications for product and solution events and activities, including notifications about [Customer Attributes](../attributes/attributes.md) upload activity.|
 |Notifications - Maintenance notifications|In Notification settings, you can enable maintenance notifications for products and solutions.|
-|Admin Console for Experience Cloud Solutions|New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization.<br>The migration to the Admin Console for user management will proceed in waves. Adobe will contact you (system administrators) when it is time to migrate.<br>Analytics administrators, see  [Analytics Migration](https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html).|
+|Admin Console for Experience Cloud Solutions|New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization.<br>The migration to the Admin Console for user management will proceed in waves. Adobe contacts you (system administrators) when it is time to migrate.<br>Analytics administrators, see  [Analytics Migration](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=en).|
 
 ## May 22, 2017 {#section_242FE649FA1B4BFA88EC6E353D175ACC}
 
@@ -77,7 +77,7 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 
 | Feature | Description |
 |--- |--- |
-|Update to Profile & Passwords|Users can no longer edit IMS user profile information under  Personal Details In  Edit Profile >  Profile & Passwords. Instead users are redirected to `accounts.adobe.com`. This applies to all identity types (Adobe ID, Enterprise, and Federated).|
+|Update to Profile & Passwords|Users can no longer edit IMS user profile information under  Personal Details In  Edit Profile >  Profile & Passwords. Instead users are redirected to `accounts.adobe.com`. This update applies to all identity types (Adobe ID, Enterprise, and Federated).|
 
 **Fixes** 
 

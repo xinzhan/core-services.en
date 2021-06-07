@@ -16,7 +16,7 @@ Features, release notes, and known issues for the Experience Cloud interface.
 
 For a list of documentation updates, see [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
-For release notes covering all solutions, see [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html).
+For release notes covering all solutions, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
 ## May - 2021
 
@@ -52,7 +52,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 ## January - 2020
 
-* The Feed page was deprecated in December, 2019. Look for an in-product deprecation notice. (MCUI-10039)
+* The Feed page was deprecated in December  2019. Look for an in-product deprecation notice. (MCUI-10039)
 
 ## August - 2019
 
@@ -89,11 +89,11 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Pre-configured product configurations in the Admin Console </p> </td> 
-   <td colname="col2"> <p>Experience Cloud customer administrators can leverage product configurations that are pre-created and mapped to default permission groups for Analytics and Dynamic Tag Management. </p> <p>This optimization is available for newly provisioned organizations, and it reduces the amount of time required by organizations to manage users in the Admin Console. </p> </td> 
+   <td colname="col2"> <p>Experience Cloud customer administrators can use product configurations that are pre-created and mapped to default permission groups for Analytics and Dynamic Tag Management. </p> <p>This optimization is available for newly provisioned organizations, and it reduces the amount of time required by organizations to manage users in the Admin Console. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Feed improvement </p> </td> 
-   <td colname="col2"> <p> When creating a new post in the Experience Cloud Feed, the To line now uses the currently active topic instead using the organization by default.</p> </td> 
+   <td colname="col2"> <p> When creating a post in the Experience Cloud Feed, the To line now uses the currently active topic instead using the organization by default.</p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -114,11 +114,11 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Assets improvements </p> </td> 
-   <td colname="col2"> <p>In Experience Cloud Assets, you can store, share, and synchronize your digital assets from one central location. Experience Cloud Assets leverages some of the features available in <span class="keyword"> Adobe Experience Manager</span> (AEM). </p> <p>See <a href="../experience-cloud-assets/experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0" format="dita" scope="local"> Experience Cloud</a></p> </td> 
+   <td colname="col2"> <p>In Experience Cloud Assets, you can store, share, and synchronize your digital assets from one central location. Experience Cloud Assets uses some of the features available in <span class="keyword"> Adobe Experience Manager</span> (AEM). </p> <p>See <a href="../experience-cloud-assets/experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0" format="dita" scope="local"> Experience Cloud</a></p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Account linking improvements </p> </td> 
-   <td colname="col2"> <p>Improved the interface workflow for linking solution accounts with the Experience Cloud (Adobe ID). This new workflow locates all the user's accounts associated with an organization, and lets you choose which account to link. We also streamlined the account linking experience, so that you no longer need to access the Manage Organizations page to manually link accounts. </p> </td> 
+   <td colname="col2"> <p>Improved the interface workflow for linking solution accounts with the Experience Cloud (Adobe ID). This new workflow locates all the user's accounts associated with an organization, and lets you choose which account to link. We also streamlined the account linking experience, so that you no longer must access the Manage Organizations page to manually link accounts. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -150,7 +150,7 @@ If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** >
 
 >[!NOTE]
 >
->Microsoft is [ending support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, we will not fix issues reported against these specific versions of Internet Explorer. 
+>Microsoft® is [ending support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, we will not fix issues reported against these specific versions of Internet Explorer. 
 
 ## Release 15.10 - October 14 2015 {#section_68123833D3634BD3A473C12862BF9606}
 
@@ -205,7 +205,7 @@ No information available
 </table>
 
 * Fixed an issue preventing Customer Attributes from syncing for some customers.
-* Fixed an issue preventing [Adobe Target Product Documentation](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html) page from displaying in Japanese.
+* Fixed an issue preventing [Adobe Target Product Documentation](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en) page from displaying in Japanese.
 * Fixed an issue preventing the use of Japanese text in comments between the [!DNL Creative Cloud] and the [!DNL Experience Cloud].
 
 ## Release 15.4.1 - April 8 2015 {#section_75634120CC934B3381EDEA7F6F976F0A}
@@ -222,7 +222,7 @@ No information available
    <td colname="col1"> <p>Administration improvements: </p> 
     <ul id="ul_7D5FCBEFA262435D865CA1018BFB792E"> 
      <li id="li_6E98974CCB094ABBAB57C51ED56C3F00"> <span class="wintitle"> Admin Console</span> </li> 
-     <li id="li_8CDAB6301FD44C3999EE4EEB1A0A2FD6">Enterprise and federated ID support </li> 
+     <li id="li_8CDAB6301FD44C3999EE4EEB1A0A2FD6">Enterprise and Federated ID support </li> 
     </ul> </td> 
    <td colname="col2"> <p>User and group management functionality has been moved to the Admin Console. The new navigation path is: </p> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol"> Administration</span> &gt; <span class="uicontrol"> Launch Admin Console</span></p> <p> Also, support for enterprise and federated IDs has been added. You can use enterprise IDs, federated IDs, and Adobe IDs in the same enterprise deployment. For example, use Adobe IDs for users who may use other Adobe product and services. Use enterprise or federated IDs for users where you want to strictly manage their accounts. </p> </td> 
   </tr> 
@@ -235,7 +235,7 @@ No information available
 
 **Known Issues** 
 
-* Linking and unlinking your dynamic tag management organization with the Experience Cloud is not working for newly created Experience Cloud organizations. We are working to fix this and restore normal functionality with the May release. If you experience problems when trying to single-sign on into dynamic tag management via the Experience Cloud, use the legacy login at [!DNL dtm.adobe.com].
+* Linking and unlinking your dynamic tag management organization with the Experience Cloud is not working for newly created Experience Cloud organizations. Adobe is working to fix this and restore normal functionality with the May release. If you experience problems when trying to single-sign on into dynamic tag management via the Experience Cloud, use the legacy login at [!DNL dtm.adobe.com].
 * A known issue is preventing audience sharing from report suites which are not owned by the linked Analytics account. Remedial efforts are underway
 
 ## Release 15.3.2 - March 19 2015 {#section_07760FD9CA43497FA8BDCCA990A24BFD}

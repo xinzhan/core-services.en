@@ -2,7 +2,7 @@
 description: Learn about how support for third-party cookies has become increasingly limited across browsers.
 keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
-title: How changes to third-party cookie support impacts customers 
+title: How changes to third-party cookie support impact customers 
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
 feature: Cookies
 topic: Administration
@@ -40,4 +40,4 @@ The following list outlines how third-party cookie support impacts current imple
   * Display remarketing today is entirely dependent upon the usage of third-party cookies.
   * Display is also heavily dependent on the availability of various advertising network cookies for synchronization.
   * Overall impact is unknown. However, per the first point, display is affected more than other services.
-  * Adobe is working internally and with our advertising partners to evaluate the full extent to the impact on ad delivery.
+  * Adobe is working internally and with Adobe's advertising partners to evaluate the full extent to the impact on ad delivery.

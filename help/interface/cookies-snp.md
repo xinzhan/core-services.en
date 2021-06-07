@@ -10,7 +10,7 @@ role: Administrator
 level: Experienced
 exl-id: 2e35668d-bf36-4f17-ae44-c2b9313c6c1f
 ---
-# Search and Promote Cookies{#search-and-promote-cookies}
+# Search & Promote cookies{#search-and-promote-cookies}
 
 Search&Promote uses cookies to understand and anticipate visitor search intent.
 

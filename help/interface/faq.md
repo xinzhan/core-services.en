@@ -27,7 +27,7 @@ Learn about browser support and common questions and answers for administrators 
 If your implementation has not been provisioned for core services, see [Enable your solutions for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C), which describes how to: 
 
 1. [Join the Experience Cloud and become an administrator](../core-services/core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
-1. [Implement the Experience Cloud ID Service using Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/intro/get-started/quick-start.html?lang=en).
+1. [Implement the Experience Cloud ID Service using Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/get-started/quick-start.html?lang=en).
 1. [Map Report Suites to an Experience Cloud Organization](../core-services/core-services.md#concept_apg_zq2_rw)
 1. [(Analytics only) Modernize Your Analytics AppMeasurement Code](../core-services/core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [(Adobe Target only) Modernize Your Adobe Target Implementation](../core-services/core-services.md#section_C2F4493C7A36406DAE2266B429A4BD24)
@@ -35,7 +35,7 @@ If your implementation has not been provisioned for core services, see [Enable y
 1. [Manage users and products](../core-services/core-services.md#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
 1. [Start using core services](../core-services/core-services.md#section_960C06093623462E8EA247B3E97274A1)
 
-For more assistance, [Contact Adobe Support](https://helpx.adobe.com/contact/enterprise-support.ec.html).
+For more assistance, [Contact Adobe Support](https://experienceleague.adobe.com/?support-solution=General#support).
 
 ## Does Adobe charge my company for Experience Cloud access?
 
@@ -47,7 +47,7 @@ The functionality provided by the Experience Cloud interface adds new value to y
 
 ## How do I resolve concerns about migrating my company?
 
-[Contact Adobe Support](https://helpx.adobe.com/contact/enterprise-support.ec.html). 
+[Contact Adobe Support](https://experienceleague.adobe.com/?support-solution=General#support). 
 
 ## What is _provisioning?_
 
@@ -60,7 +60,7 @@ Provisioning in the Experience Cloud means:
 
 ## How do I manage users and product profiles?
 
-* See the [Admin Console User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html) for help.
+* See the [Admin Console User Guide](https://helpx.adobe.com/enterprise/admin-guide.html) for help.
 
 * User entitlements and product management are performed in the [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (product link).
 
@@ -70,7 +70,7 @@ Provisioning in the Experience Cloud means:
 
 Admin Console administrators can grant access to users. Users are sent emails with sign-in instructions. 
 
-You might need to [Contact Adobe Support](https://helpx.adobe.com/contact/enterprise-support.ec.html) to verify that your company has been fully provisioned.
+You might need to [Contact Adobe Support](https://experienceleague.adobe.com/?support-solution=General#support) to verify that your company has been fully provisioned.
 
 ## Where can a user go to manage account linking?
 

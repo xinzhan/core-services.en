@@ -1,5 +1,5 @@
 ---
-description: Learn how the ID services is stored and used across Experience Cloud Solutions.
+description: Learn how the ID service is stored and used across Experience Cloud applications.
 keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: Experience Cloud Cookies 
@@ -10,9 +10,9 @@ role: Administrator
 level: Experienced
 exl-id: bd9bea58-9987-40d6-84e0-da185388bbbb
 ---
-# Experience Cloud Cookies{#experience-cloud-cookies}
+# Experience Cloud cookies{#experience-cloud-cookies}
 
-Adobe Experience Cloud uses cookies to store a visitor ID that is used across Experience Cloud Solutions.
+Adobe Experience Cloud uses cookies to store a visitor ID that is used across Experience Cloud applications.
 
 **Cookie Name: s_ecid**
 
@@ -46,7 +46,7 @@ Adobe Experience Cloud uses cookies to store a visitor ID that is used across Ex
   </tr> 
   <tr> 
    <td colname="col1"> <p> SameSite=Lax </p> </td> 
-   <td colname="col2"> <p>Cookies with this setting are only sent when the domain displayed in the URL of the browser matches the domain of the cookie. This is the new default for cookies in Chrome.</p> </td> 
+   <td colname="col2"> <p>Cookies with this setting are only sent when the domain displayed in the URL of the browser matches the domain of the cookie. This setting is the new default for cookies in Chrome.</p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -87,7 +87,7 @@ See also, [Cookies and the ID Service](https://experienceleague.adobe.com/docs/i
   </tr> 
   <tr> 
    <td colname="col1"> <p>No value added. Chrome defaults to Lax. </p> </td> 
-   <td colname="col2"> <p> Cookies with this setting are only sent when the domain displayed in the URL of the browser matches the domain of the cookie. This is the new default for cookies in Chrome. </p> </td> 
+   <td colname="col2"> <p> Cookies with this setting are only sent when the domain displayed in the URL of the browser matches the domain of the cookie. This setting is the new default for cookies in Chrome. </p> </td> 
   </tr> 
  </tbody> 
 </table>

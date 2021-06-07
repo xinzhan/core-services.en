@@ -25,7 +25,7 @@ Adobe provides tools that allow advertisers to collect behavioral information ab
 
 One common reason advertisers do this is to improve the information available when making consumer-appropriate marketing and advertising decisions. Adobe Analytics and Target allow advertisers to upload personally identifiable information (PII), such as email addresses, only after it has been hashed to make it impossible to use for contacting the individual. Hashed information can still be used for analysis and for marketing purposes. As a reminder, Adobe prohibits advertisers from sending sensitive personal information to Adobe, such as medical records, financial account information, and information about minors. 
 
-Adobe realizes that these types of marketing and advertising decisions may have consumer privacy implications, which is why Adobe has built in privacy controls to help advertisers meet their consumers' expectations. Adobe recommends its advertisers carefully consider which information is appropriate to use for marketing purposes and in which circumstances the advertiser has permission to use such information. 
+Adobe realizes that these types of marketing and advertising decisions may have consumer privacy implications, which is why Adobe has built in privacy controls to help advertisers meet their consumers' expectations. Adobe recommends that its advertisers carefully consider which information is appropriate to use for marketing purposes and in which circumstances the advertiser has permission to use such information. 
 
 ## Best practices
 

@@ -29,9 +29,9 @@ You can change these settings if needed, except for the cookie duration. Consult
 
 >[!NOTE]
 >
->If any of your domain names include a country code, such as `mycompany.co.uk`, work with your Client Services to configure your `at.js` to support this.
+>If any of your domain names include a country code, such as `mycompany.co.uk`, work with your Client Services to configure your `at.js` to support this code.
 
-The cookie keeps a number of values to manage how your visitors experience Adobe Target campaigns:
+The cookie keeps some values to manage how your visitors experience Adobe Target campaigns:
 
 |Value|Definition|
 | --- | --- |

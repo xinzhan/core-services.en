@@ -28,7 +28,7 @@ Updated [View Experience Cloud user details (Admin Tool)](admin-getting-started/
 
 **Updated: 5/19/2020**
 
-Depcrecated Offer Management documentation.
+Deprecated Offer Management documentation.
 
 **Updated: 5/15/2020**
 

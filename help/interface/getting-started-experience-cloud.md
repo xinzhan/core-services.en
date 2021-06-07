@@ -145,5 +145,5 @@ Sample URL:
 | Parameter | Description | Example | Required / Optional |
 |--- |--- |--- |--- |
 |tenantId|Name of the tenant the user should log into.|aem62tenant|Optional|
-|destURL|The complete URL to the place where the user should be taken to.|https://sc.omniture.com/login?r=%2Fx%2F1_7xxzf&tenantId=obuengsc&company=OBU+Eng+SC|Optional|
+|destURL|The complete URL to the place where the user should be taken to.|http://sc.omniture.com/login/?r=%2Fx%2F1_7xxzf&tenantId=obuengsc&company=OBU+Eng+SC|Optional|
 |solutionname|Name of the MAC Solution that is the owner of destURL parameter. It is used to verify that the user has access to the solution which is the owner of the URL.  It is the responsibility of the solutions to make sure that the solutionname is in Sync with the destURL parameter.  For example : If the URL contains solutionname as social and the destURL provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify whether the owner of the destURL is in sync with the solution name.|analytics|Required if destURL param is used.|

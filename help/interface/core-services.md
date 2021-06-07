@@ -49,7 +49,7 @@ What you must do to join the Experience Cloud:
 
 After you are an administrator, you can log in at [experience.adobe.com](https://experience.adobe.com).
 
-You will see the **[!UICONTROL Admin Console]** link in the Experience Cloud menu navigation.
+The **[!UICONTROL Admin Console]** link is available in Experience Cloud menu navigation.
 
 See [Experience Cloud user and product administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for more information.
 
@@ -91,7 +91,7 @@ If you are not using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dyna
 | Task    | Description  |
 | -----------| ---------- |  
 | [Implement the Experience Cloud ID Service for Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=en)  | Adobe also recommends setting additional [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. |  
-| Update your existing [!DNL s_code] to version H.27.3 or later, or your existing [!DNL AppMeasurement.js] to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=en) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.corp.adobe.com/docs/analytics/implementation/js/overview.html?lang=en#js) guide is available if you need more information about [!DNL AppMeasurement.js].) |
+| Update your existing [!DNL s_code] to version H.27.3 or later, or your existing [!DNL AppMeasurement.js] to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=en) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=en#js) guide is available if you need more information about [!DNL AppMeasurement.js].) |
 | Synchronize the customer ID for Analytics  | See [Analytics - synching the customer ID](../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437) (below). |
 
 ### Analytics & Adobe Target - synching the customer ID {#section_AD473A6A21C1446498E700363F9A8437}
@@ -115,7 +115,7 @@ See the *Experience Cloud ID Service* section for syntax examples about how to s
 
 ### Enabling Attributes for Historical Data
 
-Customer attribute data is made available after visitors log in. If you have not yet implemented the latest Experience Cloud ID Service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to the Experience Cloud. This process lets you begin using Customer Attributes immediately.
+Customer attribute data is made available after visitors log in. If you have not yet implemented the ID Service, and if you have historically been tracking customer IDs in a prop or eVar, you can request a process that sends historical logins to Experience Cloud. This process lets you begin using Customer Attributes immediately.
 
 Contact Customer Care to enable historical data.
 
@@ -170,9 +170,9 @@ Experience Cloud ID in the mbox request:
 
 ### What Is the Grace Period?
 
-After you deploy the Experience Cloud ID Service, new visitors no longer receive an Analytics Experience Cloud ID from your data collection server. If sections of your site have not yet implemented the Experience Cloud ID Service, when visitors browse to these sections, the Experience Cloud ID is not recognized and visitors are assigned a legacy Analytics visitor ID. This can cause potential problems, including duplicate visits and incorrect attribution. 
+After you deploy the Experience Cloud ID Service, new visitors no longer receive an Analytics Experience Cloud ID from your data collection server. If sections of your site have not yet implemented the ID Service, when visitors browse to these sections, the Experience Cloud ID is not recognized and visitors are assigned a legacy Analytics visitor ID. This can cause potential problems, including duplicate visits and incorrect attribution.
 
-For example, if the support section of your site is managed in a separate CMS, you might have a different Analytics JavaScript file for this section. If you deploy the Experience Cloud ID on your main site before you deploy the ID service to the support site, new visitors receive a legacy Analytics ID when they visit the support section. Visits that span both site sections are reported as different visits. 
+For example, if the support section of your site is managed in a separate CMS, you might have a different Analytics JavaScript file for this section. If you deploy the Experience Cloud ID on your main site before you deploy the ID service to the support site, new visitors receive a legacy Analytics ID when they visit the support section. Visits that span both site sections are reported as different visits.
 
 Deploying the Experience Cloud ID Service on sites that are using multiple JavaScript files or other technologies (such as Flash) can cause coordination issues. These issues occur because you must enable the Experience Cloud ID Service on all portions of your site at the same time. By configuring a grace period, new visitors to continue to receive an Analytics visitor ID from the ID service. Visitors can be consistently identified on sections of your site that have not been upgraded to use the visitor ID service. 
 

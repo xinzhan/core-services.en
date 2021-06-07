@@ -10,7 +10,7 @@ role: Administrator
 level: Experienced
 exl-id: ecb8d17f-f752-44ca-8877-44752c28dc70
 ---
-# Scene7 Cookies{#scene-cookies}
+# Scene7 cookies{#scene-cookies}
 
 Scene7 uses cookies to store helpful information that can be used to delivery dynamic media to the browser.
 
@@ -18,13 +18,13 @@ Scene7 stores information locally for some older AS2 Flash-based viewers.
 
 For AS2 viewers, cookies:
 
-* Track a user's session state, such as current page and image viewed, current zoom level, etc. 
+* Track a user's session state, such as current page and image viewed, current zoom level, and so on. 
 * Determine how long it has been since the user's previous session. The viewer uses this information to decide whether to continue a previous session or start a new one. This information is also sent to the Scene7 servers, but that is not used.
 
 For AS2 Flash eCatalog viewer, cookies:
 
 * Store user-generated content (most notably content entered by the user in the "sticky notes" feature of the ecatalog viewer). This content is restored when the user resumes a session. 
-* When the user initiates an email to share the ecatalog with another user, the sticky notes content from the second AS2 viewers bullet is copied to our servers to provide it to the recipient. When the recipient initiates the viewer session, the sticky notes content is retrieved from the server and copied to a cookie. This feature is little-used, so it does not expire and stale content is not removed. Currently, it persists on the servers indefinitely.
+* When the user initiates an email to share the ecatalog with another user, the sticky notes content from the second AS2 viewers bullet is copied to Adobe's servers to provide it to the recipient. When the recipient initiates the viewer session, the sticky notes content is retrieved from the server and copied to a cookie. This feature is little-used, so it does not expire and stale content is not removed. Currently, it persists on the servers indefinitely.
 
 The newer AS3 viewers do not implement session persistence.
 
