@@ -20,7 +20,7 @@ Many browsers and anti-spyware applications are designed to reject and delete th
 Two options are available to implement first-party cookies:
 
 * If you are using Experience Platform Identity Service (ECID Service), it automatically sets cookies in the first-party context using JavaScript.
-* If you are using [!DNL Analytics] legacy identifiers (aka the `s_vi` cookie) it depends on how you have configured your data collection server. If the data collection server matches your site's domain, then cookies are set as first-party. If the collection server does not match your current domain, then cookies are set as third party. In this case, if third-party cookies are blocked, [!DNL Analytics] sets a first-party [fallback id ("s_fid")](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-analytics.html?lang=en#section-65e33f9bfc264959ac1513e2f4b10ac7) instead of the standard "s_vi" cookie.
+* If you are using [!DNL Analytics] legacy identifiers (aka the `s_vi` cookie) it depends on how you have configured your data collection server. If the data collection server matches your site's domain, then cookies are set as first-party. If the collection server does not match your current domain, then cookies are set as third party. In this case, if third-party cookies are blocked, [!DNL Analytics] sets a first-party [fallback id (s_fid)](cookies-analytics.md) instead of the standard "s_vi" cookie.
 
 To ensure your collection server matches your site's domain, you can use a CNAME implementation to which allows cookies to be set in a first-party context. This involves changes to your company's DNS settings to configure a CNAME alias to pointing to an Adobe hosted domain. Please note that while various Adobe products support using a CNAME, in all cases the CNAME is used to a create a trusted first-party endpoint for a specific customer and is owned by that customer. If you control multiple domains, they may use a single CNAME endpoint to track users across their domains, but wherever the site domain does not match the CNAME domain cookies is set as third party.
 
@@ -163,6 +163,6 @@ After you have verified your hostnames are responding and forwarding to Adobe da
 
 1. If you are moving to first-party cookies from a long-standing implementation, or changing to a different first-party collection hostname, Adobe recommends migrating visitors from the previous domain to the new domain.
 
-See [Visitor Migration](https://experienceleague.adobe.com/docs/analytics/technotes/visitor-migration.html?lang=en) in the Analytics Implementation Guide.
+See [Visitor Migration](https://experienceleague.adobe.com/docs/analytics/implementation/javascript-implementation/visitor-migration.html?lang=en) in the Analytics Implementation Guide.
 
 After you have uploaded the JavaScript file, everything is configured for first-party cookie data collection. Adobe recommends that you monitor Analytics reporting for the next several hours to ensure that data collection continues as normal. If it does not, verify that all above steps have been completed and have one of your organization's supported users contact Customer Care.

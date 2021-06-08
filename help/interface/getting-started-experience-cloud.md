@@ -31,7 +31,7 @@ Sign in and verify that you are in the right [organization](organizations.md#top
 
 | Element | Description |
 |--- |--- |
-|[Admin Console Basics](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html)|Learn about the initial steps you must take to get started using Experience Cloud solutions.|
+|[Admin Console Basics](experience-cloud.md)|Learn about the initial steps you must take to get started using Experience Cloud solutions.|
 |[Set up Identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html)|Define and set up an identity system against which your end users will be authenticated.|
 |[User Management](https://helpx.adobe.com/enterprise/using/users.html)|Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.|
 |[Launch Admin Console](admin-getting-started.md)|The Admin Console is the central location for managing your Adobe users and product entitlements across your entire organization.<br>You can also sign in to the Admin Console using a [direct link](https://adminconsole.adobe.com).|
@@ -80,9 +80,6 @@ You can sort the Notifications display based on the message types that are impor
 
 * Sort by the message types that are important to you.
 * Search for notifications.
-
-
-**To enable notifications** 
 
 ![](assets/notifications-admin.png) 
 

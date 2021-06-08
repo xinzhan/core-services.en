@@ -105,7 +105,7 @@ Mapped report suites are displayed in a non-editable format. If you must change 
 
 ### What if I only know the Org ID for my Experience Cloud organization? How do I look up the name for my Org ID?
 
-You can find your organization name in [Organizations and Account Settings](https://experienceleague.adobe.com/docs/core-services/interface/manage-users-and-products/organizations.html?lang=en).
+You can find your organization name in [Organizations and Account Settings](organizations.md).
 
 ### I see a date in the “Date Mapped” column. Who did that mapping?
 
