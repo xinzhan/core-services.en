@@ -46,7 +46,7 @@ See [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-ser
 
 ## Audiences {#section_5F60D7B0833348B9A1D74663AADCB42C}
 
-Help: [Audiences](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
+Help: [Audiences](audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
 
 Create and manage Audiences in the Experience Cloud Audience Library. Audiences can be created or derived from various sources, such as: 
 

@@ -100,7 +100,7 @@ This guide provides access to help on Experience Cloud user and product administ
 
 * [[!UICONTROL Audience Library]](audience-library.md)
 * [[!UICONTROL Customer Attributes]](attributes.md)
-* [[!UICONTROL Triggers]](activation/triggers.md)
+* [[!UICONTROL Triggers]](triggers.md)
 * [Experience Cloud [!UICONTROL Assets]](experience-cloud-assets.md)
 * [Experience Cloud cookies](cookies-privacy.md)
 * [User and product management](admin-getting-started.md) (Admin Console)

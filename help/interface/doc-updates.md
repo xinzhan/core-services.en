@@ -67,11 +67,11 @@ Revised guide for latest release.
 
 **Updated: 3/15/2017**
 
-Updated the definition of Raw Analytics Data in [Create an audience](audience-library/t-audience-create.md#task_37F407F58BF9459493BB8E968CDFE737).
+Updated the definition of Raw Analytics Data in [Create an audience](t-audience-create.md#task_37F407F58BF9459493BB8E968CDFE737).
 
 **Updated: 2/23/2017**
 
-Added [Experience Cloud Triggers](activation/triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB).
+Added [Experience Cloud Triggers](triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB).
 
 **Updated: 2/1/2017**
 
@@ -83,7 +83,7 @@ Added [Experience Cloud Integrations](marketing-cloud-integrations.md#concept_9E
 
 **Updated: 2/11/2016**
 
-Added [Experience Cloud Assets](experience-cloud-assets/experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0).
+Added [Experience Cloud Assets](experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0).
 
 **Updated: 3/2/2015**
 
@@ -91,7 +91,7 @@ Added [Enable your solutions for core services](core-services.md#concept_07ED1D5
 
 **Updated: 1/15/2015**
 
-Added Experience Cloud Users can now share folders to the Creative Cloud and sync assets and comments across the two Clouds. See [Asset Sharing](experience-cloud-assets/creative-cloud.md#concept_3E5A34C3459047D5965F900788A9BA68).
+Added Experience Cloud Users can now share folders to the Creative Cloud and sync assets and comments across the two Clouds. See [Asset Sharing](creative-cloud.md#concept_3E5A34C3459047D5965F900788A9BA68).
 
 **Updated: 7/17/2014**
 
@@ -101,4 +101,4 @@ Added [Experience Cloud FAQ](faq.md#concept_13219B4E51784577B6FF78AAA203DE91) fo
 
 Added documentation for Audiences
 
-See [Audiences](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7)
+See [Audiences](audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7)
