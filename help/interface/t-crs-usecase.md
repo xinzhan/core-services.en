@@ -160,11 +160,9 @@ The following example shows an [!DNL Analytics] segment based on the uploaded at
 
 When you publish a segment to the Experience Cloud, it becomes available in Experience Cloud Audiences and Audience Manager. 
 
-See [Customer Attributes Report](https://experienceleague.adobe.com/docs/analytics/components/variables/dimensions-reports/reports-customer-attributes.html?lang=en) in Analytics help for more information. 
-
 ## Use Customer Attributes in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
-In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visitor Profile] section when creating an audience. All Customer Attributes will have the prefix [!DNL crs.] in the list. Combine these attributes as required with other data attributes to build audiences. 
+In [!DNL Target], you can select a customer attribute from the [!UICONTROL Visitor Profile] section when creating an audience. All Customer Attributes have the prefix `crs.` in the list. Combine these attributes as required with other data attributes to build audiences.
 
 ![](assets/crs-add-attribute-target.png) 
 

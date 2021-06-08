@@ -30,7 +30,7 @@ index: yes
     + [Privacy considerations for Customer Attributes](privacy-mac.md)
   + Experience Cloud Activation {#activation}
     + [Activation overview](activation.md)
-    + [Experience Platform Launch user guide](https://experienceleague.adobe.com/docs/launch/using/overview.html?lang=en)
+    + [Experience Platform Launch user guide](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=en)
     + [Triggers](triggers.md)
   + Experience Cloud Assets {#assets}
     + [Experience Cloud assets overview](experience-cloud-assets.md)
@@ -62,7 +62,7 @@ index: yes
     + [[!DNL Search and Promote] cookies](cookies-snp.md)
     + [[!DNL Target] cookies](cookies-target.md)
     + [Enable privacy settings for browser cookies](browser-cookie-settings.md)
-    + [How changes to third party cookie support impact customers](cookies-thirdparty.md)
+    + [How changes to third-party cookie support impact customers](cookies-thirdparty.md)
 + Release notes for Experience Cloud UI {#release-notes}
   + [What's new in the Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
   + [Cumulative release notes](release-notes.md)

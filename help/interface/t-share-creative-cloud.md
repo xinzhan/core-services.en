@@ -50,7 +50,7 @@ Share an Experience Cloud asset folder with Creative Cloud users.
 More ways to use a shared asset include: 
 
 * Use assets in the [!UICONTROL Asset Selector] in [!DNL Adobe Social] for social posts.
-* Load or swap assets in the [Offers Library](https://docs.adobe.com/help/en/target/using/experiences/offers/manage-content.html) in [!DNL Adobe Target] for images in activities.
+* Load or swap assets in the [Offers Library](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html?lang=en) in [!DNL Adobe Target] for images in activities.
 
 After you share a folder to the Creative Cloud, you will see the Creative Cloud logo on the folder. 
 
@@ -58,6 +58,6 @@ After you share a folder to the Creative Cloud, you will see the Creative Cloud 
 
 Related help:
 
-* [Creative Cloud Help - Manage and sync files](https://helpx.adobe.com/creative-cloud/help/sync-files.html)
+* [Creative Cloud Help - Manage and sync files](https://helpx.adobe.com/creative-cloud/help/sync-creative-cloud-files.html)
 * [Creative Cloud Help - Collaborate with others](https://helpx.adobe.com/creative-cloud/help/collaboration.html)
 * [Creative Cloud Help - Collaboration FAQ](https://helpx.adobe.com/creative-cloud/help/collaboration-faq.html)

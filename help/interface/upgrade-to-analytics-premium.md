@@ -16,7 +16,7 @@ Administrators can learn about the requirements and what to expect when upgradin
 
 ## Analytics Premium {#section_7F50AD7906544F899B844BE31D3BB507}
 
-Upgrading to Adobe Analytics Premium gives you all the capabilities or products available Analytics Standard, including Data Warehouse, Ad Hoc Analysis, Report Builder, and Data Connectors. (These products were sold separately to customers using the point solution, SiteCatalyst.)
+Upgrading to Adobe Analytics Premium gives you all the capabilities or products available Analytics Standard, including Data Warehouse, Ad Hoc Analysis, Report Builder, and Data Connectors.
 
 Analytics Premium gives you:
 
@@ -28,8 +28,8 @@ Analytics Premium gives you:
 >
 >No migration is necessary when upgrading, but there are a few considerations to be aware of:
 >
->* eVars 76-250 (SiteCatalyst) and 100-250 (Standard) are visible in Admin Tools, but will not be enabled already.>
->* Contribution Analysis is turned on by Adobe. It does not change location (it is still available on the Anomaly Detection page), but it automatically starts analyzing all data points.>
+>* eVars 76-250 and 100-250 (Standard) are visible in Admin Tools, but are not enabled.
+>* Contribution Analysis is turned on by Adobe. It does not change location (it is still available on the Anomaly Detection page), but it automatically starts analyzing all data points.
 
 ## Analytics Premium Complete {#section_BFAD815EDF364845A52B340B2FD5B64C}
 

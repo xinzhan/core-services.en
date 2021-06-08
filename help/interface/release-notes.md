@@ -129,7 +129,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 **Known Issue** 
 
-If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to [!DNL dtm.adobe.com] in a new browser tab. 
+If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]** interface, but your Dynamic Tag Management account is not linked to the Experience Cloud (Adobe ID), you will not be able to log in to Dynamic Tag Management. To avoid this issue, navigate directly to `dtm.adobe.com` in a new browser tab. 
 
 ## Release 16.1 - January 21 2016 {#section_33B3F7DF6CA347E3AA93801BAC6232CE}
 
@@ -275,7 +275,7 @@ No information available
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activation </p> </td> 
-   <td colname="col2"> <p> <a href="../activation/activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation</a> now displays in the left navigation in the <span class="keyword"> Experience Cloud</span>. <span class="wintitle"> Activation</span> is a <span class="keyword"> Experience Cloud</span> service currently comprised of the dynamic tag management technology, and directs you there when clicked. </p> </td> 
+   <td colname="col2"> <p> <a href="../activation/activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation</a> now displays in the left navigation in the <span class="keyword"> Experience Cloud</span>. <span class="wintitle"> Activation</span> is an <span class="keyword"> Experience Cloud</span> service currently comprised of the dynamic tag management technology, and directs you there when clicked. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 
@@ -343,7 +343,7 @@ Known issues:
 * Some users may have trouble uploading assets to a board.
 * Group and entitlement changes made in user management only take effect after a new login.
 * Admins must log out and back in to see changes made in Account Settings.
-* User are not able to share PowerPoint files on boards.
+* Users are not able to share PowerPoint files on boards.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * Adobe Experience Manager to Creative Cloud synchronization is not working.
 
@@ -381,7 +381,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * Group and entitlement changes made in user management only take effect after a new login.
 * Some users may not be able to create a card from a PDF and share it to a board.
 * Some users are able to delete an out-of-date asset instead of receiving an error notification.
-* User are not able to share PowerPoint files on boards.
+* Users are not able to share PowerPoint files on boards.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 
@@ -395,10 +395,10 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Known Issues** 
 
 * Group and entitlement changes made in user management only take effect after a new login.
-* Some users may not be able to create a card from a PDF and share it to a board.
+* Some users cannot` create a card from a PDF and share it to a board.
 * Some users may have trouble uploading assets to a board.
 * Some users are able to delete an out-of-date asset instead of receiving an error notification.
-* User are not able to share PowerPoint files on boards.
+* Users are not able to share PowerPoint files on boards.
 * Some [!DNL .png] files cannot be rendered on a card.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
@@ -432,7 +432,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * Some Audience Manager users cannot log into the [!DNL Experience Cloud].
 * Some users are able to delete an out-of-date asset instead of receiving an error notification.
 * Files deleted from [!DNL Experience Cloud] are not being deleted from [!DNL Digital Asset Management].
-* User are not able to share PowerPoint files on boards.
+* Users are not able to share PowerPoint files on boards.
 * Some [!DNL .png] files cannot be rendered on a card.
 * [!DNL Experience Cloud] interface can reduce in performance when in parallel use by many users.
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
@@ -452,7 +452,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * [!DNL Exchange] users must clear their cookies to improve their experience.
 * [!DNL Experience Cloud] interface can slow down when in parallel use by many users.
 * Some users may experience their [!DNL Creative Cloud] contents being removed from their folder if the content is unshared in the [!DNL Experience Cloud].
-* You will be logged out after 15 minutes of inactivity. Also, logging out in one location will log you out of the [!DNL Experience Cloud].
+* You will be logged out after 15 minutes of inactivity. Also, logging out in one location logs you out of the [!DNL Experience Cloud].
 * Some users may not be able to link their Audience Manager accounts to [!DNL Experience Cloud].
 * [!UICONTROL Exchange] users can only see English in language selector.
 
@@ -489,7 +489,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * The [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in the [!DNL Experience Cloud].
 * Some users are not able to link their audience management account with their [!DNL Experience Cloud] account.
-* You will be logged out after 15 minutes of inactivity. Also, logging out in one location will log you out of the Experience Cloud.
+* You will be logged out after 15 minutes of inactivity. Also, logging out in one location logs you out of the Experience Cloud.
 * Some Exchange users may find their names in the comments to be a long string ID instead of their names
 
 **Fixes** 
@@ -508,11 +508,11 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Exchange </p> </td> 
-   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol"> Help</span> &gt; <span class="uicontrol"> Exchange</span></p> <p>The <span class="keyword"> Experience Cloud</span><span class="wintitle"> Exchange</span> is a single destination where you can search, browse, select, pay, and download digital marketing extensions via apps. </p> <p>Apps include data connectors, custom configurations to Adobe's core product, 3rd party applications, reports, and <span class="keyword"> Experience Cloud</span> cards. </p> </td> 
+   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol"> Help</span> &gt; <span class="uicontrol"> Exchange</span></p> <p>The <span class="keyword"> Experience Cloud</span><span class="wintitle"> Exchange</span> is a single destination where you can search, browse, select, pay, and download digital marketing extensions via apps. </p> <p>Apps include data connectors, custom configurations to Adobe's core product, third-party applications, reports, and <span class="keyword"> Experience Cloud</span> cards. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Audiences </p> </td> 
-   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol"> Audiences</span></p> <p> <span class="wintitle"> Audiences</span> is where you create, edit, and manage audiences, similar to how you work with segments. For example, you can create a segment in reports and analytics, then share it to <span class="wintitle"> Experience Cloud</span><span class="wintitle"> Audiences</span>. Once shared, the audience is available in <span class="keyword"> Adobe Target</span> for campaign activities, and in Adobe Audience Manager for segmentation. </p> <p> <p>Note: To request enablement in Target, visit <a href="https://www.adobe.com/go/audiences" format="http" scope="external"> https://www.adobe.com/go/audiences</a>. </p> </p> </td> 
+   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol"> Audiences</span></p> <p> <span class="wintitle"> Audiences</span> is where you create, edit, and manage audiences, similar to how you work with segments. For example, you can create a segment in Reports & Analytics, then share it to <span class="wintitle"> Experience Cloud</span><span class="wintitle"> Audiences</span>. Once shared, the audience is available in <span class="keyword"> Adobe Target</span> for campaign activities, and in Adobe Audience Manager for segmentation. </p> <p> <p>Note: To request enablement in Target, visit <a href="https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES" format="http" scope="external"> https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES</a>. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> </p> </td> 
@@ -520,11 +520,11 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
   </tr> 
   <tr> 
    <td colname="col1"> <p> </p> </td> 
-   <td colname="col2"> <p>New Adobe users can link their Scene7 accounts to Adobe ID as well as their team members. Administrators can unlink users from Scene7 accounts as well. </p> </td> 
+   <td colname="col2"> <p>New Adobe users can link their Scene7 accounts to Adobe ID and their team members. Administrators can unlink users from Scene7 accounts as well. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Asset synchronization. </p> </td> 
-   <td colname="col2"> <p> You can share assets within Adobe Experience Manager (AEM) Assets with Adobe Experience Cloud and Adobe Creative Cloud such that any changes to these assets are reflected in the shared copies of the assets in Adobe Experience Cloud and Adobe Creative Cloud. </p> </td> 
+   <td colname="col2"> <p> You can share assets within Experience Manager Assets with Experience Cloud and Creative Cloud. Any changes to these assets are reflected in the shared copies of the assets in Experience Cloud and Creative Cloud. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -545,7 +545,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * For certain users, deleting files from the [!DNL Experience Cloud] did not synchronizing with [!DNL Digital Asset Management].
 * Users were being logged out after only 15 minutes of browser inactivity.
 * User were not able to share PowerPoint files on boards.
-* Some users were experiencing poor visual layout in Internet Explorer 10 than other browsers.
+* Some users were experiencing poor visual layout in Internet Explorer 10.
 
 ## Release 14.4.1 - April 22 2014 {#section_E2A699764E744D2E8D418E9A3D40AF6B}
 
@@ -596,7 +596,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 
 ## Release 14.3.1 - March 13 2014 {#section_5D142E3225E3477A84DC01B8197D39BC}
 
-Version 14.3.1 is a maintenance release that focuses on speed, stability and security. It does not include major new features. 
+Version 14.3.1 is a maintenance release that focuses on speed, stability, and security. It does not include major new features. 
 
 **Fixes** 
 
@@ -622,7 +622,7 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability and sec
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in Experience Cloud.
 * Group and entitlement changes made in user management only take effect after a new login.
 * [!DNL Search&Promote] linking is not available from [!UICONTROL Organizations & Product Access].
-* User have to refresh the board to make the deleted cards disappear from view.
+* Users have to refresh the board to make the deleted cards disappear from view.
 * Some Excel or CSV files cannot be uploaded to a board.
 * [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
 * Some PNG files cannot be rendered on a card.
