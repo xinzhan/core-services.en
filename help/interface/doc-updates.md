@@ -24,7 +24,7 @@ Updated [landing page](experience-cloud.md) with new help on accessing Experienc
 
 **Updated: 8/19/2020**
 
-Updated [View Experience Cloud user details (Admin Tool)](admin-getting-started/admin-tool-experience-cloud.md) with Policies information.
+Updated [View Experience Cloud user details (Admin Tool)](admin-tool-experience-cloud.md) with Policies information.
 
 **Updated: 5/19/2020**
 
@@ -43,7 +43,7 @@ Updated [Validate hostname forwarding](cookies/cookies-first-party.md#validate) 
 
 **Updated: 2/20/2020**
 
-Added [View Experience Cloud user details (Admin Tool)](admin-getting-started/admin-tool-experience-cloud.md).
+Added [View Experience Cloud user details (Admin Tool)](admin-tool-experience-cloud.md).
 
 **Updated: 9/5/2018**
 
@@ -95,7 +95,7 @@ Added Experience Cloud Users can now share folders to the Creative Cloud and syn
 
 **Updated: 7/17/2014**
 
-Added [Experience Cloud FAQ](admin-getting-started/faq.md#concept_13219B4E51784577B6FF78AAA203DE91) for administrators.
+Added [Experience Cloud FAQ](faq.md#concept_13219B4E51784577B6FF78AAA203DE91) for administrators.
 
 **Updated: 5/22/2014**
 
