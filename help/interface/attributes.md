@@ -22,9 +22,9 @@ To locate this feature, navigate to **[!DNL Experience Platform]** > **[!UICONTR
 
 ## Prerequisites for uploading Customer Attributes {#section_BD38693AFBF34926BA28E964963B4EA0}
 
-* **Solution enablement:** [Enable your solutions for Experience Platform services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C).
+* **Solution enablement:** [Enable your solutions for Experience Platform services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C).
 
-* **Group membership:** To upload Customer Attribute data, users must be members of the [Customer Attributes group](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group.
+* **Group membership:** To upload Customer Attribute data, users must be members of the [Customer Attributes group](admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). You must also belong to either an Adobe Analytics group or an Adobe Target group.
 
   To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin.
 
@@ -44,7 +44,7 @@ The following image is an example of a data file showing subscriber data for pro
 
 After you create the data file, you can upload it to the customer attribute source that you create in **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**.
 
-See [Upload Customer Attribute Data](../attributes/t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) to learn this workflow.
+See [Upload Customer Attribute Data](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) to learn this workflow.
 
 ## Examples of Customer Attributes in Analytics and Target {#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9}
 

@@ -33,17 +33,17 @@ Analytics Premium gives you:
 
 ## Analytics Premium Complete {#section_BFAD815EDF364845A52B340B2FD5B64C}
 
-In Analytics Premium Complete, you get all the capabilities of [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus the following upgrades:
+In Analytics Premium Complete, you get all the capabilities of [Analytics Premium](upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus the following upgrades:
 
 | Product | Upgrades |
 |--- |--- |
-|Reports & Analytics|<ul><li>[Contribution Analysis](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=en)</li><li>[Customer Attributes](../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) (Up to 200)</li></ul>|
+|Reports & Analytics|<ul><li>[Contribution Analysis](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=en)</li><li>[Customer Attributes](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) (Up to 200)</li></ul>|
 |Data Workbench|<ul><li>Algorithmic Attribution</li><li>Pre-built workspaces</li></ul>|
 |Analytics Platform|[Live Stream](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/live-stream-api/index.md) (raw data, dashboards, triggers)|
 
 ## Predictive Intelligence {#section_B407932C07A7476F83FB0275C3FB63DC}
 
-Upgrading to Predictive Intelligence enables [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus: 
+Upgrading to Predictive Intelligence enables [Analytics Premium](upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus: 
 
 |  Product  | Upgrades  |
 |---|---|
@@ -53,17 +53,17 @@ Upgrading to Predictive Intelligence enables [Analytics Premium](../admin-gettin
 
 ## Customer 360 {#section_3B2AC245388248688067DC9A48957AFB}
 
-Upgrading to Customer 360 offers [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus:
+Upgrading to Customer 360 offers [Analytics Premium](upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus:
 
 | Product | Upgrades |
 |--- |--- |
-|[Customer Attributes](../attributes/attributes.md)|Customer Attributes  (analysis and segment sharing)|
+|[Customer Attributes](attributes.md)|Customer Attributes  (analysis and segment sharing)|
 |Data Workbench|<ul><li>Derived Customer Attributes</li><li>Pre-built workspaces for audience discovery</li></ul>|
-|Analytics Platform|[Customer Attributes](../attributes/attributes.md)|
+|Analytics Platform|[Customer Attributes](attributes.md)|
 
 ## Advanced Attribution {#section_9E4986A8389946CCAA7D003268343296}
 
-Advanced Attribution offers access to [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus Algorithmic Attribution in Data Workbench (25% server call volume).
+Advanced Attribution offers access to [Analytics Premium](upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), plus Algorithmic Attribution in Data Workbench (25% server call volume).
 
 ## Data Workbench Requirements {#section_D959CA68D6DB42C38707F8E0CA3654CC}
 
@@ -75,7 +75,7 @@ Any software that is running on-premise must be deactivated. This software inclu
 
 ## Experience Cloud - Administrate Users and Products {#section_6471C54454024301B2E0B687F79F6738}
 
-Experience Cloud and core services are available to Analytics Standard and Premium users, if you have followed the implementation modernization described in [Getting started - enable your solutions for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.)
+Experience Cloud and core services are available to Analytics Standard and Premium users, if you have followed the implementation modernization described in [Getting started - enable your solutions for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.)
 
 After you join the Experience Cloud, you can log in via the Experience Cloud at [!DNL experience.adobe.com] and begin using core services (including Customer Attributes, Audiences, and Mobile app analytics).
 

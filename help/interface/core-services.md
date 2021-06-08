@@ -40,7 +40,7 @@ What you must do to join the Experience Cloud:
 
 1. Modernize your implementation and get provisioned an administrator. 
 
-    * Follow the steps below in [Implement the [!UICONTROL Experience Cloud ID Service]](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
+    * Follow the steps below in [Implement the [!UICONTROL Experience Cloud ID Service]](core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
     * Contact your Account Manager and start the provisioning process for the Experience Cloud.
 
 1. Manage users and products in the [!UICONTROL Admin Console]. 
@@ -51,7 +51,7 @@ After you are an administrator, you can log in at [experience.adobe.com](https:/
 
 The **[!UICONTROL Admin Console]** link is available in Experience Cloud menu navigation.
 
-See [Experience Cloud user and product administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for more information.
+See [Experience Cloud user and product administration](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for more information.
 
 ### User login
 
@@ -68,7 +68,7 @@ Most likely, you have users who are already members of solution groups, such an 
 
 When you map these groups to Experience Cloud enterprise groups, those users must manually link their solution account credentials to their Adobe ID.
 
-See [Link accounts in the Experience Cloud](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
+See [Link accounts in the Experience Cloud](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
 
 >[!NOTE]
 >
@@ -92,7 +92,7 @@ If you are not using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dyna
 | -----------| ---------- |  
 | [Implement the Experience Cloud ID Service for Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=en)  | Adobe also recommends setting additional [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en). These IDs are associated with each visitor and enable current and future functionality in Experience Cloud. |  
 | Update your existing [!DNL s_code] to version H.27.3 or later, or your existing [!DNL AppMeasurement.js] to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=en) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=en#js) guide is available if you need more information about [!DNL AppMeasurement.js].) |
-| Synchronize the customer ID for Analytics  | See [Analytics - synching the customer ID](../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437) (below). |
+| Synchronize the customer ID for Analytics  | See [Analytics - synching the customer ID](core-services.md#section_AD473A6A21C1446498E700363F9A8437) (below). |
 
 ### Analytics & Adobe Target - synching the customer ID {#section_AD473A6A21C1446498E700363F9A8437}
 
@@ -182,7 +182,7 @@ Once you are up and running, navigate to the [Admin Console](https://adminconsol
 
 ![](assets/menu-administration-shell.png) 
 
-See [Experience Cloud user and product management](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
+See [Experience Cloud user and product management](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 
 ### Customer Attributes
 
@@ -196,13 +196,13 @@ Take advantage of the following features.
 
 If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
 
-See [Customer Attributes](../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
+See [Customer Attributes](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
 
 ### [!UICONTROL People] > [!UICONTROL Audience Library] 
 
 Experience Cloud [!UICONTROL Audiences] is the interface that lets you create audiences, combine existing audiences to create composite audiences, and view all shared audiences. 
 
-See [Audiences](../audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
+See [Audiences](audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7) 
 
 ## Data storage and privacy disclosure 
 

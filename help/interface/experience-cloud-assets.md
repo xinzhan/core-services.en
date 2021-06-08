@@ -31,15 +31,15 @@ Using assets improves consistency and brand compliance, and speeds time to marke
 
 In [!UICONTROL Experience Cloud Assets], you can:
 
-* [Navigate to Experience Cloud Assets](../experience-cloud-assets/experience-cloud-assets.md#section_3657039DD3524F2AA88753BFF4781125)
-* [Access the Toolbar](../experience-cloud-assets/experience-cloud-assets.md#section_EC2E401D225148818F3753248556BE6B)
-* [Edit assets](../experience-cloud-assets/experience-cloud-assets.md#section_CD3C55A9D4574455B94D0955391C8FEC)
-* [Search for Assets](../experience-cloud-assets/experience-cloud-assets.md#section_50FE049010B446FC9640AA6A30E5A730)
-* [Annotate Assets](../experience-cloud-assets/experience-cloud-assets.md#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A)
-* [View Full-Screen Assets, and Zoom](../experience-cloud-assets/experience-cloud-assets.md#section_A9F50D7D6BE341A2AB8244A4E42A4EF7)
-* [View Asset Properties](../experience-cloud-assets/experience-cloud-assets.md#section_FED28711DAB14E1BBEEA7CA890EE9573)
-* [Run Usage reports](../experience-cloud-assets/experience-cloud-assets.md#section_15D782FFB8D74CF4A735116CC03AD902)
-* [Asset Sharing with Experience Manager](../experience-cloud-assets/experience-cloud-assets.md#section_45C1B72F4D274F54BC6CCB64D2580AC5)
+* [Navigate to Experience Cloud Assets](experience-cloud-assets.md#section_3657039DD3524F2AA88753BFF4781125)
+* [Access the Toolbar](experience-cloud-assets.md#section_EC2E401D225148818F3753248556BE6B)
+* [Edit assets](experience-cloud-assets.md#section_CD3C55A9D4574455B94D0955391C8FEC)
+* [Search for Assets](experience-cloud-assets.md#section_50FE049010B446FC9640AA6A30E5A730)
+* [Annotate Assets](experience-cloud-assets.md#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A)
+* [View Full-Screen Assets, and Zoom](experience-cloud-assets.md#section_A9F50D7D6BE341A2AB8244A4E42A4EF7)
+* [View Asset Properties](experience-cloud-assets.md#section_FED28711DAB14E1BBEEA7CA890EE9573)
+* [Run Usage reports](experience-cloud-assets.md#section_15D782FFB8D74CF4A735116CC03AD902)
+* [Asset Sharing with Experience Manager](experience-cloud-assets.md#section_45C1B72F4D274F54BC6CCB64D2580AC5)
 
 ## Navigate to Experience Cloud Assets {#section_3657039DD3524F2AA88753BFF4781125}
 

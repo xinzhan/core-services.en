@@ -16,14 +16,14 @@ Adobe Analytics uses cookies to differentiate requests from different browsers a
 
 Analytics uses cookies to anonymously define new visitors, help analyze clickstream data, and track historical activity on the website, such as response to particular campaigns or the length of the sales cycle.
 
-* [Cookie Name: s_ecid](../cookies/cookies-mc.md#section-32fd753c3fa54452acd62b021434919a) 
-* [Cookie Name: AMCV_###@AdobeOrg](../cookies/cookies-mc.md#section-a12aa2a9296940ae82d8921b381b8fb0) 
-* [Cookie Name: s_cc](../cookies/cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e) 
-* [Cookie Name: s_cc](../cookies/cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e) 
-* [Cookie Name: s_sq](../cookies/cookies-analytics.md#section-8abfff3a302d494f81a3cfb91e3b09ff) 
-* [Cookie Name: s_vi](../cookies/cookies-analytics.md#section-5d50a078de444d12b7d927d68ff3b679) 
-* [Cookie Name: s_fid](../cookies/cookies-analytics.md#section-65e33f9bfc264959ac1513e2f4b10ac7) 
-* [Cookies Set By Plug-ins](../cookies/cookies-analytics.md#section-a6b1cae8454945fab9eea5c7884c40fc)
+* [Cookie Name: s_ecid](cookies-mc.md#section-32fd753c3fa54452acd62b021434919a) 
+* [Cookie Name: AMCV_###@AdobeOrg](cookies-mc.md#section-a12aa2a9296940ae82d8921b381b8fb0) 
+* [Cookie Name: s_cc](cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e) 
+* [Cookie Name: s_cc](cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e) 
+* [Cookie Name: s_sq](cookies-analytics.md#section-8abfff3a302d494f81a3cfb91e3b09ff) 
+* [Cookie Name: s_vi](cookies-analytics.md#section-5d50a078de444d12b7d927d68ff3b679) 
+* [Cookie Name: s_fid](cookies-analytics.md#section-65e33f9bfc264959ac1513e2f4b10ac7) 
+* [Cookies Set By Plug-ins](cookies-analytics.md#section-a6b1cae8454945fab9eea5c7884c40fc)
 
 More information is available in Analytics help about [First-Party Cookies](/help/interface/cookies/cookies-first-party.md).
 

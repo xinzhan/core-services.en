@@ -25,7 +25,7 @@ You can view a sortable and filterable list of all Experience Cloud users and th
 
 For example, in Analytics you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, and dimensions. You can grant permission to a product profile by adding users to the profile.
 
-* See [Assign Analytics access permissions to a product profile](../admin-getting-started/admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) on this page.
+* See [Assign Analytics access permissions to a product profile](admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) on this page.
 * See [Delegate administrative roles to users](#delegate-rights) on this page
 
 ## Manage Experience Cloud product profiles {#task_16335111C52D40E9BAC73D0699584DBF}

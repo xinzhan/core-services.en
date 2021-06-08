@@ -16,15 +16,15 @@ Signing in to Experience Cloud (rather than signing into a single solution) enab
 
 >[!IMPORTANT]
 >
->Administrators, see [Administration](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about updates to user and product management.
+>Administrators, see [Administration](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) for information about updates to user and product management.
 
 ## Sign in to the Experience Cloud (administrators) {#task_034FC955031347F3B02B686A09801A08}
 
-Sign in and verify that you are in the right [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1).
+Sign in and verify that you are in the right [organization](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1).
 
 1. Click the Experience Cloud menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
 
-   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company.
+   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company.
 1. Click **[!UICONTROL Administration]**.
 
 1. Continue by clicking one of the following links:
@@ -34,17 +34,17 @@ Sign in and verify that you are in the right [organization](../admin-getting-sta
 |[Admin Console Basics](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html)|Learn about the initial steps you must take to get started using Experience Cloud solutions.|
 |[Set up Identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html)|Define and set up an identity system against which your end users will be authenticated.|
 |[User Management](https://helpx.adobe.com/enterprise/using/users.html)|Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.|
-|[Launch Admin Console](../admin-getting-started/admin-getting-started.md)|The Admin Console is the central location for managing your Adobe users and product entitlements across your entire organization.<br>You can also sign in to the Admin Console using a [direct link](https://adminconsole.adobe.com).|
-|[Manage Creative Cloud Users](../experience-cloud-assets/t-admin-add-cc-user.md)|Experience Cloud Assets allows marketers to share, sync, and collaborate on folders with designers and other creative assets using the Creative Cloud. You can manage the Creative Cloud users approved to collaborate with your organization here.|
-|[Map Your Report Suites](../core-services/core-services.md)|(Analytics only) Experience Cloud core services are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. (This task is part of a broader workflow to [enable Analytics for core services](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)).|
-|[Organization ID](../admin-getting-started/organizations.md)|The *Organization ID* is found on the bottom of the Administration page. This ID is the associated ID with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg.|
+|[Launch Admin Console](admin-getting-started.md)|The Admin Console is the central location for managing your Adobe users and product entitlements across your entire organization.<br>You can also sign in to the Admin Console using a [direct link](https://adminconsole.adobe.com).|
+|[Manage Creative Cloud Users](t-admin-add-cc-user.md)|Experience Cloud Assets allows marketers to share, sync, and collaborate on folders with designers and other creative assets using the Creative Cloud. You can manage the Creative Cloud users approved to collaborate with your organization here.|
+|[Map Your Report Suites](core-services.md)|(Analytics only) Experience Cloud core services are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. (This task is part of a broader workflow to [enable Analytics for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)).|
+|[Organization ID](organizations.md)|The *Organization ID* is found on the bottom of the Administration page. This ID is the associated ID with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg.|
 
 ## Sign in to the Experience Cloud (users) {#task_1BFE87E20DCB44078CAC82F3CD44B985}
 
 Help for non-administrative users signing in to the Experience Cloud.
 
 
-1. Verify with your administrator that your [organization](../admin-getting-started/organizations.md) has been provisioned in the Experience Cloud.
+1. Verify with your administrator that your [organization](organizations.md) has been provisioned in the Experience Cloud.
 
 
 1. Navigate to the [Adobe Experience Cloud](https://experience.adobe.com) ([!DNL experience.adobe.com]).
@@ -56,11 +56,11 @@ Help for non-administrative users signing in to the Experience Cloud.
 
    ![](assets/experience-cloud-core-services.png) 
 
-   The solutions and services that display in this menu depend on your application privileges defined by your [administrator](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
+   The solutions and services that display in this menu depend on your application privileges defined by your [administrator](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 
 ## Configure default personal account settings {#task_73CBCAE6C91749D19C95421E5AC311BA}
 
-You can edit personal details and specify a default [organization](../admin-getting-started/admin-getting-started.md#concept_705C626560A54CA2A4215F1C870C42B2) and landing page to display after signing in to the Experience Cloud. 
+You can edit personal details and specify a default [organization](admin-getting-started.md#concept_705C626560A54CA2A4215F1C870C42B2) and landing page to display after signing in to the Experience Cloud. 
 
 1. Sign in to the Experience Cloud, then click your profile icon.
 
@@ -144,6 +144,6 @@ Sample URL:
 
 | Parameter | Description | Example | Required / Optional |
 |--- |--- |--- |--- |
-|tenantId|Name of the tenant the user should log into.|aem62tenant|Optional|
-|destURL|The complete URL to the place where the user should be taken to.|http://sc.omniture.com/login/?r=%2Fx%2F1_7xxzf&tenantId=obuengsc&company=OBU+Eng+SC|Optional|
-|solutionname|Name of the MAC Solution that is the owner of destURL parameter. It is used to verify that the user has access to the solution which is the owner of the URL.  It is the responsibility of the solutions to make sure that the solutionname is in Sync with the destURL parameter.  For example : If the URL contains solutionname as social and the destURL provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify whether the owner of the destURL is in sync with the solution name.|analytics|Required if destURL param is used.|
+|`tenantId`|Name of the tenant the user should log into.|aem62tenant|Optional|
+|`destURL`|The complete URL to the place where the user should be taken to.|http://sc.omniture.com/login/?r=%2Fx%2F1_7xxzf&tenantId=obuengsc&company=OBU+Eng+SC|Optional|
+|`solutionname`|Name of the MAC Solution that is the owner of `destURL` parameter. It is used to verify that the user has access to the solution which is the owner of the URL.  It is the responsibility of the solutions to make sure that the `solutionname` is in Sync with the `destURL` parameter.  For example : If the URL contains `solutionname` as social and the `destURL` provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify whether the owner of the `destURL` is in sync with the solution name.|analytics|Required if `destURL` param is used.|

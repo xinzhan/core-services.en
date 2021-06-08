@@ -16,7 +16,7 @@ The validation process lets you map display names and descriptions to uploaded a
 
 >[!NOTE]
 >
->Updating the schema after validation deletes Customer Attributes. See [Update the schema (also deletes attributes)](../attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
+>Updating the schema after validation deletes Customer Attributes. See [Update the schema (also deletes attributes)](t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
 
 **[!UICONTROL Customer Attribute Source]** > **[!UICONTROL Create New Customer Attribute Source]** > **[!UICONTROL View/Edit Schema]**
 
@@ -30,7 +30,7 @@ On the [!UICONTROL Validate Schema] page, each row of the schema represents a co
 
 * **[!UICONTROL View/Edit Schema:]** Map display names to the attribute data, as described in the next step.
 
-* **[!UICONTROL FTP Setup:]** [Upload the data via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
+* **[!UICONTROL FTP Setup:]** [Upload the data via FTP](t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
 
 * **[!UICONTROL ID Lookup:]** Enter a Customer ID (CID) from your `.csv` to look up Experience Cloud information for the ID. This feature is useful for troubleshooting why attribute data is not displaying for a visitor:
 

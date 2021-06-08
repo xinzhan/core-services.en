@@ -33,7 +33,7 @@ Each circle represents a rule that defines audience membership. Visitors that qu
 The following example shows how to create the rules for a composite audience. This audience is composed of:
 
 * Home & Garden section derived from page data, or raw analytics data.
-* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](../audience-library/audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A) to the [!DNL Experience Cloud].
+* Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A) to the [!DNL Experience Cloud].
 
   ![](assets/audience_create.png) 
 

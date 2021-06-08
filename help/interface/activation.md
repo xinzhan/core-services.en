@@ -64,7 +64,7 @@ If you want help implementing dynamic tag management we encourage you to contact
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p> <a href="../activation/triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB" format="dita" scope="local"> Create Experience Cloud Triggers </a> </p> </td> 
+   <td colname="col1"> <p> <a href="triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB" format="dita" scope="local"> Create Experience Cloud Triggers </a> </p> </td> 
    <td colname="col2"> <p> Step-by-step instructions to create Experience Cloud Triggers using Adobe Analytics data. </p> <p>Experience Cloud Triggers are available for use in Adobe Campaign. </p> </td>
   </tr>
   <tr> 

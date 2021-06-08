@@ -14,7 +14,7 @@ exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 
 Features, release notes, and known issues for the Experience Cloud interface.
 
-For a list of documentation updates, see [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
+For a list of documentation updates, see [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
@@ -32,7 +32,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Admin Tool - policies |This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, and developers. You can search, sort, and filter for custom views of the policy list. See [Experience Cloud Admin Tool](../admin-getting-started/admin-tool-experience-cloud.md) help for details.|
+|Admin Tool - policies |This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, and developers. You can search, sort, and filter for custom views of the policy list. See [Experience Cloud Admin Tool](admin-tool-experience-cloud.md) help for details.|
 
 ## April - 2020
 
@@ -43,7 +43,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user’s product access, roles, and last accessed information. See [Experience Cloud Admin Tool](../admin-getting-started/admin-tool-experience-cloud.md) help for details.|
+|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user’s product access, roles, and last accessed information. See [Experience Cloud Admin Tool](admin-tool-experience-cloud.md) help for details.|
 
 **Fixes**
 
@@ -114,7 +114,7 @@ For release notes covering all solutions, see [Experience Cloud Release Notes](h
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Assets improvements </p> </td> 
-   <td colname="col2"> <p>In Experience Cloud Assets, you can store, share, and synchronize your digital assets from one central location. Experience Cloud Assets uses some of the features available in <span class="keyword"> Adobe Experience Manager</span> (AEM). </p> <p>See <a href="../experience-cloud-assets/experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0" format="dita" scope="local"> Experience Cloud</a></p> </td> 
+   <td colname="col2"> <p>In Experience Cloud Assets, you can store, share, and synchronize your digital assets from one central location. Experience Cloud Assets uses some of the features available in <span class="keyword"> Adobe Experience Manager</span> (AEM). </p> <p>See <a href="experience-cloud-assets.md#concept_DDA5224C907D4A4F817D795DA0ED64D0" format="dita" scope="local"> Experience Cloud</a></p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Account linking improvements </p> </td> 
@@ -250,7 +250,7 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Customer Attributes </p> </td> 
-   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your solutions for core services, see <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a>. </p> </td> 
+   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your solutions for core services, see <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -275,11 +275,11 @@ No information available
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activation </p> </td> 
-   <td colname="col2"> <p> <a href="../activation/activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation</a> now displays in the left navigation in the <span class="keyword"> Experience Cloud</span>. <span class="wintitle"> Activation</span> is an <span class="keyword"> Experience Cloud</span> service currently comprised of the dynamic tag management technology, and directs you there when clicked. </p> </td> 
+   <td colname="col2"> <p> <a href="activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation</a> now displays in the left navigation in the <span class="keyword"> Experience Cloud</span>. <span class="wintitle"> Activation</span> is an <span class="keyword"> Experience Cloud</span> service currently comprised of the dynamic tag management technology, and directs you there when clicked. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 
-   <td colname="col2"> <p>Added the topic <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a> to assist you with implementing core services. </p> </td> 
+   <td colname="col2"> <p>Added the topic <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a> to assist you with implementing core services. </p> </td> 
   </tr> 
  </tbody> 
 </table>

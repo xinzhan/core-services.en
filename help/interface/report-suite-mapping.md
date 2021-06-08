@@ -21,7 +21,7 @@ Experience Cloud services (such as Experience Cloud ID Service and [!UICONTROL P
 
 ## Requirements 
 
-You must be an Analytics administrator of a login company that has access to the report suite you want to map. Also, this account must be [linked to an Experience Cloud organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) in order to map report suites to that organization. 
+You must be an Analytics administrator of a login company that has access to the report suite you want to map. Also, this account must be [linked to an Experience Cloud organization](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) in order to map report suites to that organization. 
 
 Organizations are grayed out if you do not have Analytics administrator permissions for a login company under that organization that has access to the given report suite. 
 
