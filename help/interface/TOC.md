@@ -15,7 +15,7 @@ index: yes
   + Experience Cloud Audiences {#audiences}
     + [Experience Cloud Audiences service](audience-library.md)
     + [Create an audience](t-audience-create.md)
-    + [Publish an Analytics audience segment](audience-library/t-publish-audience-segment.md)
+    + [Publish an Analytics audience segment](t-publish-audience-segment.md)
   + Experience Cloud Customer Attributes {#customer-attributes}
     + [Customer Attributes overview](attributes.md)
     + [Frequently asked questions about Customer Attributes](faq-crs.md)
