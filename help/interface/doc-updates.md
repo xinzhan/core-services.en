@@ -75,7 +75,7 @@ Added [Experience Cloud Triggers](activation/triggers.md#concept_887B30241B3E4DB
 
 **Updated: 2/1/2017**
 
-Added [report suite mapping](core-services/core-services.md#concept_apg_zq2_rw) as a step to [enabling core services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C).
+Added [report suite mapping](core-services.md#concept_apg_zq2_rw) as a step to [enabling core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C).
 
 **Updated: 5/9/2016**
 
@@ -87,7 +87,7 @@ Added [Experience Cloud Assets](experience-cloud-assets/experience-cloud-assets.
 
 **Updated: 3/2/2015**
 
-Added [Enable your solutions for core services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
+Added [Enable your solutions for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
 
 **Updated: 1/15/2015**
 

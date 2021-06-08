@@ -16,7 +16,7 @@ Adobe Experience Cloud is a comprehensive set of best-in-class, integrated appli
 
 ## Enable your Experience Cloud applications for Platform services {#section_A3D024994DA3492F8435CFCC4EF035C2}
 
-Help: [Enable your applications for Platform Services](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) 
+Help: [Enable your applications for Platform Services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) 
 
 Describes how to:
 
@@ -77,13 +77,13 @@ If you capture enterprise customer data in a customer relationship management (C
 
 ## Experience Cloud Assets {#section_92BC5DFDB0E0499CB0DD34B85E06F79A}
 
-Help: [Share Experience Cloud Folders with Creative Cloud](https://experienceleague.adobe.com/docs/core-services/interface/assets/creative-cloud.html?lang=en) 
+Help: [Share Experience Cloud Folders with Creative Cloud](https://experienceleague.adobe.com/docs/core-services/interface/assets/creative-cloud.html?lang=en)
 
 >[!NOTE]
 >
 >Assets is a legacy core service, now under sustenance.
 
-Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like [!DNL Social] and [!DNL Target]. 
+Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like [!DNL Social] and [!DNL Target].
 
 **Applicable solutions or services** 
 
