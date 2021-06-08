@@ -17,7 +17,7 @@ Experience Cloud's central interface components include features that enable you
 
 ## Sign in to Experience Cloud
 
-Sign in and verify that you are in the right [organization](admin-getting-started/organizations.md).
+Sign in and verify that you are in the right [organization](organizations.md).
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
 1. Click **[!UICONTROL Sign in with an Adobe ID]**.
@@ -25,7 +25,7 @@ Sign in and verify that you are in the right [organization](admin-getting-starte
 
     ![](assets/organizations-menu.png)
 
-    Your administrator can help you verify that you are in the right [organization](admin-getting-started/organizations.md).
+    Your administrator can help you verify that you are in the right [organization](organizations.md).
 
 ## Access Experience Cloud applications {#navigation}
 
@@ -53,7 +53,7 @@ The [!UICONTROL Help] menu also gives you access to:
 In the account preferences menu, you can:
 
 * Specify a dark theme (not all applications support this theme)
-* Search for [Organizations](admin-getting-started/organizations.md)
+* Search for [Organizations](organizations.md)
 * Sign out
 * Configure account [preferences, notifications, and subscriptions](#preferences)
 
@@ -69,7 +69,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 | Feature | Description |
 |--- |--- |
-|Default [organization](admin-getting-started/organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
+|Default [organization](organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
 |[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] pop-over and in your email.|
 |[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a High tag and can be configured for delivery like alerts.|
 |[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|

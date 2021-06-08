@@ -15,7 +15,7 @@ Implement DNS prefetch to help reduce page load times with different solutions a
 
 ## Understanding DNS prefetch {#section_772BF9CB7C4141DE9B0355146E2CD962}
 
-Browsers use DNS prefetch to automatically resolve domain names linked on a Web page to their corresponding IP addresses. The prefetch process starts when your browser loads a web page. As an example, say your page contains a clickable link to `www.adobe.com`. When a browser loads this page, it uses the [DNS system](https://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) to look up the linked domain name and resolve it to a corresponding numeric IP address. DNS prefetch helps improve page performance because the domain name is already resolved to an IP address before a site visitor clicks that link or button. The DNS prefetch process is transparent to the users. 
+Browsers use DNS prefetch to automatically resolve domain names linked on a Web page to their corresponding IP addresses. The prefetch process starts when your browser loads a web page. As an example, assume that your page contains a clickable link to `www.adobe.com`. When a browser loads this page, it uses the [DNS system](https://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) to look up the linked domain name and resolve it to a corresponding numeric IP address. DNS prefetch helps improve page performance because the domain name is already resolved to an IP address before a site visitor clicks that link or button. The DNS prefetch process is transparent to the users. 
 
 ## DNS prefetch and Adobe Experience Cloud solutions {#section_202A07F9F79F4ABDA44B98BA1DDCD516}
 
@@ -28,7 +28,7 @@ However, you can manually implement DNS prefetch with your Experience Cloud solu
 
 ## DNS prefetch code samples {#section_E886F7B2861E48BA9EF3D8B3CE32B345}
 
-The following examples show you how to make DNS prefetch calls to different [!DNL Experience Cloud] solutions and services. Some prefetch calls require your [!DNL Adobe] Organization ID or tracking server information. In these examples, the code in *italics* represents a variable placeholder. You would replace that code with your own [!DNL Adobe] partner ID, customer code, or tracking server information, etc. 
+The following examples show you how to make DNS prefetch calls to different [!DNL Experience Cloud] solutions and services. Some prefetch calls require your [!DNL Adobe] Organization ID or tracking server information. In these examples, the code in *italics* represents a variable placeholder. You would replace that code with your own [!DNL Adobe] partner ID, customer code, or tracking server information, and so on. 
 
 * **Analytics:** `<link rel="dns-prefetch" href="//insert tracking server name here">`. 
 
@@ -38,9 +38,9 @@ The following examples show you how to make DNS prefetch calls to different [!DN
 
 * **Experience Cloud ID Service:** `<link rel="dns-prefetch" href="//fast. *`insert partner ID here`*.demdex.net">` 
 
-* **Dynamic Tag Manager** (DTM): Not required. DTM links are available as soon as the page loads. 
+* **Dynamic Tag Manager** (DTM): Not required. DTM links are available when the page loads. 
 
-* **Media Optimizer (Ad Cloud):** 
+* **Media Optimizer (Advertising Cloud):** 
 
     * `<link rel="dns-prefetch" href="//pixel.everesttech.net">`    
     * `<link rel="dns-prefetch" href="//cm.everesttechnet">`    

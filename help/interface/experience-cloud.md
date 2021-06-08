@@ -24,7 +24,7 @@ From Experience Cloud's header, you can:
 
 ## Sign in to Experience Cloud
 
-Sign in and verify that you are in the right [organization](admin-getting-started/organizations.md).
+Sign in and verify that you are in the right [organization](organizations.md).
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
 1. Click **[!UICONTROL Sign in with an Adobe ID]**.
@@ -32,7 +32,7 @@ Sign in and verify that you are in the right [organization](admin-getting-starte
 
     ![](assets/organizations-menu.png)
 
-    Your administrator can help you verify that you are in the right [organization](admin-getting-started/organizations.md).
+    Your administrator can help you verify that you are in the right [organization](organizations.md).
 
 ## Access Experience Cloud applications {#navigation}
 
@@ -70,7 +70,7 @@ The global search enables you to find searchable business objects or entities in
 Experience Cloud preferences include notifications, subscriptions, and alerts. In the account preferences menu, you can:
 
 * Specify a dark theme (not all applications support this theme)
-* Search for [Organizations](admin-getting-started/organizations.md)
+* Search for [Organizations](organizations.md)
 * Sign out
 * Configure account preferences, notifications, and subscriptions
 
@@ -82,13 +82,13 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 | Feature | Description |
 |--- |--- |
-|Default [organization](admin-getting-started/organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
+|Default [organization](organizations.md)|Select the organization that you want to see when you launch Experience Cloud. |
 |[!UICONTROL Subscriptions]|Select the products and categories to which you would like to subscribe. Notifications in the [!UICONTROL Notifications] pop-over and in your email.|
 |[!UICONTROL Priority]|Select the categories that you want to be considered high priority. These categories are marked with a High tag and can be configured for delivery like alerts.|
 |[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
 |Emails|Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)|
 
-## Notifications and Announcements
+## Notifications and Announcements {#notifications}
 
 Click **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
 
@@ -98,19 +98,19 @@ Click **[!UICONTROL Notifications]** to be alerted about relevant and actionable
 
 This guide provides access to help on Experience Cloud user and product administration in the Admin Console, enabling solutions for platform services. You can also access help on the Audience Library, Customer Attributes, Experience Cloud Assets, and more:
 
-* [[!UICONTROL Audience Library]](audience-library/audience-library.md)
-* [[!UICONTROL Customer Attributes]](attributes/attributes.md)
-* [[!UICONTROL Triggers]](activation/triggers.md)
-* [Experience Cloud [!UICONTROL Assets]](experience-cloud-assets/experience-cloud-assets.md)
-* [Experience Cloud cookies](cookies/cookies-privacy.md)
-* [User and product management](admin-getting-started/admin-getting-started.md) (Admin Console)
-* [Enable your solutions for core services](core-services/core-services.md)
-* [Frequently asked questions](admin-getting-started/admin-getting-started.md)
-* [Organizations and account linking](admin-getting-started/organizations.md)
+* [[!UICONTROL Audience Library]](audience-library.md)
+* [[!UICONTROL Customer Attributes]](attributes.md)
+* [[!UICONTROL Triggers]](triggers.md)
+* [Experience Cloud [!UICONTROL Assets]](experience-cloud-assets.md)
+* [Experience Cloud cookies](cookies-privacy.md)
+* [User and product management](admin-getting-started.md) (Admin Console)
+* [Enable your solutions for core services](core-services.md)
+* [Frequently asked questions](admin-getting-started.md)
+* [Organizations and account linking](organizations.md)
 * [Integrations](marketing-cloud-integrations.md)
 * [Integrating Adobe Target with the Experience Cloud](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en)
 * [Experience Cloud privacy and security overview](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
-* [DNS prefetch](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
+* [DNS prefetch](admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
 ## Guides
 
