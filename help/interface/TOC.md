@@ -8,12 +8,12 @@ index: yes
 
 # Experience Cloud Central Interface Components {#interface}
 
-+ [Experience Cloud central interface components](experience-cloud.md)
++ [Experience Cloud Central Interface Components Guide](experience-cloud.md)
 + Experience Cloud services {#services}
-  + [Experience Cloud services overview](core-services-landing.md)
+  + [Experience Cloud services](core-services-landing.md)
   + [Enable your implementation for cross-solution services](core-services.md)
-  + Experience Cloud Audiences {#audiences}
-    + [Experience Cloud Audiences service](audience-library.md)
+  + Experience Cloud Audience Library {#audiences}
+    + [Experience Cloud audiences](audience-library.md)
     + [Create an audience](t-audience-create.md)
     + [Publish an Analytics audience segment](t-publish-audience-segment.md)
   + Experience Cloud Customer Attributes {#customer-attributes}

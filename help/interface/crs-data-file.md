@@ -30,7 +30,7 @@ Customer Attributes is designed to handle a few files per day. To mitigate the i
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .csv </span> </p> </td> 
-   <td colname="col2"> <p>A comma-separated values file (such as one created in Excel). This file contains the customer attribute data. </p> <p> <b>Naming requirements:</b> Ensure that file name extensions do not contain white spaces. </p> </td> 
+   <td colname="col2"> <p>A comma-separated values file (such as one created in Excel). This file contains the Customer Attribute data. </p> <p> <b>Naming requirements:</b> Ensure that file name extensions do not contain white spaces. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .fin </span> </p> </td> 
@@ -79,7 +79,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Attribute limits </p> </td> 
-   <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv </span> columns to the customer attribute service in the Experience Cloud. However, when configuring subscriptions and selecting attributes, the following limits apply depending on the solutions you own: </p> <p> 
+   <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv </span> columns to the Customer Attribute service in the Experience Cloud. However, when configuring subscriptions and selecting attributes, the following limits apply depending on the solutions you own: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 per report suite </li> 
@@ -115,7 +115,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Multiple files </p> </td> 
-   <td colname="col2"> <p>When uploading customer attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your [!UICONTROL Customer Attributes] FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure that each file is processed before submitting the next. </p> </td> 
+   <td colname="col2"> <p>When uploading Customer Attribute data, if you have several files you want to upload in rapid succession, and especially if the files are large, make certain that the previous file has been processed before uploading the next file. You can monitor this by checking when the previous file has been moved to the processed or failed folder within your [!UICONTROL Customer Attributes] FTP account. </p> <p> Breaking a large file into smaller files and submitting them in rapid succession may actually slow down processing unless you can ensure that each file is processed before submitting the next. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Character Encoding </p> </td> 
@@ -134,9 +134,9 @@ The same file viewed in a text editor:
 
 ## Using multiple data sources {#section_76DEB6001C614F4DB8BCC3E5D05088CB}
 
-When creating, modifying, or deleting customer attribute sources, there is a delay around one hour before IDs begin synchronizing with the new data source.
+When creating, modifying, or deleting Customer Attribute sources, there is a delay around one hour before IDs begin synchronizing with the new data source.
 
-The Alias ID for each customer attribute source must be unique. If you have multiple data sources that use the same ID, they can be set up as follows:
+The Alias ID for each Customer Attribute source must be unique. If you have multiple data sources that use the same ID, they can be set up as follows:
 
 **In VisitorAPI.js or the Experience Cloud ID tool in dynamic tag management:**
 
@@ -153,4 +153,4 @@ Visitor.setCustomerIDs({
 
 In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**:
 
-Create two Customer Attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple customer attribute sources.
+Create two Customer Attributes sources using unique alias IDs corresponding to the customer IDs above. Using this method allows the same reference ID to be sent to multiple Customer Attribute sources.

@@ -11,7 +11,7 @@ role: Administrator
 level: Experienced
 exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
 ---
-# Experience Cloud Audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
+# Experience Cloud audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
 Audiences are collections of visitors (a list of visitor IDs). Adobe's Audience Library lets you manage the translation of visitor data into audience segmentation. As such, creating, and managing audiences is similar to creating and using segments. You can also share the audience segment to products and services in [!DNL Experience Cloud]. 
 
@@ -23,7 +23,7 @@ Audiences can be created or derived from various sources, such as:
 * [!DNL Analytics] segments published to the [!DNL Experience Cloud]
 * [!DNL Audience Manager]
 
-**Real-Time versus Historical Audiences**
+**Real-Time versus historical audiences**
 
 All audiences, regardless of where they are sourced, are accessible for real-time targeting use cases. However, audiences shared from Analytics to Audience Manager are not accessible for real-time targeting. The system evaluates audiences in two ways: 
 

@@ -1,8 +1,8 @@
 ---
-description: Learn how to upload customer attribute data via FTP to the Experience Cloud.
+description: Learn how to upload Customer Attribute data via FTP to the Experience Cloud.
 keywords: Customer Attributes;core services
 solution: Experience Cloud
-title: Upload the customer attribute data file via FTP 
+title: Upload the Customer Attribute data file via FTP 
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
 feature: Customer Attributes
 topic: Administration
@@ -12,9 +12,9 @@ exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
 ---
 # Optional - Upload the data file via FTP
 
-If you do not upload using drag-and-drop, you can upload customer attribute data via FTP to the Experience Cloud.
+If you do not upload using drag-and-drop, you can upload Customer Attribute data via FTP to the Experience Cloud.
 
-You can upload the data after you create a customer attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete. 
+You can upload the data after you create a Customer Attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete. 
 
 >[!IMPORTANT]
 >
@@ -27,7 +27,7 @@ File uploads to the Customer Attributes FTP site can be done via FTP or SFTP:
 
 **To upload the data file via FTP** 
 
-1. [Create a customer attribute source and upload the data file...](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78).
+1. [Create a Customer Attribute source and upload the data file...](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78).
 
    Ensure that you are logged in to your FTP site at `ftp.adobe.com/<sftpname>`. 
 

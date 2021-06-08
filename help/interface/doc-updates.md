@@ -47,7 +47,7 @@ Added [View Experience Cloud user details (Admin Tool)](admin-tool-experience-cl
 
 **Updated: 9/5/2018**
 
-Added how to delete a customer attribute. See [(Optional) Update the schema (delete attributes)](t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
+Added how to delete a Customer Attribute. See [(Optional) Update the schema (delete attributes)](t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
 
 **Updated: 6/8/20118**
 

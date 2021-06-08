@@ -68,7 +68,7 @@ Help: [Customer Attributes](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913A
 >
 >Customer Attributes is a legacy service, now under sustenance.
 
-If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
+If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in the Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target]. 
 
 **Applicable solutions or services** 
 
@@ -143,7 +143,7 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud solutions
 
 **Applicable solutions or services** 
 
-* Customer Attributes: Configure Adobe Target's [subscription](subscription.md) to customer attributes
+* Customer Attributes: Configure Adobe Target's [subscription](subscription.md) to Customer Attributes
 * Experience Cloud Audiences: [Experience Cloud Audience Library](audience-library.md)
 * Analytics: [Adobe Analytics as the Reporting Source for Adobe Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en)
 * Dynamic Tag Management: [Best Practices for Implementing Adobe Target using DTM](https://experienceleague.adobe.com/docs/dtm/implementing/overview.html?lang=en)

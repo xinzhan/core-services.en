@@ -192,7 +192,7 @@ Take advantage of the following features.
 
 ### [!UICONTROL People] > [!UICONTROL Customer Attributes]
 
-If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a customer attribute data source in the Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
+If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in the Experience Cloud. Once uploaded, use the data in [!DNL Adobe Analytics] and [!DNL Adobe Target].
 
 See [Customer Attributes](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
 

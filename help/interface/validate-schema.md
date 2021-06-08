@@ -1,8 +1,8 @@
 ---
-description: Learn how to validate the customer attribute schema in Adobe Experience Cloud.
+description: Learn how to validate the Customer Attribute schema in Adobe Experience Cloud.
 keywords: Customer Attributes;Experience Cloud services
 solution: Experience Cloud
-title: How to validate the customer attribute schema 
+title: How to validate the Customer Attribute schema 
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 feature: Customer Attributes
 topic: Administration
@@ -40,7 +40,7 @@ On the [!UICONTROL Validate Schema] page, each row of the schema represents a co
     
     * **[!UICONTROL AVID (Analytics visitor ID):]** Displays if you use a prop or eVar to upload CIDs. If those IDs are being passed to the Experience Cloud, any visitor IDs associated with the CID you entered are displayed here.
     
-You can also upload data via FTP after you create a customer attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete.
+You can also upload data via FTP after you create a Customer Attribute source and an FTP account in the Experience Cloud. You create one FTP account per attribute source. The uploaded files are stored in the root folder of that account. The data must be in `.csv` format, with a second `.fin` file to indicate that the upload is complete.
 
 The names you apply to strings, integers, and numbers are used to create [!DNL Analytics] metrics.
 
