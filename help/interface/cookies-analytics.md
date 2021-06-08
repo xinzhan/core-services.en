@@ -25,7 +25,7 @@ Analytics uses cookies to anonymously define new visitors, help analyze clickstr
 * [Cookie Name: s_fid](cookies-analytics.md#section-65e33f9bfc264959ac1513e2f4b10ac7) 
 * [Cookies Set By Plug-ins](cookies-analytics.md#section-a6b1cae8454945fab9eea5c7884c40fc)
 
-More information is available in Analytics help about [First-Party Cookies](/help/interface/cookies/cookies-first-party.md).
+More information is available in Analytics help about [First-Party Cookies](cookies-first-party.md).
 
 ## Cookie Name: s_ecid {#section-32fd753c3fa54452acd62b021434919a}
 

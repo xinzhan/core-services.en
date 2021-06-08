@@ -34,12 +34,12 @@ Deprecated Offer Management documentation.
 
 Added the following pages:
 
-* [Support for General Data Protection Regulation](attributes/gdpr.md)
-* [Support for California Consumer Privacy Act](attributes/ccpa.md)
+* [Support for General Data Protection Regulation](gdpr.md)
+* [Support for California Consumer Privacy Act](ccpa.md)
 
 **Updated: 3/10/2020**
 
-Updated [Validate hostname forwarding](cookies/cookies-first-party.md#validate) in the first-party cookies section.
+Updated [Validate hostname forwarding](cookies-first-party.md#validate) in the first-party cookies section.
 
 **Updated: 2/20/2020**
 
@@ -47,11 +47,11 @@ Added [View Experience Cloud user details (Admin Tool)](admin-tool-experience-cl
 
 **Updated: 9/5/2018**
 
-Added how to delete a customer attribute. See [(Optional) Update the schema (delete attributes)](attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
+Added how to delete a customer attribute. See [(Optional) Update the schema (delete attributes)](t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
 
 **Updated: 6/8/20118**
 
-Updated [About data file and data sources for Customer Attributes](attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) with information about uploading multiple files.
+Updated [About data file and data sources for Customer Attributes](crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) with information about uploading multiple files.
 
 **Updated: 6/6/2018**
 

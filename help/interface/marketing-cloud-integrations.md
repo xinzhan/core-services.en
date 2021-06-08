@@ -62,7 +62,7 @@ Create and manage Audiences in the Experience Cloud Audience Library. Audiences 
 
 ## Customer Attributes {#section_6A9EA6847F654F129381869E5016626C}
 
-Help: [Customer Attributes](attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
+Help: [Customer Attributes](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) 
 
 >[!NOTE]
 >

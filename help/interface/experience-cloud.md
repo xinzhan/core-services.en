@@ -98,13 +98,13 @@ Click **[!UICONTROL Notifications]** to be alerted about relevant and actionable
 
 This guide provides access to help on Experience Cloud user and product administration in the Admin Console, enabling solutions for platform services. You can also access help on the Audience Library, Customer Attributes, Experience Cloud Assets, and more:
 
-* [[!UICONTROL Audience Library]](audience-library/audience-library.md)
-* [[!UICONTROL Customer Attributes]](attributes/attributes.md)
+* [[!UICONTROL Audience Library]](audience-library.md)
+* [[!UICONTROL Customer Attributes]](attributes.md)
 * [[!UICONTROL Triggers]](activation/triggers.md)
-* [Experience Cloud [!UICONTROL Assets]](experience-cloud-assets/experience-cloud-assets.md)
-* [Experience Cloud cookies](cookies/cookies-privacy.md)
+* [Experience Cloud [!UICONTROL Assets]](experience-cloud-assets.md)
+* [Experience Cloud cookies](cookies-privacy.md)
 * [User and product management](admin-getting-started.md) (Admin Console)
-* [Enable your solutions for core services](core-services/core-services.md)
+* [Enable your solutions for core services](core-services.md)
 * [Frequently asked questions](admin-getting-started.md)
 * [Organizations and account linking](organizations.md)
 * [Integrations](marketing-cloud-integrations.md)
