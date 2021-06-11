@@ -64,8 +64,8 @@ index: yes
     + [Enable privacy settings for browser cookies](browser-cookie-settings.md)
     + [How changes to third-party cookie support impact customers](cookies-thirdparty.md)
 + Release notes for Experience Cloud UI {#release-notes}
-  + [What's new in the Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
-  + [Cumulative release notes](release-notes.md)
+  + [Release notes for central interface components](release-notes.md)
+  + [Release notes for all Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)  
 + More Resources {#more-resources}
   + [Forum](https://experienceleaguecommunities.adobe.com/)
   + [Terminology](terms.md)
