@@ -10,27 +10,29 @@ exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
 ---
 # Experience Cloud services {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
 
-Adobe Experience Cloud services include the [!UICONTROL People] (Audiences and Customer Attributes), Experience Platform Launch, and Mobile Services. You can also find help on Experience Cloud user and product management.
+This documentation applies to features of the Experience Cloud unified header, such ass the [!UICONTROL People] service (Audiences and Customer Attributes), user and product management for Experience Cloud, cookies, account preferences, notifications, and so on.
 
-To access these services in the Experience Cloud, click the **[!UICONTROL Application Selector]**
+To access these services in Experience Cloud, click the **[!UICONTROL Application Selector]**
 ![](assets/menu-icon.png).
 
 ![](assets/platform-core-services.png)
-
->[!NOTE]
->
->Product documentation for Experience Platform is located [here](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=en). Technical documentation for [!UICONTROL Experience Platform] developers is found on [Adobe.io](https://www.adobe.io/apis/experienceplatform/home/services.html).
 
 This help describes the following products and services:
 
 | Core Service | Description |
 |--- |--- |
-|[Activation](activation.md)|Tag management systems (Experience Platform Launch and Dynamic Tag Management).<br>Triggers enable you to take real-time action in Adobe Campaign based on insights from Adobe Analytics.|
-|[Assets](experience-cloud-assets.md)|Easily store, sync, and share all your digital assets in a central location, to save time and deliver a more consistent customer experience.|
-|[Experience Platform Launch/Data Collection](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=en)|[!UICONTROL Experience Platform Launch] is the next-generation of data collection and technology implementation for sites and apps. [!UICONTROL Experience Platform Launch] gives customers a simple way to deploy and manage all of the analytics, marketing, and advertising tags necessary to power relevant customer experiences. |
-|[Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en)| Build real-time orchestration use cases using contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|
+|[Central interface components](experience-cloud.md)|Access account preferences, search for product help, and access applications and services.|
+|[Enable your implementation for Experience Cloud services](core-services.md)|Existing customers can modernize their solution implementations and implement Experience Cloud. Doing so enables you to use Customer Attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target. |
+|[People - Audience Library](audience-library.md)|Audiences are collections of visitors (a list of visitor IDs). Adobe’s Audience Library lets you manage the translation of visitor data into audience segmentation. As |
+|[People - Customer Attributes](attributes.md)| Build real-time orchestration use cases using contextual data stored in events or data sources. [!UICONTROL Journey Orchestration] is an application service integrated with the Experience Platform.|
 |[Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)|Adobe [!UICONTROL Experience Platform Location Service] is a geo-location service. It enables mobile apps with location awareness to understand the location context by using rich and easy-to-use SDK interfaces accompanied by a flexible database of points of interests (POIs).  |
-|[Mobile Services](https://experienceleague.adobe.com/docs/mobile-services/using/home.html?lang=en)|Adobe Mobile Services brings together mobile marketing capabilities for mobile applications from across the Experience Cloud, which allows you to understand and improve user engagement with your mobile applications.|
-|People|Create a comprehensive view of individual customers by connecting Adobe and non-Adobe data in your Experience Cloud solutions. Figure out what matters most to them as they interact across touch points. Recognize familiar consumers when they visit from unfamiliar devices. Even group users into Audiences for targeted marketing efforts.<br>[Audiences](audience-library.md) - Categorize different types of customers into Audiences, then share those Audiences across Experience Cloud applications.<br>[Customer Attributes](attributes.md) - audience enrichment that lets you connect consumer information you have collected outside of Experience Cloud.|
+|[Activation](activation.md) |Activation includes the latest tag management product called Experience Platform Data Collection (Launch) and Experience Cloud Triggers. |
+|[Assets](experience-cloud-assets.md)|Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. (Assets is a legacy service, now under sustenance.)|
+|[Administration](admin-getting-started.md)|Learn about signing in to the Admin Console, managing Experience Cloud user permissions and product profiles, and browser support.|
+|[Cookies](cookies-privacy.md) |Maintaining customer privacy and data security are top priorities at Adobe. Adobe participates in multiple privacy organizations and cooperates with privacy regulators and self-regulatory principles. |
 
 {style="table-layout:auto"}
+
+>[!NOTE]
+>
+>Product documentation for Experience Platform is located [here](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=en). Technical documentation for [!UICONTROL Experience Platform] developers is found on [Adobe.io](https://www.adobe.io/apis/experienceplatform/home/services.html).
