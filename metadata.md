@@ -11,7 +11,7 @@ solution-icon: help/interface/assets/experience-cloud-logo-24.png
 getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/content/help/en/core-services-learn/tutorials/overview.html
 git-repo: https://github.com/AdobeDocs/core-services.en
 ---
 
