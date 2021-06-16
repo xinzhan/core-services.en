@@ -57,7 +57,7 @@ This section contains tips to help you select the Experience Cloud organization 
 
 ### Which organization should I choose?
 
-If the Experience Cloud ID Service is deployed on the report suite, ensure the organization that you select in the Report Suite Mapping tool is the same organization specified in the [!DNL visitorAPI.js] file on your site. You can use the instructions in [Test and Verify the Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/implementation/test-verify.html) to find the org ID that is being used by the Visitor ID service. 
+If the Experience Cloud ID Service is deployed on the report suite, ensure the organization that you select in the Report Suite Mapping tool is the same organization specified in the [!DNL visitorAPI.js] file on your site. You can use the instructions in [Test and Verify the Experience Cloud ID Service](https://experienceleague.corp.adobe.com/docs/id-service/using/implementation/test-verify.html) to find the org ID that is being used by the Visitor ID service. 
 
 Ensure that your deployment matches the organization you chose in the Report Suite Mapping tool.  
 
