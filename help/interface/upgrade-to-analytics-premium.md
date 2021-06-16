@@ -41,6 +41,8 @@ In Analytics Premium Complete, you get all the capabilities of [Analytics Premiu
 |Data Workbench|<ul><li>Algorithmic Attribution</li><li>Pre-built workspaces</li></ul>|
 |Analytics Platform|[Live Stream](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/live-stream-api/index.md) (raw data, dashboards, triggers)|
 
+{style="table-layout:auto"}
+
 ## Predictive Intelligence {#section_B407932C07A7476F83FB0275C3FB63DC}
 
 Upgrading to Predictive Intelligence enables [Analytics Premium](upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus: 
@@ -51,6 +53,8 @@ Upgrading to Predictive Intelligence enables [Analytics Premium](upgrade-to-anal
 |  Data Workbench  | Pre-built workspaces for audience qualifications and predictive marketing.  |
 |  Analytics Platform  | Live Stream (dashboards and triggers)  |
 
+{style="table-layout:auto"}
+
 ## Customer 360 {#section_3B2AC245388248688067DC9A48957AFB}
 
 Upgrading to Customer 360 offers [Analytics Premium](upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) plus:
@@ -60,6 +64,8 @@ Upgrading to Customer 360 offers [Analytics Premium](upgrade-to-analytics-premiu
 |[Customer Attributes](attributes.md)|Customer Attributes  (analysis and segment sharing)|
 |Data Workbench|<ul><li>Derived Customer Attributes</li><li>Pre-built workspaces for audience discovery</li></ul>|
 |Analytics Platform|[Customer Attributes](attributes.md)|
+
+{style="table-layout:auto"}
 
 ## Advanced Attribution {#section_9E4986A8389946CCAA7D003268343296}
 

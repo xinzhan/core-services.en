@@ -26,6 +26,8 @@ Guidance and limitations when using [!UICONTROL Customer Attributes].
 |Custom Analytics ID (`s.visitorID`)|Setting a customer ID using `s.visitorID` is a method of identifying users in Analytics. However, integrations in which [!DNL Analytics] data is exported or imported using the ID Service do not function when a visitor is identified using `s.visitorID.`<br>This includes, but is not limited to, shared Audiences, [!DNL Analytics] for Adobe Target (A4T), and [!UICONTROL Customer Attributes].<br>For these integrations, setting a custom Analytics ID is not supported.|
 |Character length limitations in [!DNL Analytics]|When creating an [!DNL Analytics] subscription, field lengths for the uploaded files are truncated to 255.|
 
+{style="table-layout:auto"}
+
 ## FAQ about Customer Attributes {#section_E47866EEA83348E09FE43CEC5E44C461}
 
 | Question | Answer |
@@ -43,3 +45,5 @@ Guidance and limitations when using [!UICONTROL Customer Attributes].
 |**(Adobe Target only)** Can I target on the data uploaded in Customer Attributes immediately after the visitor is identified by the customer ID?|Yes. On the server call to Adobe Target, which includes the mbox third-party ID, all Customer Attribute data are available.|
 |**(Adobe Target only)** What does the **[!UICONTROL Sync Status]** column represent for files uploaded in Customer Attribute source?|The number of records published and synced by Adobe Target can be viewed by clicking the Sync Status icon against a specific attribute file. `Sync %` is a real-time metric that specifies the % of profiles that have been synced in Adobe Target.<br> **Note:** It may take up to 24 hours for attributes to sync with Adobe Target.|
 |What do the file upload metrics represent in Customer Attributes Source?|You can check the status of attributes uploaded to Customer Attributes with the help of following metrics: <ul><li>Records:  Number of records in the attributes file.</li><li>**New Records:** Number of new records present in the attributes file.</li> <li>**Updated Records:** Number of records in that exist in Customer Attributes with updated values in the file.</li><li>**All Data (Records):** Total number of records successfully uploaded to Customer Attributes.</li></ul>|
+
+{style="table-layout:auto"}

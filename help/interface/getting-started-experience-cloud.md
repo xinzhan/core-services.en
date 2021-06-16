@@ -39,6 +39,8 @@ Sign in and verify that you are in the right [organization](organizations.md#top
 |[Map Your Report Suites](core-services.md)|(Analytics only) Experience Cloud core services are associated with an organization instead of an individual report suite. To ensure that these services operate correctly, each Analytics report suite must be mapped to an organization. (This task is part of a broader workflow to [enable Analytics for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)).|
 |[Organization ID](organizations.md)|The *Organization ID* is found on the bottom of the Administration page. This ID is the associated ID with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg.|
 
+{style="table-layout:auto"}
+
 ## Sign in to the Experience Cloud (users) {#task_1BFE87E20DCB44078CAC82F3CD44B985}
 
 Help for non-administrative users signing in to the Experience Cloud.
@@ -144,3 +146,5 @@ Sample URL:
 |`tenantId`|Name of the tenant the user should log into.|aem62tenant|Optional|
 |`destURL`|The complete URL to the place where the user should be taken to.|http://sc.omniture.com/login/?r=%2Fx%2F1_7xxzf&tenantId=obuengsc&company=OBU+Eng+SC|Optional|
 |`solutionname`|Name of the MAC Solution that is the owner of `destURL` parameter. It is used to verify that the user has access to the solution which is the owner of the URL.  It is the responsibility of the solutions to make sure that the `solutionname` is in Sync with the `destURL` parameter.  For example : If the URL contains `solutionname` as social and the `destURL` provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify whether the owner of the `destURL` is in sync with the solution name.|analytics|Required if `destURL` param is used.|
+
+{style="table-layout:auto"}

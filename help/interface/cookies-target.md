@@ -27,6 +27,8 @@ You can change these settings if needed, except for the cookie duration. Consult
 |Server domain|`clientcode.tt.omtrdc.net`, using the client code for your [!DNL Adobe Target] account.|
 |Cookie duration|The cookie remains on the visitor's browser two years from their last login. You cannot change the cookie duration.|
 
+{style="table-layout:auto"}
+
 >[!NOTE]
 >
 >If any of your domain names include a country code, such as `mycompany.co.uk`, work with your Client Services to configure your `at.js` to support this code.
@@ -40,3 +42,4 @@ The cookie keeps some values to manage how your visitors experience Adobe Target
 |check|A simple test value used to determine if a visitor supports cookies. Set each time a visitor requests a page.|
 |disable|Set if visitor's load time exceeds the timeout configured in the at.js file. By default, this timeout lasts 1 hour.|
 
+{style="table-layout:auto"}

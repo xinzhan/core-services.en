@@ -78,6 +78,8 @@ SSL certificates expire each year, meaning Adobe must purchase a new certificate
 |**Will this certificate be using SHA-2 encryption?**|Yes, Adobe will work with DigiCert to issue a SHA-2 certificate.|
 |**Does this incur any additional cost?**|No, Adobe is offering this service to all current Adobe Digital Experience customers at no additional cost.|
 
+{style="table-layout:auto"}
+
 ## Create CNAME records
 
 Your organization's network operations team should configure your DNS servers by creating CNAME records. Each hostname forwards data to Adobe's data collection servers.

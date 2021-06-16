@@ -94,6 +94,8 @@ If you are not using [!UICONTROL Experience Platform Launch] or [!UICONTROL Dyna
 | Update your existing [!DNL s_code] to version H.27.3 or later, or your existing [!DNL AppMeasurement.js] to version 1.4 or later.  | These files are available for download in the [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=en) in Analytics Admin Tools. (The [JavaScript Implementation](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=en#js) guide is available if you need more information about [!DNL AppMeasurement.js].) |
 | Synchronize the customer ID for Analytics  | See [Analytics - synching the customer ID](core-services.md#section_AD473A6A21C1446498E700363F9A8437) (below). |
 
+{style="table-layout:auto"}
+
 ### Analytics & Adobe Target - synching the customer ID {#section_AD473A6A21C1446498E700363F9A8437}
 
 As a part of setting up the Experience Cloud ID Service, Adobe recommends for Analytics and [!DNL Target] that you synchronize your [customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en) with the Experience Cloud. 

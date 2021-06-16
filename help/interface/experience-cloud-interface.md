@@ -75,6 +75,8 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 |[!UICONTROL Alerts]|Select the notifications for which you would like to see alerts displayed in your browser. Alerts appear in the top-right corner of your window for a few seconds.|
 |Emails|Specify the frequency at which you would like to receive notification emails. (Not sent, instant, daily, or weekly.)|
 
+{style="table-layout:auto"}
+
 ## Notifications and Announcements
 
 Click **[!UICONTROL Notifications]** to see notifications that are important to you, and announcements from Adobe.

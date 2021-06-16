@@ -121,7 +121,7 @@ Help: [Getting Started](https://experienceleague.adobe.com/docs/launch/using/get
 
 Use the Experience Cloud Activation solutions to set up and debug your Experience Cloud solutions.
 
-1. Use [Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=en) or [Dynamic Tag Management](https://experienceleague.adobe.com/docs/dtm/using/dtm-home.html?lang=en) to insert code that activates Experience Cloud applications on your pages.
+1. Use [Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=en) to insert code that activates Experience Cloud applications on your pages.
 1. Use [Adobe Cloud Platform Auditor](https://experienceleague.adobe.com/docs/auditor/using/overview.html?lang=en) to test your implementations.
 
 Use the Adobe Experience Cloud Debugger extension to debug issues found by Auditor or to examine other information about your implementations.
@@ -129,7 +129,7 @@ Use the Adobe Experience Cloud Debugger extension to debug issues found by Audit
 **Applicable solutions or services** 
 
 * [Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en)
-* [Audience Manager](https://experienceleague.adobe.com/docs/dtm/using/tools/audiencemgmt.html?lang=en)
+* [Audience Manager](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/audience-manager/overview.html?lang=en)
 * [Media Optimizer](https://experienceleague.adobe.com/docs/dtm/using/tools/media-optimizer.html?lang=en)
 * [Adobe Target](https://experienceleague.adobe.com/docs/dtm/using/tools/target.html?lang=en)
 * [MAC ID Service](https://experienceleague.adobe.com/docs/dtm/using/tools/macid.html?lang=en)

@@ -37,6 +37,8 @@ More information is available in Analytics help about [First-Party Cookies](cook
 |Location|CNAME customers only. Not applicable for 3rd-party scenarios. Cookie is stored on your domain, the same domain used by CNAME and your Analytics image request.|
 |Size|45 bytes|
 
+{style="table-layout:auto"}
+
 ## Cookie Name: s_cc {#section-03aa90aa7e36427b8cb12dc4a0f0291e}
 
 | Attribute  | Description  |
@@ -46,6 +48,8 @@ More information is available in Analytics help about [First-Party Cookies](cook
 |Usage|Only one cookie for all accounts|
 |Location|This cookie is stored at the domain of the page|
 |Size|4 bytes|
+
+{style="table-layout:auto"}
 
 ## Cookie Name: s_sq {#section-8abfff3a302d494f81a3cfb91e3b09ff}
 
@@ -57,6 +61,8 @@ More information is available in Analytics help about [First-Party Cookies](cook
 |Location|This cookie is stored at the domain of the page|
 |Size|Varies depending on page URL size, but typically 100-200 bytes|
 
+{style="table-layout:auto"}
+
 ## Cookie Name: s_vi {#section-5d50a078de444d12b7d927d68ff3b679}
 
 | Attribute  | Description  |
@@ -66,6 +72,8 @@ More information is available in Analytics help about [First-Party Cookies](cook
 |Usage|This cookie is used to identify a unique visitor|
 |Location|This cookie is stored at the domain of the image request - typically a customer-specific subdomain under 2o7.net or omtrdc.net if you are using third-party cookies, or if your domain is using first-party cookies.|
 |Size|44 bytes|
+
+{style="table-layout:auto"}
 
 >[!NOTE]
 >
@@ -81,6 +89,8 @@ More information is available in Analytics help about [First-Party Cookies](cook
 |Location|This cookie is stored on your domain as a first-party cookie.|
 |Size|33 bytes|
 
+{style="table-layout:auto"}
+
 ## Cookie Flags
 
 The following table describes the flags for Analytics cookies:
@@ -92,6 +102,8 @@ The following table describes the flags for Analytics cookies:
 |s_fid (Javascript)|No|No|Unset|
 |s_cc (Javascript)|No |No |Unset|
 |s_sq (Javascript)|No |No |Unset|
+
+{style="table-layout:auto"}
 
 >[!NOTE]
 >

@@ -43,3 +43,5 @@ A terminology reference for Experience Cloud users, and how those terms are used
 |Sharing|In Creative Cloud, you can share files externally across platforms (social, communities, emails, and so on).|In Experience Cloud, you can share an asset as a card only, within boards inside the interface. Sharing is available to those who are logged in to the site.|
 |Solution|No special use.|In Experience Cloud, solutions are known as products like Adobe Analytics, Adobe Social, Adobe Target, and so on.|
 |Trait|N/A|A key-value pair, for example, color=blue. In Audience Manager, [traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/traits-overview.html?lang=en) are used to build segments.|
+
+{style="table-layout:auto"}

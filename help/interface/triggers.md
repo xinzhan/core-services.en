@@ -63,6 +63,8 @@ Create a trigger and configure the conditions for the trigger. For example, you 
     |[!UICONTROL Container]|[!UICONTROL Containers] are where you set and store rules, conditions, or filters that define a trigger. If you want events to occur at the same time, put them in the same container. Meaning, each container processes independently at the hit level. For example, if you have two containers joined by the  And operator, you can expect the rules to qualify when two hits meet the requirements.|
     |Start new session after|Create a trigger for session start and session end events.|
 
+    {style="table-layout:auto"}
+
 5. Click **[!UICONTROL Save]**.
 6. Use triggers for [real-time remarketing](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en) in [!DNL Adobe Campaign].
 

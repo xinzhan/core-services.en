@@ -44,6 +44,8 @@ The following table describes how audiences are used in Experience Cloud solutio
 |Campaign|<ul><li>Import shared audiences from different Adobe Experience Cloud solutions into Adobe Campaign.</li><li>Export recipient lists in the form of shared audiences. These shared audiences can be used in the different Adobe Experience Cloud solutions that you use.</li></ul>|
 |Advertising Cloud|Use the audience as targets.|
 
+{style="table-layout:auto"}
+
 >[!IMPORTANT]
 >
 >Once a visitor qualifies for the audience shared from Analytics, there is a 4-8 hour delay before that information is actionable in [!DNL Target], Ad Cloud, and Campaign Standard.
@@ -55,6 +57,8 @@ The following table describes how audiences are used in Experience Cloud solutio
 |Cannot find Audiences?|Ensure that you are provisioned. See [Getting started - enable your solutions for core services](core-services.md).<br>Click [here](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES) to request access to Profiles and Audiences (integrations provisioning form).|
 |Use cases|For more guidance on what solution to use, go to [Audience Creation Options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=en) in the Knowledge Base.|
 |Forum|The [Audiences forum](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community) is another resource to get help with audiences.|
+
+{style="table-layout:auto"}
 
 ## Audience Library interface elements {#section_D04ACEF61CEF4B189AE6BA9F40D0DBF4}
 
@@ -72,3 +76,5 @@ The [!DNL Experience Cloud] provides a library for creating and managing audienc
 |Source|Identifies where the audience was created.<ul><li>**Analytics:** A segment created in Adobe Analytics, then [published to the Experience Cloud](audience-library.md).</li><li>**Experience Cloud:** A new audience [created in Experience Cloud Audiences](audience-library.md).</li><li>**Audience Manager:** Audiences created Audience Manager automatically display in the Experience Cloud Audiences.</li></ul>|
 |Current Size|The current audience size.|
 |Active|The active status of the segment.|
+
+{style="table-layout:auto"}

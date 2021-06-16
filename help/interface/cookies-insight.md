@@ -23,3 +23,5 @@ Data Workbench uses cookies to analyze large volumes of rapidly evolving data in
 |  Usage  | This cookie is used to identify a unique visitor.  |
 |  Location  | This cookie is stored at the domain of the page.  |
 |  Size  | 8 bytes, or 13 bytes if including the "name =" portion (v1st=)  |
+
+{style="table-layout:auto"}
