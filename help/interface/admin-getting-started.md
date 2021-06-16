@@ -153,7 +153,7 @@ See [IMS Support for Experience Manager as a Cloud Service](https://experiencele
 
 Create Audience Manager users and assign them to groups. You can also view limits (traits, segments, destinations, and [!DNL AlgoModel]).
 
-See [Administration](https://experienceleague.adobe.com/docs/dtm/using/admin/users.html?lang=en) in Audience Manager help.
+See [Administration](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/administration-overview.html?lang=en) in Audience Manager help.
 
 ## Supported browsers in the Experience Cloud
 

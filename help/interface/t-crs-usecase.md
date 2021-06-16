@@ -76,7 +76,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
     * **[!UICONTROL Description:]** (Optional) A description of the data attribute source. 
     
-    * **[!UICONTROL Alias ID:]** Represents a source of Customer Attribute data, such as a specific CRM system. A unique ID that is used in your Customer Attribute Source code. The ID should be unique, lowercase, with no spaces. The value that is entered in the Alias ID field for a Customer Attribute source in the Experience Cloud UI should match the values that are being passed in from the implementation (whether via dynamic tag management or JavaScript of the Mobile SDK.) 
+    * **[!UICONTROL Alias ID:]** Represents a source of Customer Attribute data, such as a specific CRM system. [!UICONTROL Alias ID] is a unique ID that is used in your Customer Attribute Source code. The ID should be unique, lowercase, with no spaces. The value that is entered in the [!UICONTROL Alias ID] field for a Customer Attribute source in Experience Cloud should match the values that are being passed in from the implementation (whether via Data Collection (Launch), Dynamic Tag Management, or JavaScript of the Mobile SDK.) 
     
       The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
     
