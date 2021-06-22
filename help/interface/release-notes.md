@@ -408,7 +408,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Known Issues** 
 
 * Group and entitlement changes made in user management only take effect after a new login.
-* Some users cannot` create a card from a PDF and share it to a board.
+* Some users cannot create a card from a PDF and share it to a board.
 * Some users may have trouble uploading assets to a board.
 * Some users are able to delete an out-of-date asset instead of receiving an error notification.
 * Users are not able to share PowerPoint files on boards.
