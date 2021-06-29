@@ -20,8 +20,8 @@ Experience Cloud's central interface components include features that enable you
 Sign in and verify that you are in the right [organization](organizations.md).
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
-1. Click **[!UICONTROL Sign in with an Adobe ID]**.
-1. On Adobe Experience Cloud, click your organization.
+1. Select **[!UICONTROL Sign in with an Adobe ID]**.
+1. On Adobe Experience Cloud, select your organization.
 
     ![](assets/organizations-menu.png)
 
@@ -31,7 +31,7 @@ Sign in and verify that you are in the right [organization](organizations.md).
 
 After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
 
-Click the application selector ![](assets/menu-icon.png) to access Experience Cloud services that you own.
+Select the application selector ![](assets/menu-icon.png) to access Experience Cloud services that you own.
 
 ![](assets/platform-core-services.png)
 
@@ -61,7 +61,7 @@ In the account preferences menu, you can:
 
 Experience Cloud preferences include notifications, subscriptions, and alerts. 
 
-Click **[!UICONTROL Preferences]** from your account menu ![](assets/preferences-icon-sm.png) to manage preferences.
+Select **[!UICONTROL Preferences]** from your account menu ![](assets/preferences-icon-sm.png) to manage preferences.
 
 ![](assets/preferences-page.png)
 
@@ -79,7 +79,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 ## Notifications and Announcements
 
-Click **[!UICONTROL Notifications]** to see notifications that are important to you, and announcements from Adobe.
+Select **[!UICONTROL Notifications]** to see notifications that are important to you, and announcements from Adobe.
 
 ![](assets/notifications-menu-small.png)
 

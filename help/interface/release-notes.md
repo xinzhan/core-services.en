@@ -288,7 +288,7 @@ No information available
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activation </p> </td> 
-   <td colname="col2"> <p> <a href="activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation</a> now displays in the left navigation in the <span class="keyword"> Experience Cloud</span>. <span class="wintitle"> Activation</span> is an <span class="keyword"> Experience Cloud</span> service currently comprised of the dynamic tag management technology, and directs you there when clicked. </p> </td> 
+   <td colname="col2"> <p> <a href="activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local"> Activation</a> now displays in the left navigation in the <span class="keyword"> Experience Cloud</span>. <span class="wintitle"> Activation</span> is an <span class="keyword"> Experience Cloud</span> service currently comprised of the dynamic tag management technology, and directs you there when selected. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 
@@ -376,7 +376,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
    <td colname="col1"> <p>Edit User Permissions </p> </td> 
    <td colname="col2"> <p>Owners of a board can now edit user permissions on the particular board. </p> <p> 
      <ol id="ol_B12251C510744538AF9BCE60ACB04016"> 
-      <li id="li_87B3EDE9542B47CEBE0BE7F2D1DE844D">On the board, click <span class="uicontrol"> Settings</span>. </li> 
+      <li id="li_87B3EDE9542B47CEBE0BE7F2D1DE844D">On the board, select <span class="uicontrol"> Settings</span>. </li> 
       <li id="li_0F4786B0E1E743069D082E7DC488A031">Next to each owner, specify <span class="uicontrol"> Owner</span>, <span class="uicontrol"> Viewer</span>, or <span class="uicontrol"> Editor</span>. </li> 
      </ol> </p> </td> 
   </tr> 
@@ -547,7 +547,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * [!DNL Experience Cloud] was not linking to [!DNL Adobe Target]. This issue occurred if the [!DNL Adobe Target] login can be used on multiple [!DNL Target] servers.
 * [!DNL Adobe Media Optimizer] was not creating users automatically when the user has been created in [!DNL Experience Cloud].
 * Options in combo boxes used for adding new users temporarily disappeared while typing.
-* The Comments link on asset card view was not clickable.
+* The Comments link on asset card view was not selectable.
 * After adding a custom tag to an asset, no other metadata changes were not persisting.
 * Deleting an image, Assets does not warn if the image is used in Adobe Target Essentials.
 * Slow [!UICONTROL Experience Cloud] interface performance when in parallel use by many users.
@@ -574,9 +574,9 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
    <td colname="col1"> <p>Create cards from help topics </p> </td> 
    <td colname="col2"> <p>After you enable the Share to Adobe Experience Cloud feature in your browser's Bookmark toolbar, you can now share help pages from the microsite URL. </p> <p> <b>To share a help topic</b> </p> 
     <ol id="ol_F94B816121494B0FA16CC07B0E96AED8"> 
-     <li id="li_F47187D4B5FE46D3A51D257DD569B4D6"> <p>In the <span class="keyword"> Experience Cloud</span>, click <span class="uicontrol"> Administration</span>. </p> </li> 
+     <li id="li_F47187D4B5FE46D3A51D257DD569B4D6"> <p>In the <span class="keyword"> Experience Cloud</span>, select <span class="uicontrol"> Administration</span>. </p> </li> 
      <li id="li_94EF58E7A4974B63951E14F72A710183"> <p>Drag the <span class="uicontrol"> Share to Adobe Experience Cloud</span> button to your Bookmark toolbar. </p> </li> 
-     <li id="li_69EEC4F25D8F4AD7AA106A10B7F50FF6"> <p>Navigate to a help page (or remain on this one), then click <span class="uicontrol"> Share to Adobe Experience Cloud</span> in your browser's Bookmarks toolbar. </p> <p>This step creates a card, which you can view in the <span class="wintitle"> Experience Cloud</span>. </p> </li> 
+     <li id="li_69EEC4F25D8F4AD7AA106A10B7F50FF6"> <p>Navigate to a help page (or remain on this one), then select <span class="uicontrol"> Share to Adobe Experience Cloud</span> in your browser's Bookmarks toolbar. </p> <p>This step creates a card, which you can view in the <span class="wintitle"> Experience Cloud</span>. </p> </li> 
     </ol> </td> 
   </tr> 
  </tbody> 
@@ -590,7 +590,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * [!DNL Analytics] solution landing page shows formatting errors.
 * Users must log out and log back in for all permission and entitlement changes to take effect.
 * Deleting an image, [!UICONTROL Assets] does not warn if the image is used in [!DNL Adobe Target Essentials].
-* Comments link on asset card view is not clickable.
+* Comments link on asset card view is not selectable.
 * Options in combo boxes for adding new users temporarily disappear while typing.
 * Logging in to the [!DNL Experience Cloud] takes longer than a second.
 * Data shared from [!DNL Media Optimizer] is misrepresented in the [!DNL Experience Cloud].
@@ -623,7 +623,7 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
 * Users must log out and log back in for all permission and entitlement changes to take effect.
 * When *`Remember me`* is not selected during login, the user will be logged out after 15 minutes.
 * [!DNL Analytics] solution landing page shows formatting errors.
-* The Comments link on asset card view is not clickable.
+* The Comments link on asset card view is not selectable.
 * Experience Cloud interface can slow down when in parallel use by many users
 * Experience Cloud cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple Target servers.
 * Logging in to Experience Cloud takes longer than a second.
@@ -667,5 +667,5 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
 
 * Fixed an issue that prevented shared [!DNL Analytics] reports from applying segment filters.
 * Fixed an issue causing solutions to display on the [!UICONTROL Experience Cloud Solutions] page as linked, even if the solutions accounts were not linked.
-* Fixed an issue that prevented [!DNL Adobe Target] customers in Asia from being able to click the **[!UICONTROL Continue to Experience Cloud]** button on the linking page.
+* Fixed an issue that prevented [!DNL Adobe Target] customers in Asia from being able to select the **[!UICONTROL Continue to Experience Cloud]** button on the linking page.
 * Fixed an issue that prevented the sharing of YouTube videos.

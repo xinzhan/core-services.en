@@ -34,10 +34,10 @@ You can create a product profile and assign it to a permission group.
 
 When you invite a user to an organization, you can give the user access to products and product profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a product profile to enable access.
 
-1. In the [Admin Console](https://adminconsole.adobe.com/enterprise/), click **[!UICONTROL Products]**.
-1. Click your organization name.
-1. Click **[!UICONTROL New Profile]**.
-1. Configure the profile details, then click **[!UICONTROL Save]**.
+1. In the [Admin Console](https://adminconsole.adobe.com/enterprise/), select **[!UICONTROL Products]**.
+1. Select your organization name.
+1. Select **[!UICONTROL New Profile]**.
+1. Configure the profile details, then select **[!UICONTROL Save]**.
 
 For more information (and for help on Creative Cloud and Document Cloud product management), see [Identity](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/identity.ug.html) in the [Administration User Guide](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/users.ug.html).
 
@@ -76,16 +76,16 @@ For example, you can:
 
 By using these roles, you can simultaneously delegate management to others without providing more capability than they need.
 
-1. In the Admin Console, click **[!UICONTROL Users]**, then click the user's name.
+1. In the Admin Console, select **[!UICONTROL Users]**, then select the user's name.
 
     ![](assets/edit-admin-rights.png)
 
-1. Click **[!UICONTROL Edit admin rights]**.
+1. Select **[!UICONTROL Edit admin rights]**.
 
     ![](assets/edit-admin-rights-page.png)
 
 1. Specify the user's admin rights.
-1. Click **[!UICONTROL Save]**.
+1. Select **[!UICONTROL Save]**.
 
 ## Manage Analytics users and products {#section_97DE101F92CD494AB073893680992F1A}
 
@@ -93,8 +93,8 @@ You can assign Analytics report access permissions (report suites, metrics, dime
 
 For example, you can create a product profile that contains multiple Analytics tools ([!UICONTROL Analysis Workspace], [!UICONTROL Reports & Analytics], and [!UICONTROL Report Builder]). These profiles contain permission to specific metrics and dimensions (including eVars), and capabilities like segments or calculated metrics creation.
 
-1. Sign in to the [Admin Console](https://adminconsole.adobe.com/enterprise), then click **[!UICONTROL Products]**.
-1. On the [!UICONTROL Products] page, click your product, then click, then click **[!UICONTROL Permissions]** (available only to administrators).
+1. Sign in to the [Admin Console](https://adminconsole.adobe.com/enterprise), then select **[!UICONTROL Products]**.
+1. On the [!UICONTROL Products] page, select your product, then select **[!UICONTROL Permissions]** (available only to administrators).
 1. Configure the profile's permissions:
 
 | Element | Description |

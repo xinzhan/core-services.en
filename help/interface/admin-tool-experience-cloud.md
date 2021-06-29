@@ -22,7 +22,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
    ![](assets/admin-tool.png)
 
-1. Under [!UICONTROL Quick Access], click **[!UICONTROL Admin Tool.]**
+1. Under [!UICONTROL Quick Access], select **[!UICONTROL Admin Tool.]**
 
     (Alternatively, in the home page URL you can replace _home_ with _admin._)
 
@@ -36,7 +36,7 @@ This page displays complete list of users with access to Experience Cloud in you
 
 |Element | Description|
 |---|---|
-|[!UICONTROL Name] |The first and Last name of the user. You can sort this column from A to Z and Z to A.  Click a user's name to see more details about the user.|
+|[!UICONTROL Name] |The first and Last name of the user. You can sort this column from A to Z and Z to A.  Select a user's name to see more details about the user.|
 |[!UICONTROL Email] |The email address associated with the user. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL ID Type] |The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
 |[!UICONTROL Solutions] |Summary of Experience Cloud solutions that the user can access. You can apply filters to narrow down list of users with specific solution access.|
@@ -48,7 +48,7 @@ You can search, sort, or filter the columns to customize the user list.
 
 * Search for users by Name or Email. Searches match the text string you type.
 * Sort column by ascending or descending values. This sort applies to [!UICONTROL Name,] [!UICONTROL Email,] and [!UICONTROL Last Login] Columns.
-* To apply multiple filters to list users with specific criteria, click the **[!UICONTROL Filter By]** icon. When multiple filter categories are applied, searches contain Email Domain `AND` ID TYPE `AND` Solution.
+* To apply multiple filters to list users with specific criteria, select the **[!UICONTROL Filter By]** icon. When multiple filter categories are applied, searches contain Email Domain `AND` ID TYPE `AND` Solution.
 
 |Element | Description|
 |---------|----------|
@@ -58,7 +58,7 @@ You can search, sort, or filter the columns to customize the user list.
 
 ## View user details
 
-On the [!UICONTROL Users] page, to view a user's details, click the user's email.
+On the [!UICONTROL Users] page, to view a user's details, select the user's email.
 
 ![](assets/admin-tool-user-details.png)
 
@@ -100,7 +100,7 @@ This page displays complete list of Experience Cloud policies in your organizati
 
 |Element | Description|
 |---|---|
-|[!UICONTROL Product Profile] |The name of the product profile. Column can be sorted A->Z, Z->A. To see more details about the policy, click a product profile's name.|
+|[!UICONTROL Product Profile] |The name of the product profile. Column can be sorted A->Z, Z->A. To see more details about the policy, select a product profile's name.|
 |[!UICONTROL Product] |The product associated with the product profile. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL Instance] |The instance (for example, tenant or login company) associated with product profile. Products that do not have unique instances or tenants display a " - " for the value. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL Number of Users] |Unique count of users associated with the product profile including direct assignment and group assignment. Column can be sorted smallest to largest or largest to smallest.|
@@ -112,7 +112,7 @@ You can search, sort, or filter the columns to customize the policies list.
 
 * Search for product profiles by name. Searches match the text string you type.
 * Sort column by ascending or descending values. This sort applies to [!UICONTROL Product Profile,] [!UICONTROL Product,] [!UICONTROL Instance,] [!UICONTROL Number of users,] and [!UICONTROL Number of Developers,] Columns.
-* Click the **[!UICONTROL Filter By]** icon to apply multiple filters to list product profiles with specific criteria. When multiple filter categories are applied, searches contain Groups associated `AND` Instance `AND` Solution.
+* Select the **[!UICONTROL Filter By]** icon to apply multiple filters to list product profiles with specific criteria. When multiple filter categories are applied, searches contain Groups associated `AND` Instance `AND` Solution.
 
 |Element | Description|
 |---------|----------|
@@ -121,7 +121,7 @@ You can search, sort, or filter the columns to customize the policies list.
 
 ## View policy details
 
-On the [!UICONTROL Policies] page, to view a policy's details, click the product profile name.
+On the [!UICONTROL Policies] page, to view a policy's details, select the product profile name.
 
 ![](assets/admin-tool-policy-detail.png)
 

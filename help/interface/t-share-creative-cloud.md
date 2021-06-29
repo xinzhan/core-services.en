@@ -14,34 +14,34 @@ exl-id: 32f4723e-0e66-46b6-b0c2-ae47b9a06a87
 
 Share an Experience Cloud asset folder with Creative Cloud users.
 
-1. On an Asset folder, click **[!UICONTROL Share to Creative Cloud]**.
+1. On an Asset folder, select **[!UICONTROL Share to Creative Cloud]**.
 
    ![Step Result](assets/asset-share-cc.png) 
-1. On the Share to Creative Cloud page, search for the user, then click **[!UICONTROL Add]**.
+1. On the Share to Creative Cloud page, search for the user, then select **[!UICONTROL Add]**.
 
    ![](assets/asset-share-cc-page.png) 
 
-1. Click **[!UICONTROL Share]**.
+1. Select **[!UICONTROL Share]**.
 1. Launch the [!DNL Creative Cloud] desktop (or navigate to the [!UICONTROL Creative Cloud Files] page in a browser) and look for the request notification.
 
    ![](assets/cc_share_request.png) 
-1. Open the request, then click **[!UICONTROL Accept]**.
+1. Open the request, then select **[!UICONTROL Accept]**.
 
    ![Step Result](assets/cc_share_accept.png) 
-1. To access folder contents, click **[!UICONTROL Open Folder]** (or **[!UICONTROL View on Web]**).
+1. To access folder contents, select **[!UICONTROL Open Folder]** (or **[!UICONTROL View on Web]**).
 
    ![Step Result](assets/creative_cloud_open_folder.png) 
 1. Continue by adding comments on the shared asset:
 
-   In Creative Cloud, you can click into an image, then click **[!UICONTROL Activity]** to add a comment on the image. Comments are synced on the assets in the [!DNL Creative Cloud] and [!DNL Experience Cloud]. 
+   In Creative Cloud, you can select into an image, then select **[!UICONTROL Activity]** to add a comment on the image. Comments are synced on the assets in the [!DNL Creative Cloud] and [!DNL Experience Cloud]. 
 
    ![](assets/asset_comment_cc.png) 
 
-   In the Experience Cloud, click into an image, then click the time-line icon to add a comment on the image. Comments are synced on the assets in the Creative Cloud and Experience Cloud. 
+   In the Experience Cloud, select into an image, then select the time-line icon to add a comment on the image. Comments are synced on the assets in the Creative Cloud and Experience Cloud. 
 
    ![](assets/asset_comment_mac.png) 
 
- 1. To unshare a folder, click **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), then remove users by clicking X, then click **[!UICONTROL Share]**.
+ 1. To unshare a folder, select **[!UICONTROL Share Using Creative Cloud]** (similar to [Step 3](t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), then remove users by selecting X, then select **[!UICONTROL Share]**.
 
    ![](assets/asset_remove_user.png) 
 

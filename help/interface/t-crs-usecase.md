@@ -61,13 +61,13 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
 >
 >When creating, modifying, or deleting Customer Attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source. You must have administrative rights in Audience Manager to create or modify Customer Attribute sources. Contact Audience Manager Customer Care or consulting to obtain administrative rights.
 
-1. In the [!DNL Experience Cloud], click the Menu  ![](assets/menu-icon.png) icon.
-1. Under **[!DNL Experience Platform]**, click **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**.
+1. In the [!DNL Experience Cloud], select the Menu  ![](assets/menu-icon.png) icon.
+1. Under **[!DNL Experience Platform]**, select **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**.
 
    The [!UICONTROL Customer Attributes] page is where you can manage and edit existing attribute data sources. 
 
    ![Step Result](assets/03_crs_usecase.png) 
-1. Click **[!UICONTROL New]**.
+1. Select **[!UICONTROL New]**.
 
    ![Step Result](assets/04_crs_usecase.png) 
 1. On the [!UICONTROL Edit Customer Attribute Source] page, configure the following fields:
@@ -146,7 +146,7 @@ See [Configure subscriptions](subscription.md#concept_ECA3C44FA6D540C89CC04BA3C4
 
 **To activate an attribute source** 
 
-On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate the [!UICONTROL Activate] heading, then click **[!UICONTROL Active]**.
+On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate the [!UICONTROL Activate] heading, then select **[!UICONTROL Active]**.
 
    ![Step Result](assets/activate_attribute_source.png) 
 
