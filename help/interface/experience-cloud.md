@@ -27,8 +27,8 @@ From Experience Cloud's header, you can:
 Sign in and verify that you are in the right [organization](organizations.md).
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
-1. Click **[!UICONTROL Sign in with an Adobe ID]**.
-1. On Adobe Experience Cloud, click your organization.
+1. Select **[!UICONTROL Sign in with an Adobe ID]**.
+1. On Adobe Experience Cloud, select your organization.
 
     ![](assets/organizations-menu.png)
 
@@ -38,7 +38,7 @@ Sign in and verify that you are in the right [organization](organizations.md).
 
 After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
 
-To access Experience Cloud services that you own, click the application selector ![](assets/menu-icon.png).
+To access Experience Cloud services that you own, go to the application selector ![](assets/menu-icon.png).
 
 ![](assets/platform-core-services.png)
 
@@ -74,7 +74,7 @@ Experience Cloud preferences include notifications, subscriptions, and alerts. I
 * Sign out
 * Configure account preferences, notifications, and subscriptions
 
-To manage preferences, click **[!UICONTROL Preferences]** from your account menu ![](assets/preferences-icon-sm.png).
+To manage preferences, select **[!UICONTROL Preferences]** from your account menu ![](assets/preferences-icon-sm.png).
 
 ![](assets/preferences-page.png)
 
@@ -92,7 +92,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 ## Notifications and Announcements {#notifications}
 
-Click **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
+Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
 
 ![](assets/notifications-menu-small.png)
 

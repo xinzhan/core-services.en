@@ -55,7 +55,7 @@ More information is available in Analytics help about [First-Party Cookies](cook
 
 | Attribute  | Description  |
 |--- |--- |
-|Information Stored|This cookie is set and read by the JavaScript code when the ClickMap functionality or the Activity Map functionality are enabled; it contains information about the previous link that was clicked on by the user|
+|Information Stored|This cookie is set and read by the JavaScript code when the SelectMap functionality or the Activity Map functionality are enabled; it contains information about the previous link that was selected on by the user|
 |Expiration|This cookie is a session cookie and expires when the browser is closed|
 |Usage|Only one cookie for all accounts|
 |Location|This cookie is stored at the domain of the page|

@@ -16,5 +16,5 @@ See [https://helpx.adobe.com/creative-cloud/help/sync-creative-cloud-files.html]
 
 1. Launch the [!DNL Creative Cloud] browser and navigate to [!UICONTROL Creative Cloud Files].
 1. Open the shared folder.
-1. Click **[!UICONTROL Actions]** > **[!UICONTROL Upload]**.
+1. Select **[!UICONTROL Actions]** > **[!UICONTROL Upload]**.
 1. Use your operating system's file browsing to select or move assets.

@@ -29,17 +29,17 @@ Organizations are grayed out if you do not have Analytics administrator permissi
 
 1. Navigate to Report Suites for Data Governance at [!DNL Analytics] > **[!UICONTROL Admin]** > **[!UICONTROL Data Governance]** (see [View/Manage Report Suite's Data Governance Setting](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/gdpr-view-settings.html?lang=en)
 
-1. To see the login companies that have access to each report suite, click **[!UICONTROL Visible to Login Companies]**.
+1. To see the login companies that have access to each report suite, select **[!UICONTROL Visible to Login Companies]**.
 
    This view is intended to help you make an informed decision on the mapping. 
 
-1. Click the drop-down in the **[!UICONTROL Mapped Organization]** column next to a report suite and select the organization to which you want to map.
+1. Select the drop-down in the **[!UICONTROL Mapped Organization]** column next to a report suite and select the organization to which you want to map.
 
    See the next section for tips on selecting an Experience Cloud organization.
 
 ## Map multiple report suites to an organization {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 
-1. Click **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administration]** > **[!UICONTROL Report Suite Mapping]**.
+1. Select **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administration]** > **[!UICONTROL Report Suite Mapping]**.
 
 1. Select the report suites that you want to map.
 
@@ -49,7 +49,7 @@ Organizations are grayed out if you do not have Analytics administrator permissi
 
    See the next section for tips on selecting an Experience Cloud organization. 
 
-1. Click **[!UICONTROL Save Mapping]**.
+1. Select **[!UICONTROL Save Mapping]**.
 
 ## Tips for Selecting an Experience Cloud Organization {#mapping-tips}
 

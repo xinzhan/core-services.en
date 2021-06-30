@@ -31,7 +31,7 @@ File uploads to the Customer Attributes FTP site can be done via FTP or SFTP:
 
    Ensure that you are logged in to your FTP site at `ftp.adobe.com/<sftpname>`. 
 
-1. Click **[!UICONTROL Actions]** > **[!UICONTROL File Upload]**.
+1. Select **[!UICONTROL Actions]** > **[!UICONTROL File Upload]**.
 
 1. Upload a `.fin` file, so that your file can be retrieved.
 

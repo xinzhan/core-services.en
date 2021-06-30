@@ -26,7 +26,7 @@ Also, you might need to locate your organization ID for support purposes. You ca
 
 The **organization ID** is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg.
 
-To view your Organization ID, navigate to the Experience Cloud landing page, or click ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**. You can find the organization ID on the bottom of the [!UICONTROL Getting Started with the Experience Cloud] page, or the [!UICONTROL Administration] page.
+To view your Organization ID, navigate to the Experience Cloud landing page, or select ( ![](assets/menu-icon.png)), then select **[!UICONTROL Administration]**. You can find the organization ID on the bottom of the [!UICONTROL Getting Started with the Experience Cloud] page, or the [!UICONTROL Administration] page.
 
 ![](assets/administration-page.png) 
 
@@ -36,23 +36,23 @@ Typically, Experience Cloud administrators grant access to solutions and service
 
 1. Follow the steps in your email invitation to the Experience Cloud.
 1. Log in using your Adobe ID or Enterprise ID.
-1. Click the solution selector. ( ![](assets/menu-icon.png)).
+1. Select the solution selector. ( ![](assets/menu-icon.png)).
 
    ![](assets/solutions-active.png)
 
    The solutions to which you have access are colored.
-1. Click the desired solution.
+1. Select the desired solution.
 
    ![](assets/analytics-link-accounts.png)
 
    This type of message displays if you are part of the appropriate group (and have permission to the solution) but have not yet linked your account credentials to your Adobe ID.
-1. Click **[!UICONTROL Link Account]**, then provide your credentials.
+1. Select **[!UICONTROL Link Account]**, then provide your credentials.
 
 ## Specify a default organization and landing page {#concept_6A191B42A9874A9780882903BA18F071}
 
 You can specify a default organization and landing page to use when you log in.
 
-In your profile, click **[!UICONTROL Edit Profile]**.
+In your profile, select **[!UICONTROL Edit Profile]**.
 
 ![](assets/edit-profile.png)
 

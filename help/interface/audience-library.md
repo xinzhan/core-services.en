@@ -54,7 +54,7 @@ The following table describes how audiences are used in Experience Cloud solutio
 
 | Help with | Resource |
 |--- |--- |
-|Cannot find Audiences?|Ensure that you are provisioned. See [Getting started - enable your solutions for core services](core-services.md).<br>Click [here](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES) to request access to Profiles and Audiences (integrations provisioning form).|
+|Cannot find Audiences?|Ensure that you are provisioned. See [Getting started - enable your solutions for core services](core-services.md).<br>Go [here](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES) to request access to Profiles and Audiences (integrations provisioning form).|
 |Use cases|For more guidance on what solution to use, go to [Audience Creation Options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=en) in the Knowledge Base.|
 |Forum|The [Audiences forum](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community) is another resource to get help with audiences.|
 

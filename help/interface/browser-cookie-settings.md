@@ -17,7 +17,7 @@ You can remove users who blocked all cookies on desktop and mobile browsers. Thi
 **To enable privacy settings for browser cookies**
 
 1. Navigate to **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]**. 
-1. Click **[!UICONTROL Edit Settings]** > **[!UICONTROL General]** > **[!UICONTROL Privacy Settings]**. 
+1. Go to **[!UICONTROL Edit Settings]** > **[!UICONTROL General]** > **[!UICONTROL Privacy Settings]**. 
 1. Enable **[!UICONTROL Privacy Settings]** (for desktop or mobile).
 
 >[!IMPORTANT]

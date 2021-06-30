@@ -22,12 +22,12 @@ Signing in to Experience Cloud (rather than signing into a single solution) enab
 
 Sign in and verify that you are in the right [organization](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1).
 
-1. Click the Experience Cloud menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
+1. Select the Experience Cloud menu ( ![](assets/menu-icon.png)), then select **[!UICONTROL Administration]**.
 
    If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company.
-1. Click **[!UICONTROL Administration]**.
+1. Select **[!UICONTROL Administration]**.
 
-1. Continue by clicking one of the following links:
+1. Continue by selecting one of the following links:
 
 | Element | Description |
 |--- |--- |
@@ -50,11 +50,11 @@ Help for non-administrative users signing in to the Experience Cloud.
 
 
 1. Navigate to the [Adobe Experience Cloud](https://experience.adobe.com) ([!DNL experience.adobe.com]).
-1. Click **[!UICONTROL Sign In With Adobe ID]**.
+1. Select **[!UICONTROL Sign In With Adobe ID]**.
 
    Your Experience Cloud administrator can help you determine the type of account (Adobe ID or Enterprise ID). 
 
-1. On your landing page, click the selector icon  ![](assets/menu-icon.png) to access the pull-down menu.
+1. On your landing page, select the selector icon  ![](assets/menu-icon.png) to access the pull-down menu.
 
    ![](assets/experience-cloud-core-services.png) 
 
@@ -64,19 +64,19 @@ Help for non-administrative users signing in to the Experience Cloud.
 
 You can edit personal details and specify a default [organization](admin-getting-started.md#concept_705C626560A54CA2A4215F1C870C42B2) and landing page to display after signing in to the Experience Cloud. 
 
-1. Sign in to the Experience Cloud, then click your profile icon.
+1. Sign in to the Experience Cloud, then select your profile icon.
 
    ![](assets/edit-profile.png) 
-1. Click **[!UICONTROL Edit Profile]**.
+1. Select **[!UICONTROL Edit Profile]**.
 
    ![](assets/default-organization.png) 
-1. Continue configuring and editing personal information, then click **[!UICONTROL Save Changes]**.
+1. Continue configuring and editing personal information, then select **[!UICONTROL Save Changes]**.
 
 ## Enable notifications {#concept_0105453AD71847B8BFCAF4A40915F157}
 
 Get notified (via email or in-product) about system updates, maintenance notices, posts, mentions, and assets shared. You can also specify the products and solutions for which you want notifications, including the upload status for Customer Attributes.
 
-To navigate to Notifications, click the **[!UICONTROL Notifications]** icon  ![](assets/notifications-icon.png), then click the **[!UICONTROL Settings]** icon  ![](assets/icon_edit_board.png). 
+To navigate to Notifications, select the **[!UICONTROL Notifications]** icon  ![](assets/notifications-icon.png), then select the **[!UICONTROL Settings]** icon  ![](assets/icon_edit_board.png). 
 
 You can sort the Notifications display based on the message types that are important to you, and search for notifications. You can also: 
 
@@ -109,17 +109,17 @@ You can edit your Experience Cloud profile, specify a default organization and l
 
 1. Sign in to Experience Cloud.
 
-1. On Experience Cloud, click your profile picture.
+1. On Experience Cloud, select your profile picture.
 
    ![](assets/edit-profile.png) 
-1. Click **[!UICONTROL Edit Profile]**.
+1. Select **[!UICONTROL Edit Profile]**.
 
    On the Profile & Passwords page, complete the fields and options under Personal Details. 
 
 ## Recover your password {#task_46541A2806164CB1A4AE8239604E4EB1}
 
 1. Navigate to your solution login page.
-1. Click **[!UICONTROL Forgot Password]**.
+1. Select **[!UICONTROL Forgot Password]**.
 
    Resetting a solution password should resolve password linking issues for Experience Cloud. 
 

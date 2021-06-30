@@ -46,9 +46,9 @@ Create a trigger and configure the conditions for the trigger. For example, you 
 >
 >A technical limit of 100 triggers currently exists.
 
-1. In the Experience Cloud, click ![](assets/menu-icon.png), then click **[!UICONTROL Data Collection/Launch]**.
-2. On the [!UICONTROL Triggers] card, click **[!UICONTROL Manage Triggers]**.
-3. Click **[!UICONTROL New Trigger]**, then specify the type of trigger:
+1. In the Experience Cloud, select ![](assets/menu-icon.png), then select **[!UICONTROL Data Collection/Launch]**.
+2. On the [!UICONTROL Triggers] card, select **[!UICONTROL Manage Triggers]**.
+3. Select **[!UICONTROL New Trigger]**, then specify the type of trigger:
 
    ![Step Result](assets/add-trigger.png)
 
@@ -65,7 +65,7 @@ Create a trigger and configure the conditions for the trigger. For example, you 
 
     {style="table-layout:auto"}
 
-5. Click **[!UICONTROL Save]**.
+5. Select **[!UICONTROL Save]**.
 6. Use triggers for [real-time remarketing](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en) in [!DNL Adobe Campaign].
 
 ### Example triggers

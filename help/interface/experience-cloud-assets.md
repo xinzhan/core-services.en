@@ -47,7 +47,7 @@ In [!UICONTROL Experience Cloud Assets], you can:
 
 ## Access the toolbar {#section_EC2E401D225148818F3753248556BE6B}
 
-Navigate to an asset (or asset directory), then click **[!UICONTROL Select]**. 
+Navigate to an asset (or asset directory), then select **[!UICONTROL Select]**. 
 
 The toolbar provides quick access to features, including Search, Timeline, Renditions, Edit, Annotate, and Download. 
 
@@ -71,13 +71,13 @@ You can search by keyword, file type, size, last modified, publish status, orien
 
 ## Annotate assets {#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A}
 
-Click **[!UICONTROL Annotate]** by drawing circles or arrows on an image, and annotate the asset for review by coworkers. 
+Select **[!UICONTROL Annotate]** by drawing circles or arrows on an image, and annotate the asset for review by coworkers. 
 
 ![](assets/assets-annotate.png) 
 
 ## View full-screen assets, and zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 
-Click **[!UICONTROL Views]** > **[!UICONTROL Image]** to view the full asset image and enable zoom. 
+Select **[!UICONTROL Views]** > **[!UICONTROL Image]** to view the full asset image and enable zoom. 
 
 ![](assets/asset-zoom.png) 
 
@@ -85,7 +85,7 @@ Click **[!UICONTROL Views]** > **[!UICONTROL Image]** to view the full asset ima
 
 Choose between card view with properties, list view, and column view to more easily to find your assets. 
 
-Click **[!UICONTROL Views]** > **[!UICONTROL Properties]** to view an asset's properties: 
+Select **[!UICONTROL Views]** > **[!UICONTROL Properties]** to view an asset's properties: 
 
 ![](assets/asset-properties.png) 
 
@@ -93,6 +93,6 @@ Click **[!UICONTROL Views]** > **[!UICONTROL Properties]** to view an asset's pr
 
 See the number of users, storage used, and total assets. 
 
-Click **[!UICONTROL Tools]** > **[!UICONTROL Reports]** > **[!UICONTROL Usage Report]** 
+Select **[!UICONTROL Tools]** > **[!UICONTROL Reports]** > **[!UICONTROL Usage Report]** 
 
 ![](assets/assets-usage-report.png)

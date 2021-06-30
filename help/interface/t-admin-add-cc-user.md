@@ -18,8 +18,8 @@ The Experience Cloud provides administrative tools for managing approved Creativ
 >
 >You must be an administrator to perform this procedure.
 
-1. In the Experience Cloud, click **[!UICONTROL Administration]** > **[!UICONTROL Manage Creative Cloud Collaborators]**.
-1. Click **[!UICONTROL Creative Cloud Asset Sharing]**.
-1. Click **[!UICONTROL Add New User]**.  ![](assets/mac_add_icon.png)
+1. In the Experience Cloud, select **[!UICONTROL Administration]** > **[!UICONTROL Manage Creative Cloud Collaborators]**.
+1. Select **[!UICONTROL Creative Cloud Asset Sharing]**.
+1. Select **[!UICONTROL Add New User]**.  ![](assets/mac_add_icon.png)
 1. Type an email, display name, title, and optionally add an Avatar.
-1. Click **[!UICONTROL Create]**.
+1. Select **[!UICONTROL Create]**.
