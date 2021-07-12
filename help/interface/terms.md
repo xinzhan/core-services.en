@@ -8,7 +8,7 @@ title: Terminology
 uuid: 30253c0d-944b-4e15-b9af-093afa3ddc17
 feature: "Customer Attributes"
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
 ---

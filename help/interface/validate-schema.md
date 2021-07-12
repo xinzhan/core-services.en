@@ -6,7 +6,7 @@ title: How to validate the Customer Attribute schema
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 776d1fd3-c733-4970-a76b-4c3c0119ee77
 ---

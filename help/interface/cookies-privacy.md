@@ -6,7 +6,7 @@ title: Cookies and privacy
 uuid: 7fb36845-6282-438a-bbc6-0c3cf95de1c9
 feature: Cookies
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 169b5c67-aab6-4b2a-832e-c5998d796bf7
 ---

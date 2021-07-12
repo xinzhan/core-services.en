@@ -3,7 +3,7 @@ title: How to use Customer Attributes
 description: Learn about the Customer Attributes service in Adobe Experience Cloud. Discover how to upload Customer Attribute data for use in Adobe Analytics and Adobe Target.
 solution: Experience Cloud
 feature: Customer Attributes
-role: Administrator
+role: Admin
 topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79

@@ -6,7 +6,7 @@ title: Data Workbench Cookies
 uuid: c15013f4-c47d-4950-aa19-be9afd25cd5f
 feature: Cookies
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: f00cbf4d-ece0-4827-a65f-e3b7068d680c
 ---

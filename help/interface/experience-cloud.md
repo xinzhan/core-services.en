@@ -5,7 +5,7 @@ title: Experience Cloud interface help and documentation
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 feature: "Customer Attributes"
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 ---

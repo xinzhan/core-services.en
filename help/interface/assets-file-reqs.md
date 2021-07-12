@@ -6,7 +6,7 @@ title: File requirements for sharing assets
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
 feature: Assets
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 61bc8f52-a77e-4e85-939b-6f29963334a1
 ---

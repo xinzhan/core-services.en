@@ -6,7 +6,7 @@ title: Privacy considerations for Customer Attributes
 uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 27c026ff-198b-4f49-9718-f25f77a9e716
 ---

@@ -6,7 +6,7 @@ title: Frequently asked questions about Experience Cloud
 index: yes
 feature: Admin Console
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 ---

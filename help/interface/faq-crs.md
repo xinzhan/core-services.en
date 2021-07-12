@@ -6,7 +6,7 @@ title: Get answers to frequently asked questions about Customer Attributes
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 6031e544-822b-4843-b3d8-98a36a3c40e8
 ---

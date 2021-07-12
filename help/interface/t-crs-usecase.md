@@ -6,7 +6,7 @@ title: Create a Customer Attribute source and upload the data file
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
 ---

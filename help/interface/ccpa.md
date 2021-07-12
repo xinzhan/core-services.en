@@ -3,7 +3,7 @@ title: Customer Attributes Support for California Consumer Privacy Act
 description: Learn about Customer Attributes support for California Consumer Privacy Act
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
 ---

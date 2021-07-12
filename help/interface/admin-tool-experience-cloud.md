@@ -6,7 +6,7 @@ title: View Experience Cloud users and user details
 index: yes
 feature: Admin Console
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
 ---

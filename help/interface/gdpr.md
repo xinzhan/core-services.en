@@ -3,7 +3,7 @@ title: Customer Attributes Support for General Data Protection Regulation
 description: Learn about Customer Attributes Support for General Data Protection Regulation
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
 ---

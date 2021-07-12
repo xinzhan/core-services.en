@@ -6,7 +6,7 @@ title: Cumulative release notes
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 feature: "Customer Attributes"
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 ---

@@ -4,7 +4,7 @@ solution: Experience Cloud
 title: Experience Cloud central UI components 
 feature: "Central Interface Components"
 topic: Administration
-role: Administrator, User
+role: Admin, User
 level: Beginner, Intermediate, Experienced
 ---
 # Experience Cloud interface help

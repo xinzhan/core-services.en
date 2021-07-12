@@ -4,7 +4,7 @@ solution: Experience Cloud
 title: Overview of Experience Cloud services 
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
 ---

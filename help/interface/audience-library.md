@@ -7,7 +7,7 @@ uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 description: Learn how to manage the translation of visitor data into audience segmentation in Experience Cloud Audience service.
 feature: Audience Library
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
 ---

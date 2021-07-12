@@ -6,7 +6,7 @@ title: Search and Promote Cookies
 uuid: 65bf24e0-0564-4dc2-b652-9fd9db57d23f
 feature: Cookies
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 2e35668d-bf36-4f17-ae44-c2b9313c6c1f
 ---

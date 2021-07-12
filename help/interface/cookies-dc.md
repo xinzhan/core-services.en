@@ -6,7 +6,7 @@ title: Data Connectors Cookies
 uuid: 5d27ba66-e640-4513-befc-69e8502de941
 feature: Cookies
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 54f77e67-1bcf-4d01-b70b-af85bac3f449
 ---

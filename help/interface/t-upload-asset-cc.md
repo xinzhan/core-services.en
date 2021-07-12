@@ -6,7 +6,7 @@ title: Upload an asset to a shared folder from the Creative Cloud browser
 uuid: 701e28ed-4d1f-4109-882e-64d3b16cd2da
 feature: Assets
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: e26fb61f-4a7f-4c02-ba80-87a9c0edea86
 ---

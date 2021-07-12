@@ -5,7 +5,7 @@ title: Using DNS prefetch with different solutions and services
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: caf2ff76-2076-436d-a5a7-aff531464480
 ---

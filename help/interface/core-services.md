@@ -6,7 +6,7 @@ title: Enable your solutions for cross-solution services
 index: yes
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
 ---

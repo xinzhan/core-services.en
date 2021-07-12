@@ -6,7 +6,7 @@ title: Manage Creative Cloud users
 uuid: 11c4de67-40c5-4438-92fc-e23761be3f18
 feature: Assets
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: f94e8b8f-d666-4aa1-a3b7-246026035b78
 ---

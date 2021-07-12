@@ -5,7 +5,7 @@ solution: Experience Cloud
 title: Share Experience Cloud folders and assets with Creative Cloud 
 feature: Assets
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 41290ea3-86ce-4e9d-8c3c-bbe30c337c4c
 ---

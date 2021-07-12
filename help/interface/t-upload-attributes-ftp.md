@@ -6,7 +6,7 @@ title: Upload the Customer Attribute data file via FTP
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
 feature: Customer Attributes
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
 ---

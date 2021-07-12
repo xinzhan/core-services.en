@@ -6,7 +6,7 @@ title: Exchange Marketplace
 uuid: 73db5cc5-5fb2-43a2-a164-5cbca9e9a206
 feature: "Customer Attributes"
 topic: Administration
-role: Administrator
+role: Admin
 level: Experienced
 ---
 
