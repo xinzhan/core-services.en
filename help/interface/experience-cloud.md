@@ -61,7 +61,7 @@ The global search enables you to find searchable business objects or entities in
 
 ![](assets/platform-search.png)
 
->![NOTE]
+>[!NOTE]
 >
 >The global search is available only to Experience Platform and Journey Orchestration users.
 
