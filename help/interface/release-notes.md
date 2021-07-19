@@ -18,6 +18,10 @@ For a list of documentation updates, see [Experience Cloud](doc-updates.md#conce
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
+## July - 2021
+
+Unified Search is updated to be available for Journey Optimizer, Offers, and Experience League. Previously, this feature was available only to Experience Platform users.
+
 ## June - 2021
 
 | Feature | Date |Description |

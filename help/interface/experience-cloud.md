@@ -63,7 +63,7 @@ The global search enables you to find searchable business objects or entities in
 
 >[!NOTE]
 >
->The global search is available only to Experience Platform and Journey Orchestration users.
+>The global search is available only for Experience Platform, Journey Optimizer, Offers, and Experience League.
 
 ## Manage account preferences {#preferences}
 
