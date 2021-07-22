@@ -11,10 +11,6 @@ exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
 ---
 # Overview of Experience Cloud Assets
 
->[!NOTE]
->
->Assets is a legacy core service, now under sustenance.
-
 Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have subassets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
 
 Asset services include: 
