@@ -14,6 +14,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Information about updates to the Experience Cloud product documentation.
 
+**Updated 8/6/2021**
+
+Updated [First Party Cookies](cookies-first-party.md).
+
 **Updated: 6/4/2021**
 
 Reorganized guide's structure, table of contents.
