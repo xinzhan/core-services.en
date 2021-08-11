@@ -18,6 +18,12 @@ For a list of documentation updates, see [Experience Cloud](doc-updates.md#conce
 
 For release notes covering all solutions, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
+## August - 2021
+
+| Feature | Date |Description |
+| ------- | ------- | -------|
+|[!UICONTROL Unified Recents] - Extended support for recently accessed business objects|August 10, 2021|[!UICONTROL Unified Recents] is extended to additional business objects in Journey Optimizer and Experience Platform. Journey Optimizer customers can find their recently accessed objects (Messages, Journeys, Segments, Schemas, Datasets, Data Sources, Events, Actions, Sources, and Destinations) from Adobe Journey Optimizer Home page. |
+
 ## July - 2021
 
 Unified Search is updated to be available for Journey Optimizer, Offers, and Experience League. Previously, this feature was available only to Experience Platform users.
