@@ -30,7 +30,7 @@ index: yes
     + [Privacy considerations for Customer Attributes](privacy-mac.md)
   + Experience Cloud Activation {#activation}
     + [Activation overview](activation.md)
-    + [Experience Platform Launch user guide](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=en)
+    + [Experience Platform Launch user guide](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
     + [Triggers](triggers.md)
   + Experience Cloud Assets {#assets}
     + [Experience Cloud assets overview](experience-cloud-assets.md)
