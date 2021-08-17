@@ -27,7 +27,7 @@ Learn about browser support and common questions and answers for administrators 
 If your implementation has not been provisioned for core services, see [Enable your solutions for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C), which describes how to: 
 
 1. [Join the Experience Cloud and become an administrator](core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
-1. [Implement the Experience Cloud ID Service using Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/get-started/quick-start.html?lang=en).
+1. [Implement the Experience Cloud ID Service using Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en).
 1. [Map Report Suites to an Experience Cloud Organization](core-services.md#concept_apg_zq2_rw)
 1. [(Analytics only) Modernize Your Analytics AppMeasurement Code](core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [(Adobe Target only) Modernize Your Adobe Target Implementation](core-services.md#section_C2F4493C7A36406DAE2266B429A4BD24)

@@ -141,7 +141,7 @@ Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) displays 
 
 Invite users to [!UICONTROL Platform Launch] and assign user roles and rights.
 
-See [User permissions](https://experienceleague.adobe.com/docs/launch/using/admin/user-permissions.html?lang=en#admin) for information about user permissions in the Admin Console and about setting up Launch-specific options, including assigning rights to profiles.
+See [User permissions](https://experienceleague.adobe.com/docs/experience-platform/tags/admin/user-permissions.html?lang=en) for information about user permissions in the Admin Console and about setting up Launch-specific options, including assigning rights to profiles.
 
 ## Experience Manager as a Cloud Service
 

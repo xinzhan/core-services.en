@@ -20,7 +20,7 @@ Activation includes the latest tag management product called Experience Platform
 
 Deploy and manage the analytics, marketing, and advertising tags necessary to power relevant customer experiences.
 
-See [Experience Platform Launch Quickstart Guide](https://experienceleague.adobe.com/docs/launch/using/get-started/quick-start.html?lang=en).
+See [Experience Platform Launch Quickstart Guide](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en).
 
 ## Experience Cloud [!UICONTROL Triggers] {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
