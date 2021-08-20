@@ -12,6 +12,10 @@ exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
 
 Advertising Cloud uses cookies to map ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.
 
+>[!NOTE]
+>
+>The beta Advertising Cloud Javascript tag that uses the [Adobe Experience Cloud ID (ECID) Service](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html) creates [first-party Experience Cloud s_ecid cookies](cookies-first-party.md), not Advertising Cloud cookies.
+
 ## Cookie Name: _lcc
 
 <table id="table_821F8EBE91F244CBA72B0975B961B908"> 
