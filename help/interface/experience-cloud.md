@@ -83,7 +83,7 @@ While all application team are committed to global language support, not all app
 
 ## Get help and support {#support}
 
-Access learning and help using the Help icon (![asset](assets\help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
+Access learning and help using the Help icon (![asset](assets/help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
 
 ![](assets/search-menu.png)
 
