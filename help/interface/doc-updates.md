@@ -14,6 +14,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Information about updates to the Experience Cloud product documentation.
 
+**Updated 8/24/2021**
+
+Updated [Central Components](experience-cloud.md) page (this guide's landing page). Added browser and language support, updates to organizations, sign-in, and added information about domains.
+
 **Updated 8/6/2021**
 
 Updated [First Party Cookies](cookies-first-party.md).

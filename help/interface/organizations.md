@@ -18,11 +18,17 @@ Learn about managing organizations and linking solution accounts to Experience C
 
 An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and solutions. Most often, an organization is your company name. However, a company can have many organizations. 
 
-Also, you might need to locate your organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu. 
+To verify that you have logged in to your correct organization, click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
+
+If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without the need to enter your email address and password. To do this, add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`). 
+    
+For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
 ![Step Result](assets/organization-switch.png) 
 
 ## Find your Organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
+
+You might need to locate your organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu. 
 
 The **organization ID** is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg.
 

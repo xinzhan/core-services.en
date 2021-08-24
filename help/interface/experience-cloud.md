@@ -22,29 +22,68 @@ From Experience Cloud's header, you can:
 * Globally search business objects using a global search (Experience Platform users only)
 * Manage your account preferences (alerts, notifications, and subscriptions)
 
-## Sign in to Experience Cloud
+## Sign in to Experience Cloud {#signin}
 
 Sign in and verify that you are in the right [organization](organizations.md).
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
 1. Select **[!UICONTROL Sign in with an Adobe ID]**.
-1. On Adobe Experience Cloud, select your organization.
+1. Verify that you are in the right organization.
 
     ![](assets/organizations-menu.png)
 
-    Your administrator can help you verify that you are in the right [organization](organizations.md).
+    **Verify your organization**
+
+    To verify that you have logged in to your correct [organization](organizations.md), click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
+
+    If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without the need to enter your email address and password. To do this, add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`). 
+    
+    For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
 ## Access Experience Cloud applications {#navigation}
 
 After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
 
-To access Experience Cloud services that you own, go to the application selector ![](assets/menu-icon.png).
+To access Experience Cloud applications and services provisioned for you within your organization, go the application selector ![](assets/menu-icon.png).
 
 ![](assets/platform-core-services.png)
 
-## Get help and support {#search}
+## Browser support in Experience Cloud {#browser}
 
-Unified Help provides an in-product location to search for and access help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home). You can also submit open-ended feedback and create prioritized support tickets.
+For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
+
+* Chrome
+* Edge
+* Firefox
+* Opera
+* Safari
+
+If your browser is not listed, it may still be supported, but it is recommended that you use one of the listed browsers. 
+
+>[!NOTE]
+>
+>Not all applications running on Experience Cloud domain support all browsers. If you're unsure, check the documentation of a specific application.
+
+## Language support in Experience Cloud {#languages}
+
+Experience Cloud supports preferred languages for each user, as set in your Adobe user account preferences. Supported languages currently are: 
+
+* Chinese
+* English
+* French
+* German
+* Italian
+* Japanese
+* Korean
+* Portuguese
+* Spanish
+* Taiwanese
+
+While all application team are committed to global language support, not all applications are offered in all languages noted above. If your primary language is not supported in an Experience Cloud application, you can also set a secondary language to default to when applicable. This can be done in [Experience Cloud user preferences](https://experience.adobe.com/preferences).
+
+## Get help and support {#support}
+
+Access learning and help using the Help icon (![asset](assets\help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
 
 ![](assets/search-menu.png)
 
@@ -55,7 +94,7 @@ The [!UICONTROL Help] menu also gives you access to:
 * **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
 
-## Globally search for objects and entities
+## Globally search for objects and entities {#search}
 
 The global search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects.
 
@@ -63,9 +102,12 @@ The global search enables you to find searchable business objects or entities in
 
 >[!NOTE]
 >
->The global search is available only for Experience Platform, Journey Optimizer, Offers, and Experience League.
+>The global search is not available within all Experience Cloud applications, but as more content is indexed, it will be added to relevant applications. Availability as of July 2021:
 
-## Manage account preferences {#preferences}
+* Experience Platform
+* Journey Optimizer
+
+## User profile and account preferences {#preferences}
 
 Experience Cloud preferences include notifications, subscriptions, and alerts. In the account preferences menu, you can:
 
@@ -95,6 +137,17 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 Select **[!UICONTROL Notifications]** to be alerted about relevant and actionable updates, including product releases, maintenance notices, shared items, and approval requests.
 
 ![](assets/notifications-menu-small.png)
+
+## Experience Cloud domains {#domains}
+
+Experience Cloud uses the following hosts to deliver the application, improve performance and product experience. Adobe recommends adding these domains to your firewall’s allowed list for an optimal experience. Additional domains may also be in use for specific Experience Cloud applications, such as Adobe Analytics. Check documentation for those applications for more information.
+
+| Technology | Domains |
+|--- |--- |
+|Adobe Experience Cloud domains |`adobe.com`, `adobe.net`, `adobe.io` |
+|Adobe Identity Management Service (IMS)|`adobelogin.com` |
+|Experience Cloud fonts |`typekit.net` |
+|Gainsight (for product guidance and help)|`esp.aptrinsic.com` |
 
 ## Get help on administration and cross-application services
 

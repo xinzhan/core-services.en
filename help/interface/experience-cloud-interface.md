@@ -1,5 +1,5 @@
 ---
-description: Learn about the central interface components in Experience Cloud, including global search, your account preferences, how to navigate the interface and getting help. 
+description: Learn how to sign in and about the central interface components in Experience Cloud. Learn about global search, your account preferences, and how to navigate the interface and getting help. 
 solution: Experience Cloud
 title: Experience Cloud central UI components 
 feature: "Central Interface Components"
@@ -15,17 +15,54 @@ Experience Cloud's central interface components include features that enable you
 * Find product help and business objects using a global search
 * Manage your account preferences (alerts, notifications, and subscriptions)
 
-## Sign in to Experience Cloud
+## Browser support in Experience Cloud {#browser}
+
+For the best performance, Experience Cloud is optimized for the most popular browsers, including the latest version, plus the two previous versions.
+
+* Chrome
+* Edge
+* Firefox
+* Opera
+* Safari
+
+If your browser is not listed, it may still be supported, but it is recommended that you use one of the listed browsers. 
+
+>[!NOTE]
+>
+>Not all applications running on Experience Cloud domain support all browsers. If you're unsure, check the documentation of a specific application.
+
+## Language support in Experience Cloud {#languages}
+
+Experience Cloud supports preferred languages for each user, as set in your Adobe user account preferences. Supported languages currently are: 
+
+* Chinese
+* English
+* French
+* German
+* Italian
+* Japanese
+* Korean
+* Portuguese
+* Spanish
+* Taiwanese
+
+While all application team are committed to global language support, not all applications are offered in all languages noted above. If your primary language is not supported in an Experience Cloud application, you can also set a secondary language to default to when applicable. This can be done in [Experience Cloud user preferences](https://experience.adobe.com/preferences).
+
+## Sign in to Experience Cloud {#signin}
 
 Sign in and verify that you are in the right [organization](organizations.md).
 
 1. Navigate to [Adobe Experience Cloud](https://experience.adobe.com).
 1. Select **[!UICONTROL Sign in with an Adobe ID]**.
-1. On Adobe Experience Cloud, select your organization.
+1. Verify that you are in the right organization.
 
     ![](assets/organizations-menu.png)
 
-    Your administrator can help you verify that you are in the right [organization](organizations.md).
+    To verify that you have logged in to your correct [organization](organizations.md), click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
+
+    If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without the need to enter your email address and password. To do this, add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`). 
+    
+    For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
 ## Access Experience Cloud applications {#navigation}
 
@@ -77,7 +114,7 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 {style="table-layout:auto"}
 
-## Notifications and Announcements
+## Notifications and Announcements {#notifications}
 
 Select **[!UICONTROL Notifications]** to see notifications that are important to you, and announcements from Adobe.
 
