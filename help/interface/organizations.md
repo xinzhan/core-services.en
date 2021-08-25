@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 ---
-# Organizations and account linking
+# Organizations in Experience Cloud
 
-Learn about managing organizations and linking solution accounts to Experience Cloud.
+Learn about managing and switching organizations in Experience Cloud.
 
 ## Identify your organization {#concept_384D169B0B724B799D573B8ECB5C39BF}
 
