@@ -92,7 +92,7 @@ See [Finding your Organization ID](organizations.md).
 
 The Organization ID is displayed on the Experience Cloud landing page and the [Admin Console landing page](https://adminconsole.adobe.com). 
 
-Alternatively, administrators can log into the Admin Console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com#)) for a specific organization, and you are able to see your IMS org ID in the URL. 
+Alternatively, administrators can log into the Admin Console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) for a specific organization, and you are able to see your IMS org ID in the URL. 
 
 For example, in the following URL: 
 
