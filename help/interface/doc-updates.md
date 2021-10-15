@@ -1,7 +1,6 @@
 ---
 description: Information about updates to Adobe Experience Cloud help.
 keywords: Experience Cloud services
-title: Documentation updates
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 feature: Customer Attributes
 topic: Administration
