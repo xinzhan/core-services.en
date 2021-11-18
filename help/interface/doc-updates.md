@@ -112,7 +112,7 @@ Added [Experience Cloud Assets](experience-cloud-assets.md#concept_DDA5224C907D4
 
 **Updated: 3/2/2015**
 
-Added [Enable your solutions for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
+Added [Enable your applications for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
 
 **Updated: 1/15/2015**
 

@@ -11,7 +11,7 @@ index: yes
 + [Experience Cloud Central Interface Components Guide](experience-cloud.md)
 + Experience Cloud services {#services}
   + [Experience Cloud services](core-services-landing.md)
-  + [Enable your implementation for cross-solution services](core-services.md)
+  + [Enable your implementation for cross-application services](core-services.md)
   + Experience Cloud Audience Library {#audiences}
     + [Experience Cloud audiences](audience-library.md)
     + [Create an audience](t-audience-create.md)
@@ -48,7 +48,7 @@ index: yes
   + [Organizations and account linking](organizations.md)
   + [Upgrading to Analytics Premium and the Experience Cloud](upgrade-to-analytics-premium.md)
   + [Experience Cloud integrations](marketing-cloud-integrations.md)
-  + [Using DNS prefetch with different solutions and services](dns-prefetch.md)
+  + [Using DNS prefetch with different applications and services](dns-prefetch.md)
   + Experience Cloud cookies {#ec-cookies}
     + [Experience Cloud cookies overview](cookies-privacy.md)
     + [First-party cookies in Experience Cloud](cookies-first-party.md)

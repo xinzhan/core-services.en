@@ -78,11 +78,11 @@ By using these roles, you can simultaneously delegate management to others witho
 
 1. In the Admin Console, select **[!UICONTROL Users]**, then select the user's name.
 
-    ![](assets/edit-admin-rights.png)
+    ![Administrative Rights in Admin Console](assets/edit-admin-rights.png)
 
 1. Select **[!UICONTROL Edit admin rights]**.
 
-    ![](assets/edit-admin-rights-page.png)
+    ![Edit administrative rights in Admin Console](assets/edit-admin-rights-page.png)
 
 1. Specify the user's admin rights.
 1. Select **[!UICONTROL Save]**.
@@ -100,8 +100,8 @@ For example, you can create a product profile that contains multiple Analytics t
 | Element | Description |
 |--- |--- |
 |Report Suites|Enable permissions to specific report suites.|
-|Metrics|Enable permissions for traffic, conversion, custom events, solution events, content aware, and so on.|
-|Dimensions|Customize user access at a granular level, including eVars, traffic reports, solution reports, and path reports.|
+|Metrics|Enable permissions for traffic, conversion, custom events, application events, content aware, and so on.|
+|Dimensions|Customize user access at a granular level, including eVars, traffic reports, application reports, and path reports.|
 |Report Suite Tools|Enable user permissions for Web Services, Report Suite Management, Tools and Reports, and Dashboard Items.|
 |Analytics Tools|Enable user permissions for General items (billing, logs, and so on), Company Management, Tools, Web Service Access, Report Builder, and Data Connectors integration. Company settings from the Customize Admin Console category have been moved to Analytics Tools.|
 
@@ -111,7 +111,7 @@ An Analytics user ID migration tool is available to help Analytics administrator
 
 The account migration is being rolled out to customers in phases. Adobe will notify and assist you when it is your time to migrate existing user accounts from **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** to the Admin Console.
 
-After the migration, users sign in using their Adobe ID (or Enterprise ID) and authenticate to their Experience Cloud solutions and services at [experience.adobe.com](https://experience.adobe.com). If users attempt to sign in via legacy logins ([!DNL my.omniture.com], [!DNL sc.omniture.com] and [!DNL experiencecloud.adobe.com]) they are redirected to [!DNL experience.adobe.com].
+After the migration, users sign in using their Adobe ID (or Enterprise ID) and authenticate to their Experience Cloud applications and services at [experience.adobe.com](https://experience.adobe.com). If users attempt to sign in via legacy logins ([!DNL my.omniture.com], [!DNL sc.omniture.com] and [!DNL experiencecloud.adobe.com]) they are redirected to [!DNL experience.adobe.com].
 
 **Related help**
 
@@ -137,7 +137,7 @@ See [Managing groups and users](https://experienceleague.adobe.com/docs/campaign
 
 ## Manage Experience Platform Data Collection (Launch) {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) displays on the [!UICONTROL Products] page in the [!UICONTROL Admin Console]. You can include other solutions and services in a Launch product profile.
+Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) displays on the [!UICONTROL Products] page in the [!UICONTROL Admin Console]. You can include other applications and services in a Launch product profile.
 
 Invite users to [!UICONTROL Platform Launch] and assign user roles and rights.
 

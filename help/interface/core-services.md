@@ -1,8 +1,8 @@
 ---
-description: Modernize your Adobe Analytics and Adobe Target solutions for cross-solution services. Learn how to start using Experience Cloud services.
+description: Modernize your Adobe Analytics and Adobe Target applications for cross-application services. Learn how to start using Experience Cloud services.
 keywords: core services;Customer Attributes
 solution: Experience Cloud
-title: Enable your solutions for cross-solution services
+title: Enable your applications for cross-application services
 index: yes
 feature: Customer Attributes
 topic: Administration
@@ -14,7 +14,7 @@ exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
 
 If you recently implemented Experience Cloud using Experience Platform Launch, you're already set up for Customer Attributes and Experience Cloud Audiences. You can also manage users and products in the Admin Console.
 
-Existing customers can modernize their solution implementations and implement Experience Cloud. Doing so enables you to use Customer Attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target. To accomplish this implementation, you will:
+Existing customers can modernize their application implementations and implement Experience Cloud. Doing so enables you to use Customer Attributes and audience features across Adobe Analytics, Audience Manager, and Adobe Target. To accomplish this implementation, you will:
 
 1. [Join the Experience Cloud and become an administrator](#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implement the Experience Cloud ID Service](#section_3C9F6DF37C654D939625BB4D485E4354)
@@ -59,26 +59,26 @@ To log in to the Experience Cloud, your users must:
 
 * Have an Adobe ID (or Enterprise ID for your company).
 * Sign in at [experience.adobe.com](https://experience.adobe.com).
-* Belong to a solution group that is mapped to an enterprise group.
-* If necessary, link their solution accounts to their Adobe ID (described below).
+* Belong to an application group that is mapped to an enterprise group.
+* If necessary, link their application accounts to their Adobe ID (described below).
 
 ### Optional: Link existing user accounts. 
 
-Most likely, you have users who are already members of solution groups, such an Analytics group that you previously managed in [!UICONTROL Analytics] > [!UICONTROL Admin Tools].
+Most likely, you have users who are already members of application groups, such an Analytics group that you previously managed in [!UICONTROL Analytics] > [!UICONTROL Admin Tools].
 
-When you map these groups to Experience Cloud enterprise groups, those users must manually link their solution account credentials to their Adobe ID.
+When you map these groups to Experience Cloud enterprise groups, those users must manually link their application account credentials to their Adobe ID.
 
 See [Link accounts in the Experience Cloud](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
 
 >[!NOTE]
 >
->After enterprise and solution groups are mapped, new users are automatically linked. (Solution credentials are automatically created and linked to their Adobe ID.) 
+>After enterprise and application groups are mapped, new users are automatically linked. (Solution credentials are automatically created and linked to their Adobe ID.) 
 
 The following sections describe how to modernize your implementation. Modernizing your implementation enables core services in the Experience Cloud. 
 
 ## Implement the [!UICONTROL Experience Cloud ID Service] {#section_3C9F6DF37C654D939625BB4D485E4354}
 
-The [!UICONTROL Experience Cloud ID Service] provides a common ID for cross-solution integration. It provides cross-domain visitor identification and a path for cross-device/browser targeting and personalization based on CRM data uploaded via [!UICONTROL Customer Attributes].
+The [!UICONTROL Experience Cloud ID Service] provides a common ID for cross-application integration. It provides cross-domain visitor identification and a path for cross-device/browser targeting and personalization based on CRM data uploaded via [!UICONTROL Customer Attributes].
 
 The simplest method for enabling Experience Cloud core services is to activate it automatically for Analytics and Adobe Target via the [Experience Cloud ID Service extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=en) in [!UICONTROL Experience Platform Launch].  
 
@@ -137,9 +137,9 @@ It is recommended that you modernize your Analytics implementation by updating y
 
 ## Update your Adobe Target implementation {#section_C2F4493C7A36406DAE2266B429A4BD24}
 
-* It is recommended that you add an [Adobe Target extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target-v2/overview.html?lang=en) in [!UICONTROL Experience Platform Launch], so that your library retrieval is automatic. You can also set up the [Experience Cloud ID Service extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=en) for Adobe Target (and other solutions) using [!UICONTROL Experience Platform Launch]. The [!UICONTROL Experience Cloud ID Service] update **is required** for Adobe Target to use core services.
+* It is recommended that you add an [Adobe Target extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target-v2/overview.html?lang=en) in [!UICONTROL Experience Platform Launch], so that your library retrieval is automatic. You can also set up the [Experience Cloud ID Service extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=en) for Adobe Target (and other applications) using [!UICONTROL Experience Platform Launch]. The [!UICONTROL Experience Cloud ID Service] update **is required** for Adobe Target to use core services.
 * If you are not using [!UICONTROL Experience Platform Launch], [update your mbox library](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/implement-target-for-client-side-web.html?lang=en) manually.
-* Request access to use Adobe Analytics as the reporting source for [!DNL Adobe Target]. [!DNL Target] and [!DNL Analytics] data are combined on the same server call during processing so that visitors are connected between the two solutions. See [Analytics for Target Implementation](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en).
+* Request access to use Adobe Analytics as the reporting source for [!DNL Adobe Target]. [!DNL Target] and [!DNL Analytics] data are combined on the same server call during processing so that visitors are connected between the two applications. See [Analytics for Target Implementation](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en).
  
   >[!IMPORTANT]
   >
@@ -156,15 +156,15 @@ Use the following process to ensure that Experience Cloud ID Service is implemen
 
 Expected response containing the Experience Cloud ID:
 
-![](assets/mac_id_response.png)
+![Expected response containing the Experience Cloud ID](assets/mac_id_response.png)
 
 Analytics image request containing the Experience Cloud ID (also known as `mid` or _visitor ID_):
 
-![](assets/mid.png)
+![Analytics image request containing the Experience Cloud ID](assets/mid.png)
 
 Experience Cloud ID in the mbox request:
 
-![](assets/mbox_request.png)
+![Experience Cloud ID in the mbox request](assets/mbox_request.png)
 
 ### What Is the Grace Period?
 
@@ -178,7 +178,7 @@ Deploying the Experience Cloud ID Service on sites that are using multiple JavaS
 
 Once you are up and running, navigate to the [Admin Console](https://adminconsole.adobe.com/), where you can manage users and product profiles. 
 
-![](assets/menu-administration-shell.png) 
+![Access Admin Console](assets/menu-administration-shell.png) 
 
 See [Experience Cloud user and product management](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 

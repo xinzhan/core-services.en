@@ -1,7 +1,7 @@
 ---
 description: Learn about the Experience Cloud Admin Tool. View a sortable and filterable list of all Experience Cloud users and policies.
 keywords: core services
-solution: Experience Cloud
+application: Experience Cloud
 title: View Experience Cloud users and user details 
 index: yes
 feature: Admin Console
@@ -20,7 +20,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
 1. Log in to `https://experience.adobe.com/.`
 
-   ![](assets/admin-tool.png)
+   ![Accessing the Admin Console](assets/admin-tool.png)
 
 1. Under [!UICONTROL Quick Access], select **[!UICONTROL Admin Tool.]**
 
@@ -30,16 +30,16 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
 ## Users page
 
-This page displays complete list of users with access to Experience Cloud in your organization. It provides information about solution entitlement and last login. You can search, sort, and filter for custom views of the user list.
+This page displays complete list of users with access to Experience Cloud in your organization. It provides information about application entitlement and last login. You can search, sort, and filter for custom views of the user list.
 
-![](assets/admin-tool-users.png)
+![Admin Console Users page](assets/admin-tool-users.png)
 
 |Element | Description|
 |---|---|
 |[!UICONTROL Name] |The first and Last name of the user. You can sort this column from A to Z and Z to A.  Select a user's name to see more details about the user.|
 |[!UICONTROL Email] |The email address associated with the user. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL ID Type] |The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
-|[!UICONTROL Solutions] |Summary of Experience Cloud solutions that the user can access. You can apply filters to narrow down list of users with specific solution access.|
+|[!UICONTROL Solutions] |Summary of Experience Cloud applications that the user can access. You can apply filters to narrow down list of users with specific application access.|
 |[!UICONTROL Last Login] |Time and Date of the most recent user login to the Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user’s last login data will be kept for 365 days. This information is intended to show current login activity in the Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020. |
 
 ## Customize the user list view
@@ -54,15 +54,15 @@ You can search, sort, or filter the columns to customize the user list.
 |---------|----------|
 |[!UICONTROL Email Domain] filter | Search for character strings in the Email column to narrow results to one or multiple domains. Add multiple filters by pressing enter after each search term|
 |[!UICONTROL ID Type] filter | Choose from available ID Types. Multiple ID types can be used as a filter.|
-|[!UICONTROL Solution] filter | Choose from available solutions. Multiple solution filters search for results containing Solution 1 `OR` Solution 2.|
+|[!UICONTROL Solution] filter | Choose from available applications. Multiple application filters search for results containing Solution 1 `OR` Solution 2.|
 
 ## View user details
 
 On the [!UICONTROL Users] page, to view a user's details, select the user's email.
 
-![](assets/admin-tool-user-details.png)
+![View user details in Admin Console](assets/admin-tool-user-details.png)
 
-A detailed view of each user displays important details about the user’s solution access, admin and product roles, and last accessed information.
+A detailed view of each user displays important details about the user’s application access, admin and product roles, and last accessed information.
 
 ## About section
 
@@ -78,7 +78,7 @@ This section displays a summary of the user account including:
 
 ## Solutions summary
 
-This section displays a summary of Experience Cloud solutions that the user can access. Includes the product administrative role when applicable.
+This section displays a summary of Experience Cloud applications that the user can access. Includes the product administrative role when applicable.
 
 ## Detailed product access list
 
@@ -96,7 +96,7 @@ This section displays a complete list of all product profiles membership for the
 
 This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, and developers. You can search, sort, and filter for custom views of the policy list.
 
-![](assets/admin-tool-policies.png)
+![Policies page in Admin Console](assets/admin-tool-policies.png)
 
 |Element | Description|
 |---|---|
@@ -117,13 +117,13 @@ You can search, sort, or filter the columns to customize the policies list.
 |Element | Description|
 |---------|----------|
 |[!UICONTROL Instance] filter | Search for character strings in the instance column to narrow results to one or multiple instances. Add multiple filters by pressing enter after each search term.|
-|[!UICONTROL Solution] filter | Choose from available solutions. Multiple solution filters search for results containing Solution 1 `OR` Solution 2.|
+|[!UICONTROL Solution] filter | Choose from available applications. Multiple application filters search for results containing Solution 1 `OR` Solution 2.|
 
 ## View policy details
 
 On the [!UICONTROL Policies] page, to view a policy's details, select the product profile name.
 
-![](assets/admin-tool-policy-detail.png)
+![View policy details in Admin Console](assets/admin-tool-policy-detail.png)
 
 A detailed view of each product profile displays important details about the product profile’s subjects (users, groups, and so on). It also displays permissions and resources enabled by the product profile.
 

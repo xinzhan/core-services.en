@@ -43,7 +43,7 @@ Organizations are grayed out if you do not have Analytics administrator permissi
 
 1. Select the report suites that you want to map.
 
-   ![](assets/rs-mapping-multiple.png) 
+   ![Select the report suites that you want to map](assets/rs-mapping-multiple.png) 
 
 1. Select the organization (Outdoors Inc, in this example), then click **[!UICONTROL Select]**.
 
@@ -65,7 +65,7 @@ Ensure that your deployment matches the organization you chose in the Report Sui
 
 Graying out an organization indicates that you do not have sufficient privileges to map to the grayed-out report suite. Consider the following example:
 
-![](assets/rs-mapping.png)
+![Why are some organizations grayed out?](assets/rs-mapping.png)
 
 In this diagram, the blue key indicates admin privileges. The gray lines indicate visibility.
 

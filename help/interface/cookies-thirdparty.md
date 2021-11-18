@@ -12,7 +12,7 @@ exl-id: 3d12a1b1-c952-4b42-815d-f64b31429cec
 ---
 # How changes to third-party cookie support impact customers{#how-changes-to-third-party-cookie-support-impacts-customers}
 
-Support for third-party cookies has become more limited across browsers. As such, Adobe has been working on new solutions that carefully balance customer requirements with the consumer's right to privacy across Experience Cloud applications.
+Support for third-party cookies has become more limited across browsers. As such, Adobe has been working on new applications that carefully balance customer requirements with the consumer's right to privacy across Experience Cloud applications.
 
 The following list outlines how third-party cookie support impacts current implementations of Experience Cloud applications:
 

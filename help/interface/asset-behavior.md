@@ -22,7 +22,7 @@ Rules for how shared folders behave when moved, deleted, and restored.
 
 You move an unshared folder into a shared folder: 
 
-![](assets/01_assets_move.png) 
+![Unshared folder into shared folder](assets/01_assets_move.png) 
 
 **Result**: Both folders become shared. 
 
@@ -30,7 +30,7 @@ You move an unshared folder into a shared folder:
 
 You move a shared folder into an unshared folder. 
 
-![](assets/02_assets_move.png) 
+![Shared folder into unshared folder](assets/02_assets_move.png) 
 
 **Result**: The unshared folder remains unshared. The shared folder remains shared. 
 
@@ -38,7 +38,7 @@ You move a shared folder into an unshared folder.
 
 You move content from an unshared folder into a shared folder. 
 
-![](assets/03_assets_move.png) 
+![Content from unshared folder into shared folder](assets/03_assets_move.png) 
 
 **Result:** The content is now shared and all collaborators can see it. Storage increases by the size of the content. 
 
@@ -46,7 +46,7 @@ You move content from an unshared folder into a shared folder.
 
 You archive or delete content that resides in a shared folder. 
 
-![](assets/04_assets_move.png) 
+![Archived and deleted shared content](assets/04_assets_move.png) 
 
 **Result:** Content is archived for the owner of the folder. Collaborators who do not own the content can no longer access it. 
 
@@ -54,7 +54,7 @@ You archive or delete content that resides in a shared folder.
 
 You move content from a shared folder that you own into an unshared folder. 
 
-![](assets/05_assets_move.png) 
+![Owned shared content to an unshared folder](assets/05_assets_move.png) 
 
 **Result:** The content is now unshared. The collaborators of the shared folder no longer have access to the content. 
 
@@ -62,7 +62,7 @@ You move content from a shared folder that you own into an unshared folder.
 
 You move content from shared folder owned by someone else into an unshared folder. 
 
-![](assets/06_assets_move.png) 
+![Unowned content to an unshared folder](assets/06_assets_move.png) 
 
 **Result:** The content appears in the unshared folder and is removed from the shared folder. The collaborators of the shared folder no longer have access to the content. The content is archived for the owner of the shared folder. 
 
@@ -72,7 +72,7 @@ Owners and editors can move content which they do not own, but viewers cannot. I
 
 You archive (via web) or delete (via desktop) a shared folder that you own. 
 
-![](assets/07_assets_move.png) 
+![Archived or deleted owned folder](assets/07_assets_move.png) 
 
 **Result:** The folder is unshared, then archived. The collaborators no longer have access to the folder. 
 
@@ -80,7 +80,7 @@ You archive (via web) or delete (via desktop) a shared folder that you own.
 
 You move a shared folder that you own into another shared folder that you may or may not own. 
 
-![](assets/09_assets_move.png) 
+![Shared folder into another shared folder](assets/09_assets_move.png) 
 
 **Result:** As the folder is moved into Folder 2, it becomes shared with the new collaborators. 
 
@@ -88,7 +88,7 @@ You move a shared folder that you own into another shared folder that you may or
 
 You move content from a shared folder into another shared folder. 
 
-![](assets/11_assets_move.png) 
+![Shared content to another shared folder](assets/11_assets_move.png) 
 
 **Result:** The content appears in Folder 2 and is now shared with new collaborators. The content is removed from Folder 1 and the owner sees it as archived, while the other collaborators no longer have access to it. 
 
@@ -96,6 +96,6 @@ You move content from a shared folder into another shared folder.
 
 You restore content from an archive that belonged to a shared folder. You owned the content at the time it was archived. 
 
-![](assets/12_assets_move.png) 
+![Restored content from archive](assets/12_assets_move.png) 
 
 **Result:** The content is restored to the shared folder and all collaborators can access it again. If the shared folder no longer exists, the content is put into an unshared copy of its original parent folder(s).

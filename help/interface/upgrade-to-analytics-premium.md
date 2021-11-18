@@ -81,7 +81,7 @@ Any software that is running on-premise must be deactivated. This software inclu
 
 ## Experience Cloud - Administrate Users and Products {#section_6471C54454024301B2E0B687F79F6738}
 
-Experience Cloud and core services are available to Analytics Standard and Premium users, if you have followed the implementation modernization described in [Getting started - enable your solutions for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.)
+Experience Cloud and core services are available to Analytics Standard and Premium users, if you have followed the implementation modernization described in [Getting started - enable your applications for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (That process helps you modernize your implementation, and enables you to become and administrator in the Experience Cloud.)
 
 After you join the Experience Cloud, you can log in via the Experience Cloud at [!DNL experience.adobe.com] and begin using core services (including Customer Attributes, Audiences, and Mobile app analytics).
 
@@ -89,8 +89,8 @@ After you join the Experience Cloud, you can log in via the Experience Cloud at 
 
 User management is performed in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html) (product link).
 
-You can set up a 1:1 map between a group created in the Adobe Admin Console and a solution group (such as Adobe Analytics). Thereafter, a new user added to the mapped Admin Console group has an Analytics solution account automatically created and linked to the user's Adobe ID. (Existing users must manually link their solution account credentials to access solutions via the Experience Cloud login.)
+You can set up a 1:1 map between a group created in the Adobe Admin Console and a solution group (such as Adobe Analytics). Thereafter, a new user added to the mapped Admin Console group has an Analytics application account automatically created and linked to the user's Adobe ID. (Existing users must manually link their application account credentials to access applications via the Experience Cloud login.)
 
 >[!NOTE]
 >
->You can map several solution groups to one Admin Console group. However, Adobe recommends 1:1 mapping. Mapping the groups ahead of time allows you to invite, create, permission, and add multiple users by uploading a CSV.
+>You can map several application groups to one Admin Console group. However, Adobe recommends 1:1 mapping. Mapping the groups ahead of time allows you to invite, create, permission, and add multiple users by uploading a CSV.

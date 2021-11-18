@@ -16,7 +16,7 @@ Learn about managing and switching organizations in Experience Cloud.
 
 ## Identify your organization {#concept_384D169B0B724B799D573B8ECB5C39BF}
 
-An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and solutions. Most often, an organization is your company name. However, a company can have many organizations. 
+An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
 To verify that you have logged in to your correct organization, click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
 
@@ -36,22 +36,22 @@ To view your Organization ID, navigate to the Experience Cloud landing page, or 
 
 ![](assets/administration-page.png) 
 
-## Link a solution account to an Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
+## Link an application account to an Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
 
-Typically, Experience Cloud administrators grant access to solutions and services. In rare circumstances, you may need to link solution credentials to an Adobe ID.
+Typically, Experience Cloud administrators grant access to applications and services. In rare circumstances, you may need to link application credentials to an Adobe ID.
 
 1. Follow the steps in your email invitation to the Experience Cloud.
 1. Log in using your Adobe ID or Enterprise ID.
-1. Select the solution selector. ( ![](assets/menu-icon.png)).
+1. Select the application selector. ( ![](assets/menu-icon.png)).
 
-   ![](assets/solutions-active.png)
+   ![Link an application account to an Adobe ID](assets/solutions-active.png)
 
-   The solutions to which you have access are colored.
-1. Select the desired solution.
+   The applications to which you have access are colored.
+1. Select the desired application.
 
-   ![](assets/analytics-link-accounts.png)
+   ![Select the desired application](assets/analytics-link-accounts.png)
 
-   This type of message displays if you are part of the appropriate group (and have permission to the solution) but have not yet linked your account credentials to your Adobe ID.
+   This type of message displays if you are part of the appropriate group (and have permission to the application) but have not yet linked your account credentials to your Adobe ID.
 1. Select **[!UICONTROL Link Account]**, then provide your credentials.
 
 ## Specify a default organization and landing page {#concept_6A191B42A9874A9780882903BA18F071}
@@ -60,11 +60,11 @@ You can specify a default organization and landing page to use when you log in.
 
 In your profile, select **[!UICONTROL Edit Profile]**.
 
-![](assets/edit-profile.png)
+![Edit Profile](assets/edit-profile.png)
 
 Under Default Organization & Landing Page, you can customize your log-in experience.
 
-![](assets/default-organization.png)
+![Default Organization & Landing Page](assets/default-organization.png)
 
 ## Troubleshoot account linking issues {#concept_DFCB29A3B4834FC59AA29E0BBA301584}
 
@@ -73,4 +73,4 @@ Help on problems that arise from account linking.
 Typically, account linking fails because the Adobe ID is linked to a previous user. When account linking fails, you can:
 
 * [Contact Adobe Support](https://experienceleague.adobe.com/?support-solution=General#support).
-* Access your solution using the standard login while the issue is being solved.
+* Access your application using the standard login while the issue is being solved.

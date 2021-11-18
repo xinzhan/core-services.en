@@ -14,7 +14,7 @@ exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
 ---
 # Experience Cloud Triggers
 
-[!UICONTROL Triggers] in Experience Cloud enables you to identify, define, and monitor key consumer behaviors, then generate cross-solution communication to re-engage visitors. 
+[!UICONTROL Triggers] in Experience Cloud enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. 
 
 ## Triggers Overview {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
 
@@ -24,7 +24,7 @@ You can use triggers in real-time decisions and personalization. For example:
 * Incomplete forms and applications
 * Any actions or sequence of actions on site
 
-![](assets/trigger-abandonment-2.png)
+![Trigger example](assets/trigger-abandonment-2.png)
 
 >[!NOTE]
 >
@@ -76,10 +76,10 @@ Examples of Experience Cloud Triggers:
 
 For example, the following page shows rules that you might use for a [!UICONTROL Cart Abandonment] trigger, based on products viewed during a visit.
 
-![](assets/abandonment-trigger.png)
+![Cart Abandonment trigger](assets/abandonment-trigger.png)
 
 #### Referrer Trigger
 
 The following trigger fires when a hit comes in with the product of Men's Boots and referrer of Facebook. For the two criteria (*products* and *referrer*) to be evaluated in the same hit, they should be added to the same container.
 
-![](assets/fb-boots-promo.png)
+![Referrer trigger](assets/fb-boots-promo.png)
