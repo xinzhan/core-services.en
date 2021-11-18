@@ -79,7 +79,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Attribute limits </p> </td> 
-   <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv </span> columns to the Customer Attribute service in the Experience Cloud. However, when configuring subscriptions and selecting attributes, the following limits apply depending on the solutions you own: </p> <p> 
+   <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv </span> columns to the Customer Attribute service in the Experience Cloud. However, when configuring subscriptions and selecting attributes, the following limits apply depending on the applications you own: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 per report suite </li> 

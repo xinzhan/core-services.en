@@ -151,7 +151,7 @@ Experience Cloud uses the following hosts to deliver the application, improve pe
 
 ## Get help on administration and cross-application services
 
-This guide provides access to help on Experience Cloud user and product administration in the Admin Console, enabling solutions for platform services. You can also access help on the Audience Library, Customer Attributes, Experience Cloud Assets, and more:
+This guide provides access to help on Experience Cloud user and product administration in the Admin Console, enabling applications for platform services. You can also access help on the Audience Library, Customer Attributes, Experience Cloud Assets, and more:
 
 * [[!UICONTROL Audience Library]](audience-library.md)
 * [[!UICONTROL Customer Attributes]](attributes.md)
@@ -159,7 +159,7 @@ This guide provides access to help on Experience Cloud user and product administ
 * [Experience Cloud [!UICONTROL Assets]](experience-cloud-assets.md)
 * [Experience Cloud cookies](cookies-privacy.md)
 * [User and product management](admin-getting-started.md) (Admin Console)
-* [Enable your solutions for core services](core-services.md)
+* [Enable your applications for core services](core-services.md)
 * [Frequently asked questions](admin-getting-started.md)
 * [Organizations and account linking](organizations.md)
 * [Integrations](marketing-cloud-integrations.md)
@@ -190,7 +190,7 @@ Take advantage of self-help tutorials and quick how-tos in Experience League:
 
 ## Release notes and related Experience Cloud help
 
-* [Product documentation for all Experience Cloud solutions](https://experienceleague.adobe.com/docs/home.html?lang=en) - Browse for help at Experience Cloud Learn & Support
+* [Product documentation for all Experience Cloud applications](https://experienceleague.adobe.com/docs/home.html?lang=en) - Browse for help at Experience Cloud Learn & Support
 * [Release notes and product updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) - What's new in the Experience Cloud, and subscribe to get updates
 * [Tutorials for implementing core services](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=en) - Explore videos and tutorials about core services
 * [Expert help at Experience League](https://experienceleague.adobe.com/) - Get guided learning from experts and the community

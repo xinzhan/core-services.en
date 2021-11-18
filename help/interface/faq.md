@@ -22,9 +22,9 @@ Learn about browser support and common questions and answers for administrators 
 * Safari (current and back two versions)
 * Opera (current and back two versions)
 
-## How do I know if my solutions are enabled for core services?
+## How do I know if my applications are enabled for core services?
 
-If your implementation has not been provisioned for core services, see [Enable your solutions for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C), which describes how to: 
+If your implementation has not been provisioned for core services, see [Enable your applications for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C), which describes how to: 
 
 1. [Join the Experience Cloud and become an administrator](core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implement the Experience Cloud ID Service using Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en).
@@ -43,7 +43,7 @@ No. The Experience Cloud is included at no additional charge. However, certain c
 
 ## Why does my company need to log in through the Experience Cloud interface?
 
-The functionality provided by the Experience Cloud interface adds new value to your business. It also is the standard path for accessing solutions going forward, eventually replacing other individual solution login flows. Logging in through Experience Cloud facilitates a smoother transition later.
+The functionality provided by the Experience Cloud interface adds new value to your business. It also is the standard path for accessing applications going forward, eventually replacing other individual application login flows. Logging in through Experience Cloud facilitates a smoother transition later.
 
 ## How do I resolve concerns about migrating my company?
 
@@ -53,10 +53,10 @@ The functionality provided by the Experience Cloud interface adds new value to y
 
 Provisioning in the Experience Cloud means:
 
-* Your users can begin logging in to the [!DNL Experience Cloud] and linking solutions.
+* Your users can begin logging in to the [!DNL Experience Cloud] and linking applications.
 * They can begin to use the features available through the Experience Cloud, such as People.
-* You can become prepared to retire your solution-specific login process.
-* You can retain access control to solutions.
+* You can become prepared to retire your application-specific login process.
+* You can retain access control to applications.
 
 ## How do I manage users and product profiles?
 
@@ -74,9 +74,9 @@ You might need to [Contact Adobe Support](https://experienceleague.adobe.com/?su
 
 ## Where can a user go to manage account linking?
 
-Some users might need to link their solution (Analytics) account to the Adobe ID or Enterprise ID. 
+Some users might need to link their application (Analytics) account to the Adobe ID or Enterprise ID. 
 
-See [Link a solution account to an Adobe ID](organizations.md#task_FD389E78640848919E247AC5E95B8369). 
+See [Link an application account to an Adobe ID](organizations.md#task_FD389E78640848919E247AC5E95B8369). 
 
 ## How do I manage user account profiles and organizations?
 
@@ -84,7 +84,7 @@ See [Manage user accounts](organizations.md#topic_C31CB834F109465A82ED57FF0563B3
 
 ## What is an organization?
 
-An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and solutions. Most often, an organization is your company name. However, a company can have many organizations. 
+An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
 ## Where can I find my IMS Organization ID?
 
@@ -104,16 +104,16 @@ The ID is:
 
 ## What should I do when one of my users leaves my company?
 
-Their access should be removed from the solution itself. They will not be able to access the product from the Experience Cloud or through the direct login. You should also remove them at the Experience Cloud level.
+Their access should be removed from the application itself. They will not be able to access the product from the Experience Cloud or through the direct login. You should also remove them at the Experience Cloud level.
 
 ## What is an Adobe ID?
 
 See [Identity Types](https://helpx.adobe.com/enterprise/using/identity.html).
 
-## Can I link solution accounts for my users?
+## Can I link application accounts for my users?
 
-No. Users must link their own solutions with their user names and passwords.
+No. Users must link their own applications with their user names and passwords.
 
 ## Why do I see Social when my company does not have it?
 
-Adobe Social is a product that can be sold with Analytics. Therefore, if you have Analytics you will see this solution, but you will not have access unless you have purchased it.
+Adobe Social is a product that can be sold with Analytics. Therefore, if you have Analytics you will see this application, but you will not have access unless you have purchased it.

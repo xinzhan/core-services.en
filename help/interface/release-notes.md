@@ -16,7 +16,7 @@ Features, release notes, and known issues for the Experience Cloud Central Inter
 
 For a list of documentation updates, see [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
-For release notes covering all solutions, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
+For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
 ## August - 2021
 
@@ -86,7 +86,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 ## April - 2019
 
-* Updated the app switcher to include Marketo in Experience Cloud solution suite, and branding updates to Experience Platform. (MCUI-6529)
+* Updated the app switcher to include Marketo in Experience Cloud application suite, and branding updates to Experience Platform. (MCUI-6529)
 * Updated Experience Cloud Home to include navigation links to the Feed and Administration pages. (MCUI-6682)
 * Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of “like” clause. (MCUI-6611)
 * Improvements to Customer Attributes for better logging in the Subscription service. (MCUI-6519)
@@ -141,7 +141,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
   </tr> 
   <tr> 
    <td colname="col1"> <p>Account linking improvements </p> </td> 
-   <td colname="col2"> <p>Improved the interface workflow for linking solution accounts with the Experience Cloud (Adobe ID). This new workflow locates all the user's accounts associated with an organization, and lets you choose which account to link. We also streamlined the account linking experience, so that you no longer must access the Manage Organizations page to manually link accounts. </p> </td> 
+   <td colname="col2"> <p>Improved the interface workflow for linking application accounts with the Experience Cloud (Adobe ID). This new workflow locates all the user's accounts associated with an organization, and lets you choose which account to link. We also streamlined the account linking experience, so that you no longer must access the Manage Organizations page to manually link accounts. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -217,11 +217,11 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p> </p> </td> 
-   <td colname="col2"> <p>The left navigation menus have been updated and arranged to provide access to all the core services and solutions. Notable changes include: </p> 
+   <td colname="col2"> <p>The left navigation menus have been updated and arranged to provide access to all the core services and applications. Notable changes include: </p> 
     <ul id="ul_5BEBAB86B9234A239C4E2DAF8826D8E3"> 
      <li id="li_7FA9F64CE69144B8A8A92746BF40E5A1">The <span class="term"> Audience Library</span> and <span class="term"> Customer Attributes</span> menu selections are now located under <span class="term"> Audiences</span>. </li> 
      <li id="li_95D62A43AE6243DBB2A65EDB830D05C4">The <span class="term"> Exchange</span> menu selection was moved from the Help drop-down menu to the left navigation rail. </li> 
-     <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> <span class="term"> Solutions</span> has been removed. You can launch all solutions from the bottom half of the navigation rail. </li> 
+     <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> <span class="term"> Solutions</span> has been removed. You can launch all applications from the bottom half of the navigation rail. </li> 
     </ul> </td> 
   </tr> 
  </tbody> 
@@ -273,7 +273,7 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Customer Attributes </p> </td> 
-   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your solutions for core services, see <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a>. </p> </td> 
+   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your applications for core services, see <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your applications for core services</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -290,11 +290,11 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Group Mapping </p> </td> 
-   <td colname="col2"> <p>The Group Management page has been redesigned as an administrative interface that lets you create groups, add users to groups, and apply permissions across Experience Cloud solutions. </p> </td> 
+   <td colname="col2"> <p>The Group Management page has been redesigned as an administrative interface that lets you create groups, add users to groups, and apply permissions across Experience Cloud applications. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>One-to-many mapping </p> </td> 
-   <td colname="col2"> <p>When linking solution accounts in the Experience Cloud, if you have multiple solutions and organizations, you can now map multiple products and services to a single organization. </p> </td> 
+   <td colname="col2"> <p>When linking application accounts in the Experience Cloud, if you have multiple applications and organizations, you can now map multiple products and services to a single organization. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activation </p> </td> 
@@ -302,7 +302,7 @@ No information available
   </tr> 
   <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 
-   <td colname="col2"> <p>Added the topic <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a> to assist you with implementing core services. </p> </td> 
+   <td colname="col2"> <p>Added the topic <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your applications for core services</a> to assist you with implementing core services. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -413,7 +413,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Fixes and Improvements** 
 
 * When you navigate to [!DNL experience.adobe.com], the login experience is now consistent with Adobe's Creative Cloud login.
-* On the Manage Organizations page, the linking experience (after an invite is received) is now consistent for each solution.
+* On the Manage Organizations page, the linking experience (after an invite is received) is now consistent for each application.
 
 **Known Issues** 
 
@@ -597,7 +597,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * After adding a custom tag to an asset, no other metadata changes can be persisted.
 * Users have to refresh the board to make the deleted cards disappear from view.
 * When **[!UICONTROL Remember me]** is not selected during login, the user is logged out after 15 minutes
-* [!DNL Analytics] solution landing page shows formatting errors.
+* [!DNL Analytics] application landing page shows formatting errors.
 * Users must log out and log back in for all permission and entitlement changes to take effect.
 * Deleting an image, [!UICONTROL Assets] does not warn if the image is used in [!DNL Adobe Target Essentials].
 * Comments link on asset card view is not selectable.
@@ -632,7 +632,7 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
 * Refreshing a card from [!DNL Analytics] can sometimes lead to an empty chart in the expanded card.
 * Users must log out and log back in for all permission and entitlement changes to take effect.
 * When *`Remember me`* is not selected during login, the user will be logged out after 15 minutes.
-* [!DNL Analytics] solution landing page shows formatting errors.
+* [!DNL Analytics] application landing page shows formatting errors.
 * The Comments link on asset card view is not selectable.
 * Experience Cloud interface can slow down when in parallel use by many users
 * Experience Cloud cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple Target servers.
@@ -668,7 +668,7 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
   <tr> 
    <td colname="col1"> <p>Refresh Data </p> </td> 
    <td colname="col2"> <p> 
-     <!--MAC-18174-->The <span class="uicontrol"> Refresh Data</span> icon for a graph on a card is now hidden if the solution does not allow a data refresh. </p> </td> 
+     <!--MAC-18174-->The <span class="uicontrol"> Refresh Data</span> icon for a graph on a card is now hidden if the application does not allow a data refresh. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -676,6 +676,6 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
 **Fixes** 
 
 * Fixed an issue that prevented shared [!DNL Analytics] reports from applying segment filters.
-* Fixed an issue causing solutions to display on the [!UICONTROL Experience Cloud Solutions] page as linked, even if the solutions accounts were not linked.
+* Fixed an issue causing applications to display on the [!UICONTROL Experience Cloud Solutions] page as linked, even if the applications accounts were not linked.
 * Fixed an issue that prevented [!DNL Adobe Target] customers in Asia from being able to select the **[!UICONTROL Continue to Experience Cloud]** button on the linking page.
 * Fixed an issue that prevented the sharing of YouTube videos.

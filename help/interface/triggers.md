@@ -14,7 +14,7 @@ exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
 ---
 # Experience Cloud Triggers
 
-[!UICONTROL Triggers] in Experience Cloud enables you to identify, define, and monitor key consumer behaviors, then generate cross-solution communication to re-engage visitors. 
+[!UICONTROL Triggers] in Experience Cloud enables you to identify, define, and monitor key consumer behaviors, then generate cross-application communication to re-engage visitors. 
 
 ## Triggers Overview {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
 

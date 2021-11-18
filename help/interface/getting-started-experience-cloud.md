@@ -12,7 +12,7 @@ exl-id: 12addbb6-a29b-4d20-ac8f-77e0846150b5
 ---
 # Sign in and manage your Experience Cloud profile settings
 
-Signing in to Experience Cloud (rather than signing into a single solution) enables single sign-on to all the solutions and services that you own. This help describes how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
+Signing in to Experience Cloud (rather than signing into a single application) enables single sign-on to all the applications and services that you own. This help describes how to sign in to the Experience Cloud, manage passwords and notifications, and specify a default landing page.
 
 >[!IMPORTANT]
 >
@@ -31,7 +31,7 @@ Sign in and verify that you are in the right [organization](organizations.md#top
 
 | Element | Description |
 |--- |--- |
-|[Admin Console Basics](experience-cloud.md)|Learn about the initial steps you must take to get started using Experience Cloud solutions.|
+|[Admin Console Basics](experience-cloud.md)|Learn about the initial steps you must take to get started using Experience Cloud applications.|
 |[Set up Identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html)|Define and set up an identity system against which your end users will be authenticated.|
 |[User Management](https://helpx.adobe.com/enterprise/using/users.html)|Learn about signing in to the Admin Console and managing Experience Cloud user permissions and product profiles.|
 |[Launch Admin Console](admin-getting-started.md)|The Admin Console is the central location for managing your Adobe users and product entitlements across your entire organization.<br>You can also sign in to the Admin Console using a [direct link](https://adminconsole.adobe.com).|
@@ -58,7 +58,7 @@ Help for non-administrative users signing in to the Experience Cloud.
 
    ![](assets/experience-cloud-core-services.png) 
 
-   The solutions and services that display in this menu depend on your application privileges defined by your [administrator](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
+   The applications and services that display in this menu depend on your application privileges defined by your [administrator](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 
 ## Configure default personal account settings {#task_73CBCAE6C91749D19C95421E5AC311BA}
 
@@ -74,7 +74,7 @@ You can edit personal details and specify a default [organization](admin-getting
 
 ## Enable notifications {#concept_0105453AD71847B8BFCAF4A40915F157}
 
-Get notified (via email or in-product) about system updates, maintenance notices, posts, mentions, and assets shared. You can also specify the products and solutions for which you want notifications, including the upload status for Customer Attributes.
+Get notified (via email or in-product) about system updates, maintenance notices, posts, mentions, and assets shared. You can also specify the products and applications for which you want notifications, including the upload status for Customer Attributes.
 
 To navigate to Notifications, select the **[!UICONTROL Notifications]** icon  ![](assets/notifications-icon.png), then select the **[!UICONTROL Settings]** icon  ![](assets/icon_edit_board.png). 
 
@@ -125,7 +125,7 @@ You can edit your Experience Cloud profile, specify a default organization and l
 
    For Adobe Analytics users, navigate to [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html). 
 
-## Configure solution sign-in using a direct link {#concept_8BE493A08786469B88B210E13F78FF2F}
+## Configure application sign-in using a direct link {#concept_8BE493A08786469B88B210E13F78FF2F}
 
 Optionally, you can sign in to a specific page in a solution, using authentication provided by the Experience Cloud Interface.
 
@@ -145,6 +145,6 @@ Sample URL:
 |--- |--- |--- |--- |
 |`tenantId`|Name of the tenant the user should log into.|aem62tenant|Optional|
 |`destURL`|The complete URL to the place where the user should be taken to.|http://sc.omniture.com/login/?r=%2Fx%2F1_7xxzf&tenantId=obuengsc&company=OBU+Eng+SC|Optional|
-|`solutionname`|Name of the MAC Solution that is the owner of `destURL` parameter. It is used to verify that the user has access to the solution which is the owner of the URL.  It is the responsibility of the solutions to make sure that the `solutionname` is in Sync with the `destURL` parameter.  For example : If the URL contains `solutionname` as social and the `destURL` provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify whether the owner of the `destURL` is in sync with the solution name.|analytics|Required if `destURL` param is used.|
+|`solutionname`|Name of the MAC Solution that is the owner of `destURL` parameter. It is used to verify that the user has access to the application which is the owner of the URL.  It is the responsibility of the applications to make sure that the `applicationname` is in Sync with the `destURL` parameter.  For example : If the URL contains `solutionname` as social and the `destURL` provided is an analytics url, then the user would be redirected to the url even if he doesn't have access to analytics. MAC does NOT verify whether the owner of the `destURL` is in sync with the application name.|analytics|Required if `destURL` param is used.|
 
 {style="table-layout:auto"}

@@ -1,5 +1,5 @@
 ---
-description: Learn about Experience Cloud Assets that you can share across solutions.
+description: Learn about Experience Cloud Assets that you can share across applications.
 solution: Experience Cloud
 title: Overview of assets
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
@@ -11,14 +11,14 @@ exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
 ---
 # Overview of Experience Cloud Assets
 
-Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across solutions. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have subassets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
+Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across applications. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have subassets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
 
 Asset services include: 
 
-* Asset storage, management interface, embedded selection interface (accessed through solutions).
-* Integrations with Creative Cloud, Experience Cloud collaboration, and Experience Cloud solutions.
+* Asset storage, management interface, embedded selection interface (accessed through applications).
+* Integrations with Creative Cloud, Experience Cloud collaboration, and Experience Cloud applications.
 
-Using assets improves consistency and brand compliance, and speeds time to market. You can streamline workflows in solutions: 
+Using assets improves consistency and brand compliance, and speeds time to market. You can streamline workflows in applications: 
 
 * **[!DNL Social]**: Publish to social properties, Facebook, Twitter, LinkedIn, Google+
 * **[!DNL Target]**: Create experiences for A/B and multivariate tests.

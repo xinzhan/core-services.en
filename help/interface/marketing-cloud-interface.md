@@ -45,7 +45,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] interface.
 
 | Feature | Description |
 |--- |--- |
-|New administration landing page|When you sign in to the Experience Cloud and navigate to the Administration page, a new intuitive interface is available to help you quickly access your Experience Cloud solutions and Core Services.|
+|New administration landing page|When you sign in to the Experience Cloud and navigate to the Administration page, a new intuitive interface is available to help you quickly access your Experience Cloud applications and Core Services.|
 
 {style="table-layout:auto"}
 
@@ -64,8 +64,8 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 
 | Feature | Description |
 |--- |--- |
-|Notifications - Granular settings|You can enable notifications for product and solution events and activities, including notifications about [Customer Attributes](attributes.md) upload activity.|
-|Notifications - Maintenance notifications|In Notification settings, you can enable maintenance notifications for products and solutions.|
+|Notifications - Granular settings|You can enable notifications for product and application events and activities, including notifications about [Customer Attributes](attributes.md) upload activity.|
+|Notifications - Maintenance notifications|In Notification settings, you can enable maintenance notifications for products and applications.|
 |Admin Console for Experience Cloud Solutions|New Experience Cloud customers can begin using the Admin Console, a central location for managing your Adobe entitlements across your entire organization.<br>The migration to the Admin Console for user management will proceed in waves. Adobe contacts you (system administrators) when it is time to migrate.<br>Analytics administrators, see  [Analytics Migration](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=en).|
 
 {style="table-layout:auto"}
@@ -74,7 +74,7 @@ Many of the maintenance notifications around scheduled maintenance / product upd
 
 | Feature | Description |
 |--- |--- |
-|Bulk Report Suite Mapping|In Administration > Report Suite Mapping, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.)  <br>[Mapping report suites](core-services.md) to a single organization helps enable cross-solution features and services in the Experience Cloud.|
+|Bulk Report Suite Mapping|In Administration > Report Suite Mapping, you can now select multiple report suites, then map them to an organization. (Previously, you had to map them individually.)  <br>[Mapping report suites](core-services.md) to a single organization helps enable cross-application features and services in the Experience Cloud.|
 |Updates to Experience Cloud Audiences|**Applying Report Suites**<br>You can now apply a report suite to all your [audience rules](t-audience-create.md). (Previously, you had to specify a report suite in each rule definition.) <br>**Props and Variables**<br>You can now include Analytics props and default variables (in addition to eVars and events) in real-time audiences.|
 
 {style="table-layout:auto"}

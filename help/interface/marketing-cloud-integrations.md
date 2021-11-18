@@ -1,5 +1,5 @@
 ---
-description: Learn about available solution integrations in the Adobe Experience Cloud.
+description: Learn about available application integrations in the Adobe Experience Cloud.
 keywords: integrations
 solution: Experience Cloud
 title: Experience Cloud Integrations 
@@ -35,11 +35,11 @@ Solutions or services:
 
 ## Experience Cloud ID Service {#section_6ECCCFA2D84D4D4F88C879C799CA9D78}
 
-The ID service provides a universal, persistent ID that identifies your visitors across all the solutions in the Experience Cloud. It can replace ID generation code for services such as Analytics, Audience Manager, Adobe Target, video heartbeat, and other Experience Cloud applications and products.
+The ID service provides a universal, persistent ID that identifies your visitors across all the applications in the Experience Cloud. It can replace ID generation code for services such as Analytics, Audience Manager, Adobe Target, video heartbeat, and other Experience Cloud applications and products.
 
 See [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en) 
 
-**Applicable solutions or services** 
+**Applicable applications or services** 
 
 * [Adobe Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=en)
 * [Adobe Target](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-target.html?lang=en)
@@ -75,9 +75,9 @@ If you capture enterprise customer data in a customer relationship management (C
 
 Help: [Share Experience Cloud Folders with Creative Cloud](creative-cloud.md)
 
-Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud solutions like [!DNL Social] and [!DNL Target].
+Share folders and assets between the Experience Cloud and the Creative Cloud. Collaborate, annotate shared assets, and use them in Experience Cloud applications like [!DNL Social] and [!DNL Target].
 
-**Applicable solutions or services** 
+**Applicable applications or services** 
 
 * [!DNL Experience Cloud]
 * [!DNL Creative Cloud]
@@ -90,7 +90,7 @@ Help: [AEM Assets reporting in Analytics](https://experienceleague.adobe.com/doc
 
 Enables Analytics to collect impressions and clicks on Assets served up from AEM Asset Insights. 
 
-**Applicable solutions or services** 
+**Applicable applications or services** 
 
 * [!DNL Analytics]
 * [!DNL Experience Manager]
@@ -99,26 +99,26 @@ Enables Analytics to collect impressions and clicks on Assets served up from AEM
 
 [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/implementation-and-integration.html?lang=en) 
 
-Work with data from Experience Cloud solutions or other external systems in Audience Manager.
+Work with data from Experience Cloud applications or other external systems in Audience Manager.
 
-**Applicable solutions or services** 
+**Applicable applications or services** 
 
 * [Analytics Server-Side Forwarding](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=en)
 * [Send Audience Manager Segments to Analytics](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/experience-cloud-destinations/create-analytics-destination.html?lang=en)
-* [Adobe Target Data Integration](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html?lang=en)
+* [Adobe Target Data Integration](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-applications/aam-target-integration.html?lang=en)
 
 ## Activation {#section_A23510A2D57842F6BAD043650C06DE42}
 
 Help: [Getting Started](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en)
 
-Use the Experience Cloud Activation solutions to set up and debug your Experience Cloud solutions.
+Use the Experience Cloud Activation applications to set up and debug your Experience Cloud applications.
 
 1. Use [Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en) to insert code that activates Experience Cloud applications on your pages.
 1. Use [Adobe Cloud Platform Auditor](https://experienceleague.adobe.com/docs/auditor/using/overview.html?lang=en) to test your implementations.
 
 Use the Adobe Experience Cloud Debugger extension to debug issues found by Auditor or to examine other information about your implementations.
 
-**Applicable solutions or services** 
+**Applicable applications or services** 
 
 * [Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en)
 * [Audience Manager](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/audience-manager/overview.html?lang=en)
@@ -131,9 +131,9 @@ Use the Adobe Experience Cloud Debugger extension to debug issues found by Audit
 
 Help: [Integrating Adobe Target with the Experience Cloud](audience-library.md)
 
-Integrate Adobe Target with Adobe Analytics and other Experience Cloud solutions to enable the use of the same data, Audiences, attributes, and metrics in both solutions.
+Integrate Adobe Target with Adobe Analytics and other Experience Cloud applications to enable the use of the same data, Audiences, attributes, and metrics in both applications.
 
-**Applicable solutions or services** 
+**Applicable applications or services** 
 
 * Customer Attributes: Configure Adobe Target's [subscription](subscription.md) to Customer Attributes
 * Experience Cloud Audiences: [Experience Cloud Audience Library](audience-library.md)
@@ -146,9 +146,9 @@ Integrate Adobe Target with Adobe Analytics and other Experience Cloud solutions
 
 Help: [Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=en) 
 
-Integrate AEM with other solutions and third-party services. 
+Integrate AEM with other applications and third-party services. 
 
-**Applicable solutions or services** 
+**Applicable applications or services** 
 
 * [Analytics](https://experienceleague.adobe.com/docs/)
 * [Analytics with External Providers](https://experienceleague.adobe.com/docs/)
@@ -167,7 +167,7 @@ Help: [Configuring AEM Assets integration with Experience Cloud and Creative Clo
 
 Synchronize your assets within Adobe Experience Manager (AEM) Assets with Adobe Creative Cloud, and vice versa. You can also synchronize your assets with Experience Cloud and vice versa. You can set up this synchronization through Experience Cloud. 
 
-**Applicable solutions or services** 
+**Applicable applications or services** 
 
 * AEM
 * Creative Cloud
@@ -177,7 +177,7 @@ Synchronize your assets within Adobe Experience Manager (AEM) Assets with Adobe 
 
 Help (login required): [Integration with Adobe Experience Cloud Solutions and Services](https://enterprise.efrontier.com/CMDashboard?ticket=JrciD7q2bF1y2mDWFHmEyhyMKZp71ZLeaANvF-RcNMF7oNuZNABh76cKJLNlJJeJ1hQ5vAW1AO1t1DW8tZWM3lYZ8TSh96YAQISUdtHCCgA%3D&ticket=JrciD7q2bF1y2mDWFHmEyibbOnNwb2JBRF7z6tKAOIWkBimlPxCUaZyJnPLqsfdqsf3fpxWoxGasvatKA8S6-h4tlDvxQcm8Gc10dSF9q_E%3D) 
 
-**Applicable solutions or services** 
+**Applicable applications or services** 
 
 **Analytics:** can send site engagement and conversion data daily to [!DNL Adobe Advertising], where the data is available for ad optimization and reporting. Also, [!DNL Advertising] can send search engine and social network traffic data daily to Analytics, where the data is available for reports in the Reports & Analytics, Report Builder, and Ad Hoc Analysis capabilities. 
 

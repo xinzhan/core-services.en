@@ -24,7 +24,7 @@ See [Experience Platform Launch Quickstart Guide](https://experienceleague.adobe
 
 ## Experience Cloud [!UICONTROL Triggers] {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
-[!UICONTROL Experience Cloud Triggers] enables marketers to define and monitor key consumer behaviors, and then generate cross-solution communication for use in real-time decisions and personalization.
+[!UICONTROL Experience Cloud Triggers] enables marketers to define and monitor key consumer behaviors, and then generate cross-application communication for use in real-time decisions and personalization.
 
 <table id="table_AF6842470172429EA97C9B02163BD0C3"> 
  <thead> 
@@ -48,6 +48,6 @@ See [Experience Platform Launch Quickstart Guide](https://experienceleague.adobe
 
 ## Experience Cloud Debugger {#section_682FCF8A22ED47D0ACF94204AB94B444}
 
-The Adobe Experience Cloud Debugger extension for Chrome examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
+The Adobe Experience Cloud Debugger extension for Chrome examines your web pages and helps you find problems with how your Experience Cloud applications are implemented.
 
 See [Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en) for help.
