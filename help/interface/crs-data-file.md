@@ -49,11 +49,11 @@ Customer Attributes is designed to handle a few files per day. To mitigate the i
 
 The CSV file must adhere to the following format:
 
-![](assets/cvs.png)
+![Requirements for the attribute data files](assets/cvs.png)
 
 The same file viewed in a text editor:
 
-![](assets/csv_txt.png)
+![Requirements for the attribute data files](assets/csv_txt.png)
 
 **Guidelines** 
 

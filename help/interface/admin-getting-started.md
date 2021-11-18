@@ -78,11 +78,11 @@ By using these roles, you can simultaneously delegate management to others witho
 
 1. In the Admin Console, select **[!UICONTROL Users]**, then select the user's name.
 
-    ![](assets/edit-admin-rights.png)
+    ![Administrative Rights in Admin Console](assets/edit-admin-rights.png)
 
 1. Select **[!UICONTROL Edit admin rights]**.
 
-    ![](assets/edit-admin-rights-page.png)
+    ![Edit administrative rights in Admin Console](assets/edit-admin-rights-page.png)
 
 1. Specify the user's admin rights.
 1. Select **[!UICONTROL Save]**.

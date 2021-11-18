@@ -18,7 +18,7 @@ For example, an Adobe Analytics subscription enables attribute data in reports. 
 
 **[!UICONTROL Customer Attribute Source]** > **[!UICONTROL Create New Customer Attribute Source]** > **[!UICONTROL New]** 
 
-![](assets/configure_subscription_page.png) 
+![Configure subscriptions in Experience Cloud](assets/configure_subscription_page.png) 
 
 | Element | Description |
 |--- |--- |

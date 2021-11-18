@@ -20,7 +20,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
 1. Log in to `https://experience.adobe.com/.`
 
-   ![](assets/admin-tool.png)
+   ![Accessing the Admin Console](assets/admin-tool.png)
 
 1. Under [!UICONTROL Quick Access], select **[!UICONTROL Admin Tool.]**
 
@@ -32,7 +32,7 @@ Administrators can view a sortable and filterable list of all Experience Cloud u
 
 This page displays complete list of users with access to Experience Cloud in your organization. It provides information about solution entitlement and last login. You can search, sort, and filter for custom views of the user list.
 
-![](assets/admin-tool-users.png)
+![Admin Console Users page](assets/admin-tool-users.png)
 
 |Element | Description|
 |---|---|
@@ -60,7 +60,7 @@ You can search, sort, or filter the columns to customize the user list.
 
 On the [!UICONTROL Users] page, to view a user's details, select the user's email.
 
-![](assets/admin-tool-user-details.png)
+![View user details in Admin Console](assets/admin-tool-user-details.png)
 
 A detailed view of each user displays important details about the user’s solution access, admin and product roles, and last accessed information.
 
@@ -96,7 +96,7 @@ This section displays a complete list of all product profiles membership for the
 
 This page displays complete list of Experience Cloud policies in your organization. It provides information about products, instances, users, and developers. You can search, sort, and filter for custom views of the policy list.
 
-![](assets/admin-tool-policies.png)
+![Policies page in Admin Console](assets/admin-tool-policies.png)
 
 |Element | Description|
 |---|---|
@@ -123,7 +123,7 @@ You can search, sort, or filter the columns to customize the policies list.
 
 On the [!UICONTROL Policies] page, to view a policy's details, select the product profile name.
 
-![](assets/admin-tool-policy-detail.png)
+![View policy details in Admin Console](assets/admin-tool-policy-detail.png)
 
 A detailed view of each product profile displays important details about the product profile’s subjects (users, groups, and so on). It also displays permissions and resources enabled by the product profile.
 

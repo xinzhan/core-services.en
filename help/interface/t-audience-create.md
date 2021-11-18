@@ -22,7 +22,7 @@ This article helps you understand how to:
 
 The following graphic represents two rules in a composite audience.
 
-![](assets/audience_sharing.png)
+![Two rules in a composite audience](assets/audience_sharing.png)
 
 Each circle represents a rule that defines audience membership. Visitors that qualify as members in both audience rules overlap to become the composite, defined audience.
 
@@ -35,7 +35,7 @@ The following example shows how to create the rules for a composite audience. Th
 * Home & Garden section derived from page data, or raw analytics data.
 * Chrome and Safari users derived from an [!DNL Adobe Analytics] segment [published](audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A) to the [!DNL Experience Cloud].
 
-  ![](assets/audience_create.png) 
+  ![Create the rules for a composite audience](assets/audience_create.png) 
 
 **To create an audience**
 
@@ -66,26 +66,26 @@ Under [!UICONTROL Rules], define the *`Home & Garden`* attribute selections:
 * **[!UICONTROL Report Suite:]** Report Suite 31
 * Dimension = **[!UICONTROL Store (Merch) (v6)]** > **[!UICONTROL Equals]** > **[!UICONTROL Home & Garden]**
 
-![](assets/home_garden.png)
+![Attribute selections in Audience Library](assets/home_garden.png)
 
 The *Chrome & Safari Visitors* is an audience segment shared from Analytics:
 
 * **[!UICONTROL Attribute Source:]** Experience Cloud
 * **[!UICONTROL Dimension:]** Chrome & Safari Visitors
 
-![](assets/chrome_safari.png)
+![Chrome & Safari Visitors](assets/chrome_safari.png)
 
 For comparison, you might add an *OR* rule to see all visitors to a site section, such as Patio & Furniture.
 
-![](assets/audiences_rule_patio.png)
+![OR rule for an audience](assets/audiences_rule_patio.png)
 
 The resulting rule is a defined audience comprising Chrome & Safari users who visited Home & Garden. The Patio & Furniture segment provides additional insight into all visitors visiting that site section.
 
-![](assets/defined_audience.png)
+![Defined audience in Experience Cloud](assets/defined_audience.png)
 
 * **Historical Estimate:** (Dotted circle) Represents rules created based on [!DNL Analytics] data.
 * **Actual Audience:** (Solid circle) Any rule created that has 30 days of data from Audience Manager. When the Audience Manager data reaches 30 days, the line becomes solid and represents actual numbers.
 
 After the data collection completes for the specified period, the circles combine to show a defined audience.
 
-After the audience is saved, it is available for other solutions. For example, you can include a shared audience in an Adobe Target activity.
+After the audience is saved, it is available for other applications. For example, you can include a shared audience in an Adobe Target activity.

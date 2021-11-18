@@ -24,7 +24,7 @@ You can use triggers in real-time decisions and personalization. For example:
 * Incomplete forms and applications
 * Any actions or sequence of actions on site
 
-![](assets/trigger-abandonment-2.png)
+![Trigger example](assets/trigger-abandonment-2.png)
 
 >[!NOTE]
 >
@@ -76,10 +76,10 @@ Examples of Experience Cloud Triggers:
 
 For example, the following page shows rules that you might use for a [!UICONTROL Cart Abandonment] trigger, based on products viewed during a visit.
 
-![](assets/abandonment-trigger.png)
+![Cart Abandonment trigger](assets/abandonment-trigger.png)
 
 #### Referrer Trigger
 
 The following trigger fires when a hit comes in with the product of Men's Boots and referrer of Facebook. For the two criteria (*products* and *referrer*) to be evaluated in the same hit, they should be added to the same container.
 
-![](assets/fb-boots-promo.png)
+![Referrer trigger](assets/fb-boots-promo.png)

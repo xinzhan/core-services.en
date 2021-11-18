@@ -66,10 +66,10 @@ You can edit personal details and specify a default [organization](admin-getting
 
 1. Sign in to the Experience Cloud, then select your profile icon.
 
-   ![](assets/edit-profile.png) 
+   ![Select your profile icon](assets/edit-profile.png) 
 1. Select **[!UICONTROL Edit Profile]**.
 
-   ![](assets/default-organization.png) 
+   ![Default Organization & Landing Page in Experience Cloud](assets/default-organization.png) 
 1. Continue configuring and editing personal information, then select **[!UICONTROL Save Changes]**.
 
 ## Enable notifications {#concept_0105453AD71847B8BFCAF4A40915F157}
@@ -83,7 +83,7 @@ You can sort the Notifications display based on the message types that are impor
 * Sort by the message types that are important to you.
 * Search for notifications.
 
-![](assets/notifications-admin.png) 
+![Experience Cloud Notifications](assets/notifications-admin.png) 
 
 <!-- <p> <b>Analytics</b> </p> 
 <ul id="ul_91BF597858124FA5BF338C36F6C5533F"> 
@@ -111,7 +111,7 @@ You can edit your Experience Cloud profile, specify a default organization and l
 
 1. On Experience Cloud, select your profile picture.
 
-   ![](assets/edit-profile.png) 
+   ![Edit your Experience Cloud profile](assets/edit-profile.png) 
 1. Select **[!UICONTROL Edit Profile]**.
 
    On the Profile & Passwords page, complete the fields and options under Personal Details. 

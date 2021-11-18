@@ -156,15 +156,15 @@ Use the following process to ensure that Experience Cloud ID Service is implemen
 
 Expected response containing the Experience Cloud ID:
 
-![](assets/mac_id_response.png)
+![Expected response containing the Experience Cloud ID](assets/mac_id_response.png)
 
 Analytics image request containing the Experience Cloud ID (also known as `mid` or _visitor ID_):
 
-![](assets/mid.png)
+![Analytics image request containing the Experience Cloud ID](assets/mid.png)
 
 Experience Cloud ID in the mbox request:
 
-![](assets/mbox_request.png)
+![Experience Cloud ID in the mbox request](assets/mbox_request.png)
 
 ### What Is the Grace Period?
 
@@ -178,7 +178,7 @@ Deploying the Experience Cloud ID Service on sites that are using multiple JavaS
 
 Once you are up and running, navigate to the [Admin Console](https://adminconsole.adobe.com/), where you can manage users and product profiles. 
 
-![](assets/menu-administration-shell.png) 
+![Access Admin Console](assets/menu-administration-shell.png) 
 
 See [Experience Cloud user and product management](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 

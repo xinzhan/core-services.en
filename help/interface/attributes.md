@@ -14,7 +14,7 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 
 To locate this feature, navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**
 
-![](assets/custom_reports.png)
+![Customer Attributes overview](assets/custom_reports.png)
 
 ## Prerequisites for uploading Customer Attributes {#section_BD38693AFBF34926BA28E964963B4EA0}
 
@@ -36,7 +36,7 @@ Enterprise data resides in other systems. It can be complex and mean different t
 
 The following image is an example of a data file showing subscriber data for products, including member IDs, entitled products, most-launched products, and so on.
 
-![](assets/01_crs_usecase.png)
+![What is enterprise customer data?](assets/01_crs_usecase.png)
 
 After you create the data file, you can upload it to the Customer Attribute source that you create in **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**.
 

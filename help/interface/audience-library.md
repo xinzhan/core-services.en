@@ -15,7 +15,7 @@ exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
 
 Audiences are collections of visitors (a list of visitor IDs). Adobe's Audience Library lets you manage the translation of visitor data into audience segmentation. As such, creating, and managing audiences is similar to creating and using segments. You can also share the audience segment to products and services in [!DNL Experience Cloud]. 
 
-![](assets/audiences.png) 
+![Experience Cloud audiences](assets/audiences.png) 
 
 Audiences can be created or derived from various sources, such as: 
 
@@ -66,7 +66,7 @@ The [!DNL Experience Cloud] provides a library for creating and managing audienc
 
 **[!UICONTROL Experience Cloud]** > **[!UICONTROL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Audience Library]** 
 
-![](assets/audience_library.png) 
+![Add audience in Audience Library](assets/audience_library.png) 
 
 | Element | Description |
 |--- |--- |

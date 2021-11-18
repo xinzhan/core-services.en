@@ -56,7 +56,7 @@ Sign in and verify that you are in the right [organization](organizations.md).
 1. Select **[!UICONTROL Sign in with an Adobe ID]**.
 1. Verify that you are in the right organization.
 
-    ![](assets/organizations-menu.png)
+    ![Verify your organization](assets/organizations-menu.png)
 
     To verify that you have logged in to your correct [organization](organizations.md), click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
 
@@ -70,13 +70,13 @@ After signing in to Experience Cloud, you can quickly access all your applicatio
 
 Select the application selector ![](assets/menu-icon.png) to access Experience Cloud services that you own.
 
-![](assets/platform-core-services.png)
+![Access Experience Cloud applications](assets/platform-core-services.png)
 
 ## Search and support in Experience Cloud {#search}
 
 Experience Cloud search allows you to search for help (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home). 
 
-![](assets/search-menu.png) 
+![Search and support in Experience Cloud](assets/search-menu.png) 
 
 The [!UICONTROL Help] menu also gives you access to:
 
@@ -100,7 +100,7 @@ Experience Cloud preferences include notifications, subscriptions, and alerts.
 
 Select **[!UICONTROL Preferences]** from your account menu ![](assets/preferences-icon-sm.png) to manage preferences.
 
-![](assets/preferences-page.png)
+![Manage Experience Cloud](assets/preferences-page.png)
 
 On [!UICONTROL Experience Cloud preferences], you can configure the following features:
 
@@ -118,6 +118,6 @@ On [!UICONTROL Experience Cloud preferences], you can configure the following fe
 
 Select **[!UICONTROL Notifications]** to see notifications that are important to you, and announcements from Adobe.
 
-![](assets/notifications-menu-small.png)
+![Notifications and Announcements](assets/notifications-menu-small.png)
 
 You can configure notifications in [Experience Cloud preferences](#preferences).

@@ -24,8 +24,8 @@ For example, data contained in cookies set from the Adobe.com website cannot be 
 
 The following diagram illustrates cookie usage for a standard image request: 
 
-![](assets/CookiesProcessGraphic-01.png)
+![Cookie usage for a standard image request](assets/CookiesProcessGraphic-01.png)
 
 The following diagram illustrates cookie usage for a straight image request (used in scenarios where a JS file is not loaded): 
 
-![](assets/CookiesProcessGraphic2.png)
+![Cookie usage for a straight image request](assets/CookiesProcessGraphic2.png)
