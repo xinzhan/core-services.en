@@ -64,7 +64,7 @@ Provisioning in the Experience Cloud means:
 
 * User entitlements and product management are performed in the [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (product link).
 
-* **Important:** Analytics administrators, see [Manage Analytics Users in the Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=en) about migrating user IDs from Analytics Admin Tools to the Admin Console. 
+* **Important:** Analytics administrators, see [Manage Analytics Users in the Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=en) about migrating user IDs from Analytics Admin Tools to the Admin Console. 
 
 ## What do I do if someone cannot log in to the Experience Cloud?
 
