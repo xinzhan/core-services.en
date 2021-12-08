@@ -40,7 +40,7 @@ The following image is an example of a data file showing subscriber data for pro
 
 After you create the data file, you can upload it to the Customer Attribute source that you create in **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**.
 
-See [Upload Customer Attribute Data](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) to learn this workflow.
+See [Upload Customer Attribute data](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) to learn this workflow.
 
 ## Examples of Customer Attributes in Analytics and Target {#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9}
 
