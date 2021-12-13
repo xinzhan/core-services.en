@@ -14,6 +14,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Information about updates to the Experience Cloud product documentation.
 
+**Updated 12/13/2021**
+
+Updated the [administration FAQ](faq.md) with information about how Adobe Support can access your Adobe cloud environment to troubleshoot an issue.
+
 **Updated 10/28/2021**
 
 | Feature | Description |
