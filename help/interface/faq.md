@@ -49,6 +49,12 @@ The functionality provided by the Experience Cloud interface adds new value to y
 
 [Contact Adobe Support](https://experienceleague.adobe.com/?support-solution=General#support). 
 
+## How can [!DNL Adobe Support] access my Adobe cloud environment to troubleshoot an issue ? 
+
+[!DNL Adobe Support] can submit an impersonation request for which you receive an Adobe-branded email (example below) seeking your explicit authorization. The access is granted for a limited time. Once granted, the access can be revoked by you at any time. Adobe logs all actions taken by Adobe representatives.
+
+![](/help/interface/admin-getting-started/assets/support-email.png)
+
 ## What is _provisioning?_
 
 Provisioning in the Experience Cloud means:
