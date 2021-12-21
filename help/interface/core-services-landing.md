@@ -10,7 +10,7 @@ exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
 ---
 # Experience Cloud services {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
 
-This documentation applies to features of the Experience Cloud unified header, such ass the [!UICONTROL People] service (Audiences and Customer Attributes), user and product management for Experience Cloud, cookies, account preferences, notifications, and so on.
+This documentation applies to features of the Experience Cloud unified header, such as the [!UICONTROL People] service (Audiences and Customer Attributes), user and product management for Experience Cloud, cookies, account preferences, notifications, and so on.
 
 To access these services in Experience Cloud, select the **[!UICONTROL Application Selector]**
 ![Services selector](assets/menu-icon.png).
