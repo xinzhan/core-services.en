@@ -18,6 +18,27 @@ For a list of documentation updates, see [Experience Cloud](doc-updates.md#conce
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
+## November - 2021
+
+| Feature | Description |
+| ------- | ------- |
+|Home Page |Experience Cloud home footer information has been moved to the user profile card, including Legal Notices and language selection in Preferences. |
+|AEP Dashboards |[!DNL Helios Lite] provides chart recommendations within the Experience Platform widget creation workflow. Given a data selection (currently single variable data selection), [!DNL Helios] recommends an appropriate visualization to accompany that data selection.|
+|AEP Dashboards |[!DNL Instory] provides ML-based written narration and captions for charts. It decorates charts in the AEP Dashboards page with relevant bullet points calling out major changes and incidents in the graphed data. |
+
+{style="table-layout:auto"}
+
+## October - 2021
+
+| Feature | Description |
+| ------- | ------- |
+|Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
+|Product usage data consent  |Upon an initial login, you are asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
+|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher in the header for provisioned users.    |
+|**Notice:** Planned interface navigation update|In November 2021, the _[!UICONTROL Go to Launch / Data Collection]_ navigation feature will be removed from <https://experience.adobe.com/implement>.|
+
+{style="table-layout:auto"}
+
 ## August - 2021
 
 | Feature | Date |Description |
