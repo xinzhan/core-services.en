@@ -19,6 +19,40 @@ Learn about signing in to the Admin Console, managing Experience Cloud user perm
 
 You can view a sortable and filterable list of all Experience Cloud users and their details in the Admin Tool. See [View Experience Cloud users in the Admin Tool](admin-tool-experience-cloud.md).
 
+## Experience Cloud user authentication (planned migration){#migration}
+
+Beginning in February 2022, Adobe is updating its profile management system to allow organizations to better manage business entitlements to individual profiles. As such, all users with a Personal Profile, which corresponds to an individual Adobe ID (Type1), will be migrated to a new Business Profile. This profile corresponds to a _Business ID_ (Type2E).
+
+See [Identity types on Adobe Admin Console](https://helpx.adobe.com/enterprise/using/identity.html) for information on identity types.
+
+### Migration process
+
+For this seamless update, organization administrators will receive a notification email 30 days prior to the migration. This email will include your migration date.
+
+* Migration will be scheduled between 10 p.m. – 6 a.m., based on organization’s primary time zone or on the weekend.
+* During the migration, Experience Cloud application may be inaccessible for up to 15 minutes and Admin Console may be inaccessible up to 30 minutes.
+
+### Changes after the migration
+
+Admin Console
+
+* Admins with multiple accounts may see a profile selector when signing into Admin Console.
+* Individual Adobe ID identity type will be updated to Business ID.
+* Business ID directory will be added in **[!UICONTROL Settings]** > **[!UICONTROL Identity]** > **[!UICONTROL Directories]**.
+
+    ![Admin Console Identity - Business ID](assets/identity-home.png)
+
+### Sign in to Experience Cloud
+
+Your sign-in experience does not change with this update.
+
+* Sign-in at `experience.adobe.com` using the same credentials.
+* A new profile associated with the Business ID is created. You are prompted to **[!UICONTROL Join now]** or **[!UICONTROL Skip]** 
+* Taking one of the options leads to an existing landing page experience. 
+* An Adobe profile is associated with each business plan and provides the ability to organize assets created from additional Adobe Cloud offerings (Creative Cloud and Document Cloud). 
+
+For more information, see [Introducing Adobe Profiles](https://helpx.adobe.com/enterprise/kb/introducing-adobe-profiles.html).
+
 ## What is a product profile? {#section_AB50558124D541CF80A0D3D76D35A4BF}
 
 [!UICONTROL Product Profiles] are groups of products and services that you can assign to users. In Experience Cloud, permissions are based on a product's profile, not on the user. (However, you can delegate administrative rights to specific users.)
@@ -46,23 +80,6 @@ For more information (and for help on Creative Cloud and Document Cloud product 
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-products.ug.html) in the Administration User Guide.
 * [Enterprise User Permissions](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/property-channel.html?lang=en) in Adobe Target help for more information.
 * Video: [How to Configure Adobe Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
-
-<!-- ## What's new in Experience Cloud user management {#concept_06A0A13362F644FB90F947238407637A}
-
-Learn about the latest features in Experience Cloud user and product management.
-
-### Business ID type
-
-Adobe is introducing an identity type called Business ID. This identity type improves the control of user and product management. Adobe is migrating all Adobe IDs (owned by individuals) that are used for business to the new enterprise Business IDs owned by your organization.
-
-If you are an existing Experience Cloud customer, Adobe will migrate all your users with Adobe IDs in the Admin Console to Business IDs. If you are a new enterprise or teams customer, you will add users to the Admin Console using one of the available identity types: Business ID, Enterprise ID, or Federated ID.
-
-What to do
-
-* Your users will need to accept Terms of Use (TOU) changes prior to accounts being migrated to Type2e. 
-* Users that belong to multiple organizations might see a Profile Selection screen during the login workflow and need to select the correct one. This ensures that they are logging into the correct organization. (There might be multiple profiles to choose from if a user was a member of multiple organizations before the migration.)
-
-Beginning May 2020, enterprise administrators cannot use the Adobe ID for new organizations created in the Admin Console. Latest: https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=engage&title=Type2e+DX+GTM-->
 
 ## Delegate administrative roles to users {#delegate-rights}
 
