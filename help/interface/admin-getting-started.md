@@ -42,7 +42,7 @@ Admin Console
 
     ![Admin Console Identity - Business ID](assets/identity-home.png)
 
-### Sign in to Experience Cloud
+### Signing in after the migration
 
 Your sign-in experience does not change with this update:
 
