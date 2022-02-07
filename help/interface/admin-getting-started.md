@@ -21,7 +21,7 @@ You can view a sortable and filterable list of all Experience Cloud users and th
 
 ## Experience Cloud user authentication (planned migration){#migration}
 
-Beginning in February 2022, Adobe is updating its profile management system to allow organizations to better manage business entitlements to individual profiles. As such, all users with a Personal Profile, which corresponds to an individual Adobe ID (Type1), will be migrated to a new Business Profile. This profile corresponds to a _Business ID_ (Type2E).
+Beginning in February 2022, Adobe is updating its profile management system to allow organizations to better manage business entitlements to individual profiles. As such, all users with a Personal Profile, which corresponds to an individual Adobe ID (Type1), will be migrated to a new Business Profile. This profile corresponds to a _Business ID_ (Type2e).
 
 See [Identity types on Adobe Admin Console](https://helpx.adobe.com/enterprise/using/identity.html) for information on identity types.
 
