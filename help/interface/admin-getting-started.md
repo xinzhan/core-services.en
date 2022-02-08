@@ -1,6 +1,6 @@
 ---
 title: Manage users and products
-description: Find out how to sign in to the Admin Console and manage Experience Cloud user permissions and product profiles. Learn about delegating administrative rights to Experience Cloud users, and about browser support for Experience Cloud.
+description: Find out how to sign in to the Admin Console and manage Experience Cloud user permissions and Product Profiles. Learn about delegating administrative rights to Experience Cloud users, and about browser support for Experience Cloud.
 solution: Admin
 index: yes
 feature: Admin Console
@@ -11,7 +11,7 @@ exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
 ---
 # Manage Experience Cloud users and products
 
-Learn about signing in to the Admin Console, managing Experience Cloud user permissions and product profiles, and browser support.
+Learn about signing in to the Admin Console, managing Experience Cloud user permissions and Product Profiles, and browser support.
 
 >[!IMPORTANT]
 >
@@ -19,20 +19,57 @@ Learn about signing in to the Admin Console, managing Experience Cloud user perm
 
 You can view a sortable and filterable list of all Experience Cloud users and their details in the Admin Tool. See [View Experience Cloud users in the Admin Tool](admin-tool-experience-cloud.md).
 
-## What is a product profile? {#section_AB50558124D541CF80A0D3D76D35A4BF}
+## Experience Cloud user authentication (planned migration){#migration}
 
-[!UICONTROL Product Profiles] are groups of products and services that you can assign to users. In Experience Cloud, permissions are based on a product's profile, not on the user. (However, you can delegate administrative rights to specific users.)
+Beginning in February 2022, Adobe is updating its profile management system to allow organizations to better manage business entitlements to individual profiles. As such, all users with a Personal Profile, which corresponds to an individual Adobe ID (Type1), will be migrated to a new Business Profile. This profile corresponds to a _Business ID_ (Type2e).
 
-For example, in Analytics you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, and dimensions. You can grant permission to a product profile by adding users to the profile.
+See [Identity types on Adobe Admin Console](https://helpx.adobe.com/enterprise/using/identity.html) for information on identity types.
 
-* See [Assign Analytics access permissions to a product profile](admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) on this page.
+### Migration process
+
+When it's time for your migration, organization administrators will receive a notification email 30 days prior to the migration. This email will include your migration date.
+
+* Migration will be scheduled between 10 p.m. – 6 a.m., based on organization’s primary time zone or on the weekend.
+* During the migration, Experience Cloud application may be inaccessible for up to 15 minutes and Admin Console may be inaccessible up to 30 minutes. Otherwise, this migration will be seamless.
+
+### Changes after the migration
+
+Admin Console
+
+* Administrators with multiple accounts may see a profile selector when signing into [!UICONTROL Admin Console].
+* Individual Adobe ID users will be updated to Business ID.
+* The Business ID directory will be added in **[!UICONTROL Settings]** > **[!UICONTROL Identity]** > **[!UICONTROL Directories]**.
+
+    ![Admin Console Identity - Business ID](assets/identity-home.png)
+
+### Signing in after the migration
+
+Your sign-in experience does not change with this update:
+
+1. Sign-in at `experience.adobe.com` using the same credentials.
+
+1. A new profile associated with the Business ID is created. You are prompted to **[!UICONTROL Join now]** or **[!UICONTROL Skip]**.
+
+1. Taking one of the options leads to an existing landing page experience. 
+
+1. An Adobe profile is associated with each business plan and provides the ability to organize assets created from additional Adobe Cloud offerings (Creative Cloud and Document Cloud).
+
+For more information, see [Introducing Adobe Profiles](https://helpx.adobe.com/enterprise/kb/introducing-adobe-profiles.html).
+
+## What is a Product Profile? {#section_AB50558124D541CF80A0D3D76D35A4BF}
+
+_[!UICONTROL Product Profiles]_ are groups of products and services that you can assign to users. In Experience Cloud, permissions are based on a product's profile, not on the user. (However, you can delegate administrative rights to specific users.)
+
+For example, in Analytics you can configure a collection of reporting tools, such as Analysis Workspace and Report Builder, along with report suites, metrics, and dimensions. You can grant permission to a Product Profile by adding users to the profile.
+
+* See [Assign Analytics access permissions to a Product Profile](admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) on this page.
 * See [Delegate administrative roles to users](#delegate-rights) on this page
 
-## Manage Experience Cloud product profiles {#task_16335111C52D40E9BAC73D0699584DBF}
+## Manage Experience Cloud Product Profiles {#task_16335111C52D40E9BAC73D0699584DBF}
 
-You can create a product profile and assign it to a permission group.
+You can create a Product Profile and assign it to a permission group.
 
-When you invite a user to an organization, you can give the user access to products and product profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a product profile to enable access.
+When you invite a user to an organization, you can give the user access to products and Product Profiles. You can also delegate limited administrative permissions to a user. Similarly, you can create user groups, then add the group to a Product Profile to enable access.
 
 1. In the [Admin Console](https://adminconsole.adobe.com/enterprise/), select **[!UICONTROL Products]**.
 1. Select your organization name.
@@ -46,23 +83,6 @@ For more information (and for help on Creative Cloud and Document Cloud product 
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-products.ug.html) in the Administration User Guide.
 * [Enterprise User Permissions](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/property-channel.html?lang=en) in Adobe Target help for more information.
 * Video: [How to Configure Adobe Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
-
-<!-- ## What's new in Experience Cloud user management {#concept_06A0A13362F644FB90F947238407637A}
-
-Learn about the latest features in Experience Cloud user and product management.
-
-### Business ID type
-
-Adobe is introducing an identity type called Business ID. This identity type improves the control of user and product management. Adobe is migrating all Adobe IDs (owned by individuals) that are used for business to the new enterprise Business IDs owned by your organization.
-
-If you are an existing Experience Cloud customer, Adobe will migrate all your users with Adobe IDs in the Admin Console to Business IDs. If you are a new enterprise or teams customer, you will add users to the Admin Console using one of the available identity types: Business ID, Enterprise ID, or Federated ID.
-
-What to do
-
-* Your users will need to accept Terms of Use (TOU) changes prior to accounts being migrated to Type2e. 
-* Users that belong to multiple organizations might see a Profile Selection screen during the login workflow and need to select the correct one. This ensures that they are logging into the correct organization. (There might be multiple profiles to choose from if a user was a member of multiple organizations before the migration.)
-
-Beginning May 2020, enterprise administrators cannot use the Adobe ID for new organizations created in the Admin Console. Latest: https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=engage&title=Type2e+DX+GTM-->
 
 ## Delegate administrative roles to users {#delegate-rights}
 
@@ -89,9 +109,9 @@ By using these roles, you can simultaneously delegate management to others witho
 
 ## Manage Analytics users and products {#section_97DE101F92CD494AB073893680992F1A}
 
-You can assign Analytics report access permissions (report suites, metrics, dimensions, and so on) to a product profile.
+You can assign Analytics report access permissions (report suites, metrics, dimensions, and so on) to a Product Profile.
 
-For example, you can create a product profile that contains multiple Analytics tools ([!UICONTROL Analysis Workspace], [!UICONTROL Reports & Analytics], and [!UICONTROL Report Builder]). These profiles contain permission to specific metrics and dimensions (including eVars), and capabilities like segments or calculated metrics creation.
+For example, you can create a Product Profile that contains multiple Analytics tools ([!UICONTROL Analysis Workspace], [!UICONTROL Reports & Analytics], and [!UICONTROL Report Builder]). These profiles contain permission to specific metrics and dimensions (including eVars), and capabilities like segments or calculated metrics creation.
 
 1. Sign in to the [Admin Console](https://adminconsole.adobe.com/enterprise), then select **[!UICONTROL Products]**.
 1. On the [!UICONTROL Products] page, select your product, then select **[!UICONTROL Permissions]** (available only to administrators).
@@ -117,9 +137,9 @@ After the migration, users sign in using their Adobe ID (or Enterprise ID) and a
 
 For more information, see [Analytics User ID Migration](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=en)
 
-## Manage Adobe Target - product profiles vs. workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
+## Manage Adobe Target - Product Profiles vs. workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
 
-In Adobe Target, a workspace is a product profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics.
+In Adobe Target, a workspace is a Product Profile. It lets an organization assign a specific set of users to a specific set of properties. In many ways, a workspace is similar to a report suite in Adobe Analytics.
 
 See:
 
@@ -127,17 +147,17 @@ See:
 * [Manage products and profiles](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-products.ug.html)
 * Video: [How to Configure Adobe Target Workspaces in Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
-## Manage Campaign product profiles, tenants, and security groups {#section_09CDF75366444CF5810CF321B7C712F3}
+## Manage Campaign Product Profiles, tenants, and security groups {#section_09CDF75366444CF5810CF321B7C712F3}
 
 A *tenant* in Campaign displays as a *product* in the Admin Console Products page.
 
-*Security group* displays as a product profile.
+*Security group* displays as a Product Profile.
 
 See [Managing groups and users](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en) for information about security groups and assigning users to security groups.
 
 ## Manage Experience Platform Data Collection (Launch) {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) displays on the [!UICONTROL Products] page in the [!UICONTROL Admin Console]. You can include other applications and services in a Launch product profile.
+Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) displays on the [!UICONTROL Products] page in the [!UICONTROL Admin Console]. You can include other applications and services in a Launch Product Profile.
 
 Invite users to [!UICONTROL Platform Launch] and assign user roles and rights.
 
