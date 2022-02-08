@@ -26,15 +26,25 @@ For example, for an organization with Federated IDs and the domain `adobecustome
 
 ![Step Result](assets/organization-switch.png) 
 
-## Find your Organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
+## Find your organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
 
-You might need to locate your organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu. 
+You might need to locate your organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu.
 
-The **organization ID** is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) @AdobeOrg.
+The organization ID is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) `@AdobeOrg`.
 
-To view your Organization ID, navigate to the Experience Cloud landing page, or select ( ![](assets/menu-icon.png)), then select **[!UICONTROL Administration]**. You can find the organization ID on the bottom of the [!UICONTROL Getting Started with the Experience Cloud] page, or the [!UICONTROL Administration] page.
+You can view your organization ID, along with other account information, using a the keyboard shortcut **Ctrl+i** from any page at `https://experience.adobe.com`, then click the **[!UICONTROL Assigned Orgs]** tab in the dialog. 
 
-![](assets/administration-page.png) 
+![Assigned Organization ID](assets/assigned-organization.png) 
+
+Alternatively, administrators can log into the Admin Console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) and view your IMS org ID in the URL. 
+
+For example, in the following URL: 
+
+`https://adminconsole.adobe.com/C538193582390300A495CC9@AdobeOrg/overview` 
+
+The ID is: 
+
+`C538193582390300A495CC9@AdobeOrg`
 
 ## Link an application account to an Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
 
