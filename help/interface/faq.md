@@ -53,7 +53,7 @@ The functionality provided by the Experience Cloud interface adds new value to y
 
 [!DNL Adobe Support] can submit an impersonation request for which you receive an Adobe-branded email (example below) seeking your explicit authorization. The access is granted for a limited time. Once granted, the access can be revoked by you at any time. Adobe logs all actions taken by Adobe representatives.
 
-![](/help/interface/admin-getting-started/assets/support-email.png)
+![Adobe Support Case](assets/support-email.png)
 
 ## What is _provisioning?_
 
@@ -90,23 +90,11 @@ See [Manage user accounts](organizations.md#topic_C31CB834F109465A82ED57FF0563B3
 
 ## What is an organization?
 
-An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
+An [organization](organizations.md) is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
-## Where can I find my IMS Organization ID?
+## Where can I find my IMS organization ID?
 
-See [Finding your Organization ID](organizations.md). 
-
-The Organization ID is displayed on the Experience Cloud landing page and the [Admin Console landing page](https://adminconsole.adobe.com). 
-
-Alternatively, administrators can log into the Admin Console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) for a specific organization, and you are able to see your IMS org ID in the URL. 
-
-For example, in the following URL: 
-
-`https://adminconsole.adobe.com/C538193582390300A495CC9@AdobeOrg/overview` 
-
-The ID is: 
-
-`C538193582390300A495CC9@AdobeOrg`
+See [Finding your organization ID](organizations.md) for details.
 
 ## What should I do when one of my users leaves my company?
 
