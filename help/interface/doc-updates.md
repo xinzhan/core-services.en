@@ -14,6 +14,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Information about updates to the Experience Cloud product documentation.
 
+**Updated 2/8/2022**
+
+Updates to how you can find your [organization ID](organizations.md).
+
 **Updated 12/13/2021**
 
 Updated the [administration FAQ](faq.md) with information about how Adobe Support can access your Adobe cloud environment to troubleshoot an issue.
