@@ -27,10 +27,10 @@ See [Identity types on Adobe Admin Console](https://helpx.adobe.com/enterprise/u
 
 ### Migration process
 
-When it's time for your migration, organization administrators will receive a notification email 30 days prior to the migration. This email will include your migration date.
+When it's time for your migration, organization administrators will receive a notification email 30 days prior to the migration.
 
 * Migration will be scheduled between 10 p.m. – 6 a.m., based on organization’s primary time zone or on the weekend.
-* During the migration, Experience Cloud application may be inaccessible for up to 15 minutes and Admin Console may be inaccessible up to 30 minutes. Otherwise, this migration will be seamless.
+* During the migration, Experience Cloud application may be inaccessible for approximately 15 minutes and Admin Console may be inaccessible up to 30 minutes. Otherwise, this migration will be seamless.
 
 ### Changes after the migration
 
