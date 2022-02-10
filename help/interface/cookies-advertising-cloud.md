@@ -28,7 +28,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>IDs and time stamps (in the format yyyymmdd) of display selects</p> </td> 
+   <td colname="col2"> <p>IDs and time stamps (in the format yyyymmdd) of display clicks</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
@@ -36,7 +36,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Usage </p> </td> 
-   <td colname="col2"> <p>A third-party cookie used to determine if a select event on a display ad applies to an Adobe Analytics hit </p> </td> 
+   <td colname="col2"> <p>A third-party cookie used to determine if a click event on a display ad applies to an Adobe Analytics hit </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Location </p> </td> 
@@ -94,7 +94,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>The timestamps of the surfer's last visit to the advertiser’s website and the surfer's last search select, and the ef_id that was created when the user selected an ad</p> </td> 
+   <td colname="col2"> <p>The timestamps of the surfer's last visit to the advertiser’s website and the surfer's last search click, and the ef_id that was created when the user clicked an ad</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
