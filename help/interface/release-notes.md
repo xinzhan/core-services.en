@@ -18,6 +18,14 @@ For a list of documentation updates, see [Experience Cloud](doc-updates.md#conce
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
+## February - 2022
+
+| Feature | Description |
+| ------- |-------|
+|Shortcuts (**[!UICONTROL Recents]**) added to [Experience Cloud](https://experience.adobe.com/home) home |You can access shortcuts to your most recent Journey Optimizer and Experience Platform work under the new _Recents_ heading on the landing page. This update also includes general layout and responsiveness improvements.|
+|**[!UICONTROL Sandboxes]** moved to the header bar |The Sandboxes indicator is now integrated within the header for all Experience Platform interface applications. See [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html) in Experience Platform for more information.|
+
+
 ## November - 2021
 
 | Feature | Description |
