@@ -135,7 +135,8 @@ After the migration, users sign in using their Adobe ID (or Enterprise ID) and a
 
 **Related help**
 
-For more information, see [Analytics User ID Migration](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=en)
+* [Analytics in the Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en)
+* [Analytics User ID Migration](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=en)
 
 ## Manage Adobe Target - Product Profiles vs. workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
 
