@@ -72,7 +72,7 @@ Select the application selector ![](assets/menu-icon.png) to access Experience C
 
 ![Access Experience Cloud applications](assets/platform-core-services.png)
 
-## Search and support in Experience Cloud {#search}
+## Search and support in Experience Cloud {#search-support}
 
 Experience Cloud search allows you to search for help (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home). 
 
