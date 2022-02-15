@@ -99,18 +99,59 @@ The [!UICONTROL Help] menu also gives you access to:
 * **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
 
-## Globally search for objects and entities {#globally-search}
+## [!UICONTROL Unified Search] for objects and entities {#globally-search}
 
-The global search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects.
+The [!UICONTROL Unified Search] search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects.
 
 ![Globally search for objects and entities](assets/platform-search.png)
 
->[!NOTE]
->
->The global search is not available within all Experience Cloud applications, but as more content is indexed, it will be added to relevant applications. Availability as of July 2021:
+### Availability
 
-* Experience Platform
-* Journey Optimizer
+Unified search displays at the top of the page (in the Experience Cloud header) and is always visible for supported products, which currently are:
+
+* Experience Platform (AEP)
+* Journey Optimizer (AJO)
+
+As more content is indexed, this feature will be added to relevant applications.
+
+### Searchable objects and fields
+
+As you type, the matching top results from the Objects you have access to display.
+
+![Unified Search in Experience Cloud](assets/unified-search-results.png)
+
+Searchable business objects include:
+
+* Segments (Name, Description)
+* Schema (Name, Description)
+* Datasets (Name, Description)
+* Sources (Name, Description)
+* Destinations (Name, Description)
+* Queries (Name, Description)
+* Messages (Name, Description)
+* Offers (Name, Description)
+* Components (Name, Description)
+* Journeys (Name, Description)
+
+If a keyword matches a navigation page you can get quick access link to the navigation page example datasets.
+
+You also find the help articles from Experience League and Communities. Natural languages queries are supported. 
+
+For example, _How to create an schema_ produces results from Experience League under _[!UICONTROL Learning]_:
+
+![Unified Search in Experience Cloud Help](assets/unified-search-learning.png)
+
+Search algorithms display the most relevant records first. The order of results depends on several factors, such as:
+
+* User permissions to access objects
+* Matching percentage
+* Exact matches
+* The _[!UICONTROL Top Results]_ section shows the Top 30 results. 
+
+To refine your search, click one of the following:
+
+* **[!UICONTROL All Learning]**: Opens the search in Experience League
+* **[!UICONTROL Show all...]**: Lets you further refine and filter results
 
 ## User profile and account preferences {#preferences}
 
