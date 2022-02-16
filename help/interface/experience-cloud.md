@@ -150,8 +150,8 @@ Search algorithms display the most relevant records first. The order of results 
 
 To refine your search, click one of the following:
 
-* **[!UICONTROL All Learning]**: Opens the search in Experience League
-* **[!UICONTROL Show all...]**: Lets you further refine and filter results
+* **[!UICONTROL All Learning]**: Opens the search in Experience League.
+* **[!UICONTROL Show all...]**: Lets you further refine and filter results.
 
 ## User profile and account preferences {#preferences}
 
