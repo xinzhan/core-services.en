@@ -112,7 +112,7 @@ Unified search displays at the top of the page (in the Experience Cloud header) 
 * Experience Platform (AEP)
 * Journey Optimizer (AJO)
 
-As more content is indexed, this feature will be added to relevant applications.
+As more content is indexed, this feature is added to relevant applications.
 
 ### Searchable objects and fields
 
@@ -133,11 +133,11 @@ Searchable business objects include:
 * Components (Name, Description)
 * Journeys (Name, Description)
 
-If a keyword matches a navigation page you can get quick access link to the navigation page example datasets.
+If a keyword matches a navigation page, you can get quick access link to the navigation page example datasets.
 
 You also find the help articles from Experience League and Communities. Natural languages queries are supported. 
 
-For example, _How to create an schema_ produces results from Experience League under _[!UICONTROL Learning]_:
+For example, _How to create a schema_ produces results from Experience League under _[!UICONTROL Learning]_:
 
 ![Unified Search in Experience Cloud Help](assets/unified-search-learning.png)
 
@@ -223,7 +223,7 @@ Related Experience Cloud guides include:
 * [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en)
 * [Experience Platform Data Collection/Launch](https://experienceleague.adobe.com/docs/launch.html?lang=en)
 * [Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en)
-* [General Data Protection Regulation (GDPR) API](https://www.adobe.io/apis/experiencecloud/gdpr.html)
+* [General Data Protection Regulation (GDPR) API](https://developer.adobe.com/apis/experiencecloud/gdpr.html)
 * [[!UICONTROL Dynamic Tag Management]](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
 
 ## Tutorials
@@ -231,15 +231,15 @@ Related Experience Cloud guides include:
 Take advantage of self-help tutorials and quick how-tos in Experience League:
 
 * [All tutorials in Experience League](https://experienceleague.adobe.com/?lang=en#quick-how-tos)
-* [Experience Platform tutorials](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=en)
+* [Experience Platform tutorials](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en)
 * [Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/application-services/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=en)
 
 ## Release notes and related Experience Cloud help
 
 * [Product documentation for all Experience Cloud applications](https://experienceleague.adobe.com/docs/home.html?lang=en) - Browse for help at Experience Cloud Learn & Support
 * [Release notes and product updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) - What's new in the Experience Cloud, and subscribe to get updates
-* [Tutorials for implementing core services](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=en) - Explore videos and tutorials about core services
+* [Tutorials for implementing core services](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en) - Explore videos and tutorials about core services
 * [Expert help at Experience League](https://experienceleague.adobe.com/) - Get guided learning from experts and the community
 * [Education and training](https://helpx.adobe.com/learning.html?promoid=KAUDK) - Engage with Adobe to ensure that you get the most out of Adobe's products
-* [Customer Experience Blog](https://blog.adobe.com/en/topics/digital-transformation.html) - Read the Experience Cloud blog
+* [Customer Experience Blog](https://blog.adobe.com/en/topics/digital-transformation) - Read the Experience Cloud blog
 * [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support) - Contact Adobe Customer Care
