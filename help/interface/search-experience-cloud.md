@@ -88,14 +88,14 @@ The following features are available in Unified Search.
 
 {style="table-layout:auto"}
 
-## Not finding the expected result or getting too many results?
+## Can't find it?
 
 Try these tips:
 
 * Enter a more specific search term
 * Check the spelling
 * Try to write the complete search term
-* Make sure you have the permissions for the object, you are searching for
+* Make sure you have the permissions to objects you search for
 
 
 
