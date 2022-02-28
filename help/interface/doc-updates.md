@@ -14,6 +14,10 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 
 Information about updates to the Experience Cloud product documentation.
 
+**Updated 2/28/2022**
+
+Added a page for [Unified Search](search-experience-cloud.md)
+
 **Updated 2/8/2022**
 
 Updates to how you can find your [organization ID](organizations.md).

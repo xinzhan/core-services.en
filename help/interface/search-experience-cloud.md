@@ -1,5 +1,5 @@
 ---
-description: Learn about the unified search feature in Adobe Experience Cloud.
+description: Learn about Unified Search feature for certain applications in Experience Cloud.
 solution: Experience Cloud
 title: Experience Cloud Unified Search 
 index: yes
@@ -83,8 +83,8 @@ The following features are available in Unified Search.
 | Snippets | In the search response, you can see a snippet of the result. Snippets return the matching words and some content around the matching keywords. |
 | Stop Words | Some commonly used words in English are defined as _stop words_. If stop words are included in search query, less weight is given to them. <br>Stop words include: _a, an, and, are, as, at, be, but, by, for, if, in, into, is, it, no, not, of, on, or, such, that, the, their, then, there, these, they, this, to, was, will, with_. <br>Stop words are not supported in other global languages. |
 | Natural Language Queries | When you search for a help article or discussion from Experience League Communities, you can type your question using natural language and get the response. Example search: "How do I create a schema?" |
-| Exact Search in quotes | You can do an exact search by using quotation marks in the query. No typo correction is done on exact mach queries. For example: "Luma Journey 2022" |
-| Filters | User can apply filters like Object type and other object-specific filters on the full search results pop-up. When you press Enter after tying the search query, a full page pop-up opens that includes the filters.
+| Exact Search in quotes | You can do an exact search by using quotation marks in the query. No typo correction is done on exact mach queries. For example: "Luma Journey 2022". |
+| Filters | You can apply filters like _Object type_ and other object-specific filters on the full search results pop-up. When you press Enter after tying the search query, a full page pop-up opens that includes the filters.|
 
 {style="table-layout:auto"}
 
