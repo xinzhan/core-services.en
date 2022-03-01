@@ -11,7 +11,7 @@ level: Beginner
 
 # [!UICONTROL Unified Search] for objects and entities {#globally-search}
 
-The [!UICONTROL Unified Search] search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects.
+The [!UICONTROL Unified Search] search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects, too.
 
 ![Globally search for objects and entities](assets/platform-search.png)
 
@@ -40,16 +40,16 @@ Whether there is an exact match
 
 Searchable business objects include:
 
-* Segments (Name, Description)
-* Schema (Name, Description)
-* Datasets (Name, Description)
-* Sources (Name, Description)
-* Destinations (Name, Description)
-* Queries (Name, Description)
-* Messages (Name, Description)
-* Offers (Name, Description)
-* Components (Name, Description)
-* Journeys (Name, Description)
+* Segments (Name, Description, ID)
+* Schema (Name, Description, ID)
+* Datasets (Name, Description, ID)
+* Sources (Name, Description, ID)
+* Destinations (Name, Description, ID)
+* Queries (Name, Description, ID)
+* Messages (Name, Description, ID)
+* Offers (Name, Description, ID)
+* Components (Name, Description, ID)
+* Journeys (Name, Description, ID)
 
 If a keyword matches a navigation page, you can get quick access link to the navigation page example datasets. The top results section shows the Top 30 results.
 
