@@ -1,14 +1,14 @@
 ---
 description: Learn about Unified Search feature for certain applications in Experience Cloud.
 solution: Experience Cloud
-title: Experience Cloud Unified Search 
+title: Experience Cloud Unified Search
 index: yes
 feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Beginner
+exl-id: 70586f18-6f84-4308-bab3-1da7fab823d6
 ---
-
 # [!UICONTROL Unified Search] for objects and entities {#globally-search}
 
 The [!UICONTROL Unified Search] search enables you to find searchable business objects or entities in a seamless, consistent, one-click experience. This search surfaces your recently accessed objects, too.
@@ -96,14 +96,3 @@ Try these tips:
 * Check the spelling
 * Try to write the complete search term
 * Make sure you have the permissions to objects you search for
-
-
-
-
-
-
-
-
-
-
-
