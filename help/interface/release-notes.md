@@ -18,6 +18,12 @@ For a list of documentation updates, see [Experience Cloud](doc-updates.md#conce
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
+## March - 2022
+
+| Feature | Description |
+| ------- |-------|
+|Access [!UICONTROL Recents] across Experience Platform and Journey Optimizer through the search bar|Users can now access recently accessed objects from every page of AEP and AJO through the unified search bar.|
+
 ## February - 2022
 
 | Feature | Description |
