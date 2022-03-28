@@ -49,6 +49,8 @@ The toolbar provides quick access to features, including Search, Timeline, Rendi
 
 ![Access the toolbar](assets/asset-tools.png) 
 
+! Please note that in order to delete assets that were used or are being used in Target, you will need to remove all usages of said asset.
+
 ## Edit assets {#section_CD3C55A9D4574455B94D0955391C8FEC}
 
 Editing an asset enables features, including: 
