@@ -40,11 +40,10 @@ The following examples show you how to make DNS prefetch calls to different [!DN
 
 * **Dynamic Tag Manager** (DTM): Not required. DTM links are available when the page loads. 
 
-* **Media Optimizer (Advertising Cloud):** 
+* **Advertising Cloud:** 
 
-    * `<link rel="dns-prefetch" href="//pixel.everesttech.net">`    
-    * `<link rel="dns-prefetch" href="//cm.everesttechnet">`    
-    
+  * `<link rel="dns-prefetch" href="//pixel.everesttech.net">`    
+  * `<link rel="dns-prefetch" href="//cm.everesttechnet">`    
     
 * **[!DNL Target]:** `<link rel="dns-prefetch" href="//insert customer code here.tt.omtrdc.net">`
 

@@ -288,7 +288,7 @@ No information available
 
 **Fixes** 
 
-* Fixed an issue preventing single sign-on between the [!DNL Experience Cloud] and [!DNL Media Optimizer].
+* Fixed an issue preventing single sign-on between the [!DNL Experience Cloud] and [!DNL Advertising Cloud].
 
 **Known Issues** 
 
@@ -380,7 +380,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * Users are not able to share PowerPoint files on boards.
 * Group and entitlement changes made in User Management take effect only after a new login.
 * Some users might have issues uploading large file-types to Experience Cloud Assets.
-* Users might be missing links on their Experience Cloud cards from Media Optimizer.
+* Users might be missing links on their Experience Cloud cards from Advertising Cloud.
 * Some administrative users might experience issues linking their accounts after accepting an invitation to join the Experience Cloud.
 * Experience Cloud interface can reduce in performance when in parallel use by multiple users.
 * Some users are able to delete an out-of-date asset instead of receiving an error notification.
@@ -589,7 +589,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Fixes** 
 
 * [!DNL Experience Cloud] was not linking to [!DNL Adobe Target]. This issue occurred if the [!DNL Adobe Target] login can be used on multiple [!DNL Target] servers.
-* [!DNL Adobe Media Optimizer] was not creating users automatically when the user has been created in [!DNL Experience Cloud].
+* [!DNL Adobe Advertising Cloud] was not creating users automatically when the user has been created in [!DNL Experience Cloud].
 * Options in combo boxes used for adding new users temporarily disappeared while typing.
 * The Comments link on asset card view was not selectable.
 * After adding a custom tag to an asset, no other metadata changes were not persisting.
@@ -637,12 +637,12 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * Comments link on asset card view is not selectable.
 * Options in combo boxes for adding new users temporarily disappear while typing.
 * Logging in to the [!DNL Experience Cloud] takes longer than a second.
-* Data shared from [!DNL Media Optimizer] is misrepresented in the [!DNL Experience Cloud].
-* Adobe [!DNL Media Optimizer] does not create users automatically when user has been created in the [!DNL Experience Cloud].
+* Data shared from [!DNL Advertising Cloud] is misrepresented in the [!DNL Experience Cloud].
+* Adobe [!DNL Advertising Cloud] does not create users automatically when user has been created in the [!DNL Experience Cloud].
 * The [!DNL Experience Cloud] cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple [!DNL Target] servers.
 * [!DNL Experience Cloud] interface can slow down when in parallel use by many users.
 * [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
-* [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
+* [!DNL Adobe Advertising Cloud] simulation cards are not rendering correctly.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in [!DNL Experience Cloud].
 * Filters applied to trended reports from Analytics are not applied to cards in Experience Cloud.
 * Some Excel or CSV files cannot be uploaded to a board.
@@ -658,7 +658,7 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
 **Fixes** 
 
 * Added the ability to remove your avatar image.
-* Fixed an issue preventing you from unlinking your [!DNL Adobe Media Optimizer] accounts.
+* Fixed an issue preventing you from unlinking your [!DNL Adobe Advertising Cloud] accounts.
 
 **Known Issues** 
 
@@ -672,16 +672,16 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
 * Experience Cloud cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple Target servers.
 * Logging in to Experience Cloud takes longer than a second.
 * After adding a custom tag to an asset, no other metadata changes can be persisted.
-* [!DNL Adobe Media Optimizer] does not create users automatically when user has been created in Experience Cloud.
+* [!DNL Adobe Advertising Cloud] does not create users automatically when user has been created in Experience Cloud.
 * Options in combo boxes for adding new users temporarily disappear while typing.
-* Data shared from [!DNL Media Optimizer] is mis-represented in Experience Cloud.
+* Data shared from [!DNL Advertising Cloud] is mis-represented in Experience Cloud.
 * Sharing Flickr images fails.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in Experience Cloud.
 * Group and entitlement changes made in user management only take effect after a new login.
 * [!DNL Search&Promote] linking is not available from [!UICONTROL Organizations & Product Access].
 * Users have to refresh the board to make the deleted cards disappear from view.
 * Some Excel or CSV files cannot be uploaded to a board.
-* [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
+* [!DNL Adobe Advertising Cloud] simulation cards are not rendering correctly.
 * Some PNG files cannot be rendered on a card.
 * Beta feedback cannot be submitted.
 

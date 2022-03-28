@@ -11,7 +11,7 @@ exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
 ---
 # Overview of Experience Cloud Assets
 
-Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across applications. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have subassets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
+Experience Cloud Assets provide a single, centralized repository of marketing-ready assets that you can share across applications. An asset is a digital document, image, video, or audio (or part thereof) that can have multiple renditions and can have sub-assets (for example, layers in a [!DNL Photoshop] file, slides in a [!DNL PowerPoint] file, pages in a PDF, files in a ZIP).
 
 Asset services include: 
 
@@ -20,10 +20,9 @@ Asset services include:
 
 Using assets improves consistency and brand compliance, and speeds time to market. You can streamline workflows in applications: 
 
-* **[!DNL Social]**: Publish to social properties, Facebook, Twitter, LinkedIn, Google+
-* **[!DNL Target]**: Create experiences for A/B and multivariate tests.
-* **[!DNL Media Optimizer]**: Develop ad units across different channels and campaigns
-* **[!DNL Campaign]**: Place assets into email newsletters and campaigns.
+* **[!DNL Adobe Target]**: Create experiences for A/B and multivariate tests.
+* **[!DNL Ad Cloud]**: Develop ad units across different channels and campaigns
+* **[!DNL Adobe Campaign]**: Place assets into email newsletters and campaigns.
 
 In [!UICONTROL Experience Cloud Assets], you can:
 
@@ -49,7 +48,9 @@ The toolbar provides quick access to features, including Search, Timeline, Rendi
 
 ![Access the toolbar](assets/asset-tools.png) 
 
-! Please note that in order to delete assets that were used or are being used in Target, you will need to remove all usages of said asset.
+>[!NOTE]
+>
+>Assets must be removed from Adobe Target activities before you can successfully delete them from [!DNL Target].
 
 ## Edit assets {#section_CD3C55A9D4574455B94D0955391C8FEC}
 

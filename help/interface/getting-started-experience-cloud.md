@@ -93,7 +93,7 @@ You can sort the Notifications display based on the message types that are impor
 </ul> 
 <p> <b>Adobe Target</b> </p> 
 <p>Test started or stopped </p> 
-<p> <b>Media Optimizer</b> </p> 
+<p> <b>Advertising Cloud</b> </p> 
 <p>Performance alerts </p> 
 <p> <b>Dynamic Tag Manager</b> </p> 
 <ul id="ul_9ACDA418933E40918744D9C32A57DD4B"> 
