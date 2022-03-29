@@ -35,4 +35,4 @@ This help describes the following products and services:
 
 >[!NOTE]
 >
->Product documentation for Experience Platform is located [here](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=en). Technical documentation for [!UICONTROL Experience Platform] developers is found on [Adobe.io](https://www.adobe.io/apis/experienceplatform/home/services.html).
+>Product documentation for Experience Platform is located [here](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=en). Technical documentation for [!UICONTROL Experience Platform] developers is found on [Adobe Developer](https://developer.adobe.com/apis).
