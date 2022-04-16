@@ -46,13 +46,12 @@ Here is how you implement a new first-party SSL certificate for first-party data
 
 2. Create CNAME records (see instructions below).
 
-    Upon receiving the ticket, a customer care representative should provide you with a  CNAME record. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAME is similar to the following: 
+    Upon receiving the ticket, a customer care representative should provide you with a CNAME record. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAME is similar to the following: 
 
     **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.adobedc.net`.
 
 >[!NOTE]
-> In the past, Adobe recommended that customers setup two CNAME one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic and most browsers are strongly discouraging HTTP we no longer recommend setting up a CNAME for HTTP. If you need to, it would look like this: 
->    **Non-secure** -- the hostname `metrics.example.com` points to: `example.com.adobedc.net`.  
+> In the past, Adobe recommended that customers setup two CNAME, one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic and most browsers are strongly discouraging HTTP, we no longer recommend setting up a CNAME for HTTP. If you need to configure your CNAME for HTTP, please reach out to Adobe Customer Care. 
 
 1. When the CNAME is in place, Adobe works with DigiCert to purchase and install a certificate on Adobe's production servers.
 
