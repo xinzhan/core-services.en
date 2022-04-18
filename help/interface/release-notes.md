@@ -18,6 +18,14 @@ For a list of documentation updates, see [Experience Cloud](doc-updates.md#conce
 
 For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
 
+## April - 2022
+
+| Feature | Description |
+| ------- |-------|
+|Natural language search|Get instant answers to all your help questions, through one single interface via Unified Search. This feature is always available to you on every page of [!DNL Experience Platform] and [!DNL Journey Optimizer].|
+
+{style="table-layout:auto"}
+
 ## March - 2022
 
 | Feature | Description |
