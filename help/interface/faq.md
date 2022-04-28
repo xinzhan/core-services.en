@@ -94,7 +94,7 @@ An [organization](organizations.md) is the entity that enables an administrator 
 
 ## Where can I find my IMS organization ID?
 
-See [Finding your organization ID](organizations.md) for details.
+See [View your organization ID](organizations.md) for details.
 
 ## What should I do when one of my users leaves my company?
 

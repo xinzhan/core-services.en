@@ -26,25 +26,35 @@ For example, for an organization with Federated IDs and the domain `adobecustome
 
 ![Step Result](assets/organization-switch.png) 
 
-## Find your organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
+## View your organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
 
-You might need to locate your organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu.
+You might need to locate your assigned organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu.
 
 The organization ID is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) `@AdobeOrg`.
 
-You can view your organization ID, along with other account information, using a the keyboard shortcut **Ctrl+i** from any page at `https://experience.adobe.com`, then click the **[!UICONTROL Assigned Orgs]** tab in the dialog. 
+You can view your organization ID, along with other account information, using a the keyboard shortcut **Ctrl+i** from any page at `https://experience.adobe.com`.
 
-![Assigned Organization ID](assets/assigned-organization.png) 
+**To view your organization ID**
 
-Alternatively, administrators can log into the Admin Console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) and view your IMS org ID in the URL. 
+1. In [Experience Cloud](https://experience.adobe.com.), press **Ctrl+i** on your keyboard.
 
-For example, in the following URL: 
+   ![Assigned Organization ID](assets/assigned-organization.png) 
 
-`https://adminconsole.adobe.com/C538193582390300A495CC9@AdobeOrg/overview` 
+1. Click the **[!UICONTROL Assigned Orgs]** tab in the dialog.
 
-The ID is: 
+1. Click your organization name.
 
-`C538193582390300A495CC9@AdobeOrg`
+1. Look for **[!UICONTROL ID]**.
+
+   Alternatively, administrators can log into the Admin Console (Navigate to [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) and view your organization ID in the URL. 
+
+   For example, in the following URL: 
+
+   `https://adminconsole.adobe.com/C538193582390300A495CC9@AdobeOrg/overview` 
+
+   The ID is: 
+
+   `C538193582390300A495CC9@AdobeOrg`
 
 ## Link an application account to an Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
 

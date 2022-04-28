@@ -29,11 +29,11 @@ To make requests to access and delete data for [!UICONTROL Customer Attributes],
 
 1. Identify the following:
 
-   * IMS Org ID
+   * [Organization ID](#organizations.md)
    * Alias ID of CRS Data Source you want to act on
    * CRM ID of the profile you want to act on
 
-   An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, contact Adobe Customer Care at gdprsupport@adobe.com. You need the IMS Org ID to submit requests to the Privacy API.
+   Your [organization ID](#organizations.md) is a 24-character alphanumeric string appended with @AdobeOrg. You need the organization's ID to submit requests to the Privacy API. Contact Adobe Customer Care at `gdprsupport@adobe.com` if you cannot locate the ID.
 
 1. In [!UICONTROL Privacy Service], you can submit Access and Delete requests to Customer Attributes, and check the status of existing requests.
 
