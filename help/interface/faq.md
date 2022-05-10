@@ -110,7 +110,4 @@ No. Users must link their own applications with their user names and passwords.
 
 ## Why do I see Social when my company does not have it?
 
->[!EXAMPLE]
->
->Adobe Social is a product that can be sold with Analytics. Therefore, if you have Analytics you will see this application, but you will not have access unless you have purchased it.
-
+Adobe Social is a product that can be sold with Analytics. Therefore, if you have Analytics you will see this application, but you will not have access unless you have purchased it.
