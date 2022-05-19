@@ -24,7 +24,7 @@ If you would like to ensure your collection server matches your site’s domain,
 
 >[!NOTE]
 >
->Regardless of whether your collection domain matches your site domain, Apple’s Intelligent Tracking Prevention (ITP) program makes the first-party cookies set by Adboe short-lived on browsers that are governed by ITP, which include Safari on macOS and all browsers on iOS and iPadOS. As of November 2020, cookies set via CNAME also have the same expiry as cookies set via JavaScript. This expiry is subject to change.
+>Regardless of whether your collection domain matches your site domain, Apple’s Intelligent Tracking Prevention (ITP) program makes the first-party cookies set by Adobe short-lived on browsers that are governed by ITP, which include Safari on macOS and all browsers on iOS and iPadOS. As of November 2020, cookies set via CNAME also have the same expiry as cookies set via JavaScript. This expiry is subject to change.
 
 If you want to establish a CNAME for data collection and if your site has secure pages using the HTTPS protocol, you can work with Adobe to obtain an SSL certificate.
 
