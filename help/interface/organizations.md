@@ -1,5 +1,5 @@
 ---
-description: Learn about organizations and linking solution accounts to Experience Cloud.
+description: Learn about organizations (IMS organization ID) and linking solution accounts to Experience Cloud.
 keywords: Adobe Experience Cloud services
 solution: Experience Cloud
 title: Organizations and account linking 
@@ -16,7 +16,7 @@ Learn about managing and switching organizations in Experience Cloud.
 
 ## Identify your organization {#concept_384D169B0B724B799D573B8ECB5C39BF}
 
-An *organization* is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
+An *organization* (IMS organization ID) is the entity that enables an administrator to configure groups and users, and to control single sign-on in the Experience Cloud. The organization functions like a log-in company that spans all the Experience Cloud products and applications. Most often, an organization is your company name. However, a company can have many organizations. 
 
 To verify that you have logged in to your correct organization, click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
 
@@ -26,7 +26,7 @@ For example, for an organization with Federated IDs and the domain `adobecustome
 
 ![Step Result](assets/organization-switch.png) 
 
-## View your organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
+## View your IMS organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
 
 You might need to locate your assigned organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu.
 
@@ -34,7 +34,7 @@ The organization ID is the ID associated with your provisioned Experience Cloud 
 
 You can view your organization ID, along with other account information, using a the keyboard shortcut **Ctrl+i** from any page at `https://experience.adobe.com`.
 
-**To view your organization ID**
+**To view your IMS organization ID**
 
 1. In [Experience Cloud](https://experience.adobe.com.), press **Ctrl+i** on your keyboard.
 
