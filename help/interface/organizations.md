@@ -36,7 +36,7 @@ You can view your organization ID, along with other account information, using a
 
 **To view your organization ID**
 
-1. In [Experience Cloud](https://experience.adobe.com.), press **Ctrl+i** on your keyboard.
+1. In [Experience Cloud](https://experience.adobe.com), press **Ctrl+i** on your keyboard.
 
    ![Assigned Organization ID](assets/assigned-organization.png) 
 
