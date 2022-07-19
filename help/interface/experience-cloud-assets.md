@@ -34,7 +34,6 @@ In [!UICONTROL Experience Cloud Assets], you can:
 * [View Full-Screen Assets, and Zoom](experience-cloud-assets.md#section_A9F50D7D6BE341A2AB8244A4E42A4EF7)
 * [View Asset Properties](experience-cloud-assets.md#section_FED28711DAB14E1BBEEA7CA890EE9573)
 * [Run Usage reports](experience-cloud-assets.md#section_15D782FFB8D74CF4A735116CC03AD902)
-* [Asset Sharing with Experience Manager](experience-cloud-assets.md#section_45C1B72F4D274F54BC6CCB64D2580AC5)
 
 ## Navigate to Experience Cloud Assets {#section_3657039DD3524F2AA88753BFF4781125}
 
